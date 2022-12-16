@@ -1157,8 +1157,9 @@
 
   &--hard {
     &::before {
-      background-image: url(/arquivos/Rigido.jpg);
+      background-image: url(/arquivos/rigido.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1349,11 +1350,12 @@
 
   &--bags {
     &::before {
-      background-image: url(/arquivos/Mala.jpg);
+      background-image: url(/arquivos/mala.jpg); 
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
