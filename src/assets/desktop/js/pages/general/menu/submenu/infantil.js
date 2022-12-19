@@ -3,7 +3,7 @@ const html = String.raw
 export default function () {
   return html`
     <div class=submenuWrapper>
-      <ul class="submenu submenu--departments">
+      <ul class="submenu submenu--departments infantil">
 
         <!-- [ INICIO ] COLUNA 01 -->
         <li class="submenu__item submenu__item--col1">
@@ -84,11 +84,15 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 02 -->
         <li class="submenu__item submenu__item--col2">
-          <div class="submenu__item__heading">Mochila</div>
+          <div class="submenu__item__heading">
+            <a href="/mochila/Infantil?map=c,specificationFilter_107">
+              Mochila
+            </a>
+          </div>
           <div class="submenu__scroll__container">
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
@@ -165,12 +169,16 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 03 -->
         <li class="submenu__item submenu__item--col3">
-          <div class="submenu__item__heading">Lancheira</div>
+          <div class="submenu__item__heading">
+            <a href="/Lancheira/Infantil?map=c,specificationFilter_107">
+              Lancheira
+            </a>
+          </div>
           <div class="submenu__scroll__container">
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
@@ -230,12 +238,16 @@ export default function () {
         <!-- [ INÍCIO ] COLUNA 04 -->
         <li class="submenu__item submenu__item--col4">
 
-          <div class="submenu__item__heading">Estojos</div>
+          <div class="submenu__item__heading">
+            <a href="/Estojo/Infantil?map=c,specificationFilter_107">
+              Estojos
+            </a>
+          </div>
           <div class="submenu__scroll__container">
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
@@ -309,7 +321,7 @@ export default function () {
                 title="Filtrar por: Malinha">Malinha</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--hard" href="/mala?map=c"
+              <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
                 title="Filtrar por: Malas">Malas</a>
             </li>
             <li class="submenu__list__item">

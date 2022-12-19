@@ -1163,6 +1163,13 @@
     }
   }
 
+  &--suitcase {
+    &::before { 
+      background-image: url(/arquivos/malas.jpg);
+      background-size: contain;
+    }
+  }
+
   &--backpack-nylon,
   &--nylon {
     &::before {
@@ -1350,7 +1357,7 @@
 
   &--bags {
     &::before {
-      background-image: url(/arquivos/mala.jpg); 
+      background-image: url(/arquivos/malas.jpg); 
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1757,3 +1764,35 @@
     height: 100%;
   }
 }
+
+/* ajuste para cada seção do menu */
+
+/* infantil */
+.submenu.infantil .submenu__item--col2 {
+  width: 249px;
+}
+.submenu.infantil .submenu__item--col4 {
+  width: 249px;
+}
+
+/* juvenil */
+.submenu.juvenil .submenu__item--col2 {
+  width: 249px;
+}
+.submenu.juvenil .submenu__item--col3 {
+  width: 249px;
+}
+.submenu.juvenil .submenu__item--col4 {
+  width: 249px;
+}
+/* executivo */
+.submenu.executivo .submenu__item--col2 {
+  width: 249px;
+}
+.submenu.executivo .submenu__item--col3 {
+  width: 276px;
+}
+.submenu.executivo .submenu__item--col4 {
+  width: 249px;
+}
+

@@ -3,7 +3,7 @@ const html = String.raw
 export default function () {
   return html`
     <div class=submenuWrapper>
-      <ul class="submenu">
+      <ul class="submenu bolsas">
 
         <!-- [ INICIO ] COLUNA 01 -->
         <li class="submenu__item submenu__item--col1">
@@ -213,7 +213,7 @@ export default function () {
                   title="Filtrar por: Sacola">Sacola</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--hard" href="/mala?map=c"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
                   title="Filtrar por: Mala">Mala</a>
               </li>
               <li class="submenu__list__item">

@@ -214,7 +214,7 @@ export default function () {
                   title="Filtrar por: Bolsas">Bolsas</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--hard" href="/mala?map=c"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
                   title="Filtrar por: Malas">Malas</a>
               </li>
               <li class="submenu__list__item">

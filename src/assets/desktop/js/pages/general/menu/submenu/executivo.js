@@ -3,7 +3,7 @@ const html = String.raw
 export default function () {
   return html`
     <div class=submenuWrapper>
-      <ul class="submenu submenu--departments">
+      <ul class="submenu submenu--departments executivo">
 
         <!-- [ INICIO ] COLUNA 01 -->
         <li class="submenu__item submenu__item--col1">
@@ -114,7 +114,11 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 02 -->
         <li class="submenu__item submenu__item--col2">
-          <div class="submenu__item__heading">Mochila</div>
+          <div class="submenu__item__heading">
+            <a href="/mochila/Executiva?map=c,specificationFilter_106">
+              Mochila
+            </a>
+          </div>
           <div class="submenu__scroll__container">
 
             <div class="submenu__itemWrapper">
@@ -159,8 +163,8 @@ export default function () {
             </div>
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
@@ -237,7 +241,11 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 03 -->
         <li class="submenu__item submenu__item--col3">
-          <div class="submenu__item__heading">Pasta</div>
+          <div class="submenu__item__heading">
+            <a href="/pasta/Executiva?map=c,specificationFilter_106">
+              Pasta
+            </a>
+          </div>
           <div class="submenu__scroll__container">
 
             <div class="submenu__itemWrapper">
@@ -272,8 +280,8 @@ export default function () {
             </div>
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
@@ -350,7 +358,11 @@ export default function () {
         <li class="submenu__item submenu__item--col4">
 
           <!--[ INÍCIO ] POR TOM DE CORES -->
-          <div class="submenu__item__heading">Necessaire</div>
+          <div class="submenu__item__heading">
+            <a href="/Acessorios/necessaire/Executiva?map=c,c,specificationFilter_106">
+              Necessaire
+            </a>
+          </div>
           <div class="submenu__scroll__container">
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
@@ -380,8 +392,8 @@ export default function () {
             <!-- [ FIM ] POR TOM DE CORES -->
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Gênero
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
               </div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
