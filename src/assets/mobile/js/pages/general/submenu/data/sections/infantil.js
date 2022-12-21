@@ -254,11 +254,11 @@ export const infantil__content = {
         "imgSrc": "/arquivos/Estojo.jpg",
         "url": ""
       },*/
-      {
+      /*{
         "seeToo": "Maternidade",
         "imgSrc": "/arquivos/Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,specificationFilter_110"
-      },
+      },*/
       {
         "seeToo": "Sacola",
         "imgSrc": "/arquivos/Sacola2.jpg",

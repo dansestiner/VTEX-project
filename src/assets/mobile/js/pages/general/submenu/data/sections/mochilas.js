@@ -343,11 +343,11 @@ export const mochilas__content = {
         "imgSrc": "/arquivos/Pastas.jpg",
         "url": "/Pasta?map=c"
       },
-      {
+      /*{
         "seeToo": "Maternidade",
         "imgSrc": "/arquivos/Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
-      },
+      },*/
       {
         "seeToo": "Fichário",
         "imgSrc": "/arquivos/Fichario.jpg",

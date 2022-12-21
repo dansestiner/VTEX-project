@@ -40,12 +40,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/bolsa/Maternidade?map=c,c">Maternidade</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/bolsa-Maternidade.jpg" width="250px" height="588px" alt="Categoria Maternidade" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Mini%20Bag?map=c,c">Mini Bag</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/mini-bag.jpg" width="250px" height="588px" alt="Categoria Mini Bag" />

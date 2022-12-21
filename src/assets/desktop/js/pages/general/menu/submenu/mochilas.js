@@ -338,10 +338,6 @@ export default function () {
                   href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--maternity"
-                  href="/bolsa/Maternidade?map=c,c" title="Filtrar por: Maternidade">Maternidade</a>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fichario"
                   href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
               </li>

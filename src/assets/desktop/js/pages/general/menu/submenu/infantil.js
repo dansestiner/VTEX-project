@@ -309,10 +309,6 @@ export default function () {
           </div>
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--maternity"
-                href="/bolsa/Maternidade?map=c,specificationFilter_110" title="Filtrar por: Maternidade">Maternidade</a>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--satchel" href="/Sacola?map=c"
                 title="Filtrar por: Sacola">Sacola</a>
             </li>

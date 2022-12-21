@@ -27,11 +27,11 @@ export const bolsas__content = {
         "imgSrc": "/arquivos/hobo.jpg",
         "url": "/bolsa/Hobo?map=c,c"
       },
-      {
+      /*{
         "categories": "Maternidade",
         "imgSrc": "/arquivos/bolsa-Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
-      },
+      },*/
       {
         "categories": "Mini Bag",
         "imgSrc": "/arquivos/mini-bag.jpg",

@@ -243,10 +243,6 @@ export default function () {
                   title="Filtrar por: Malinha">Malinha</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--maternity" href="/bolsa/Maternidade?map=c,c"
-                  title="Filtrar por: Maternidade">Maternidade</a>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels" href="/mochila/2%20Rodinhas?map=c,specificationFilter_57"
                   title="Filtrar por: Mochila com rodas">Mochila com rodas</a>
               </li>

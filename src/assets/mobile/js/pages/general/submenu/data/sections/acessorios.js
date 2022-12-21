@@ -230,11 +230,11 @@ export const acessorios__content = {
         "imgSrc": "/arquivos/Malinha.jpg",
         "url": "/mala/escolar?map=c,c"
       },
-      {
+      /*{
         "seeToo": "Maternidade",
         "imgSrc": "/arquivos/Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
-      },
+      },*/
       {
         "seeToo": "Mochila com Rodas",
         "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
