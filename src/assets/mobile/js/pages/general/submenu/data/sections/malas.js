@@ -43,9 +43,9 @@ export const malas__content = {
         "url": "/mala/London?map=c,specificationFilter_110"
       },
       {
-        "collection": "Milao",
+        "collection": "Milão",
         "imgSrc": "/arquivos/Milao.jpg",
-        "url": "/mala/Milao?map=c,specificationFilter_110"
+        "url": "/mala/Milão?map=c,specificationFilter_110"
       },
       {
         "collection": "Montreal",
@@ -189,7 +189,7 @@ export const malas__content = {
         {
           "size": "Grande",
           "imgSrc": "/arquivos/Grande.png",
-          "url": "/mala/vaigem/Grande?map=c,c,c"
+          "url": "/mala/viagem/Grande?map=c,c,c"
         }
       ]
   },
@@ -200,12 +200,12 @@ export const malas__content = {
       {
         "material": "Tecido/soft",
         "imgSrc": "/arquivos/soft.jpg",
-        "url": "/mala/Tecido%20soft?map=c,specificationFilter_72"
+        "url": "/mala/Soft-Tecido?map=c,specificationFilter_66"
       },
       {
         "material": "Rígida",
         "imgSrc": "/arquivos/Rigido.jpg",
-        "url": "/mala/Rigida?map=c,specificationFilter_72"
+        "url": "/mala/Rígida?map=c,specificationFilter_66"
       }
     ]
   },
@@ -221,17 +221,17 @@ export const malas__content = {
       {
         "mobility": "4 Rodinhas",
         "imgSrc": "/arquivos/4-rodas.png",
-        "url": "/mala/4%20Rodinhas?map=c,specificationFilter_57"
+        "url": "/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodinhas duplas",
         "imgSrc": "/arquivos/8-rodas.png",
-        "url": "/mala/8%20Rodinhas?map=c,specificationFilter_57"
+        "url": "/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "Rodas retráteis",
         "imgSrc": "/arquivos/Roda-retratil.png",
-        "url": "/mala/Rodas%20retrateis?map=c,specificationFilter_57"
+        "url": "/mala/Rodas%20Retráteis?map=c,specificationFilter_57"
       }
     ]
   },
@@ -328,7 +328,7 @@ export const malas__content = {
       {
         "gender": "Do seu jeito",
         "imgSrc": "/arquivos/M_ParaTodos.jpg",
-        "url": "/mala/Do%20seu%20jeito?map=c,specificationFilter_67"
+        "url": "/mala?map=c"
       }
     ]
   },
@@ -339,12 +339,12 @@ export const malas__content = {
       {
         "padlock": "TSA",
         "imgSrc": "/arquivos/logo-TSA.jpg",
-        "url": "/mala/TSA%20FIXO?map=c,specificationFilter_70"
+        "url": "/mala/TSA%20Fixo?map=c,specificationFilter_70"
       },
       {
         "padlock": "FIXO",
         "imgSrc": "/arquivos/Fixo.jpg",
-        "url": "/mala/FIXO?map=c,specificationFilter_70"
+        "url": "/mala/Fixo?map=c,specificationFilter_70"
       }
     ]
   },

@@ -184,7 +184,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay-acessories"
-                  href="/acessorios/Do%20seu%20jeito?map=c,specificationFilter_67" title="Filtrar por: Para Todos">Para
+                  href="/acessorios?map=c" title="Filtrar por: Para Todos">Para
                   Todos</a>
               </li>
               <li class="submenu__list__item">
@@ -227,7 +227,7 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
-                  href="/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_106"
+                  href="/acessorios/Pochete?map=c,c#1"
                   title="Filtrar por: Pochete">Pochete</a>
               </li>
               <li class="submenu__list__item">
@@ -247,11 +247,10 @@ export default function () {
                   title="Filtrar por: Maternidade">Maternidade</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels" href="/bolsa/Maternidade?map=c,c"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels" href="/mochila/2%20Rodinhas?map=c,specificationFilter_57"
                   title="Filtrar por: Mochila com rodas">Mochila com rodas</a>
               </li>
             </ul>
-
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
         </li>

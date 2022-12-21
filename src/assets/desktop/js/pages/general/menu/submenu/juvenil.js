@@ -70,7 +70,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/Juvenil?map=specificationFilter_106">Ver todos os Produtos</a>
+              <a class="submenu__itemLink" href="/426?map=productClusterIds">Ver todos os Produtos</a>
             </li>
           </ul>
         </li>
@@ -101,11 +101,6 @@ export default function () {
                   <a class="submenu__itemLink--color submenu__itemLink--blue"
                     href="/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
                     title="Filtrar por: Cor azul">Azul</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--white"
-                    href="/mochila/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor branca">Branco</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--gray"
@@ -387,11 +382,6 @@ export default function () {
                     title="Filtrar por: Cor laranja">Laranja</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--brown"
-                    href="/Estojo/Marrom/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                    title="Filtrar por: Cor marrom">Marrom</a>
-                </li>
-                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--black"
                     href="/Estojo/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
                     title="Filtrar por: Cor preta">Preto</a>
@@ -487,7 +477,7 @@ export default function () {
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--purses"
-                href="/bolsa/Juvenil?map=c,specificationFilter_106" title="Filtrar por: Bolsa">Bolsa</a>
+                href="/bolsa/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Bolsa">Bolsa</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--sports"
@@ -508,7 +498,7 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
-                href="/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_106" title="Filtrar por: Pochete">Pochete</a>
+                href="/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_107" title="Filtrar por: Pochete">Pochete</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"

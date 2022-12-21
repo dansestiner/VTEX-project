@@ -187,7 +187,7 @@ export const acessorios__content = {
       {
         "gender": "Do seu jeito",
         "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
-        "url": "/acessorios/Do%20seu%20jeito?map=c,specificationFilter_67"
+        "url": "/acessorios?map=c"
       }
     ]
   },
@@ -218,7 +218,7 @@ export const acessorios__content = {
       {
         "seeToo": "Pochete",
         "imgSrc": "/arquivos/Pochete1.jpg",
-        "url": "/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_106"
+        "url": "/acessorios/Pochete?map=c,c#1"
       },
       {
         "seeToo": "Fichário",

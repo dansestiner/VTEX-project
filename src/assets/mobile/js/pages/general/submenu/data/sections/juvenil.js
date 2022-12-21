@@ -30,7 +30,7 @@ export const juvenil__content = {
       {
         "collections": "Fit",
         "imgSrc": "/arquivos/Fit.jpg",
-        "url": "/Fit?map=specificationFilter_110/"
+        "url": "/Fit?map=specificationFilter_110"
       },
       {
         "collections": "Focuz",
@@ -55,7 +55,7 @@ export const juvenil__content = {
       {
         "collections": "Ver todos os Produtos",
         "imgSrc": "",
-        "url": "/Juvenil?map=specificationFilter_106"
+        "url": "/426?map=productClusterIds"
       }
     ]
   },
@@ -80,11 +80,6 @@ export const juvenil__content = {
         "url": "/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
       {
-        "perColor__mochila": "Branco",
-        "hexCode": "white;",
-        "url": "/mochila/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
-      {
         "perColor__mochila": "Cinza",
         "hexCode": "#d8d8d8;",
         "url": "/mochila/Cinza/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
@@ -99,11 +94,11 @@ export const juvenil__content = {
         "hexCode": "orange;",
         "url": "/mochila/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__mochila": "Marrom",
         "hexCode": "#644908;",
         "url": "/mochila/Marrom/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-      },
+      },*/
       {
         "perColor__mochila": "Preto",
         "hexCode": "black;",
@@ -128,12 +123,12 @@ export const juvenil__content = {
         "perColor__mochila": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/mochila/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
-      {
+      }
+      /*{
         "perColor__mochila": "Vinho",
         "hexCode": "#8e0c0c;",
         "url": "/mochila/Vinho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      }
+      }*/
     ]
   },
 
@@ -226,11 +221,11 @@ export const juvenil__content = {
         "hexCode": "#0e45f5;",
         "url": "/Lancheira/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__lancheira": "Branco",
         "hexCode": "white;",
         "url": "/Lancheira/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
+      },*/
       {
         "perColor__lancheira": "Cinza",
         "hexCode": "#d8d8d8;",
@@ -246,11 +241,11 @@ export const juvenil__content = {
         "hexCode": "orange;",
         "url": "/Lancheira/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__lancheira": "Marrom",
         "hexCode": "#644908;",
         "url": "/Lancheira/Marrom/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-      },
+      },*/
       {
         "perColor__lancheira": "Preto",
         "hexCode": "black;",
@@ -275,12 +270,12 @@ export const juvenil__content = {
         "perColor__lancheira": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/Lancheira/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
-      {
+      }
+      /*{
         "perColor__lancheira": "Vinho",
         "hexCode": "#8e0c0c;",
         "url": "/Lancheira/Vinho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      }
+      }*/
     ]
   },
 
@@ -361,11 +356,11 @@ export const juvenil__content = {
         "hexCode": "white;",
         "url": "/Estojo/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__acessorio": "Cinza",
-        "hexCode": "#d8d8d8;",
+        "hexCode": "#d8d8d8;", 
         "url": "/Estojo/Cinza,Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-      },
+      },*/
       {
         "perColor__acessorio": "Dourado",
         "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
@@ -375,11 +370,6 @@ export const juvenil__content = {
         "perColor__acessorio": "Laranja",
         "hexCode": "orange;",
         "url": "/Estojo/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
-      {
-        "perColor__acessorio": "Marrom",
-        "hexCode": "#644908;",
-        "url": "/Estojo/Marrom/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
       },
       {
         "perColor__acessorio": "Preto",
@@ -406,11 +396,11 @@ export const juvenil__content = {
         "hexCode": "#e31a1a;",
         "url": "/Estojo/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__acessorio": "Vinho",
         "hexCode": "#8e0c0c;",
         "url": "/Estojo/Vinho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      }
+      }*/
     ]
   },
 
@@ -495,13 +485,13 @@ export const juvenil__content = {
       {
         "seeToo": "Bolsa",
         "imgSrc": "/arquivos/Bolsa.jpg",
-        "url": "/bolsa/Juvenil?map=c,specificationFilter_106"
+        "url": "/bolsa/Juvenil?map=c,specificationFilter_107"
       },
-      {
+      /*{
         "seeToo": "Estojo",
         "imgSrc": "/arquivos/Estojo-1.jpg",
         "url": "/Estojo/Juvenil?map=c,specificationFilter_106"
-      },
+      },*/
       {
         "seeToo": "Esportivo",
         "imgSrc": "/arquivos/Esportivo.jpg",
@@ -510,22 +500,22 @@ export const juvenil__content = {
       {
         "seeToo": "Sacola",
         "imgSrc": "/arquivos/Sacola2.jpg",
-        "url": "/Sacola/Juvenil?map=c,specificationFilter_106"
+        "url": "/Sacola/Juvenil?map=c,specificationFilter_107"
       },
       {
         "seeToo": "Mala",
         "imgSrc": "/arquivos/Mala.jpg",
-        "url": "/mala/Juvenil?map=c,specificationFilter_106"
+        "url": "/mala/Juvenil?map=c,specificationFilter_107"
       },
       {
         "seeToo": "Necessaire",
         "imgSrc": "/arquivos/Necesser.jpg",
-        "url": "/acessorios/Necessaire/Juvenil?map=c,c,specificationFilter_106"
+        "url": "/acessorios/Necessaire/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Pochete",
         "imgSrc": "/arquivos/Pochete1.jpg",
-        "url": "/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_106"
+        "url": "/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Acessórios",
@@ -535,7 +525,7 @@ export const juvenil__content = {
       {
         "seeToo": "Fichário",
         "imgSrc": "/arquivos/Fichario.jpg",
-        "url": "/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_106"
+        "url": "/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Carteira",

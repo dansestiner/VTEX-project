@@ -230,6 +230,10 @@ export default function () {
                   href="/mochila/Amarelo?map=c,specificationFilter_42" title="Filtrar por: Cor amarelo">Amarelo</a>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--orange"
+                  href="/mochila/Laranja?map=c,specificationFilter_42 " title="Filtrar por: Cor laranja">Laranja</a>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--brown"
                   href="/mochila/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
               </li>

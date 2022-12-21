@@ -22,11 +22,11 @@ export const executivo__content = {
         "imgSrc": "/arquivos/Harvest.jpg",
         "url": "/Harvest?map=specificationFilter_110"
       },
-      {
+      /*{
         "collections": "Job",
         "imgSrc": "/arquivos/Job.jpg",
         "url": "/Job?map=specificationFilter_110"
-      },
+      },*/
       {
         "collections": "Liv",
         "imgSrc": "/arquivos/Liv.jpg",
@@ -37,11 +37,11 @@ export const executivo__content = {
         "imgSrc": "/arquivos/Load.jpg",
         "url": "/Load?map=specificationFilter_110"
       },
-      {
+      /*{
         "collections": "Next X6",
         "imgSrc": "/arquivos/Next X6.jpg",
         "url": "/Next%20X6?map=specificationFilter_110"
-      },
+      },*/
       {
         "collections": "Prime",
         "imgSrc": "/arquivos/Prime.jpg",
@@ -104,16 +104,16 @@ export const executivo__content = {
     "categoryTitle": "Mochila",
     "title": "Por tom de cor",
     "content": [
-      {
+      /*{
         "perColor__mochila": "Colorido",
         "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
         "url": "/mochila/Colorido/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__mochila": "Amarelo",
         "hexCode": "yellow;",
         "url": "/mochila/Amarelo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__mochila": "Azul",
         "hexCode": "#0e45f5;",
@@ -129,16 +129,16 @@ export const executivo__content = {
         "hexCode": "#d8d8d8;",
         "url": "/mochila/Cinza,Executiva?map=c,specificationFilter_42,,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__mochila": "Dourado",
         "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
         "url": "/mochila/Dourado/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__mochila": "Laranja",
         "hexCode": "orange;",
         "url": "/mochila/Laranja/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__mochila": "Marrom",
         "hexCode": "#644908;",
@@ -154,16 +154,16 @@ export const executivo__content = {
         "hexCode": "#e012ca;",
         "url": "/mochila/Rosa/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__mochila": "Roxo",
         "hexCode": "purple;",
         "url": "/mochila/Roxo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__mochila": "Verde",
         "hexCode": "#0dc834;",
         "url": "/mochila/Verde/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__mochila": "Vermelho",
         "hexCode": "#e31a1a;",
@@ -251,41 +251,41 @@ export const executivo__content = {
     "categoryTitle": "Pasta",
     "title": "Por tom de cor",
     "content": [
-      {
+      /*{
         "perColor__pasta": "Colorido",
         "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
         "url": "/pasta/Colorido/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__pasta": "Amarelo",
         "hexCode": "yellow;",
         "url": "/pasta/Amarelo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__pasta": "Azul",
         "hexCode": "#0e45f5;",
         "url": "/pasta/Azul/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__pasta": "Branco",
         "hexCode": "white;",
         "url": "/pasta/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__pasta": "Cinza",
         "hexCode": "#d8d8d8;",
-        "url": "/pasta/Cinza,Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+        "url": "/mochila/Cinza/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__pasta": "Dourado",
         "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
         "url": "/pasta/Dourado/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__pasta": "Laranja",
         "hexCode": "orange;",
         "url": "/pasta/Laranja/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__pasta": "Marrom",
         "hexCode": "#644908;",
@@ -296,26 +296,26 @@ export const executivo__content = {
         "hexCode": "black;",
         "url": "/pasta/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__pasta": "Rosa",
         "hexCode": "#e012ca;",
         "url": "/pasta/Rosa/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__pasta": "Roxo",
         "hexCode": "purple;",
         "url": "/pasta/Roxo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__pasta": "Verde",
         "hexCode": "#0dc834;",
         "url": "/pasta/Verde/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__pasta": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/pasta/Vermelho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__pasta": "Vinho",
         "hexCode": "#8e0c0c;",
@@ -336,7 +336,7 @@ export const executivo__content = {
       {
         "gender__pasta": "Para Ele",
         "imgSrc": "/arquivos/E_ParaEle.jpg",
-        "url": "/pasta/Masculino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Masculino/Executiva?map=c,c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__pasta": "Para Todos",
@@ -404,41 +404,41 @@ export const executivo__content = {
     "categoryTitle": "Necessaire",
     "title": "Por tom de cor",
     "content": [
-      {
+      /*{
         "perColor__necessaire": "Colorido",
         "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
         "url": "/necessaire/Colorido/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Amarelo",
         "hexCode": "yellow;",
         "url": "/necessaire/Amarelo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__necessaire": "Azul",
         "hexCode": "#0e45f5;",
-        "url": "/necessaire/Azul/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Azul/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
       },
       {
         "perColor__necessaire": "Branco",
         "hexCode": "white;",
-        "url": "/necessaire/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+        "url": "/mochila/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__necessaire": "Cinza",
         "hexCode": "#d8d8d8;",
         "url": "/necessaire/Cinza,Executiva?map=c,specificationFilter_42,,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Dourado",
         "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
         "url": "/necessaire/Dourado/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Laranja",
         "hexCode": "orange;",
         "url": "/necessaire/Laranja/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__necessaire": "Marrom",
         "hexCode": "#644908;",
@@ -449,31 +449,31 @@ export const executivo__content = {
         "hexCode": "black;",
         "url": "/necessaire/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__necessaire": "Rosa",
         "hexCode": "#e012ca;",
         "url": "/necessaire/Rosa/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Roxo",
         "hexCode": "purple;",
         "url": "/necessaire/Roxo/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Verde",
         "hexCode": "#0dc834;",
         "url": "/necessaire/Verde/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/necessaire/Vermelho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "perColor__necessaire": "Vinho",
         "hexCode": "#8e0c0c;",
         "url": "/necessaire/Vinho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      }
+      }*/
     ]
   },
 
@@ -484,7 +484,7 @@ export const executivo__content = {
       {
         "gender__necessaire": "Para Ela",
         "imgSrc": "/arquivos/E_ParaEla.jpg",
-        "url": "/necessaire/Feminino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
+        "url": "/Acessorios/Necessaire/Feminino/Executiva?map=c,c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__necessaire": "Para Ele",
@@ -506,12 +506,12 @@ export const executivo__content = {
       {
         "perCompartment__necessaire": "1 Compartimento",
         "imgSrc": "/arquivos/Necesser.jpg",
-        "url": "/necessaire/1%20Compartimento?map=c,specificationFilter_56"
+        "url": "/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56"
       },
       {
         "perCompartment__necessaire": "2 Compartimentos",
         "imgSrc": "/arquivos/Necessaire-2-comp.jpg",
-        "url": "/necessaire/2%20Compartimentos?map=c,specificationFilter_56"
+        "url": "/Acessorios/necessaire/2%20Compartimentos?map=c,c,specificationFilter_56"
       }
     ]
   },
@@ -552,11 +552,6 @@ export const executivo__content = {
         "url": "/bolsa/Executiva?map=c,specificationFilter_106"
       },
       {
-        "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo2.jpg",
-        "url": "/Estojo?map=c"
-      },
-      {
         "seeToo": "Esportivo",
         "imgSrc": "/arquivos/Esportivo.jpg",
         "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
@@ -569,7 +564,7 @@ export const executivo__content = {
       {
         "seeToo": "Mala",
         "imgSrc": "/arquivos/Mala.jpg",
-        "url": "/mala/Executiva?map=c,specificationFilter_106"
+        "url": "/mala?map=c"
       },
       {
         "seeToo": "Fichário",

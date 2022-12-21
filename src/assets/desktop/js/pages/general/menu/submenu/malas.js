@@ -58,7 +58,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Milao?map=c,specificationFilter_110">Milao</a>
+              <a class="submenu__itemLink" href="/mala/Milão?map=c,specificationFilter_110">Milão</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Milao.jpg" width="250px" height="588px" alt="Coleção Milao" />
               </div>
@@ -245,11 +245,11 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--4-wheels"
-                  href="/mala/4%20Rodinhas?map=c,specificationFilter_57">4 Rodinhas</a>
+                  href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--8-wheels"
-                  href="/mala/8%20Rodinhas?map=c,specificationFilter_57">4 Rodinhas Duplas</a>
+                  href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas Duplas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--retractable"

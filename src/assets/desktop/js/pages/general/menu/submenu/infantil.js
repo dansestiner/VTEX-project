@@ -76,7 +76,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/Infantil?map=specificationFilter_107">Ver todos os Produtos</a>
+              <a class="submenu__itemLink" href="/423?map=productClusterIds">Ver todos os Produtos</a>
             </li>
           </ul>
         </li>

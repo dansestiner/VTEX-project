@@ -124,18 +124,18 @@ export const bolsas__content = {
       {
         "material": "Poliuretano (PU)",
         "imgSrc": "/arquivos/P.U.jpg",
-        "url": "/bolsa/Poliuretano?map=c,specificationFilter_72"
+        "url": "/bolsa/P.U?map=c,specificationFilter_72"
       },
       {
         "material": "Poliéster",
         "imgSrc": "/arquivos/poliester.jpg",
-        "url": "/bolsa/Poliester?map=c,specificationFilter_72"
-      },
-      {
+        "url": "/bolsa/Poliéster?map=c,specificationFilter_72"
+      }
+      /*{
         "material": "Couro",
         "imgSrc": "/arquivos/Couro.jpg",
         "url": "/bolsa/Couro?map=c,specificationFilter_72"
-      }
+      }*/
     ]
   },
 
@@ -147,11 +147,11 @@ export const bolsas__content = {
         "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
         "url": "/bolsa/Colorido?map=c,specificationFilter_42"
       },
-      {
+      /*{
         "perColor": "Amarelo",
         "hexCode": "yellow;",
         "url": "/bolsa/Amarelo?map=c,specificationFilter_42"
-      },
+      },*/
       {
         "perColor": "Branco",
         "hexCode": "white;",
@@ -176,12 +176,12 @@ export const bolsas__content = {
         "perColor": "Verde",
         "hexCode": "#0dc834;",
         "url": "/bolsa/Verde?map=c,specificationFilter_42"
-      },
-      {
+      }
+      /*{
         "perColor": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/bolsa/Vermelho?map=c,specificationFilter_42"
-      }
+      }*/
     ]
   },
 
@@ -221,7 +221,7 @@ export const bolsas__content = {
       {
         "seeToo": "Pochete",
         "imgSrc": "/arquivos/Pochete1.jpg",
-        "url": "/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_106"
+        "url": "/acessorios/Pochete?map=c,c"
       },
       {
         "seeToo": "Acessórios",

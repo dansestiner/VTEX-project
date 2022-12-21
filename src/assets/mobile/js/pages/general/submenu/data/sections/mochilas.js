@@ -3,24 +3,24 @@ export const mochilas__content = {
     "title": "Coleções",
     "content": [
       {
-        "collection": "Executivo",
+        "collection": "Executiva",
         "imgSrc": "/arquivos/moch-executivo.jpg",
-        "url": "/mochila/Executivo?map=c,specificationFilter_106"
+        "url": "/mochila/Executiva?map=c,specificationFilter_106"
       },
       {
         "collection": "Infantil",
         "imgSrc": "/arquivos/moch-infantil.jpg",
-        "url": "/mochila/Infantil?map=c,specificationFilter_106"
+        "url": "/mochila/Infantil?map=c,specificationFilter_107"
       },
       {
         "collection": "Juvenil",
         "imgSrc": "/arquivos/moch-jovem.jpg",
-        "url": "/mochila/Juvenil?map=c,specificationFilter_106"
+        "url": "/mochila/Juvenil?map=c,specificationFilter_107"
       },
       {
-        "collection": "Esportivo",
+        "collection": "Esportiva",
         "imgSrc": "/arquivos/moch-esportivo.jpg",
-        "url": "/mochila/Esportivo?map=c,specificationFilter_106"
+        "url": "/mochila/Esportiva?map=c,specificationFilter_106"
       },
       {
         "collection": "Capricho",
@@ -60,7 +60,7 @@ export const mochilas__content = {
       {
         "collection": "Alliance",
         "imgSrc": "/arquivos/Alliance.jpg",
-        "url": "/mochila/Aliance?map=c,specificationFilter_110"
+        "url": "/mochila/Alliance?map=c,specificationFilter_110"
       },
       {
         "collection": "Safe",
@@ -144,9 +144,9 @@ export const mochilas__content = {
         "url": "/mochila/Pequeno?map=c,specificationFilter_54"
       },
       {
-        "size": "Medio",
+        "size": "Médio",
         "imgSrc": "/arquivos/moch-Média.png",
-        "url": "/mochila/Medio?map=c,specificationFilter_54"
+        "url": "/mochila/Médio?map=c,specificationFilter_54"
       },
       {
         "size": "Grande",
@@ -169,30 +169,30 @@ export const mochilas__content = {
         "imgSrc": "/arquivos/Nailon.jpg",
         "url": "/mochila/Nylon?map=c,specificationFilter_72"
       },
-      {
+      /*{
         "material": "Poliuretano (PU)",
         "imgSrc": "/arquivos/P.U.jpg",
         "url": "/mochila/P.U?map=c,specificationFilter_72"
-      },
+      },*/
       {
         "material": "Poliéster",
         "imgSrc": "/arquivos/Poliester.jpg",
-        "url": "/mochila/Poliester?map=c,specificationFilter_72"
+        "url": "/mochila/Poliéster?map=c,specificationFilter_72"
       },
-      {
+      /*{
         "material": "Couro",
         "imgSrc": "/arquivos/Couro.jpg",
-        "url": "/mochila/Couro?map=c,specificationFilter_72"
-      },
+        "url": ""
+      },*/
       {
         "material": "Algodão",
         "imgSrc": "/arquivos/Algodao.jpg",
-        "url": "/mochila/Algodao?map=c,specificationFilter_72"
+        "url": "/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72"
       },
       {
         "material": "Neoprene",
         "imgSrc": "/arquivos/Neoprene.jpg",
-        "url": "/mochila/Neoprene?map=c,specificationFilter_72"
+        "url": "/mochila/NEOPRENE?map=c,specificationFilter_72"
       },
       {
         "material": "PVC",
@@ -315,7 +315,7 @@ export const mochilas__content = {
       {
         "gender": "Do seu jeito",
         "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
-        "url": "/mochila/Do%20seu%20jeito?map=c,specificationFilter_67"
+        "url": "/mochila?map=c"
       }
     ]
   },

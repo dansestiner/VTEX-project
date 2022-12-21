@@ -374,7 +374,7 @@ export default function () {
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--white"
-                    href="/necessaire/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+                    href="/mochila/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
                     title="Filtrar por: Cor branca">Branco</a>
                 </li>
                 <li class="submenu__list__item">
@@ -474,10 +474,6 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--purses"
                   href="/bolsa/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Bolsa">Bolsa</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case" href="/Estojo?map=c"
-                  title="Filtrar por: Estojo">Estojo</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--sports"

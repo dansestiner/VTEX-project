@@ -244,20 +244,20 @@ export const infantil__content = {
   seeToo: {
     "title": "Veja também",
     "content": [
-      {
+      /*{
         "seeToo": "Bolsa",
         "imgSrc": "/arquivos/Bolsa.jpg",
         "url": "/bolsa/Infantil?map=c,specificationFilter_106"
-      },
-      {
+      },*/
+      /*{
         "seeToo": "Estojo",
         "imgSrc": "/arquivos/Estojo.jpg",
-        "url": "/Estojo/Infantil?map=c,specificationFilter_106"
-      },
+        "url": ""
+      },*/
       {
         "seeToo": "Maternidade",
         "imgSrc": "/arquivos/Maternidade.jpg",
-        "url": "/bolsa/Maternidade?map=c,specificationFilter_110"
+        "url": ""
       },
       {
         "seeToo": "Sacola",
