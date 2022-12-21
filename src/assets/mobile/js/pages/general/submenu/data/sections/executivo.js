@@ -119,15 +119,15 @@ export const executivo__content = {
         "hexCode": "#0e45f5;",
         "url": "/mochila/Azul/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
-      {
+      /*{
         "perColor__mochila": "Branco",
         "hexCode": "white;",
         "url": "/mochila/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-      },
+      },*/
       {
         "perColor__mochila": "Cinza",
         "hexCode": "#d8d8d8;",
-        "url": "/mochila/Cinza,Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+        "url": "/mochila/Cinza/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
       /*{
         "perColor__mochila": "Dourado",
@@ -274,7 +274,7 @@ export const executivo__content = {
       {
         "perColor__pasta": "Cinza",
         "hexCode": "#d8d8d8;",
-        "url": "/mochila/Cinza/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+        "url": "/pasta/Cinza/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
       },
       /*{
         "perColor__pasta": "Dourado",
@@ -289,7 +289,7 @@ export const executivo__content = {
       {
         "perColor__pasta": "Marrom",
         "hexCode": "#644908;",
-        "url": "/pasta/Marrom/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+        "url": "/pasta/Marrom/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
       {
         "perColor__pasta": "Preto",
@@ -422,7 +422,7 @@ export const executivo__content = {
       {
         "perColor__necessaire": "Branco",
         "hexCode": "white;",
-        "url": "/mochila/Branco/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Branco/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
       },
       /*{
         "perColor__necessaire": "Cinza",
@@ -442,12 +442,12 @@ export const executivo__content = {
       {
         "perColor__necessaire": "Marrom",
         "hexCode": "#644908;",
-        "url": "/necessaire/Marrom/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Marrom/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
       },
       {
         "perColor__necessaire": "Preto",
         "hexCode": "black;",
-        "url": "/necessaire/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Preto/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
       },
       /*{
         "perColor__necessaire": "Rosa",

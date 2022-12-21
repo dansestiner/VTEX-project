@@ -257,7 +257,7 @@ export const infantil__content = {
       {
         "seeToo": "Maternidade",
         "imgSrc": "/arquivos/Maternidade.jpg",
-        "url": ""
+        "url": "/bolsa/Maternidade?map=c,specificationFilter_110"
       },
       {
         "seeToo": "Sacola",

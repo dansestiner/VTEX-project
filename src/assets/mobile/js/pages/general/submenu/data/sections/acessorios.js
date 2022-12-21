@@ -23,11 +23,6 @@ export const acessorios__content = {
         "url": "/acessorios/Carteira?map=c,c"
       },
       {
-        "categories": "Cinta de Segurança",
-        "imgSrc": "/arquivos/CINTA-MALA.jpg",
-        "url": "/acessorios/Cinta%20de%20Segurança?map=c,c"
-      },
-      {
         "categories": "Kit Viagem",
         "imgSrc": "/arquivos/KIT-VIAGEM.jpg",
         "url": "/acessorios/Kit%20Viagem?map=c,c"
