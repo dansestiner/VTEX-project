@@ -1,0 +1,156 @@
+.warranty {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  padding: 10px 30px;
+  margin: 0 auto;
+
+  &__banner img {
+    width: 100%;
+    height: 250px;
+  }
+
+  &__first-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    &-right,
+    &-left {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 50px;
+
+      div {
+        flex: 0 0 50%;
+      }
+    }
+
+    &-right {
+      iframe {
+        height: 250px;
+        width: 100%;
+      }
+    }
+
+    &-left {
+      margin-top: 40px;
+
+      img {
+        max-height: 250px;
+      }
+    }
+  }
+
+  &__middle {
+    margin-bottom: 50px;
+
+    h4 {
+      margin-bottom: 24px;
+    }
+
+    &-items {
+      display: flex;
+      flex-direction: row;
+      gap: 30px;
+      justify-content: space-between;
+      align-items: flex-start;
+
+      &-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        img {
+          height: 245px;
+        }
+
+        p {
+          margin-top: 10px;
+          text-align: center !important;
+        }
+      }
+    }
+  }
+
+  &__third-section {
+    margin-bottom: 50px;
+
+    h4 {
+      margin-bottom: 24px;
+    }
+
+    &-items {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 30px;
+      justify-content: center;
+      align-items: flex-start;
+
+      &-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        max-width: 160px;
+        img {
+          width: 160px;
+          height: 160px;
+        }
+
+        p {
+          margin-top: 10px;
+          text-align: center !important;
+        }
+      }
+    }
+  }
+
+  &__final {
+    display: flex;
+    flex-direction: column;
+    &-first {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      gap: 50px;
+      margin-bottom: 40px;
+
+      p {
+        margin-bottom: 10px;
+      }
+
+      img {
+        width: 450px;
+        height: auto;
+      }
+    }
+
+    &-second {
+      h4 {
+        margin-bottom: 12px;
+      }
+    }
+
+    &-link {
+      margin-top: 50px;
+      margin-bottom: 60px;
+    }
+  }
+
+  h3 {
+    font-weight: bold;
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+  h4 {
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  p {
+    font-size: 14px;
+    text-align: justify;
+  }
+}
