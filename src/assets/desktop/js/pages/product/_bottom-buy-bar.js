@@ -2,7 +2,7 @@ const Methods = {
         init() {
             setTimeout(() => {
                 Methods.addBottomBuyBar();
-                Methods.bindScrollBottomBuyBar();
+                //Methods.bindScrollBottomBuyBar();
             }, 3000);
         },
 

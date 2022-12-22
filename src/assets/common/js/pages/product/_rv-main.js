@@ -45,19 +45,26 @@ const Methods = {
         ProductRvData.largurareal = product._LarguraReal;
         ProductRvData.featuresDescription = product.Diferenciais;
         ProductRvData.dimensionsDescription = product.Dimensões;
-        ProductRvData.height = product["Altura (cm)"] + "cm";
-        ProductRvData.width = product["Largura(cm)"] + "cm";
-        ProductRvData.depth = product["Profundidade (cm)"] + "cm";
-        ProductRvData.weight = product["Peso (kg)"] + "kg";
+        ProductRvData.height = product["Altura (cm)"] + " cm";
+        ProductRvData.width = product["Largura(cm)"] + " cm";
+        ProductRvData.depth = product["Profundidade (cm)"] + " cm";
+        ProductRvData.weight = product["Peso (kg)"] + " kg";
+        //ProductRvData.notebookSize = product["Tamanho do Notebook (pol)"] + " polegadas";
+        //ProductRvData.notebookCompartment = product["Compartimento Notebook (LxA)"] + " cm";
+
+        product["Tamanho do Notebook (pol)"] != undefined ? (ProductRvData.notebookSize = product["Tamanho do Notebook (pol)"] + " polegadas") : ''
+
+        product["Compartimento Notebook (LxA)"] != undefined ? (ProductRvData.notebookCompartment = product["Compartimento Notebook (LxA)"] + " cm") : '' 
+
         product["Capacidade Total (L)"] != undefined
-          ? (ProductRvData.totalcap = product["Capacidade Total (L)"] + "L")
+          ? (ProductRvData.totalcap = product["Capacidade Total (L)"] + " L")
           : El.capacidadeTotal.remove();
         product["Capacidade Expansível (L)"] != undefined
           ? (ProductRvData.totalexp =
-              product["Capacidade Expansível (L)"] + "L")
+              product["Capacidade Expansível (L)"] + " L")
           : El.capacidadeExpansivel.remove();
         product["Expansível (cm)"] != undefined
-          ? (ProductRvData.exp = product["Expansível (cm)"] + "cm")
+          ? (ProductRvData.exp = product["Expansível (cm)"] + " cm")
           : El.expansivel.remove();
 
         const prdMaterial = product["Material"];
