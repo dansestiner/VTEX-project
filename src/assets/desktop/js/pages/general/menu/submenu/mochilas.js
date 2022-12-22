@@ -281,7 +281,7 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
-                  href="/mochila/Executiva/Porta%20Notebook?map=c,specificationFilter_106,specificationFilter_59">Para
+                  href="/mochila/Notebook?map=c,specificationFilter_56">Para
                   Notebook</a>
               </li>
             </ul>

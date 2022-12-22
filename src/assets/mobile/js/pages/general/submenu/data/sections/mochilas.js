@@ -218,7 +218,7 @@ export const mochilas__content = {
       {
         "type": "Para notebook",
         "imgSrc": "/arquivos/Laptop.jpg",
-        "url": "/mochila/Executiva/Porta%20Notebook?map=c,specificationFilter_106,specificationFilter_59"
+        "url": "/mochila/Notebook?map=c,specificationFilter_56"
       }
     ]
   },
