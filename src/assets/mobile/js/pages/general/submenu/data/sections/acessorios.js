@@ -23,11 +23,6 @@ export const acessorios__content = {
         "url": "/acessorios/Carteira?map=c,c"
       },
       {
-        "categories": "Kit Viagem",
-        "imgSrc": "/arquivos/KIT-VIAGEM.jpg",
-        "url": "/acessorios/Kit%20Viagem?map=c,c"
-      },
-      {
         "categories": "Necessaire",
         "imgSrc": "/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire?map=c,c"

@@ -34,12 +34,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/acessorios/Kit%20Viagem?map=c,c">Kit Viagem</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/KIT-VIAGEM.jpg" width="250px" height="588px" alt="Categoria Kit Viagem" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Necessaire?map=c,c">Necessaire</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Necessaire.jpg" width="250px" height="588px" alt="Categoria Necessaire" />
