@@ -1303,8 +1303,9 @@
 
   &--retractable {
     &::before {
-      background-image: url(/arquivos/Roda-retratil.png);
+      background-image: url(/arquivos/Roda-retratil.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 

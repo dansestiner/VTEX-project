@@ -230,7 +230,7 @@ export const malas__content = {
       },
       {
         "mobility": "Rodas retráteis",
-        "imgSrc": "/arquivos/Roda-retratil.png",
+        "imgSrc": "/arquivos/Roda-retratil.jpg",
         "url": "/mala/Rodas%20Retráteis?map=c,specificationFilter_57"
       }
     ]
