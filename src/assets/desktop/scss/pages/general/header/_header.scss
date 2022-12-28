@@ -774,6 +774,9 @@
 
 // SUBMENU
 .submenuWrapper {
+  .comp-margin-right {
+    margin-right: 25px;
+  }
   position: absolute;
   left: 50%;
   top: 32px;
@@ -921,8 +924,8 @@
       letter-spacing: 1px;
       color: #303030;
     }
-
     .submenu__list__item {
+
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:serif='http://www.serif.com/' width='100%25' height='100%25' viewBox='0 0 9 12' version='1.1' xml:space='preserve' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Cg transform='matrix(1,0,0,1,-0.507514,1.2097e-12)'%3E%3Cpath d='M2.05,2.697L6.275,6C6.275,6 2.05,9.303 2.05,9.303C1.722,9.559 1.664,10.034 1.92,10.362C2.177,10.69 2.652,10.748 2.98,10.492L7.965,6.595C8.148,6.452 8.255,6.232 8.255,6C8.255,5.768 8.148,5.548 7.965,5.405L2.98,1.508C2.652,1.252 2.177,1.31 1.92,1.638C1.664,1.966 1.722,2.441 2.05,2.697Z' style='fill:%23b4b4b4;'/%3E%3C/g%3E%3C/svg%3E");
       background-size: 8px;
       background-repeat: no-repeat;
@@ -1152,6 +1155,7 @@
     &::before {
       background-image: url(/arquivos/soft.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1175,6 +1179,7 @@
     &::before {
       background-image: url(/arquivos/Nailon.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1183,6 +1188,7 @@
     &::before {
       background-image: url(/arquivos/P.U.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1191,6 +1197,7 @@
     &::before {
       background-image: url(/arquivos/Poliester.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1213,6 +1220,7 @@
     &::before {
       background-image: url(/arquivos/Algodao.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1220,6 +1228,7 @@
     &::before {
       background-image: url(/arquivos/Neoprene.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1227,6 +1236,7 @@
     &::before {
       background-image: url(/arquivos/pvc.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1235,6 +1245,7 @@
     &::before {
       background-image: url(/arquivos/Mochila-sem-Rodas.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1242,6 +1253,7 @@
     &::before {
       background-image: url(/arquivos/Mochila.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1249,6 +1261,7 @@
     &::before {
       background-image: url(/arquivos/Mochila-com-Rodas2.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1256,6 +1269,7 @@
     &::before {
       background-image: url(/arquivos/Mochila-com-Rodas.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1277,6 +1291,7 @@
     &::before {
       background-image: url(/arquivos/Sem-rodinha2.png);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1284,6 +1299,7 @@
     &::before {
       background-image: url(/arquivos/2-rodas.png);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1291,6 +1307,7 @@
     &::before {
       background-image: url(/arquivos/4-rodas.png);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1298,6 +1315,7 @@
     &::before {
       background-image: url(/arquivos/8-rodas.png);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1313,6 +1331,7 @@
     &::before {
       background-image: url(/arquivos/Laptop.jpg);
       margin-bottom: 24px;
+      background-size: contain;
     }
   }
 
@@ -1516,36 +1535,42 @@
   &--executive {
     &::before {
       background-image: url(/arquivos/Pasta.jpg);
+      background-size: contain;
     }
   }
 
   &--postman {
     &::before {
       background-image: url(/arquivos/Pastas.jpg);
+      background-size: contain;
     }
   }
 
   &--tablet {
     &::before {
       background-image: url(/arquivos/Tablet.jpg);
+      background-size: contain;
     }
   }
 
   &--shoulder-belt {
     &::before {
       background-image: url(/arquivos/Tiracolo.jpg);
+      background-size: contain;
     }
   }
 
   &--oneCompartment {
     &::before {
       background-image: url(/arquivos/Necesser.jpg);
+      background-size: contain;
     }
   }
 
   &--twoCompartments {
     &::before {
       background-image: url(/arquivos/Necessaire-2-comp.jpg);
+      background-size: contain;
     }
   }
 
@@ -1645,6 +1670,7 @@
   &--pencil-case {
     &::before {
       background-image: url(/arquivos/Estojo.jpg);
+      background-size: contain;
     }
   }
 
@@ -1657,6 +1683,7 @@
   &--lunch-bag {
     &::before {
       background-image: url(/arquivos/Lancheira.jpg);
+      background-size: contain;
     }
   }
 
@@ -1707,12 +1734,14 @@
       background-image: url(/arquivos/Carteira1.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
   &--folder {
     &::before {
       background-image: url(/arquivos/Pastas.jpg);
+      background-size: contain;
     }
   }
 
@@ -1725,6 +1754,7 @@
   &--fichario {
     &::before {
       background-image: url(/arquivos/Fichario.jpg);
+      background-size: contain;
     }
   }
 }

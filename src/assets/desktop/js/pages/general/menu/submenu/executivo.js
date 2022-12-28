@@ -419,7 +419,7 @@ export default function () {
                 Compartimentos</div>
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--oneCompartment"
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--oneCompartment comp-margin-right"
                     href="/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56" title="Filtrar por: 1 Compartimento">1
                     Compartimento</a>
                 </li>
