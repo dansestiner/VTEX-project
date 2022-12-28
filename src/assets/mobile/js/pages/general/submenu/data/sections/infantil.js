@@ -110,23 +110,23 @@ export const infantil__content = {
     "content": [
       {
         "priceRange__mochila": "Até R$120,00",
-        "url": "/mochila/de-0.01-a-120/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-0,01-a-120/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$120,01 até R$160,00",
-        "url": "/mochila/de-120.01-a-160/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-120,01-a-160/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$160,01 até R$220,00",
-        "url": "/mochila/de-160.01-a-220/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-160,01-a-220/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$220,01 até R$300,00",
-        "url": "/mochila/de-220.01-a-300/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-220,01-a-300/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "Acima de R$300,01",
-        "url": "/mochila/de-300.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-300,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "VER TODOS",
@@ -163,23 +163,23 @@ export const infantil__content = {
     "content": [
       {
         "priceRange__lancheira": "Até R$50,00",
-        "url": "/Lancheira/de-0.01-a-50/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-0,01-a-50/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$50,01 até R$90,00",
-        "url": "/Lancheira/de-50.01-a-90/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-50,01-a-90/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$90,01 até R$110,00",
-        "url": "/Lancheira/de-90.01-a-110/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-90,01-a-110/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$110,01 até R$120,00",
-        "url": "/Lancheira/de-110.01-a-120/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-110,01-a-120/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "Acima de R$120,01",
-        "url": "/Lancheira/de-120.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-120,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "VER TODOS",
@@ -216,23 +216,23 @@ export const infantil__content = {
     "content": [
       {
         "priceRange__acessorio": "Até R$40,00",
-        "url": "/Estojo/de-0.01-a-40/Infantil?map=c,priceFrom,specificationFilter_107",
+        "url": "/Estojo/de-0,01-a-40/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
         "priceRange__acessorio": "De R$40,01 até R$60,00",
-        "url": "/Estojo/de-40.01-a-60/Infantil?map=c,priceFrom,specificationFilter_107",
+        "url": "/Estojo/de-40,01-a-60/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
         "priceRange__acessorio": "De R$60,01 até R$80,00",
-        "url": "/Estojo/de-60.01-a-80/Infantil?map=c,priceFrom,specificationFilter_107",
+        "url": "/Estojo/de-60,01-a-80/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
         "priceRange__acessorio": "De R$80,01 até R$100,00",
-        "url": "/Estojo/de-80.01-a-100/Infantil?map=c,priceFrom,specificationFilter_107",
+        "url": "/Estojo/de-80,01-a-100/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
         "priceRange__acessorio": "Acima de R$100,01",
-        "url": "/Estojo/de-100.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107",
+        "url": "/Estojo/de-100,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
         "priceRange__acessorio": "VER TODOS",

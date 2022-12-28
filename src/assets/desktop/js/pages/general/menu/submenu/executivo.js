@@ -207,26 +207,26 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-0.01-a-120/Executiva?map=c,priceFrom,specificationFilter_106">Até R$120,00</a>
+                    href="/mochila/de-0,01-a-120/Executiva?map=c,priceFrom,specificationFilter_106">Até R$120,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-120.01-a-160/Executiva?map=c,priceFrom,specificationFilter_106">De R$120,01 até
+                    href="/mochila/de-120,01-a-160/Executiva?map=c,priceFrom,specificationFilter_106">De R$120,01 até
                     R$160,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-160.01-a-220/Executiva?map=c,priceFrom,specificationFilter_106">De R$160,01 até
+                    href="/mochila/de-160,01-a-220/Executiva?map=c,priceFrom,specificationFilter_106">De R$160,01 até
                     R$220,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-220.01-a-300/Executiva?map=c,priceFrom,specificationFilter_106">De R$220,01 até
+                    href="/mochila/de-220,01-a-300/Executiva?map=c,priceFrom,specificationFilter_106">De R$220,01 até
                     R$300,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-300.01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106">Acima de
+                    href="/mochila/de-300,01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106">Acima de
                     R$300,01</a>
                 </li>
                 <li class="submenu__list__item submenu__list__item--seeAll">
@@ -329,16 +329,16 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/pasta/de-0.01-a-200/Executiva?map=c,priceFrom,specificationFilter_106">Até R$200,00</a>
+                    href="/pasta/de-0,01-a-200/Executiva?map=c,priceFrom,specificationFilter_106">Até R$200,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/pasta/de-200.01-a-350/Executiva?map=c,priceFrom,specificationFilter_106">De R$200,01,00 até
+                    href="/pasta/de-200,01-a-350/Executiva?map=c,priceFrom,specificationFilter_106">De R$200,01,00 até
                     R$350,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/pasta/de-350.01-a-400/Executiva?map=c,priceFrom,specificationFilter_106">De R$350,01 até
+                    href="/pasta/de-350,01-a-400/Executiva?map=c,priceFrom,specificationFilter_106">De R$350,01 até
                     R$400,00</a>
                 </li>
                 <li class="submenu__list__item">
@@ -438,16 +438,16 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/necessaire/de-0.01-a-80.01/Executiva?map=c,priceFrom,specificationFilter_106">Até R$80,00</a>
+                    href="/necessaire/de-0,01-a-80,01/Executiva?map=c,priceFrom,specificationFilter_106">Até R$80,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/necessaire/de-80.01-a-100.01/Executiva?map=c,priceFrom,specificationFilter_106">De R$80,00 até
+                    href="/necessaire/de-80,01-a-100,01/Executiva?map=c,priceFrom,specificationFilter_106">De R$80,00 até
                     R$100,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/necessaire/de-100.01-a-150.01/Executiva?map=c,priceFrom,specificationFilter_106">De R$100,01
+                    href="/necessaire/de-100,01-a-150,01/Executiva?map=c,priceFrom,specificationFilter_106">De R$100,01
                     até
                     R$150,00</a>
                 </li>

@@ -124,16 +124,16 @@ export default function () {
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/de-0.01-a-120?map=c,priceFrom">Até R$120,00</a>
+                <a class="submenu__itemLink" href="/mochila/de-0,01-a-120?map=c,priceFrom">Até R$120,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/de-120.01-a-160?map=c,priceFrom">De R$120,01 até R$160,00</a>
+                <a class="submenu__itemLink" href="/mochila/de-120,01-a-160?map=c,priceFrom">De R$120,01 até R$160,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/de-160.01-a-220?map=c,priceFrom">De R$160,01 até R$220,00</a>
+                <a class="submenu__itemLink" href="/mochila/de-160,01-a-220?map=c,priceFrom">De R$160,01 até R$220,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/de-220.01-a-300?map=c,priceFrom">De R$220,01 até R$300,00</a>
+                <a class="submenu__itemLink" href="/mochila/de-220,01-a-300?map=c,priceFrom">De R$220,01 até R$300,00</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/de-300,01-a-99999?map=c,priceFrom">Acima de R$300,01</a>

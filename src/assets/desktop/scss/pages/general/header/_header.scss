@@ -1393,6 +1393,7 @@
       margin-bottom: 24px;
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1481,54 +1482,63 @@
   &--male {
     &::before {
       background-image: url(/arquivos/Mo_ParaEle.jpg);
+      background-size: contain;
     }
   }
 
   &--bagMale {
     &::before {
       background-image: url(/arquivos/M_ParaEle.jpg);
+      background-size: contain;
     }
   }
 
   &--female {
     &::before {
       background-image: url(/arquivos/Mo_ParaEla.jpg);
+      background-size: contain;
     }
   }
 
   &--childishFemale {
     &::before {
       background-image: url(/arquivos/I_ParaEla.jpg);
+      background-size: contain;
     }
   }
 
   &--childishMale {
     &::before {
       background-image: url(/arquivos/I_ParaEle.jpg);
+      background-size: contain;
     }
   }
 
   &--childishYourWay {
     &::before {
       background-image: url(/arquivos/I_ParaTodos.jpg);
+      background-size: contain;
     }
   }
 
   &--juvenileFemale {
     &::before {
       background-image: url(/arquivos/J_ParaEla.jpg);
+      background-size: contain;
     }
   }
 
   &--juvenileMale {
     &::before {
       background-image: url(/arquivos/J_ParaEle.jpg);
+      background-size: contain;
     }
   }
 
   &--juvenileYourWay {
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-size: contain;
     }
   }
 
@@ -1577,24 +1587,28 @@
   &--executiveFemale {
     &::before {
       background-image: url(/arquivos/E_ParaEla.jpg);
+      background-size: contain;
     }
   }
 
   &--executiveMale {
     &::before {
       background-image: url(/arquivos/E_ParaEle.jpg);
+      background-size: contain;
     }
   }
 
   &--executiveYourWay {
     &::before {
       background-image: url(/arquivos/E_ParaTodos.jpg);
+      background-size: contain;
     }
   }
 
   &--bagFemale {
     &::before {
       background-image: url(/arquivos/M_ParaEla.jpg);
+      background-size: contain;
     }
   }
 
@@ -1607,12 +1621,14 @@
   &--yourWay-acessories {
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-size: contain;
     }
   }
 
   &--yourWay {
     &::before {
       background-image: url(/arquivos/M_ParaTodos.jpg);
+      background-size: contain;
     }
   }
 
@@ -1622,6 +1638,7 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-image: url(/arquivos/logo-TSA.jpg);
+      background-size: contain;
     }
 
   }
@@ -1631,6 +1648,7 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-image: url(/arquivos/Fixo.jpg);
+      background-size: contain;
     }
 
   }
@@ -1641,6 +1659,7 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-image: url(/arquivos/Acessorios.jpg);
+      background-size: contain;
     }
   }
 
@@ -1649,6 +1668,7 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-image: url(/arquivos/Sacola2.jpg);
+      background-size: contain;
     }
   }
 
@@ -1657,6 +1677,7 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-image: url(/arquivos/icon-frasqueira.png);
+      background-size: contain;
     }
   }
 
@@ -1664,6 +1685,7 @@
   &--pencil-case-purse {
     &::before {
       background-image: url(/arquivos/Estojo2.jpg);
+      background-size: contain;
     }
   }
 
@@ -1677,6 +1699,7 @@
   &--juvenile-pencil-case {
     &::before {
       background-image: url(/arquivos/Estojo-1.jpg);
+      background-size: contain;
     }
   }
 
@@ -1692,6 +1715,7 @@
       background-image: url(/arquivos/Necesser.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1700,6 +1724,7 @@
       background-image: url(/arquivos/Fichario.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1708,6 +1733,7 @@
       background-image: url(/arquivos/Esportivo.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1716,6 +1742,7 @@
       background-image: url(/arquivos/Esportivo.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1724,6 +1751,7 @@
       background-image: url(/arquivos/Pochete1.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
+      background-size: contain;
     }
   }
 
@@ -1748,6 +1776,7 @@
   &--maternity {
     &::before {
       background-image: url(/arquivos/Maternidade.jpg);
+      background-size: contain;
     }
   }
 

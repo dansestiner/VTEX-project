@@ -222,23 +222,23 @@ export const executivo__content = {
     "content": [
       {
         "priceRange__mochila": "Até R$120,00",
-        "url": "/mochila/de-0.01-a-120/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/mochila/de-0,01-a-120/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__mochila": "De R$120,01 até R$160,00",
-        "url": "/mochila/de-120.01-a-160/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/mochila/de-120,01-a-160/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__mochila": "De R$160,01 até R$220,00",
-        "url": "/mochila/de-160.01-a-220/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/mochila/de-160,01-a-220/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__mochila": "De R$220,01 até R$300,00",
-        "url": "/mochila/de-220.01-a-300/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/mochila/de-220,01-a-300/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__mochila": "Acima de R$300,01",
-        "url": "/mochila/de-300.01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/mochila/de-300,01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__mochila": "VER TODOS",
@@ -379,15 +379,15 @@ export const executivo__content = {
     "content": [
       {
         "priceRange__pasta": "Até R$200,00",
-        "url": "/pasta/de-0.01-a-200/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/pasta/de-0,01-a-200/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__pasta": "De R$200,01,00 até R$350,00",
-        "url": "/pasta/de-200.01-a-350/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/pasta/de-200,01-a-350/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__pasta": "De R$350,01 até R$400,00",
-        "url": "/pasta/de-350.01-a-400/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/pasta/de-350,01-a-400/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__pasta": "Acima de R$400,01",
@@ -522,15 +522,15 @@ export const executivo__content = {
     "content": [
       {
         "priceRange__necessaire": "Até R$80,00",
-        "url": "/necessaire/de-0.01-a-80.01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/necessaire/de-0,01-a-80,01/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__necessaire": "De R$80,00 até R$100,00",
-        "url": "/necessaire/de-80.01-a-100.01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/necessaire/de-80,01-a-100,01/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__necessaire": "De R$100,01 até R$150,00",
-        "url": "/necessaire/de-100.01-a-150.01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "url": "/necessaire/de-100,01-a-150,01/Executiva?map=c,priceFrom,specificationFilter_106"
       },
       {
         "priceRange__necessaire": "Acima de R$150,01",

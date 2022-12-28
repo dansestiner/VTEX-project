@@ -65,23 +65,23 @@ export const acessorios__content = {
     "content": [
       {
         "priceRange": "Até R$40,00",
-        "url": "/acessorios/de-0.01-a-40?map=c,priceFrom"
+        "url": "/acessorios/de-0,01-a-40?map=c,priceFrom"
       },
       {
         "priceRange": "De R$40,01 até R$60,00",
-        "url": "/acessorios/de-40.01-a-60?map=c,priceFrom"
+        "url": "/acessorios/de-40,01-a-60?map=c,priceFrom"
       },
       {
         "priceRange": "De R$60,01 até R$80,00",
-        "url": "/acessorios/de-60.01-a-80?map=c,priceFrom"
+        "url": "/acessorios/de-60,01-a-80?map=c,priceFrom"
       },
       {
         "priceRange": "De R$80,01 até R$100,00",
-        "url": "/acessorios/de-80.01-a-100?map=c,priceFrom"
+        "url": "/acessorios/de-80,01-a-100?map=c,priceFrom"
       },
       {
         "priceRange": "Acima de R$100,01",
-        "url": "/acessorios/de-100.01-a-99999?map=c,priceFrom"
+        "url": "/acessorios/de-100,01-a-99999?map=c,priceFrom"
       },
       {
         "priceRange": "VER TODOS",

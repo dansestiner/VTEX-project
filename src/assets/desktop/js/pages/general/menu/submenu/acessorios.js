@@ -83,19 +83,19 @@ export default function () {
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/acessorios/de-0.01-a-40?map=c,priceFrom">Até R$40,00</a>
+                <a class="submenu__itemLink" href="/acessorios/de-0,01-a-40?map=c,priceFrom">Até R$40,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/acessorios/de-40.01-a-60?map=c,priceFrom">De R$40,01 até R$60,00</a>
+                <a class="submenu__itemLink" href="/acessorios/de-40,01-a-60?map=c,priceFrom">De R$40,01 até R$60,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/acessorios/de-60.01-a-80?map=c,priceFrom">De R$60,01 até R$80,00</a>
+                <a class="submenu__itemLink" href="/acessorios/de-60,01-a-80?map=c,priceFrom">De R$60,01 até R$80,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/acessorios/de-80.01-a-100?map=c,priceFrom">De R$80,01 até R$100,00</a>
+                <a class="submenu__itemLink" href="/acessorios/de-80,01-a-100?map=c,priceFrom">De R$80,01 até R$100,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/acessorios/de-100.01-a-99999?map=c,priceFrom">Acima de R$100,01</a>
+                <a class="submenu__itemLink" href="/acessorios/de-100,01-a-99999?map=c,priceFrom">Acima de R$100,01</a>
               </li>
               <li class="submenu__list__item submenu__list__item--seeAll">
                 <a class="submenu__itemLink" href="/acessorios?map=c">Ver todos</a>

@@ -135,26 +135,26 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-0.01-a-120/Infantil?map=c,priceFrom,specificationFilter_107">Até R$120,00</a>
+                    href="/mochila/de-0,01-a-120/Infantil?map=c,priceFrom,specificationFilter_107">Até R$120,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-120.01-a-160/Infantil?map=c,priceFrom,specificationFilter_107">De R$120,01 até
+                    href="/mochila/de-120,01-a-160/Infantil?map=c,priceFrom,specificationFilter_107">De R$120,01 até
                     R$160,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-160.01-a-220/Infantil?map=c,priceFrom,specificationFilter_107">De R$160,01 até
+                    href="/mochila/de-160,01-a-220/Infantil?map=c,priceFrom,specificationFilter_107">De R$160,01 até
                     R$220,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-220.01-a-300/Infantil?map=c,priceFrom,specificationFilter_107">De R$220,01 até
+                    href="/mochila/de-220,01-a-300/Infantil?map=c,priceFrom,specificationFilter_107">De R$220,01 até
                     R$300,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-300.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de R$300,01</a>
+                    href="/mochila/de-300,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de R$300,01</a>
                 </li>
                 <li class="submenu__list__item submenu__list__item--seeAll">
                   <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Ver todos</a>
@@ -203,26 +203,26 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Lancheira/de-0.01-a-50/Infantil?map=c,priceFrom,specificationFilter_107">Até R$50,00</a>
+                    href="/Lancheira/de-0,01-a-50/Infantil?map=c,priceFrom,specificationFilter_107">Até R$50,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Lancheira/de-50.01-a-90/Infantil?map=c,priceFrom,specificationFilter_107">De R$50,01 até
+                    href="/Lancheira/de-50,01-a-90/Infantil?map=c,priceFrom,specificationFilter_107">De R$50,01 até
                     R$90,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Lancheira/de-90.01-a-110/Infantil?map=c,priceFrom,specificationFilter_107">De R$90,01 até
+                    href="/Lancheira/de-90,01-a-110/Infantil?map=c,priceFrom,specificationFilter_107">De R$90,01 até
                     R$110,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Lancheira/de-110.01-a-120/Infantil?map=c,priceFrom,specificationFilter_107">De R$110,01 até
+                    href="/Lancheira/de-110,01-a-120/Infantil?map=c,priceFrom,specificationFilter_107">De R$110,01 até
                     R$120,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Lancheira/de-120.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
+                    href="/Lancheira/de-120,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$120,01</a>
                 </li>
                 <li class="submenu__list__item submenu__list__item--seeAll">
@@ -272,26 +272,26 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-0.01-a-40/Infantil?map=c,priceFrom,specificationFilter_107">Até R$40,00</a>
+                    href="/Estojo/de-0,01-a-40/Infantil?map=c,priceFrom,specificationFilter_107">Até R$40,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-40.01-a-60/Infantil?map=c,priceFrom,specificationFilter_107">De R$40,01 até
+                    href="/Estojo/de-40,01-a-60/Infantil?map=c,priceFrom,specificationFilter_107">De R$40,01 até
                     R$60,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-60.01-a-80/Infantil?map=c,priceFrom,specificationFilter_107">De R$60,01 até
+                    href="/Estojo/de-60,01-a-80/Infantil?map=c,priceFrom,specificationFilter_107">De R$60,01 até
                     R$80,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-80.01-a-100/Infantil?map=c,priceFrom,specificationFilter_107">De R$80,01 até
+                    href="/Estojo/de-80,01-a-100/Infantil?map=c,priceFrom,specificationFilter_107">De R$80,01 até
                     R$100,00</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-100.01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
+                    href="/Estojo/de-100,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$100,01</a>
                 </li>
                 <li class="submenu__list__item submenu__list__item--seeAll">

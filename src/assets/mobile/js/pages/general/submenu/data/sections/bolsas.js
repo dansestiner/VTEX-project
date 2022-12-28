@@ -88,23 +88,23 @@ export const bolsas__content = {
     "content": [
       {
         "priceRange": "Até R$320,00",
-        "url": "/bolsa/de-0.01-a-320?map=c,priceFrom"
+        "url": "/bolsa/de-0,01-a-320?map=c,priceFrom"
       },
       {
         "priceRange": "De R$320,01 até R$370,00",
-        "url": "/bolsa/de-320.01-a-370?map=c,priceFrom"
+        "url": "/bolsa/de-320,01-a-370?map=c,priceFrom"
       },
       {
         "priceRange": "De R$370,01 até R$420,00",
-        "url": "/bolsa/de-370.01-a-420?map=c,priceFrom"
+        "url": "/bolsa/de-370,01-a-420?map=c,priceFrom"
       },
       {
         "priceRange": "De R$420,01 até R$460,00",
-        "url": "/bolsa/de-420.01-a-460?map=c,priceFrom"
+        "url": "/bolsa/de-420,01-a-460?map=c,priceFrom"
       },
       {
         "priceRange": "Acima de R$460,01",
-        "url": "/bolsa/de-460.01-a-99999?map=c,priceFrom"
+        "url": "/bolsa/de-460,01-a-99999?map=c,priceFrom"
       },
       {
         "priceRange": "VER TODOS",

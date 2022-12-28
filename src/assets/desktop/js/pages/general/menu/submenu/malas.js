@@ -169,19 +169,19 @@ export default function () {
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/de-0.01-a-430?map=c,priceFrom">Até R$430,00</a>
+                <a class="submenu__itemLink" href="/mala/de-0,01-a-430?map=c,priceFrom">Até R$430,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/de-430.01-a-520?map=c,priceFrom">De R$430,01 até R$520,00</a>
+                <a class="submenu__itemLink" href="/mala/de-430,01-a-520?map=c,priceFrom">De R$430,01 até R$520,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/de-520.01-a-580?map=c,priceFrom">De R$520,01 até R$580,00</a>
+                <a class="submenu__itemLink" href="/mala/de-520,01-a-580?map=c,priceFrom">De R$520,01 até R$580,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/de-580.01-a-620?map=c,priceFrom">De R$580,01 até R$620,00</a>
+                <a class="submenu__itemLink" href="/mala/de-580,01-a-620?map=c,priceFrom">De R$580,01 até R$620,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/de-620.01-a-99999?map=c,priceFrom">Acima de R$620,00</a>
+                <a class="submenu__itemLink" href="/mala/de-620,01-a-99999?map=c,priceFrom">Acima de R$620,00</a>
               </li>
               <li class="submenu__list__item submenu__list__item--seeAll">
                 <a class="submenu__itemLink" href="/mala?map=c">Ver todos</a>

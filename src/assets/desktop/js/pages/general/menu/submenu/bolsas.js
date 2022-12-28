@@ -101,19 +101,19 @@ export default function () {
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/de-0.01-a-320?map=c,priceFrom">Até R$320,00</a>
+                <a class="submenu__itemLink" href="/bolsa/de-0,01-a-320?map=c,priceFrom">Até R$320,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/de-320.01-a-370?map=c,priceFrom">De R$320,01 até R$370,00</a>
+                <a class="submenu__itemLink" href="/bolsa/de-320,01-a-370?map=c,priceFrom">De R$320,01 até R$370,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/de-370.01-a-420?map=c,priceFrom">De R$370,01 até R$420,00</a>
+                <a class="submenu__itemLink" href="/bolsa/de-370,01-a-420?map=c,priceFrom">De R$370,01 até R$420,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/de-420.01-a-460?map=c,priceFrom">De R$420,01 até R$460,00</a>
+                <a class="submenu__itemLink" href="/bolsa/de-420,01-a-460?map=c,priceFrom">De R$420,01 até R$460,00</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/de-460.01-a-99999?map=c,priceFrom">Acima de R$460,01</a>
+                <a class="submenu__itemLink" href="/bolsa/de-460,01-a-99999?map=c,priceFrom">Acima de R$460,01</a>
               </li>
               <li class="submenu__list__item submenu__list__item--seeAll">
                 <a class="submenu__itemLink" href="/bolsa?map=c">Ver todos</a>

@@ -142,23 +142,23 @@ export const malas__content = {
     "content": [
       {
         "priceRange": "Até R$430,00",
-        "url": "/mala/de-0.01-a-430?map=c,priceFrom"
+        "url": "/mala/de-0,01-a-430?map=c,priceFrom"
       },
       {
         "priceRange": "De R$430,01 até R$520,00",
-        "url": "/mala/de-430.01-a-520?map=c,priceFrom"
+        "url": "/mala/de-430,01-a-520?map=c,priceFrom"
       },
       {
         "priceRange": "De R$520,01 até R$580,00",
-        "url": "/mala/de-520.01-a-580?map=c,priceFrom"
+        "url": "/mala/de-520,01-a-580?map=c,priceFrom"
       },
       {
         "priceRange": "De R$580,01 até R$620,00",
-        "url": "/mala/de-580.01-a-620?map=c,priceFrom"
+        "url": "/mala/de-580,01-a-620?map=c,priceFrom"
       },
       {
         "priceRange": "Acima de R$620,00",
-        "url": "/mala/de-620.01-a-99999?map=c,priceFrom"
+        "url": "/mala/de-620,01-a-99999?map=c,priceFrom"
       },
       {
         "priceRange": "VER TODOS",

@@ -177,23 +177,23 @@ export const juvenil__content = {
     "content": [
       {
         "priceRange__mochila": "Até R$50,00",
-        "url": "/mochila/de-0.01-a-50.01/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-0,01-a-50,01/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$50,01 até R$80,00",
-        "url": "/mochila/de-50.01-a-80.01/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-50,01-a-80,01/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$80,01 até R$100,00",
-        "url": "/mochila/de-80.01-a-100.01/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-80,01-a-100,01/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "De R$100,01 até R$150,00",
-        "url": "/mochila/de-100.01-a-150.01/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-100,01-a-150,01/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "Acima de R$150,01",
-        "url": "/mochila/de-150.01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/mochila/de-150,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__mochila": "VER TODOS",
@@ -307,23 +307,23 @@ export const juvenil__content = {
     "content": [
       {
         "priceRange__lancheira": "Até R$50,00",
-        "url": "/Lancheira/de-0.01-a-50/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-0,01-a-50/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$50,01 até R$90,00",
-        "url": "/Lancheira/de-50.01-a-90/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-50,01-a-90/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$90,01 até R$110,00",
-        "url": "/Lancheira/de-90.01-a-110/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-90,01-a-110/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "De R$110,01 até R$120,00",
-        "url": "/Lancheira/de-110.01-a-120/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-110,01-a-120/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "Acima de R$120,01",
-        "url": "/Lancheira/de-120.01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Lancheira/de-120,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__lancheira": "VER TODOS",
@@ -454,23 +454,23 @@ export const juvenil__content = {
     "content": [
       {
         "priceRange__acessorio": "Até R$40,00",
-        "url": "/Estojo/de-0.01-a-40/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Estojo/de-0,01-a-40/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__acessorio": "De R$40,01 até R$60,00",
-        "url": "/Estojo/de-40.01-a-60/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Estojo/de-40,01-a-60/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__acessorio": "De R$60,01 até R$80,00",
-        "url": "/Estojo/de-60.01-a-80/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Estojo/de-60,01-a-80/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__acessorio": "De R$80,01 até R$100,00",
-        "url": "/Estojo/de-80.01-a-100/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Estojo/de-80,01-a-100/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__acessorio": "Acima de R$100,01",
-        "url": "/Estojo/de-100.01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
+        "url": "/Estojo/de-100,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
       {
         "priceRange__acessorio": "VER TODOS",

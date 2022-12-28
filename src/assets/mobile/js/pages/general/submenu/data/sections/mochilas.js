@@ -110,19 +110,19 @@ export const mochilas__content = {
     "content": [
       {
         "priceRange": "Até R$120,00",
-        "url": "/mochila/de-0.01-a-120?map=c,priceFrom"
+        "url": "/mochila/de-0,01-a-120?map=c,priceFrom"
       },
       {
         "priceRange": "De R$120,01 até R$160,00",
-        "url": "/mochila/de-120.01-a-160?map=c,priceFrom"
+        "url": "/mochila/de-120,01-a-160?map=c,priceFrom"
       },
       {
         "priceRange": "De R$160,01 até R$220,00",
-        "url": "/mochila/de-160.01-a-220?map=c,priceFrom"
+        "url": "/mochila/de-160,01-a-220?map=c,priceFrom"
       },
       {
         "priceRange": "De R$220,01 até R$300,00",
-        "url": "/mochila/de-220.01-a-300?map=c,priceFrom"
+        "url": "/mochila/de-220,01-a-300?map=c,priceFrom"
       },
       {
         "priceRange": "Acima de R$300,01",
