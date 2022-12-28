@@ -44,16 +44,16 @@ export function renderMenu() {
           <a class="menu__list__item__link" href="/425?map=productClusterIds#1">Executivo</a>
           ${Submenu__Executivo()}
         </li>
-        <li class="menu__list__item menu__list__item--strong">
+        <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/linha-sestini-pets">Pets</a>
         </li>
-        <li class="menu__list__item menu__list__item--strong">
+        <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/Kit">Kits</a>
         </li>
-        <li class="menu__list__item menu__list__item--strong">
+        <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/ative-o-modo-lancamento">Lançamentos</a>
         </li>
-        <li class="menu__list__item menu__list__item--strong">
+        <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/ofertas">Ofertas</a>
         </li>
       </ul>
