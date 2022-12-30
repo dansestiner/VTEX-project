@@ -3,96 +3,6 @@ export const malas__content = {
     "title": "Coleções",
     "content": [
       {
-        "collection": "Apolo",
-        "imgSrc": "/arquivos/apolo.jpg",
-        "url": "/mala/Apolo?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Classic",
-        "imgSrc": "/arquivos/classic.jpg",
-        "url": "/mala/Classic?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Cosmo",
-        "imgSrc": "/arquivos/Cosmo.jpg",
-        "url": "/mala/Cosmo?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Croco",
-        "imgSrc": "/arquivos/Croco.jpg",
-        "url": "/mala/Croco?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Gama",
-        "imgSrc": "/arquivos/Gama.jpg",
-        "url": "/mala/Gama?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Girls-VR",
-        "imgSrc": "/arquivos/Girls-VR.jpg",
-        "url": "/mala/Girls%20VR?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Ibiza",
-        "imgSrc": "/arquivos/Ibiza.jpg",
-        "url": "/mala/Ibiza?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "London",
-        "imgSrc": "/arquivos/London.jpg",
-        "url": "/mala/London?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Milão",
-        "imgSrc": "/arquivos/Milao.jpg",
-        "url": "/mala/Milão?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Montreal",
-        "imgSrc": "/arquivos/Montreal.jpg",
-        "url": "/mala/Montreal?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Paris",
-        "imgSrc": "/arquivos/Paris.jpg",
-        "url": "/mala/Paris?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "PP-Start",
-        "imgSrc": "/arquivos/PP-Start.jpg",
-        "url": "/mala/PP%20Start?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "PP-Ultra",
-        "imgSrc": "/arquivos/PP-Ultra.jpg",
-        "url": "/mala/PP%20Ultra?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Ultralight-5",
-        "imgSrc": "/arquivos/Ultralight.jpg",
-        "url": "/mala/Ultralight%205?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Ultralight-Plus",
-        "imgSrc": "/arquivos/Ultralight-Plus.jpg",
-        "url": "/mala/Ultralight%20Plus?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Voyage",
-        "imgSrc": "/arquivos/Voyage.jpg",
-        "url": "/mala/Voyage?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Wheeless",
-        "imgSrc": "/arquivos/Wheeless.jpg",
-        "url": "/mala/Wheeless?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Zigma",
-        "imgSrc": "/arquivos/Zigma.jpg",
-        "url": "/mala/Zigma?map=c,specificationFilter_110"
-      },
-      {
         "collection": "4-All",
         "imgSrc": "/arquivos/4-All.jpg",
         "url": "/mala/4%20All?map=c,specificationFilter_110"
@@ -111,6 +21,206 @@ export const malas__content = {
         "collection": "4-Life",
         "imgSrc": "/arquivos/4-Life.jpg",
         "url": "/mala/4%20Life?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Apolo",
+        "imgSrc": "/arquivos/apolo.jpg",
+        "url": "/mala/Apolo?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Atlanta",
+        "imgSrc": "/arquivos/Atlanta.jpg",
+        "url": "/mala/Atlanta?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Blocos",
+        "imgSrc": "/arquivos/Blocos.jpg",
+        "url": "/mala/Blocos?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Capri",
+        "imgSrc": "/arquivos/Capri.jpg",
+        "url": "/mala/Capri?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Classic",
+        "imgSrc": "/arquivos/classic.jpg",
+        "url": "/mala/Classic?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Colors",
+        "imgSrc": "/arquivos/SestiniColors.jpg",
+        "url": "/mala/Colors?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Cosmo",
+        "imgSrc": "/arquivos/Cosmo.jpg",
+        "url": "/mala/Cosmo?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Croácia",
+        "imgSrc": "/arquivos/Croacia.jpg",
+        "url": "/mala/Croácia?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Croco",
+        "imgSrc": "/arquivos/Croco.jpg",
+        "url": "/mala/Croco?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Gama",
+        "imgSrc": "/arquivos/Gama.jpg",
+        "url": "/mala/Gama?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Genebra",
+        "imgSrc": "/arquivos/Genebra.jpg",
+        "url": "/mala/Genebra?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Girls-VR",
+        "imgSrc": "/arquivos/Girls-VR.jpg",
+        "url": "/mala/Girls%20VR?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Ibiza",
+        "imgSrc": "/arquivos/Ibiza.jpg",
+        "url": "/mala/Ibiza?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Kids",
+        "imgSrc": "/arquivos/Kids.jpg",
+        "url": "/mala/Kids?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Lisboa",
+        "imgSrc": "/arquivos/Lisboa.jpg",
+        "url": "/mala/Lisboa?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "London",
+        "imgSrc": "/arquivos/London.jpg",
+        "url": "/mala/London?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Milão",
+        "imgSrc": "/arquivos/Milao.jpg",
+        "url": "/mala/Milão?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Minecraft",
+        "imgSrc": "/arquivos/Minecraft.jpg",
+        "url": "/mala/Minecraft?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Minions",
+        "imgSrc": "/arquivos/Minions.jpg",
+        "url": "/mala/Minions?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Montreal",
+        "imgSrc": "/arquivos/Montreal.jpg",
+        "url": "/mala/Montreal?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "NBA",
+        "imgSrc": "/arquivos/NBA.jpg",
+        "url": "/mala/NBA?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Ômega",
+        "imgSrc": "/arquivos/Omega.jpg",
+        "url": "/mala/Omega?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Órion",
+        "imgSrc": "/arquivos/orion.jpg",
+        "url": "/mala/Orion?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Paris",
+        "imgSrc": "/arquivos/Paris.jpg",
+        "url": "/mala/Paris?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Paris Saint-German",
+        "imgSrc": "/arquivos/Mala_PSG.jpg",
+        "url": "/mala/Paris%20Saint-German?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "PP-Start",
+        "imgSrc": "/arquivos/PP-Start.jpg",
+        "url": "/mala/PP%20Start?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "PP-Ultra",
+        "imgSrc": "/arquivos/PP-Ultra.jpg",
+        "url": "/mala/PP%20Ultra?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Riviera",
+        "imgSrc": "/arquivos/Riviera.jpg",
+        "url": "/mala/Riviera?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "TO Cross",
+        "imgSrc": "/arquivos/Cross.jpg",
+        "url": "/mala/Cross?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "TO Fly",
+        "imgSrc": "/arquivos/Fly.jpg",
+        "url": "/mala/Fly?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "TO Go",
+        "imgSrc": "/arquivos/TO_Go.jpg",
+        "url": "/mala/Go?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "TO Travel",
+        "imgSrc": "/arquivos/TO_Travel.jpg",
+        "url": "/mala/Travel?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Ultralight-5",
+        "imgSrc": "/arquivos/Ultralight.jpg",
+        "url": "/mala/Ultralight%205?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Ultralight-Plus",
+        "imgSrc": "/arquivos/Ultralight-Plus.jpg",
+        "url": "/mala/Ultralight%20Plus?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Vega",
+        "imgSrc": "/arquivos/Vega.jpg",
+        "url": "/mala/Vega?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Vênus",
+        "imgSrc": "/arquivos/Venus.jpg",
+        "url": "/mala/Venus?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Voyage",
+        "imgSrc": "/arquivos/Voyage.jpg",
+        "url": "/mala/Voyage?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Wheeless",
+        "imgSrc": "/arquivos/Wheeless.jpg",
+        "url": "/mala/Wheeless?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Zafira",
+        "imgSrc": "/arquivos/Zafira.jpg",
+        "url": "/mala/Zafira?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Zigma",
+        "imgSrc": "/arquivos/Zigma.jpg",
+        "url": "/mala/Zigma?map=c,specificationFilter_110"
       },
       {
         "collection": "Ver todas as Malas",
