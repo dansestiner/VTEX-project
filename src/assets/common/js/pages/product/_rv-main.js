@@ -15,12 +15,46 @@ const Methods = {
     Sestini.simulateClick(firstSku);
   },
 
+  structuredData(product) {
+    const actualDate = new Date().toISOString().split("T")[0];
+    const data = {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      name: product.productName,
+      description: product.description,
+      sku: product.productReference,
+      brand: {
+        "@type": "Brand",
+        name: product.brand,
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://example.com/anvil",
+        priceCurrency: "BRL",
+        price: $(".x-product__best-price span")
+          .html()
+          .replace("R$ ", "")
+          .replace(",", "."),
+        priceValidUntil: actualDate,
+        itemCondition: "https://schema.org/NewCondition",
+        availability: "https://schema.org/InStock",
+      },
+    };
+    const script = document.createElement('script');
+    script.type = "application/ld+json"
+    script.textContent = JSON.stringify(data)
+    console.log(document, document.head)
+    console.log(document.head.appendChild(script))
+    console.log('oi')
+  },
+
   getData() {
     skuJson.isCamelized = true;
 
     Sestini.vtexCatalog
       .searchProduct(skuJson.productId)
       .then((product) => {
+        Methods.structuredData(product);
         ProductRvData.productResponse = product;
 
         if (product.items.length == 1) {
@@ -52,9 +86,15 @@ const Methods = {
         //ProductRvData.notebookSize = product["Tamanho do Notebook (pol)"] + " polegadas";
         //ProductRvData.notebookCompartment = product["Compartimento Notebook (LxA)"] + " cm";
 
-        product["Tamanho do Notebook (pol)"] != undefined ? (ProductRvData.notebookSize = product["Tamanho do Notebook (pol)"] + " polegadas") : ''
+        product["Tamanho do Notebook (pol)"] != undefined
+          ? (ProductRvData.notebookSize =
+              product["Tamanho do Notebook (pol)"] + " polegadas")
+          : "";
 
-        product["Compartimento Notebook (LxA)"] != undefined ? (ProductRvData.notebookCompartment = product["Compartimento Notebook (LxA)"] + " cm") : '' 
+        product["Compartimento Notebook (LxA)"] != undefined
+          ? (ProductRvData.notebookCompartment =
+              product["Compartimento Notebook (LxA)"] + " cm")
+          : "";
 
         product["Capacidade Total (L)"] != undefined
           ? (ProductRvData.totalcap = product["Capacidade Total (L)"] + " L")

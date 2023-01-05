@@ -113,7 +113,8 @@ const Methods = {
           >
             <span>Black Friday</span>
           </div>`)
-          : $(".x-product__img-content").append(`<div class="flag-blackfriday-mobile"
+          : $(".x-product__img-content")
+              .append(`<div class="flag-blackfriday-mobile"
           style="
             position: absolute;
             font-family: Montserrat;
