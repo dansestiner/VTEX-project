@@ -40,12 +40,25 @@ const Methods = {
         availability: "https://schema.org/InStock",
       },
     };
-    const script = document.createElement('script');
-    script.type = "application/ld+json"
-    script.textContent = JSON.stringify(data)
-    console.log(document, document.head)
-    console.log(document.head.appendChild(script))
-    console.log('oi')
+    const script = document.createElement("script");
+    script.type = "application/ld+json";
+    script.textContent = JSON.stringify(data);
+  },
+
+  metaTags(product) {
+    console.log(product);
+    $("title").html(product.productName + " | Sestini Oficial");
+    $("meta").each((i, el) => {
+      if (
+        $(el).attr("property") === "og:image" ||
+        $(el).attr("name") === "og:image"
+      ) {
+        $(el).remove();
+      }
+    });
+    $("head").append(
+      `<meta name="og:image" content="${product.items[0].images[0].imageUrl}">`
+    );
   },
 
   getData() {
@@ -55,6 +68,7 @@ const Methods = {
       .searchProduct(skuJson.productId)
       .then((product) => {
         Methods.structuredData(product);
+        Methods.metaTags(product);
         ProductRvData.productResponse = product;
 
         if (product.items.length == 1) {
