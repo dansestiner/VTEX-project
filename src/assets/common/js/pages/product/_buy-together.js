@@ -74,8 +74,8 @@ const Methods = {
                 // Count total produts
                 totalProducts++
                 // Set link
-                const productId = $(el).attr('data-product-id')
-                idsForCartLink.push({ id: productId, quantity: 1, seller: '1' })
+                //const productId = $(el).attr('data-product-id')
+                //idsForCartLink.push({ id: productId, quantity: 1, seller: '1' })
             }
         })
 
@@ -85,9 +85,17 @@ const Methods = {
             totalEconomy = totalEconomy + (oldPriceMainProduct - priceMainProduct)
         }
 
-        const mainProductId = dataLayer[0].productId
-        idsForCartLink.push({ id: mainProductId, quantity: 1, seller: '1' })
 
+        $('.buy-product-checkbox').each((i, el) => {
+            if (!$(el).hasClass('disabled')) {
+                const mainProductId = $(el).attr('rel');
+                console.log(mainProductId)
+                idsForCartLink.push(
+                    { id: mainProductId, quantity: 1, seller: '1' },
+                )
+            }
+        });
+        
         totalPrice += priceMainProduct
 
         $('#bt-qnt-products').html(totalProducts)
