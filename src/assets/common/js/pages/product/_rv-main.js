@@ -31,10 +31,7 @@ const Methods = {
         "@type": "Offer",
         url: "https://example.com/anvil",
         priceCurrency: "BRL",
-        price: $(".x-product__best-price span")
-          .html()
-          .replace("R$ ", "")
-          .replace(",", "."),
+        price: $(".x-product__best-price span") ? undefined : $(".x-product__best-price span").html().replace("R$ ", "").replace(",", "."),
         priceValidUntil: actualDate,
         itemCondition: "https://schema.org/NewCondition",
         availability: "https://schema.org/InStock",
