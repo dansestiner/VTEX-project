@@ -48,7 +48,7 @@ export function renderMenu() {
           <a class="menu__list__item__link" href="/linha-sestini-pets">Pets</a>
         </li>
         <li class="menu__list__item menu__list__item">
-          <a class="menu__list__item__link" href="/Kit">Kits</a>
+          <a class="menu__list__item__link" href="/kits-de-malas">Kits</a>
         </li>
         <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/ative-o-modo-lancamento">Lançamentos</a>
