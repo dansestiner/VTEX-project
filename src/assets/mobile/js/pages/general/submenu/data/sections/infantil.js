@@ -3,6 +3,21 @@ export const infantil__content = {
     "title": "Categorias",
     "content": [
       {
+        "collections": "A Casa Mágica da Gabby",
+        "imgSrc": "/arquivos/A-Casa-Mágica-da-Gabby.jpg",
+        "url": "/gabby"
+      },
+      {
+        "collections": "Alien",
+        "imgSrc": "/arquivos/Alien.jpg",
+        "url": "/alien"
+      },
+      {
+        "collections": "Anime",
+        "imgSrc": "/arquivos/Anime.jpg",
+        "url": "/anime"
+      },
+      {
         "collections": "Anymalu",
         "imgSrc": "/arquivos/Anymalu.jpg",
         "url": "/Anymalu?map=specificationFilter_110"
@@ -13,9 +28,31 @@ export const infantil__content = {
         "url": "/Authentic%20Games?map=specificationFilter_110"
       },
       {
+        "collections": "Bloco",
+        "imgSrc": "/arquivos/blocos.jpg",
+        "url": "/blocos"
+      },
+      {
+        "collections": "Colors",
+        "imgSrc": "/arquivos/Mala_Colors.jpg",
+        "url": "/mala/Colors?map=c,specificationFilter_110"
+      },
+      
+      {
         "collections": "Dino",
-        "imgSrc": "/arquivos/Dino.jpg",
+        "imgSrc": "/arquivos/Dino-hover.jpg",
         "url": "/Dino?map=specificationFilter_110"
+      },
+      
+      {
+        "collections": "Fantasy",
+        "imgSrc": "/arquivos/Fantasy.jpg",
+        "url": "/fantasy"
+      },
+      {
+        "collections": "Floral",
+        "imgSrc": "/arquivos/Floral.jpg",
+        "url": "/plus%20floral"
       },
       {
         "collections": "Futebol",
@@ -28,9 +65,24 @@ export const infantil__content = {
         "url": "/Game?map=specificationFilter_110"
       },
       {
+        "collections": "Game Over",
+        "imgSrc": "/arquivos/Game-Over.jpg",
+        "url": "/game%20over"
+      },     
+      {
+        "collections": "Girafa",
+        "imgSrc": "/arquivos/girafa.jpg",
+        "url": "/girafa"
+      },
+      {
         "collections": "Judy",
-        "imgSrc": "/arquivos/Judy.jpg",
+        "imgSrc": "/arquivos/judy.jpg",
         "url": "/Judy?map=specificationFilter_110"
+      },
+      {
+        "collections": "Jurassic",
+        "imgSrc": "/arquivos/Jurassic.jpg",
+        "url": "/jurassic"
       },
       {
         "collections": "Kids",
@@ -38,9 +90,49 @@ export const infantil__content = {
         "url": "/Kids?map=specificationFilter_110"
       },
       {
+        "collections": "Love",
+        "imgSrc": "/arquivos/love.jpg",
+        "url": "/x%20love"
+      },
+      {
+        "collections": "Lulu",
+        "imgSrc": "/arquivos/lulu.jpg",
+        "url": "/lulu"
+      },
+      {
+        "collections": "Mermaid",
+        "imgSrc": "/arquivos/Mermaid.jpg",
+        "url": "/mermaid"
+      },
+      {
+        "collections": "Minecraft",
+        "imgSrc": "/arquivos/MochilaMinecraft.jpg",
+        "url": "/minecraft"
+      },
+      {
+        "collections": "Minions",
+        "imgSrc": "/arquivos/MochilaMinions.jpg",
+        "url": "/minions"
+      },
+      {
+        "collections": "Panda",
+        "imgSrc": "/arquivos/Panda.jpg",
+        "url": "/panda"
+      },
+      {
+        "collections": "Paris Saint-German",
+        "imgSrc": "/arquivos/Paris-Saint-German.jpg",
+        "url": "/psg"
+      },
+      {
         "collections": "Pets",
         "imgSrc": "/arquivos/Sestini-Pets.jpg",
         "url": "/Pets?map=specificationFilter_110"
+      },
+      {
+        "collections": "Plush",
+        "imgSrc": "/arquivos/Plush.jpg",
+        "url": "/plush"
       },
       {
         "collections": "Sereia",
@@ -48,9 +140,29 @@ export const infantil__content = {
         "url": "/Sereia?map=specificationFilter_110"
       },
       {
+        "collections": "Star",
+        "imgSrc": "/arquivos/star.jpg",
+        "url": "/Y%20star"
+      },
+      {
+        "collections": "Street",
+        "imgSrc": "/arquivos/Street.jpg",
+        "url": "/plus%20street"
+      },
+      {
+        "collections": "Surf",
+        "imgSrc": "/arquivos/surf.jpg",
+        "url": "/surf"
+      },
+      {
         "collections": "Tini",
         "imgSrc": "/arquivos/Tini.jpg",
         "url": "/Tini?map=specificationFilter_110"
+      },
+      {
+        "collections": "Tubarão",
+        "imgSrc": "/arquivos/Tubarão.jpg",
+        "url": "/tubarão"
       },
       {
         "collections": "Unicórnio",
