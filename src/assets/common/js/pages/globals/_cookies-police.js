@@ -2,7 +2,7 @@ import Cookies from '../../utils/cookies.js';
 
 const cookiesPolice = {
     init() {
-        this.verifyCookie();
+        //this.verifyCookie();
     },
     verifyCookie() {
         const template = `<section class="x-cookies">
