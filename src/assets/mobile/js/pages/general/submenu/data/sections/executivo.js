@@ -521,24 +521,28 @@ export const executivo__content = {
     "title": "Por faixa de preço",
     "content": [
       {
-        "priceRange__necessaire": "Até R$80,00",
-        "url": "/necessaire/de-0,01-a-80,01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "priceRange": "Até R$40,00",
+        "url": "/acessorios/necessaire/de-0,01-a-40?map=c,c,priceFrom"
       },
       {
-        "priceRange__necessaire": "De R$80,00 até R$100,00",
-        "url": "/necessaire/de-80,01-a-100,01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "priceRange": "De R$40,01 até R$60,00",
+        "url": "/acessorios/necessaire/de-40,01-a-60?map=c,c,priceFrom"
       },
       {
-        "priceRange__necessaire": "De R$100,01 até R$150,00",
-        "url": "/necessaire/de-100,01-a-150,01/Executiva?map=c,priceFrom,specificationFilter_106"
+        "priceRange": "De R$60,01 até R$80,00",
+        "url": "/acessorios/necessaire/de-60,01-a-80?map=c,c,priceFrom"
       },
       {
-        "priceRange__necessaire": "Acima de R$150,01",
-        "url": "/necessaire/de-150,01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106"
+        "priceRange": "De R$80,01 até R$100,00",
+        "url": "/acessorios/necessaire/de-80,01-a-100?map=c,c,priceFrom"
+      },
+      {
+        "priceRange": "Acima de R$100,01",
+        "url": "/acessorios/necessaire/de-100,01-a-99999?map=c,c,priceFrom"
       },
       {
         "priceRange__necessaire": "VER TODOS",
-        "url": "/necessaire/Executiva?map=c,specificationFilter_106"
+        "url": "/acessorios?map=c"
       }
     ]
   },
@@ -549,7 +553,7 @@ export const executivo__content = {
       {
         "seeToo": "Bolsa",
         "imgSrc": "/arquivos/Bolsa.jpg",
-        "url": "/bolsa/Executiva?map=c,specificationFilter_106"
+        "url": "/bolsas?map=c"
       },
       {
         "seeToo": "Esportivo",
