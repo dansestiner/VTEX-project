@@ -367,9 +367,9 @@ export default function () {
                     title="Filtrar por: Cor azul">Azul</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--white"
-                    href="/Estojo/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor branca">Branco</a>
+                  <a class="submenu__itemLink--color submenu__itemLink--gray"
+                    href="/Estojo/Cinza/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                    title="Filtrar por: Cor cinza">Cinza</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--golden"

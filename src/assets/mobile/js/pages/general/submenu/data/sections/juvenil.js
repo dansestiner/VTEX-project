@@ -351,16 +351,16 @@ export const juvenil__content = {
         "hexCode": "#0e45f5;",
         "url": "/Estojo/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
-      {
+      /*{
         "perColor__acessorio": "Branco",
         "hexCode": "white;",
         "url": "/Estojo/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
-      /*{
+      },*/
+      {
         "perColor__acessorio": "Cinza",
         "hexCode": "#d8d8d8;", 
-        "url": "/Estojo/Cinza,Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-      },*/
+        "url": "/Estojo/Cinza/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+      },
       {
         "perColor__acessorio": "Dourado",
         "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
