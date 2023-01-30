@@ -75,6 +75,18 @@ export default function () {
                 <img src="/arquivos/bolsa-Tote.jpg" width="250px" height="588px" alt="Categoria Tote" />
               </div>
             </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/429?map=productClusterIds#1">Praia</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Praia.jpg" width="250px" height="588px" alt="Categoria Praia" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Pets?map=c">Pets</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Pets.jpg" width="250px" height="588px" alt="Categoria Pets" />
+              </div>
+            </li>
             <li class="submenu__list__item submenu__list__item--seeAll">
               <a class="submenu__itemLink" href="/bolsa?map=c">Ver todas as Bolsas</a>
             </li>

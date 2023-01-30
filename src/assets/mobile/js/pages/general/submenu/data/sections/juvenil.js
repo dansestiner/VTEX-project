@@ -3,29 +3,14 @@ export const juvenil__content = {
     "title": "Coleções",
     "content": [
       {
-        "collections": "Capricho",
-        "imgSrc": "/arquivos/Capricho.jpg",
-        "url": "/Capricho?map=specificationFilter_110"
-      },
-      {
-        "collections": "Happy",
-        "imgSrc": "/arquivos/Happy.jpg",
-        "url": "/Happy?map=specificationFilter_110"
-      },
-      {
-        "collections": "Paul Frank",
-        "imgSrc": "/arquivos/Paul Frank.jpg",
-        "url": "/Paul%20Frank?map=specificationFilter_110"
-      },
-      {
-        "collections": "Magic",
-        "imgSrc": "/arquivos/Magic.jpg",
-        "url": "/Magic?map=specificationFilter_110"
-      },
-      {
         "collections": "College",
         "imgSrc": "/arquivos/College.jpg",
         "url": "/College?map=specificationFilter_110"
+      },
+      {
+        "collections": "Evolution",
+        "imgSrc": "/arquivos/Evolution.jpg",
+        "url": "/Evolution#1"
       },
       {
         "collections": "Fit",
@@ -38,10 +23,35 @@ export const juvenil__content = {
         "url": "/Focuz?map=specificationFilter_110"
       },
       {
+        "collections": "Happy",
+        "imgSrc": "/arquivos/Happy.jpg",
+        "url": "/Happy?map=specificationFilter_110"
+      },
+      {
         "collections": "Lunch",
         "imgSrc": "/arquivos/Lunch.jpg",
         "url": "/Lunch?map=specificationFilter_110"
       },
+      {
+        "collections": "Magic",
+        "imgSrc": "/arquivos/Magic.jpg",
+        "url": "/Magic?map=specificationFilter_110"
+      },
+      {
+        "collections": "NBA",
+        "imgSrc": "/arquivos/NBA-juvenil.jpg",
+        "url": "/nba#1"
+      },
+      {
+        "collections": "Paris Saint-German",
+        "imgSrc": "/arquivos/MochilaPSG.jpg",
+        "url": "/psg#1"
+      },
+      {
+        "collections": "Paul Frank",
+        "imgSrc": "/arquivos/Paul Frank.jpg",
+        "url": "/Paul%20Frank?map=specificationFilter_110"
+      },      
       {
         "collections": "Rolling",
         "imgSrc": "/arquivos/Rolling.jpg",
@@ -49,8 +59,13 @@ export const juvenil__content = {
       },
       {
         "collections": "Selfie",
-        "imgSrc": "/arquivos/Selfie.jpg",
+        "imgSrc": "/arquivos/Selfie-juvenil.jpg",
         "url": "/Selfie?map=specificationFilter_110"
+      },
+      {
+        "collections": "Urbano",
+        "imgSrc": "/arquivos/Urbano.jpg",
+        "url": "/Urbano?map=specificationFilter_110"
       },
       {
         "collections": "Ver todos os Produtos",

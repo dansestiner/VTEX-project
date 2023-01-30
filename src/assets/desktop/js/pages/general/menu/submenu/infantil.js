@@ -60,7 +60,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/fantasy">Fantasy</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Dino-hover.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
+                <img src="/arquivos/Fantasy.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
               </div>
             </li>
             <li class="submenu__list__item">

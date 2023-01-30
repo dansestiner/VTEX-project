@@ -63,6 +63,16 @@ export const bolsas__content = {
         "url": "/bolsa/Tote?map=c,c"
       },
       {
+        "categories": "Praia",
+        "imgSrc": "/arquivos/Praia.jpg",
+        "url": "/429?map=productClusterIds#1"
+      },
+      {
+        "categories": "Pets",
+        "imgSrc": "/arquivos/Pets.jpg",
+        "url": "/Pets?map=c"
+      },
+      {
         "categories": "Ver todas as Bolsas",
         "url": "/bolsa?map=c"
       }
