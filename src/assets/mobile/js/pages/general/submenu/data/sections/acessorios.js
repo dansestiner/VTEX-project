@@ -98,11 +98,11 @@ export const acessorios__content = {
         "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
         "url": "/acessorios/Colorido?map=c,specificationFilter_42"
       },
-      {
+     /*{
         "perColor": "Amarelo",
         "hexCode": "yellow;",
         "url": "/acessorios/Amarelo?map=c,specificationFilter_42"
-      },
+      },*/
       {
         "perColor": "Azul",
         "hexCode": "#0e45f5;",

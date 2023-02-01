@@ -118,10 +118,6 @@ export default function () {
                   href="/acessorios/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                  href="/acessorios/Amarelo?map=c,specificationFilter_42" title="Filtrar por: Cor amarelo">Amarelo</a>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--blue"
                   href="/acessorios/Azul?map=c,specificationFilter_42" title="Filtrar por: Cor azul">Azul</a>
               </li>

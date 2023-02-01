@@ -8,112 +8,450 @@ export default function () {
         <!-- [ INICIO ] COLUNA 01 -->
         <li class="submenu__item submenu__item--col1">
           <div class="submenu__item__heading">Coleções</div>
-          <ul class="submenu__list">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executivo" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Infantil</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Juvenil</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Esportiva?map=c,specificationFilter_106">Esportiva</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportivo" />
-              </div>
-            </li>
-            <li class="submenu__list__item"><a class="submenu__itemLink"
-                href="/mochila/Capricho?map=c,specificationFilter_110">Capricho</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/paul-frank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Magic?map=c,specificationFilter_110">Magic</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Magic.jpg" width="250px" height="588px" alt="Coleção Magic" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/College?map=c,specificationFilter_110">College</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Rolling?map=c,specificationFilter_110">Rolling</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Rolling.jpg" width="250px" height="588px" alt="Coleção Rolling" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Prime?map=c,specificationFilter_110">Prime</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/ST3000?map=c,specificationFilter_110">ST3000</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/ST3000.jpg" width="250px" height="588px" alt="Coleção ST3000" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Alliance?map=c,specificationFilter_110">Alliance</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Alliance.jpg" width="250px" height="588px" alt="Coleção Alliance" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Safe?map=c,specificationFilter_110">Safe</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Safe.jpg" width="250px" height="588px" alt="Coleção Safe" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Liv?map=c,specificationFilter_110">Liv</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Liv.jpg" width="250px" height="588px" alt="Coleção Liv" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Dry?map=c,specificationFilter_110">Dry</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Web%203.0?map=c,specificationFilter_110">Web 3.0</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/web-3.0.jpg" width="250px" height="588px" alt="Coleção Web 3.0" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Focuz?map=c,specificationFilter_110">Focuz</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
-              </div>
-            </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/mochila?map=c">Ver todas as Mochilas</a>
-            </li>
+            <ul class="submenu__list">
+              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/gabby">A Casa Mágica da Gabby</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/A-Casa-Mágica-da-Gabby.jpg" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Active?map=specificationFilter_110">Active</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Active.jpg" width="250px" height="588px" alt="Coleção Active" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/alien">Alien</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Alien.jpg" width="250px" height="588px" alt="Coleção Alien" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Alliance?map=c,specificationFilter_110">Alliance</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Alliance.jpg" width="250px" height="588px" alt="Coleção Alliance" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/anime">Anime</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Anime.jpg" width="250px" height="588px" alt="Coleção Anime" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Anymalu?map=specificationFilter_110">Anymalu</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Anymalu.jpg" width="250px" height="588px" alt="Coleção Anymalu" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Authentic%20Games?map=specificationFilter_110">Authentic Games</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Authentic-Games.jpg" width="250px" height="588px" alt="Coleção Authentic Games" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Capricho?map=c,specificationFilter_110">Capricho</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/College?map=c,specificationFilter_110">College</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Dino?map=specificationFilter_110">Dino</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/Dino.jpg" width="250px" height="588px" alt="Coleção Dino" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Dry?map=c,specificationFilter_110">Dry</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Easy?map=specificationFilter_110">Easy</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
+                  </div>
+              </li>              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Esportiva?map=c,specificationFilter_106">Esportivo</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportivo" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Evolution#1">Evolution</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/Evolution.jpg" width="250px" height="588px" alt="Coleção Evolution" />
+                  </div>
+              </li>
+              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executivo" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/fantasy#1">Fantasy</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Fantasy.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Fit?map=specificationFilter_110">Fit</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Fit.jpg" width="250px" height="588px" alt="Coleção Fit" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/plus%20floral#1">Floral</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Floral.jpg" width="250px" height="588px" alt="Coleção Floral" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Focuz?map=c,specificationFilter_110">Focuz</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Futebol?map=specificationFilter_110">Futebol</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Futebol.jpg" width="250px" height="588px" alt="Coleção Futebol" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Game?map=specificationFilter_110">Game</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Game.jpg" width="250px" height="588px" alt="Coleção Game" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/game%20over">Game Over</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/game%20over">Game Over</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
+                </div>
+              </li>
+              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/girafa#1">Girafa</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/girafa.jpg" width="250px" height="588px" alt="Coleção Girafa" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Happy?map=specificationFilter_110">Happy</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Harvest?map=specificationFilter_110">Harvest</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Harvest.jpg" width="250px" height="588px" alt="Coleção Harvest" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Infantil</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Judy?map=specificationFilter_110">Judy</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Judy.jpg" width="250px" height="588px" alt="Coleção Judy" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/jurassic#1">Jurassic</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Jurassic.jpg" width="250px" height="588px" alt="Coleção Jurassic" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Juvenil</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Kids?map=specificationFilter_110">kids</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Sestini-Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Liv?map=c,specificationFilter_110">Liv</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Liv.jpg" width="250px" height="588px" alt="Coleção Liv" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Load?map=specificationFilter_110">Load</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Load.jpg" width="250px" height="588px" alt="Coleção Load" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/x%20love#1">Love</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/love.jpg" width="250px" height="588px" alt="Coleção Love" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/lulu#1">Lulu</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/lulu.jpg" width="250px" height="588px" alt="Coleção Lulu" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Lunch?map=specificationFilter_110">Lunch</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Lunch.jpg" width="250px" height="588px" alt="Coleção Lunch" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Magic?map=c,specificationFilter_110">Magic</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Magic.jpg" width="250px" height="588px" alt="Coleção Magic" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mermaid">Mermaid</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Mermaid.jpg" width="250px" height="588px" alt="Coleção Mermaid" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/minecraft#1">Minecraft</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/MochilaMinecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/minions">Minions</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/MochilaMinions.jpg" width="250px" height="588px" alt="Coleção Minions" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/nba">NBA</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/NBA-juvenil.jpg" width="250px" height="588px" alt="Coleção NBA" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/panda">Panda</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Panda.jpg" width="250px" height="588px" alt="Coleção Panda" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/psg">Paris Saint-German</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/psg"></a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/paul-frank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Pets?map=specificationFilter_110">Pets</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Sestini-Pets.jpg" width="250px" height="588px" alt="Coleção Pets" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Pixie?map=specificationFilter_110">Pixie</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/plush#1">Plush</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Plush.jpg" width="250px" height="588px" alt="Coleção Plush" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Prime?map=c,specificationFilter_110">Prime</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Rolling?map=c,specificationFilter_110">Rolling</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Rolling.jpg" width="250px" height="588px" alt="Coleção Rolling" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Rover?map=specificationFilter_110">Rover</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Rover.jpg" width="250px" height="588px" alt="Coleção Rover" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Safe?map=c,specificationFilter_110">Safe</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Safe.jpg" width="250px" height="588px" alt="Coleção Safe" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Scarf?map=specificationFilter_110">Scarf</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Scarf.jpg" width="250px" height="588px" alt="Coleção Scarf" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Selfie?map=specificationFilter_110">Selfie</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Selfie.jpg" width="250px" height="588px" alt="Coleção Selfie" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Sereia?map=specificationFilter_110">Sereia</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Sereia.jpg" width="250px" height="588px" alt="Coleção Sereia" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Smart?map=specificationFilter_110">Smart</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Smart.jpg" width="250px" height="588px" alt="Coleção Smart" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/ST3000?map=c,specificationFilter_110">ST3000</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/ST3000.jpg" width="250px" height="588px" alt="Coleção ST3000" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Y%20star#1">Star</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Star.jpg" width="250px" height="588px" alt="Coleção Star" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/plus%20street">Street</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Street.jpg" width="250px" height="588px" alt="Coleção Street" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/surf">Surf</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Surf.jpg" width="250px" height="588px" alt="Coleção Surf" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Techno?map=specificationFilter_110">Techno</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Techno.jpg" width="250px" height="588px" alt="Coleção Techno" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Tini?map=specificationFilter_110">Tini</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/tubarão">Tubarão</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Unicornio?map=specificationFilter_110">Unicórnio</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
+                </div>
+              </li>
+
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Urbano?map=specificationFilter_110">Urban</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Urbano.jpg" width="250px" height="588px" alt="Coleção Urban" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Web%203.0?map=c,specificationFilter_110">Web 3.0</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/web-3.0.jpg" width="250px" height="588px" alt="Coleção Web 3.0" />
+                </div>
+              </li>
+              
+              <li class="submenu__list__item submenu__list__item--seeAll">
+                <a class="submenu__itemLink" href="/mochila?map=c">Ver todas as Mochilas</a>
+              </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->

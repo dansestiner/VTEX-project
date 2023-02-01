@@ -22,12 +22,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/bolsa/Clutch?map=c,c">Clutch</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/clutch.jpg" width="250px" height="588px" alt="Categoria Clutch" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Cross%20Bag?map=c,c">Cross Bag</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/cross-bag.jpg" width="250px" height="588px" alt="Categoria Cross Bag" />

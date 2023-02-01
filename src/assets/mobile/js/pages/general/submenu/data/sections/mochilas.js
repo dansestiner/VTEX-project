@@ -3,24 +3,39 @@ export const mochilas__content = {
     "title": "Coleções",
     "content": [
       {
-        "collection": "Executiva",
-        "imgSrc": "/arquivos/moch-executivo.jpg",
-        "url": "/mochila/Executiva?map=c,specificationFilter_106"
+        "collection": "A Casa Mágica da Gabby",
+        "imgSrc": "/arquivos/A-Casa-Mágica-da-Gabby.jpg",
+        "url": "/gabby"
       },
       {
-        "collection": "Infantil",
-        "imgSrc": "/arquivos/moch-infantil.jpg",
-        "url": "/mochila/Infantil?map=c,specificationFilter_107"
+        "collection": "Active",
+        "imgSrc": "/arquivos/Active.jpg",
+        "url": "/Active?map=specificationFilter_110"
       },
       {
-        "collection": "Juvenil",
-        "imgSrc": "/arquivos/moch-jovem.jpg",
-        "url": "/mochila/Juvenil?map=c,specificationFilter_107"
+        "collection": "Alien",
+        "imgSrc": "/arquivos/Alien.jpg",
+        "url": "/alien"
       },
       {
-        "collection": "Esportiva",
-        "imgSrc": "/arquivos/moch-esportivo.jpg",
-        "url": "/mochila/Esportiva?map=c,specificationFilter_106"
+        "collection": "Alliance",
+        "imgSrc": "/arquivos/Alliance.jpg",
+        "url": "/Alliance?map=specificationFilter_110"
+      },
+      {
+        "collection": "Anime",
+        "imgSrc": "/arquivos/Anime.jpg",
+        "url": "/anime"
+      },
+      {
+        "collection": "Anymalu",
+        "imgSrc": "/arquivos/Anymalu.jpg",
+        "url": "/Anymalu?map=specificationFilter_110"
+      },
+      {
+        "collection": "Authentic Games",
+        "imgSrc": "/arquivos/Authentic-Games.jpg",
+        "url": "/Authentic%20Games?map=specificationFilter_110"
       },
       {
         "collection": "Capricho",
@@ -28,49 +43,14 @@ export const mochilas__content = {
         "url": "/mochila/Capricho?map=c,specificationFilter_110"
       },
       {
-        "collection": "Paul Frank",
-        "imgSrc": "/arquivos/Paul-Frank.jpg",
-        "url": "/mochila/Paul%20Frank?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Magic",
-        "imgSrc": "/arquivos/Magic.jpg",
-        "url": "/mochila/Magic?map=c,specificationFilter_110"
-      },
-      {
         "collection": "College",
         "imgSrc": "/arquivos/College.jpg",
         "url": "/mochila/College?map=c,specificationFilter_110"
       },
       {
-        "collection": "Rolling",
-        "imgSrc": "/arquivos/Rolling.jpg",
-        "url": "/mochila/Rolling?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Prime",
-        "imgSrc": "/arquivos/Prime.jpg",
-        "url": "/mochila/Prime?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "ST3000",
-        "imgSrc": "/arquivos/ST3000.jpg",
-        "url": "/mochila/ST3000?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Alliance",
-        "imgSrc": "/arquivos/Alliance.jpg",
-        "url": "/mochila/Alliance?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Safe",
-        "imgSrc": "/arquivos/Safe.jpg",
-        "url": "/mochila/Safe?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Liv",
-        "imgSrc": "/arquivos/Liv.jpg",
-        "url": "/mochila/Liv?map=c,specificationFilter_110"
+        "collection": "Dino",
+        "imgSrc": "/arquivos/Dino.jpg",
+        "url": "/mochila/Dino?map=specificationFilter_110"
       },
       {
         "collection": "Dry",
@@ -78,14 +58,270 @@ export const mochilas__content = {
         "url": "/mochila/Dry?map=c,specificationFilter_110"
       },
       {
-        "collection": "Web 3.0",
-        "imgSrc": "/arquivos/web-3.0.jpg",
-        "url": "/mochila/Web%203.0?map=c,specificationFilter_110"
+        "collection": "Easy",
+        "imgSrc": "/arquivos/Easy.jpg",
+        "url": "/mochila/Easy?map=specificationFilter_110"
+      },
+      {
+        "collection": "Esportiva",
+        "imgSrc": "/arquivos/moch-esportivo.jpg",
+        "url": "/mochila/Esportiva?map=c,specificationFilter_106"
+      },
+      {
+        "collection": "Evolution",
+        "imgSrc": "/arquivos/Evolution.jpg",
+        "url": "/Evolution#1"
+      },
+      {
+        "collection": "Executiva",
+        "imgSrc": "/arquivos/moch-executivo.jpg",
+        "url": "/mochila/Executiva?map=c,specificationFilter_106"
+      },
+      {
+        "collection": "Fantasy",
+        "imgSrc": "/arquivos/Fantasy.jpg",
+        "url": "/fantasy#1"
+      },
+      {
+        "collection": "Fit",
+        "imgSrc": "/arquivos/Fit.jpg",
+        "url": "/Fit?map=specificationFilter_110"
+      },
+      {
+        "collection": "Floral",
+        "imgSrc": "/arquivos/Floral.jpg",
+        "url": "/plus%20floral#1"
       },
       {
         "collection": "Focuz",
         "imgSrc": "/arquivos/Focuz.jpg",
         "url": "/mochila/Focuz?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Futebol",
+        "imgSrc": "/arquivos/Futebol.jpg",
+        "url": "/Futebol?map=specificationFilter_110"
+      },
+      {
+        "collection": "Game",
+        "imgSrc": "/arquivos/Game.jpg",
+        "url": "/Game?map=specificationFilter_110"
+      },
+      {
+        "collection": "Game Over",
+        "imgSrc": "/arquivos/Game-Over.jpg",
+        "url": "/game%20over"
+      },
+      {
+        "collection": "Girafa",
+        "imgSrc": "/arquivos/girafa.jpg",
+        "url": "/girafa#1"
+      },
+      {
+        "collection": "Happy",
+        "imgSrc": "/arquivos/Happy.jpg",
+        "url": "/Happy?map=specificationFilter_110"
+      },
+      {
+        "collection": "Harvest",
+        "imgSrc": "/arquivos/Harvest.jpg",
+        "url": "/Harvest?map=specificationFilter_110"
+      },
+      {
+        "collection": "Infantil",
+        "imgSrc": "/arquivos/moch-infantil.jpg",
+        "url": "/mochila/Infantil?map=c,specificationFilter_107"
+      },
+      {
+        "collection": "Judy",
+        "imgSrc": "/arquivos/Judy.jpg",
+        "url": "/Judy?map=specificationFilter_110"
+      },
+      {
+        "collection": "Jurassic",
+        "imgSrc": "/arquivos/Jurassic.jpg",
+        "url": "/jurassic"
+      },
+      {
+        "collection": "Juvenil",
+        "imgSrc": "/arquivos/moch-jovem.jpg",
+        "url": "/mochila/Juvenil?map=c,specificationFilter_107"
+      },
+      {
+        "collection": "Kids",
+        "imgSrc": "/arquivos/Sestini-Kids.jpg",
+        "url": "/Kids?map=specificationFilter_110"
+      },
+      {
+        "collection": "Liv",
+        "imgSrc": "/arquivos/Liv.jpg",
+        "url": "/mochila/Liv?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Load",
+        "imgSrc": "/arquivos/Load.jpg",
+        "url": "/Load?map=specificationFilter_110"
+      },
+      {
+        "collection": "Love",
+        "imgSrc": "/arquivos/love.jpg",
+        "url": "/x%20love#1"
+      },
+      {
+        "collection": "Lulu",
+        "imgSrc": "/arquivos/lulu.jpg",
+        "url": "lulu#1"
+      },
+      {
+        "collection": "Lunch",
+        "imgSrc": "/arquivos/Lunch.jpg",
+        "url": "/Lunch?map=specificationFilter_110"
+      },
+      {
+        "collection": "Magic",
+        "imgSrc": "/arquivos/Magic.jpg",
+        "url": "/mochila/Magic?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Mermaid",
+        "imgSrc": "/arquivos/Mermaid.jpg",
+        "url": "/mermaid"
+      },
+      {
+        "collection": "Minecraft",
+        "imgSrc": "/arquivos/MochilaMinecraft.jpg",
+        "url": "/minecraft#1"
+      },
+      {
+        "collection": "Minions",
+        "imgSrc": "/arquivos/MochilaMinions.jpg",
+        "url": "/minions"
+      },
+
+      {
+        "collection": "NBA",
+        "imgSrc": "/arquivos/NBA-juvenil.jpg",
+        "url": "/nba"
+      },
+      {
+        "collection": "Panda",
+        "imgSrc": "/arquivos/Panda.jpg",
+        "url": "/panda"
+      },
+      {
+        "collection": "Paris Saint-German",
+        "imgSrc": "/arquivos/Paris-Saint-German.jpg",
+        "url": "/psg"
+      },
+      {
+        "collection": "Paul Frank",
+        "imgSrc": "/arquivos/Paul-Frank.jpg",
+        "url": "/mochila/Paul%20Frank?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Pets",
+        "imgSrc": "/arquivos/Sestini-Pets.jpg",
+        "url": "/Pets?map=specificationFilter_110"
+      },
+      {
+        "collection": "Pixie",
+        "imgSrc": "/arquivos/Pixie.jpg",
+        "url": "/Pixie?map=specificationFilter_110"
+      },
+      {
+        "collection": "Plush",
+        "imgSrc": "/arquivos/Plush.jpg",
+        "url": "/plush#1"
+      },
+      {
+        "collection": "Prime",
+        "imgSrc": "/arquivos/Prime.jpg",
+        "url": "/mochila/Prime?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Rolling",
+        "imgSrc": "/arquivos/Rolling.jpg",
+        "url": "/mochila/Rolling?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Rover",
+        "imgSrc": "/arquivos/Rover.jpg",
+        "url": "/Rover?map=specificationFilter_110"
+      },
+      {
+        "collection": "Safe",
+        "imgSrc": "/arquivos/Safe.jpg",
+        "url": "/mochila/Safe?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Scarf",
+        "imgSrc": "/arquivos/Scarf.jpg",
+        "url": "/Scarf?map=specificationFilter_110"
+      },
+      {
+        "collection": "Selfie",
+        "imgSrc": "/arquivos/Selfie.jpg",
+        "url": "/Selfie?map=specificationFilter_110"
+      },
+      {
+        "collection": "Sereia",
+        "imgSrc": "/arquivos/Sereia.jpg",
+        "url": "/Sereia?map=specificationFilter_110"
+      },
+      {
+        "collection": "Smart",
+        "imgSrc": "/arquivos/Smart.jpg",
+        "url": "/Smart?map=specificationFilter_110"
+      },
+      {
+        "collection": "ST3000",
+        "imgSrc": "/arquivos/ST3000.jpg",
+        "url": "/mochila/ST3000?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "Star",
+        "imgSrc": "/arquivos/Star.jpg",
+        "url": "/Y%20star#1"
+      },
+      {
+        "collection": "Street",
+        "imgSrc": "/arquivos/Street.jpg",
+        "url": "/plus%20street"
+      },
+      {
+        "collection": "Surf",
+        "imgSrc": "/arquivos/surf.jpg",
+        "url": "/surf"
+      },
+      {
+        "collection": "Techno",
+        "imgSrc": "/arquivos/Techno.jpg",
+        "url": "/Techno?map=specificationFilter_110"
+      },
+      {
+        "collection": "Tini",
+        "imgSrc": "/arquivos/Tini.jpg",
+        "url": "/Tini?map=specificationFilter_110"
+      },
+      {
+        "collection": "Tubarão",
+        "imgSrc": "/arquivos/Tubarão.jpg",
+        "url": "/tubarão"
+      },
+      {
+        "collection": "Unicórnio",
+        "imgSrc": "/arquivos/Unicornio.jpg",
+        "url": "/Unicornio?map=specificationFilter_110"
+      },
+      {
+        "collection": "Urban",
+        "imgSrc": "/arquivos/Urbano.jpg",
+        "url": "/Urbano?map=specificationFilter_110"
+      },
+      {
+        "collection": "Web 3.0",
+        "imgSrc": "/arquivos/web-3.0.jpg",
+        "url": "/mochila/Web%203.0?map=c,specificationFilter_110"
       },
       {
         "collection": "Ver todas as Mochilas",

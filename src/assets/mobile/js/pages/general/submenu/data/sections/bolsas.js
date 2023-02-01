@@ -12,11 +12,11 @@ export const bolsas__content = {
         "imgSrc": "/arquivos/bucket.jpg",
         "url": "/bolsa/Bucket?map=c,c"
       },
-      {
+      /*{ 
         "categories": "Clutch",
         "imgSrc": "/arquivos/clutch.jpg",
         "url": "/bolsa/Clutch?map=c,c"
-      },
+      },*/
       {
         "categories": "Cross Bag",
         "imgSrc": "/arquivos/cross-bag.jpg",
