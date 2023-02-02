@@ -388,12 +388,12 @@ export const mochilas__content = {
         "size": "Grande",
         "imgSrc": "/arquivos/moch-Grande.png",
         "url": "/mochila/Grande?map=c,specificationFilter_54"
-      },
-      {
+      }
+      /*{
         "size": "Extra Grande",
         "imgSrc": "/arquivos/tamanho-extra-grande.jpg",
         "url": "/mochila/Extra%20Grande?map=c,specificationFilter_54"
-      }
+      }*/
     ]
   },
 

@@ -502,10 +502,6 @@ export default function () {
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--backpack-big"
                   href="/mochila/Grande?map=c,specificationFilter_54">Grande</a>
               </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--backpack-xlbig"
-                  href="/mochila/Extra%20Grande?map=c,specificationFilter_54">Extra Grande</a>
-              </li>
             </ul>
           </div>
 
