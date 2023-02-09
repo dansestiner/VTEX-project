@@ -1,7 +1,7 @@
 import Common from '../../../../common/js/pages/category';
 
 const Methods = {
-        init() {
+        init() {            
             Common.init();
             setTimeout(() => {
                 Methods.setPaginationCustomization();
@@ -9,6 +9,43 @@ const Methods = {
             window.onhashchange = function() {
                 Methods.setPaginationCustomization();
             }
+            $(document).ready(function() {
+                $('body').addClass('loadBestShelf');
+                function bestResolutionImage(){    
+                    $('.x-shelf__item .x-shelf__placeloader').each(function(){
+                      let imageLinkFront = $(this).find('.x-shelf__img-front').attr('src').replace('157-189', '500-500');
+                      $(this).find('.x-shelf__img-front').attr('src', imageLinkFront);
+                
+                
+                      if( $(window).width() > 1025 ){
+                          let imageLinkBack = $(this).find('.x-shelf__img-back').attr('src').replace('157-189', '500-500');
+                          $(this).find('.x-shelf__img-back').attr('src', imageLinkBack);
+                      }        
+                    });
+                }
+                $('.cf-pagination').on('click', function(){
+                  var qtd = 0;
+                  var loadBestImage = setInterval(function () {
+                      bestResolutionImage()
+                      qtd++;
+                      if (qtd > 4) clearInterval(loadBestImage);
+                  }, 1500);
+                })
+                $('.multi-search-checkbox').on('click', function(){
+                    var qtd = 0;
+                    var loadBestImage = setInterval(function () {
+                        bestResolutionImage()
+                        qtd++;
+                        if (qtd > 4) clearInterval(loadBestImage);
+                    }, 1500);
+                })
+                setInterval(function () {
+                  if($('.x-shelf__img-front').length > 0){
+                    bestResolutionImage();
+                    return false;
+                  }
+                }, 20);  
+            });
         },
         setPaginationCustomization() {
             $(`.cf-pagination__button-last`).html(`Última Página`)
