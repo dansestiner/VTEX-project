@@ -45,7 +45,7 @@ export function renderMenu() {
           ${Submenu__Executivo()}
         </li>
         <li class="menu__list__item menu__list__item">
-          <a class="menu__list__item__link" href="/linha-sestini-pets">Pets</a>
+          <a class="menu__list__item__link" href="/pets-produtos">Pets</a>
         </li>
         <li class="menu__list__item menu__list__item">
           <a class="menu__list__item__link" href="/kits-de-malas">Kits</a>

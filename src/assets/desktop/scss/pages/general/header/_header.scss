@@ -1119,19 +1119,23 @@
   }
 
   &--board::before {
-    background-image: url(/arquivos/bag--board.jpg);
+    background-image: url(/arquivos/bag--board.jpg?v=1);
+    background-size: cover;
   }
 
   &--small::before {
-    background-image: url(/arquivos/bag--small.jpg);
+    background-image: url(/arquivos/bag--small.jpg?v=1);
+    background-size: cover;
   }
 
   &--medium::before {
-    background-image: url(/arquivos/bag--medium.jpg);
+    background-image: url(/arquivos/bag--medium.jpg?v=1);
+    background-size: cover;
   }
 
   &--big::before {
-    background-image: url(/arquivos/bag--big.jpg);
+    background-image: url(/arquivos/bag--big.jpg?v=1);
+    background-size: cover;
   }
 
   &--backpack-small::before {
