@@ -76,7 +76,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Pets?map=c">Pets</a>
+              <a class="submenu__itemLink" href="/linha-sestini-pets">Pets</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Pets.jpg" width="250px" height="588px" alt="Categoria Pets" />
               </div>
