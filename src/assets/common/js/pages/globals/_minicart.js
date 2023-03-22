@@ -124,7 +124,7 @@ const Methods = {
 
   setInstallmentsValue() {
     let total = parseFloat($('.x-minicart__subtotal-price').html().replace('R$ ', '').replace('.', '').replace(',', '.'), 2)
-    let installments = parseInt(total / 30)
+    let installments = parseInt(total / 20)
     if (installments > 1) {
       if (installments > 10) {
         let installmentsValue = parseFloat(total / 10).toFixed(2)

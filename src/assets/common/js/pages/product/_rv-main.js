@@ -94,8 +94,12 @@ const Methods = {
         ProductRvData.width = product["Largura(cm)"] + " cm";
         ProductRvData.depth = product["Profundidade (cm)"] + " cm";
         ProductRvData.weight = product["Peso (kg)"] + " kg";
-        //ProductRvData.notebookSize = product["Tamanho do Notebook (pol)"] + " polegadas";
-        //ProductRvData.notebookCompartment = product["Compartimento Notebook (LxA)"] + " cm";
+
+        
+        product["landingPage"] != undefined
+        ? (ProductRvData.LandingPage =
+            product["landingPage"])
+        : "";
 
         product["Tamanho do Notebook (pol)"] != undefined
           ? (ProductRvData.notebookSize =
@@ -427,7 +431,7 @@ const Methods = {
       var lastLink = "";
       var i = 0;
 
-      if (tamanhos[0].Ocasião == "Viagem") {
+      if (tamanhos[0].Ocasião == "Viagem" || "Escolar" || "Universidade") {
         tamanhos.forEach((key) => {
           const item = tamanhos[i];
           const itemLink = item.link;

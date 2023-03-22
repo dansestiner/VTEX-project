@@ -143,20 +143,6 @@ export default function () {
               </li>
 
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Game?map=specificationFilter_110">Game</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Game.jpg" width="250px" height="588px" alt="Coleção Game" />
-                </div>
-              </li>
-
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/game%20over">Game Over</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
-                </div>
-              </li>
-
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/game%20over">Game Over</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
