@@ -12,6 +12,11 @@ export const bolsas__content = {
         "imgSrc": "/arquivos/bucket.jpg",
         "url": "/bolsa/Bucket?map=c,c"
       },
+      {
+        "categories": "Capricho",
+        "imgSrc": "/arquivos/Bolsa_Capricho.png",
+        "url": "/bolsa/Capricho?map=c,specificationFilter_110"
+      },
       /*{ 
         "categories": "Clutch",
         "imgSrc": "/arquivos/clutch.jpg",
@@ -23,9 +28,19 @@ export const bolsas__content = {
         "url": "/bolsa/Cross%20Bag?map=c,c"
       },
       {
+        "categories": "Focuz",
+        "imgSrc": "/arquivos/Bolsa_Focuz.png",
+        "url": "/bolsa/Focuz?map=c,specificationFilter_110"
+      },
+      {
         "categories": "Hobo",
         "imgSrc": "/arquivos/hobo.jpg",
         "url": "/bolsa/Hobo?map=c,c"
+      },
+      {
+        "categories": "Liv",
+        "imgSrc": "/arquivos/Bolsa_Liv.png",
+        "url": "/bolsa/Liv?map=c,specificationFilter_110"
       },
       /*{
         "categories": "Maternidade",
@@ -43,9 +58,29 @@ export const bolsas__content = {
         "url": "/bolsa/Mochila?map=c,c"
       },
       {
+        "categories": "Pixie",
+        "imgSrc": "/arquivos/Bolsa_Pixie.png",
+        "url": "/bolsa/Pixie?map=c,specificationFilter_110"
+      },
+      {
         "categories": "Satchel",
         "imgSrc": "/arquivos/satchel.jpg",
         "url": "/bolsa/Satchel?map=c,c"
+      },
+      {
+        "categories": "Paul Frank",
+        "imgSrc": "/arquivos/Bolsa_PF.png",
+        "url": "/bolsa/Paul%20Frank"
+      },
+      {
+        "categories": "Monograma",
+        "imgSrc": "/arquivos/Bolsa_monograma.png",
+        "url": "/bolsa/Monograma?map=c,specificationFilter_110"
+      },
+      {
+        "categories": "Selfie",
+        "imgSrc": "/arquivos/Bolsa_Selfie.png",
+        "url": "/bolsa/Selfie?map=c,specificationFilter_110"
       },
       {
         "categories": "Shopping",

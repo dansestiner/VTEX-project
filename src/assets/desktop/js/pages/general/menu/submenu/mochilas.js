@@ -9,21 +9,37 @@ export default function () {
         <li class="submenu__item submenu__item--col1">
           <div class="submenu__item__heading">Coleções</div>
             <ul class="submenu__list">
-              
+              <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Infantil</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Juvenil</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executivo" />
+                </div>
+              </li>
+              <hr style="border: 1px solid #E5E5E5;width: 80%;text-align: left;margin-left: 0;"/>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/gabby">A Casa Mágica da Gabby</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/A-Casa-Mágica-da-Gabby.jpg" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Active?map=specificationFilter_110">Active</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Active.jpg" width="250px" height="588px" alt="Coleção Active" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/alien">Alien</a>
                 <div class="submenu__imageWrapper">
@@ -99,14 +115,6 @@ export default function () {
                     <img src="/arquivos/Evolution.jpg" width="250px" height="588px" alt="Coleção Evolution" />
                   </div>
               </li>
-              
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executivo" />
-                </div>
-              </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/fantasy#1">Fantasy</a>
                 <div class="submenu__imageWrapper">
@@ -169,14 +177,6 @@ export default function () {
                   <img src="/arquivos/Harvest.jpg" width="250px" height="588px" alt="Coleção Harvest" />
                 </div>
               </li>
-
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Infantil</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
-                </div>
-              </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Judy?map=specificationFilter_110">Judy</a>
                 <div class="submenu__imageWrapper">
@@ -187,12 +187,6 @@ export default function () {
                 <a class="submenu__itemLink" href="/jurassic#1">Jurassic</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Jurassic.jpg" width="250px" height="588px" alt="Coleção Jurassic" />
-                </div>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Juvenil</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -254,14 +248,18 @@ export default function () {
                   <img src="/arquivos/MochilaMinecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/minions">Minions</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/MochilaMinions.jpg" width="250px" height="588px" alt="Coleção Minions" />
                 </div>
               </li>
-
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/Monograma?map=specificationFilter_110">Monograma</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Mochila_Monograma.png" width="250px" height="588px" alt="Coleção Monograma" />
+                </div>
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/nba">NBA</a>
                 <div class="submenu__imageWrapper">
@@ -386,42 +384,36 @@ export default function () {
                   <img src="/arquivos/Street.jpg" width="250px" height="588px" alt="Coleção Street" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/surf">Surf</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Surf.jpg" width="250px" height="588px" alt="Coleção Surf" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Techno?map=specificationFilter_110">Techno</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Techno.jpg" width="250px" height="588px" alt="Coleção Techno" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Tini?map=specificationFilter_110">Tini</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/tubarão">Tubarão</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Unicornio?map=specificationFilter_110">Unicórnio</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Urbano?map=specificationFilter_110">Urban</a>
                 <div class="submenu__imageWrapper">
@@ -438,12 +430,13 @@ export default function () {
               <li class="submenu__list__item submenu__list__item--seeAll">
                 <a class="submenu__itemLink" href="/mochila?map=c">Ver todas as Mochilas</a>
               </li>
-          </ul>
+            </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
 
         <!-- [ INÍCIO ] COLUNA 02 -->
         <li class="submenu__item submenu__item--col2">
+          
           <div class="submenu__itemWrapper">
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
@@ -467,12 +460,89 @@ export default function () {
               </li>
             </ul>
           </div>
+
+          <!-- POR MATERIAL -->
+          <div class="submenu__itemWrapper por-material">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
+              Material</div>
+            <ul class="submenu__list">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Nylon?map=c,specificationFilter_72">Náilon</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Poliéster?map=c,specificationFilter_72">Poliéster</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72">Algodão</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/PVC?map=c,specificationFilter_72">PVC</a>
+              </li>
+            </ul>
+          </div>
+         <!-- POR MATERIAL -->
         </li>
+ 
         <!-- [ FIM ] COLUNA 02 -->
 
         <!-- [ INÍCIO ] COLUNA 03 -->
         <li class="submenu__item submenu__item--col3">
-          <!-- POR TAMANHO -->
+
+        <!-- POR TIPO -->
+        <div class="submenu__itemWrapper">
+          <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+            Por Tipo
+          </div>
+          <ul class="submenu__list submenu__list--row">
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--no-wheels"
+                href="/mochila/Sem%20Rodinhas?map=c,specificationFilter_57">Sem Rodinhas</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels"
+                href="/mochila/2%20Rodinhas?map=c,specificationFilter_57">Com Rodinhas</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
+                href="/mochila/Notebook?map=c,specificationFilter_56">Para
+                Notebook</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- [ INÍCIO ] POR GÊNERO  -->
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
+              Por gênero
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay-acessories"
+                  href="/mochila?map=c" title="Filtrar por: Para Todos">Para
+                  Todos</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--female"
+                  href="/mochila/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Elas">Para Ela</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--male"
+                  href="/mochila/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Eles">Para Ele</a>
+              </li>
+            </ul>
+          </div>
+          <!-- [ FIM ] POR GÊNERO  -->
+          
+        </li>
+        <!-- [ FIM ] COLUNA 03 -->
+
+        <!-- [ INÍCIO ] COLUNA 04 -->
+        <li class="submenu__item submenu__item--col4">
+
+        <!-- POR TAMANHO -->
           <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por Tamanho</div>
             <ul class="submenu__list submenu__list--row">
@@ -491,42 +561,8 @@ export default function () {
             </ul>
           </div>
 
-          <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-              Material</div>
-            <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-nylon"
-                  href="/mochila/Nylon?map=c,specificationFilter_72">Náilon</a>
-              </li>
-              
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-poliester"
-                  href="/mochila/Poliéster?map=c,specificationFilter_72">Poliéster</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-cottom"
-                  href="/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72">Algodão</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-neoprene"
-                  href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-pvc"
-                  href="/mochila/PVC?map=c,specificationFilter_72">PVC</a>
-              </li>
-            </ul>
-          </div>
-          <!-- POR MATERIAL -->
-        </li>
-        <!-- [ FIM ] COLUNA 03 -->
-
-        <!-- [ INÍCIO ] COLUNA 04 -->
-        <li class="submenu__item submenu__item--col4">
-
           <!--[ INÍCIO ] POR TOM DE CORES -->
-          <div class="submenu__itemWrapper">
+          <div class="submenu__itemWrapper por-material">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
             <ul class="submenu__list submenu__list--colors submenu__list--row">
               <li class="submenu__list__item">
@@ -585,50 +621,6 @@ export default function () {
           </div>
           <!-- [ FIM ] POR TOM DE CORES -->
 
-          <!-- POR TIPO -->
-          <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-              Por Tipo
-            </div>
-            <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--no-wheels"
-                  href="/mochila/Sem%20Rodinhas?map=c,specificationFilter_57">Sem Rodinhas</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels"
-                  href="/mochila/2%20Rodinhas?map=c,specificationFilter_57">Com Rodinhas</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
-                  href="/mochila/Notebook?map=c,specificationFilter_56">Para
-                  Notebook</a>
-              </li>
-            </ul>
-          </div>
-
-          <!-- [ INÍCIO ] POR GÊNERO  -->
-          <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-              Por gênero
-            </div>
-            <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay-acessories"
-                  href="/mochila?map=c" title="Filtrar por: Para Todos">Para
-                  Todos</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--female"
-                  href="/mochila/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Elas">Para Ela</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--male"
-                  href="/mochila/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Eles">Para Ele</a>
-              </li>
-            </ul>
-          </div>
-          <!-- [ FIM ] POR GÊNERO  -->
         </li>
         <!-- [ FIM ] COLUNA 04 -->
 
@@ -642,28 +634,33 @@ export default function () {
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--lunch-bag"
+                    href="/Lancheira?map=c" title="Filtrar por: Lancheira">Lancheira</a>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--pencil-case"
                   href="/Estojo?map=c" title="Filtrar por: Estojo">Estojo</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--lunch-bag"
-                  href="/Lancheira?map=c" title="Filtrar por: Lancheira">Lancheira</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--necessaire"
-                  href="/acessorios/Necessaire?map=c,c" title="Filtrar por: Necessaire">Necessaire</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--folder"
-                  href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fichario"
                   href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
               </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--folder"
+                  href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
+              </li>
             </ul>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
+          <div class="submenu__itemWrapper">            
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a href="/mochila?map=c">
+                    <button class="see_all">Ver todas as malas</button>  
+                </a>                
+              </li>
+            </ul>
+          </div>
         </li>
         <!-- [ FIM ] COLUNA 05 -->
       </ul>

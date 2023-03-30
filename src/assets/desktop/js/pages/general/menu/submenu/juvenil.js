@@ -9,7 +9,15 @@ export default function () {
         <li class="submenu__item submenu__item--col1">
           <div class="submenu__item__heading">Coleções</div>
           <ul class="submenu__list">
-          <li class="submenu__list__item">
+
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Capricho?map=specificationFilter_110">Capricho</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
+              </div>
+            </li>
+
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/College?map=specificationFilter_110">College</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
@@ -103,6 +111,29 @@ export default function () {
             </a>
           </div>
           <div class="submenu__scroll__container">
+
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+              Por Gênero
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
+                href="/mochila/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
+                  href="/mochila/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                  title="Filtrar por: Para Ela">Para Ela</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
+                  href="/mochila/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                  title="Filtrar por: Para Ele">Para Ele</a>
+              </li>
+            </ul>
+          </div>
+
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
@@ -163,44 +194,23 @@ export default function () {
                 </li>
               </ul>
             </div>
+           
 
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-                Por Gênero
+                Mobilidade
               </div>
               <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
-                  href="/mochila/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
-                    href="/mochila/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ela">Para Ela</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
-                    href="/mochila/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ele">Para Ele</a>
-                </li>
-              </ul>
-            </div>
-
-            <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Tipo
-              </div>
-              <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
-                    href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
-                </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
                     href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
                     title="Filtrar por: Com rodinhas">Com rodinhas</a>
                 </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
+                    href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
+                </li>                
               </ul>
             </div>
 
@@ -248,6 +258,27 @@ export default function () {
             </a>
           </div>
           <div class="submenu__scroll__container">
+          <div class="submenu__itemWrapper">
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+                Por Gênero
+              </div>
+              <ul class="submenu__list submenu__list--row">
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
+                    href="/Lancheira/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
+                    href="/Lancheira/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                    title="Filtrar por: Para Ela">Para Ela</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
+                    href="/Lancheira/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                    title="Filtrar por: Para Ele">Para Ele</a>
+                </li>
+              </ul>
+            </div>
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
@@ -297,29 +328,7 @@ export default function () {
                     title="Filtrar por: Vermelho">Vermelho</a>
                 </li>
               </ul>
-            </div>
-
-            <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-                Por Gênero
-              </div>
-              <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
-                    href="/Lancheira/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
-                    href="/Lancheira/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ela">Para Ela</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
-                    href="/Lancheira/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ele">Para Ele</a>
-                </li>
-              </ul>
-            </div>
+            </div>            
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">
@@ -367,6 +376,27 @@ export default function () {
             </a>
           </div>
           <div class="submenu__scroll__container">
+          <div class="submenu__itemWrapper">
+          <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+            Por Gênero
+          </div>
+          <ul class="submenu__list submenu__list--row">
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
+              href="/Estojo/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
+                href="/Estojo/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                title="Filtrar por: Para Ela">Para Ela</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
+                href="/Estojo/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
+                title="Filtrar por: Para Ele">Para Ele</a>
+            </li>
+          </ul>
+        </div>
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
@@ -427,29 +457,7 @@ export default function () {
                 </li>
               </ul>
             </div>
-            <!-- [ FIM ] POR TOM DE CORES -->
-
-            <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-                Por Gênero
-              </div>
-              <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileYourWay"
-                  href="/Estojo/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Para Todos">Para Todos</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileFemale"
-                    href="/Estojo/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ela">Para Ela</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenileMale"
-                    href="/Estojo/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
-                    title="Filtrar por: Para Ele">Para Ele</a>
-                </li>
-              </ul>
-            </div>
+            <!-- [ FIM ] POR TOM DE CORES -->            
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">
@@ -499,21 +507,12 @@ export default function () {
                 href="/bolsa/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Bolsa">Bolsa</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--sports"
-                href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--satchel"
                 href="/Sacola/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Sacola">Sacola</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--bags"
                 href="/mala/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Mala">Mala</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire"
-                href="/acessorios/Necessaire/Juvenil?map=c,c,specificationFilter_107"
-                title="Filtrar por: Necessaire">Necessaire</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
@@ -524,14 +523,28 @@ export default function () {
                 title="Filtrar por: Acessórios">Acessórios</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--binder"
-                href="/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
-                title="Filtrar por: Fichário">Fichário</a>
+              <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire"
+                href="/acessorios/Necessaire/Juvenil?map=c,c,specificationFilter_107"
+                title="Filtrar por: Necessaire">Necessaire</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--wallet" href="/acessorios/Carteira?map=c,c"
                 title="Filtrar por: Carteira">Carteira</a>
             </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--binder"
+                href="/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
+                title="Filtrar por: Fichário">Fichário</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--sports"
+                href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
+            </li>      
+            <li class="submenu__list__item">
+              <a href="/426?map=productClusterIds">
+                <button class="see_all">Ver todas as mochilas</button>  
+              </a>
+            </li> 
           </ul>
           <!-- [ FIM ] VEJA TAMBÉM -->
         </li>

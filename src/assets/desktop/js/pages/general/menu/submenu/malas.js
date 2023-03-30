@@ -88,6 +88,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="#">Eco RPET</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Eco_Rpet.png" width="250px" height="588px" alt="Coleção Eco RPET" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Gama?map=c,specificationFilter_110">Gama</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Gama.jpg" width="250px" height="588px" alt="Coleção Gama" />
@@ -149,6 +155,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Monograma?map=c,specificationFilter_110">Monograma</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Mala_Monograma.png" width="250px" height="588px" alt="Coleção Monograma" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Montreal?map=c,specificationFilter_110">Montreal</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Montreal.jpg" width="250px" height="588px" alt="Coleção Montreal" />
@@ -160,14 +172,6 @@ export default function () {
                 <img src="/arquivos/NBA.jpg" width="250px" height="588px" alt="Coleção NBA" />
               </div>
           </li>
-          
-          <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Omega?map=c,specificationFilter_110">Ômega</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Omega.jpg" width="250px" height="588px" alt="Coleção Ômega" />
-              </div>
-          </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Orion?map=c,specificationFilter_110">Órion</a>
             <div class="submenu__imageWrapper">
@@ -184,6 +188,24 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Paris%20Saint-German?map=c,specificationFilter_110">Paris Saint-German</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Mala_PSG.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="#">PPmax</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/PPmax.png" width="250px" height="588px" alt="Coleção PPmax" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="#">PPplus</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/PPplus.png" width="250px" height="588px" alt="Coleção PPplus" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="#">PPpop</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/PPpop.png" width="250px" height="588px" alt="Coleção PPpop" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -227,7 +249,12 @@ export default function () {
               <img src="/arquivos/TO_Go.jpg" width="250px" height="588px" alt="Coleção TO Go" />
             </div>
           </li>
-
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="#">Turquia</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Turquia.png" width="250px" height="588px" alt="Coleção Turquia" />
+            </div>
+          </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Travel?map=c,specificationFilter_110">TO Travel</a>
             <div class="submenu__imageWrapper">
@@ -338,166 +365,138 @@ export default function () {
           </ul>
 
         </div>
+
+
+        <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading">EXPANSÍVEL</div>
+                <ul class="submenu__list">
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink" href="#">Com Expansível</a>
+                </li>
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink" href="#">Sem Expansível</a>
+                </li>
+            </ul>  
+          </div>
       </li>
       <!-- [ FIM ] COLUNA 02 -->
 
       <!-- [ INÍCIO ] COLUNA 03 -->
       <li class="submenu__item submenu__item--col3">
-        <!-- POR TAMANHO -->
+        <!-- [ INÍCIO ] POR GÊNERO  -->
         <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--lightGray">Por Tamanho</div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--board"
-                href="/mala/viagem/bordo?map=c,c,c">Bordo</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--small"
-                href="/mala/viagem/Pequena?map=c,c,c">Pequena</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon  submenu__itemLink--size submenu__itemLink--medium"
-                href="/mala/viagem/Media?map=c,c,c">Média</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--big"
-                href="/mala/viagem/Grande?map=c,c,c">Grande</a>
-            </li>
-          </ul>
+            <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
+              Por gênero
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay"
+                  href="/mala?map=c" title="Filtrar por: Para Todos">Para Todos</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--bagFemale"
+                  href="/mala/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Elas">Para Ela</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--bagMale"
+                  href="/mala/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Eles">Para Ele</a>
+              </li>
+            </ul>
+            <!-- [ FIM ] POR GÊNERO  -->
         </div>
 
         <!-- POR MATERIAL -->
         <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-            Material</div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--cloth"
-                href="/mala/Soft-Tecido?map=c,specificationFilter_66">Tecido</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--hard"
-                href="/mala/Rígida?map=c,specificationFilter_66">Rígido</a>
-            </li>
-          </ul>
-        </div>
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
+              Material</div>
+            <ul class="submenu__list submenu__list--row">
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--cloth"
+                    href="#">Ecológico</a>
+                </li>
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--hard"
+                      href="/mala/Rígida?map=c,specificationFilter_66">Rígido</a>
+                  </li>
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--cloth" 
+                    href="/mala/Soft-Tecido?map=c,specificationFilter_66">Tecido</a>
+              </li>              
+            </ul>
+         </div>
 
-        <!-- MOBILIDADE -->
+        <!-- CADEADO -->
         <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-            Mobilidade
-          </div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--2-wheels"
-                href="/mala/2%20Rodinhas?map=c,specificationFilter_57">2 Rodinhas</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--4-wheels"
-                href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--8-wheels"
-                href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas Duplas</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--retractable"
-                href="/mala/Rodas%20Retráteis?map=c,specificationFilter_57">Rodas Retráteis</a>
-            </li>
-          </ul>
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">CADEADO</div>
+            <ul class="submenu__list">
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="#">Com Cadeado TSA Fixo</a>
+                </li>
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink" href="#">Com Cadeado Fixo</a>
+                </li>
+                <li class="submenu__list__item">
+                    <a class="submenu__itemLink" href="#">Sem Cadeado</a>
+                </li>
+            </ul>
         </div>
+        <!-- CADEADO -->
+        
+        
       </li>
       <!-- [ FIM ] COLUNA 03 -->
 
       <!-- [ INÍCIO ] COLUNA 04 -->
       <li class="submenu__item submenu__item--col4">
-
-        <!--[ INÍCIO ] POR TOM DE CORES -->
+        
+        <!-- POR TAMANHO -->
         <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
-          <ul class="submenu__list submenu__list--colors submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--colored"
-                href="/mala/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--golden"
-                href="/mala/Dourado?map=c,specificationFilter_42" title="Filtrar por: Cor dourada">Dourado</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--orange"
-                href="/mala/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--blue" href="/mala/Azul?map=c,specificationFilter_42"
-                title="Filtrar por: Cor azul">Azul</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--white"
-                href="/mala/Branco?map=c,specificationFilter_42" title="Filtrar por: Cor branca">Branco</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--gray" href="/mala/Cinza?map=c,specificationFilter_42"
-                title="Filtrar por: Cor cinza">Cinza</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                href="/mala/Amarelo?map=c,specificationFilter_42" title="Filtrar por: Cor amarelo">Amarelo</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--brown"
-                href="/mala/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--black" href="/mala/Preto?map=c,specificationFilter_42"
-                title="Filtrar por: Cor preta">Preto</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--pink" href="/mala/Rosa?map=c,specificationFilter_42"
-                title="Filtrar por: Cor rosa">Rosa</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--purple" href="/mala/Roxo?map=c,specificationFilter_42"
-                title="Filtrar por: Cor roxa">Roxo</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--green" href="/mala/Verde?map=c,specificationFilter_42"
-                title="Filtrar por: Cor verde">Verde</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--red"
-                href="/mala/Vermelho?map=c,specificationFilter_42" title="Filtrar por: Cor vermelha">Vermelho</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--color submenu__itemLink--wine" href="/mala/Vinho?map=c,specificationFilter_42"
-                title="Filtrar por: Cor vinho">Vinho</a>
-            </li>
-          </ul>
-
-        </div>
-        <!-- [ FIM ] POR TOM DE CORES -->
-
-        <!-- [ INÍCIO ] POR GÊNERO  -->
-        <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-            Por gênero
+            <div class="submenu__item__heading submenu__item__heading--lightGray">Por Tamanho</div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--board"
+                  href="/mala/viagem/bordo?map=c,c,c">Bordo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--small"
+                  href="/mala/viagem/Pequena?map=c,c,c">Pequena</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon  submenu__itemLink--size submenu__itemLink--medium"
+                  href="/mala/viagem/Media?map=c,c,c">Média</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--big"
+                  href="/mala/viagem/Grande?map=c,c,c">Grande</a>
+              </li>
+            </ul>
           </div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay"
-                href="/mala?map=c" title="Filtrar por: Para Todos">Para Todos</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--bagFemale"
-                href="/mala/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Elas">Para Ela</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--bagMale"
-                href="/mala/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Eles">Para Ele</a>
-            </li>
-          </ul>
-          <!-- [ FIM ] POR GÊNERO  -->
+
+          <div class="submenu__itemWrapper por-mobilidade">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+              Mobilidade
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--2-wheels"
+                  href="/mala/2%20Rodinhas?map=c,specificationFilter_57">2 Rodinhas</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--4-wheels"
+                  href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--8-wheels"
+                  href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas Duplas</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--retractable"
+                  href="/mala/Rodas%20Retráteis?map=c,specificationFilter_57">Rodas Retráteis</a>
+              </li>
+            </ul>
         </div>
+        <!-- MOBILIDADE -->
+        
       </li>
       <!-- [ FIM ] COLUNA 04 -->
 
@@ -505,44 +504,102 @@ export default function () {
       <!-- [ INÍCIO ] COLUNA 05 -->
       <li class="submenu__item submenu__item--col5">
 
-        <!-- [ INÍCIO ] POR TIPO DE CADEADO  -->
-        <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--padlock submenu__item__heading--lightGray">
-            Por tipo de cadeado
-          </div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--tsa"
-                href="/mala/TSA%20Fixo?map=c,specificationFilter_70" title="Filtrar por: Cadeados do tipo TSA">TSA</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fix"
-                href="/mala/Fixo?map=c,specificationFilter_70" title="Filtrar por: Cadeados fixos">Fixo</a>
-            </li>
-          </ul>
-        </div>
-        <!-- [ FIM ] POR TIPO DE CADEADO  -->
-
         <!-- [ INÍCIO ] PARA SOMAR NA SUA VIAGEM -->
         <div class="submenu__itemWrapper">
-          <div class="submenu__item__heading submenu__item__heading--travelPlus submenu__item__heading--lightGray">
-            Para somar na sua viagem</div>
-          <ul class="submenu__list submenu__list--row">
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--acessories"
-                href="/Acessorios?map=c" title="Filtrar por: Acessórios">Acessórios</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--satchel"
-                href="/Sacola?map=c" title="Filtrar por: Sacola">Sacola</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--cellaret"
-                href="/mala/Frasqueira?map=c,c" title="Filtrar por: Frasqueira">Frasqueira</a>
-            </li>
-          </ul>
-        </div>
-        <!-- [ FIM ] PARA SOMAR NA SUA VIAGEM-->
+            <div class="submenu__item__heading submenu__item__heading--travelPlus submenu__item__heading--lightGray">
+              VEJA TAMBÉM</div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--acessories"
+                  href="/Acessorios?map=c" title="Filtrar por: Acessórios">Acessórios</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--satchel"
+                  href="/Sacola?map=c" title="Filtrar por: Sacola">Sacola</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--cellaret"
+                  href="/mala/Frasqueira?map=c,c" title="Filtrar por: Frasqueira">Frasqueira</a>
+              </li>
+            </ul>
+          </div>
+          <!-- [ FIM ] PARA SOMAR NA SUA VIAGEM-->
+
+        <!--[ INÍCIO ] POR TOM DE CORES -->
+        <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
+            <ul class="submenu__list submenu__list--colors submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--colored"
+                  href="/mala/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--golden"
+                  href="/mala/Dourado?map=c,specificationFilter_42" title="Filtrar por: Cor dourada">Dourado</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--orange"
+                  href="/mala/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--blue" href="/mala/Azul?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor azul">Azul</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--white"
+                  href="/mala/Branco?map=c,specificationFilter_42" title="Filtrar por: Cor branca">Branco</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--gray" href="/mala/Cinza?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor cinza">Cinza</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--yellow"
+                  href="/mala/Amarelo?map=c,specificationFilter_42" title="Filtrar por: Cor amarelo">Amarelo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--brown"
+                  href="/mala/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--black" href="/mala/Preto?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor preta">Preto</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--pink" href="/mala/Rosa?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor rosa">Rosa</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--purple" href="/mala/Roxo?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor roxa">Roxo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--green" href="/mala/Verde?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor verde">Verde</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--red"
+                  href="/mala/Vermelho?map=c,specificationFilter_42" title="Filtrar por: Cor vermelha">Vermelho</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--wine" href="/mala/Vinho?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor vinho">Vinho</a>
+              </li>
+            </ul>
+  
+          </div>
+          <!-- [ FIM ] POR TOM DE CORES -->
+
+
+          <div class="submenu__itemWrapper">            
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a href="/mala?map=c">
+                    <button class="see_all">Ver todas as malas</button>  
+                </a>                
+              </li>
+            </ul>
+          </div>
       </li>
       <!-- [ FIM ] COLUNA 05 -->
     </ul>

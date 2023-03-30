@@ -826,7 +826,6 @@
   height: 93%;
   overflow: hidden;
   overflow-y: auto;
-  padding-right: 1rem;
 
 
   /* ===== Scrollbar CSS ===== */
@@ -841,6 +840,11 @@
     width: 4px;
     height: 4px;
   }
+  &:hover::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+    transition: all 8s ease-out
+  }
 
   &::-webkit-scrollbar-track {
     background: #e6e6e6;
@@ -848,7 +852,7 @@
 
   &::-webkit-scrollbar-thumb {
     background-color: #da0f00;
-    border-radius: 0px;
+    border-radius: 30px;
     border: 0px solid #ffffff;
   }
 
@@ -893,13 +897,19 @@
     height: 4px;
   }
 
+  &:hover::-webkit-scrollbar {
+    width: 6px;
+    height: 4px;
+    transition: all 8s ease-out;
+  }
+
   &::-webkit-scrollbar-track {
     background: #e6e6e6;
   }
 
   &::-webkit-scrollbar-thumb {
     background-color: #da0f00;
-    border-radius: 0px;
+    border-radius: 30px;
     border: 0px solid #ffffff;
   }
 
@@ -1178,14 +1188,14 @@
     }
   }
 
-  &--backpack-nylon,
+  /*&--backpack-nylon,
   &--nylon {
     &::before {
       background-image: url(/arquivos/Nailon.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
-  }
+  }*/
 
   &--backpack-pu,
   &--pu {
@@ -1196,14 +1206,14 @@
     }
   }
 
-  &--backpack-poliester,
+  /*&--backpack-poliester,
   &--polyester {
     &::before {
       background-image: url(/arquivos/Poliester.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
-  }
+  }*/
 
   &--backpack-leather,
   &--leather {
@@ -1220,29 +1230,29 @@
     }
   }
 
-  &--backpack-cottom {
+  /*&--backpack-cottom {
     &::before {
       background-image: url(/arquivos/Algodao.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
-  }
+  }*/
 
-  &--backpack-neoprene {
+  /*&--backpack-neoprene {
     &::before {
       background-image: url(/arquivos/Neoprene.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
-  }
+  }*/
 
-  &--backpack-pvc {
+  /*&--backpack-pvc {
     &::before {
       background-image: url(/arquivos/pvc.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
-  }
+  }*/
 
   // MOBILITY
   &--no-wheels {
@@ -1489,6 +1499,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaEle.jpg);
       background-size: contain;
+      border: 1px solid #303030;
     }
   }
 
@@ -1503,6 +1514,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaEla.jpg);
       background-size: contain;
+      border: 1px solid #303030;
     }
   }
 
@@ -1545,6 +1557,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
+      border: 1px solid #303030;
     }
   }
 
@@ -1628,6 +1641,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
+      border: 1px solid #303030;
     }
   }
 
@@ -1862,3 +1876,16 @@
   width: 249px;
 }
 
+/*ajustes extra no menu*/
+.por-material .submenu__itemLink--withIcon:before {
+  border: 0;
+}
+.por-mobilidade .submenu__itemLink--withIcon:before {
+  border: 0;
+}
+button.see_all {
+  border: 1px solid #303030;
+  padding: 10px;
+  border-radius: 9px;
+  font-size: 13px;
+}

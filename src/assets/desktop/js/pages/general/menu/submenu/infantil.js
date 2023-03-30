@@ -245,19 +245,23 @@ export default function () {
             </div>
 
             <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-                Tipo
+              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Mobilidade
               </div>
               <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--no-wheels"
-                    href="/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
-                </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--with-wheels"
                     href="/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
                     title="Filtrar por: Com rodinhas">Com rodinhas</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--no-wheels"
+                    href="/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
+                </li>                
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--malinha"
+                    href="#"
+                    title="Filtrar por: Malinha">Malinha</a>
                 </li>
               </ul>
             </div>
@@ -307,7 +311,6 @@ export default function () {
             </a>
           </div>
           <div class="submenu__scroll__container">
-
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
                 Por Gênero
@@ -401,7 +404,7 @@ export default function () {
 
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
-              <ul class="submenu__list">
+               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/Estojo/de-0,01-a-40/Infantil?map=c,priceFrom,specificationFilter_107">Até R$40,00</a>
@@ -446,19 +449,29 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--little-bags" href="/mala/escolar?map=c,c"
-                title="Filtrar por: Malinha">Malinha</a>
+                title="Filtrar por: Mala">Mala</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
-                title="Filtrar por: Malas">Malas</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" href="/acessorios/Fichario?map=c,c"
+                title="Filtrar por: Fichário">Fichário</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"
                 title="Filtrar por: Acessórios">Acessórios</a>
             </li>
             <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
+                  href="/acessorios/Pochete?map=c,c#1"
+                  title="Filtrar por: Pochete">Pochete</a>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire" href="/acessorios/Necessaire?map=c,c"
                 title="Filtrar por: Necessaire">Necessaire</a>
+            </li>
+            <li class="submenu__list__item">
+              <a href="/423?map=productClusterIds">
+                <button class="see_all">Ver todas as mochilas</button>  
+              </a>
             </li>
           </ul>
           <!-- [ FIM ] VEJA TAMBÉM -->

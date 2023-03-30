@@ -3,6 +3,11 @@ export const juvenil__content = {
     "title": "Coleções",
     "content": [
       {
+        "collections": "Capricho",
+        "imgSrc": "/arquivos/Capricho.jpg",
+        "url": "/Capricho?map=specificationFilter_110"
+      },
+      {
         "collections": "College",
         "imgSrc": "/arquivos/College.jpg",
         "url": "/College?map=specificationFilter_110"

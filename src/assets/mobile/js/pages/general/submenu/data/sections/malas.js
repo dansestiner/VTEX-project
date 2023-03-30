@@ -68,6 +68,11 @@ export const malas__content = {
         "url": "/mala/Croco?map=c,specificationFilter_110"
       },
       {
+        "collection": "Eco_Rpet",
+        "imgSrc": "/arquivos/Eco_Rpet.png",
+        "url": "#"
+      },
+      {
         "collection": "Gama",
         "imgSrc": "/arquivos/Gama.jpg",
         "url": "/mala/Gama?map=c,specificationFilter_110"
@@ -118,6 +123,11 @@ export const malas__content = {
         "url": "/mala/Minions?map=c,specificationFilter_110"
       },
       {
+        "collection": "Monograma",
+        "imgSrc": "/arquivos/Mala_Monograma.png",
+        "url": "/mala/Monograma?map=c,specificationFilter_110"
+      },
+      {
         "collection": "Montreal",
         "imgSrc": "/arquivos/Montreal.jpg",
         "url": "/mala/Montreal?map=c,specificationFilter_110"
@@ -126,11 +136,6 @@ export const malas__content = {
         "collection": "NBA",
         "imgSrc": "/arquivos/NBA.jpg",
         "url": "/mala/NBA?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Ômega",
-        "imgSrc": "/arquivos/Omega.jpg",
-        "url": "/mala/Omega?map=c,specificationFilter_110"
       },
       {
         "collection": "Órion",
@@ -146,6 +151,21 @@ export const malas__content = {
         "collection": "Paris Saint-German",
         "imgSrc": "/arquivos/Mala_PSG.jpg",
         "url": "/mala/Paris%20Saint-German?map=c,specificationFilter_110"
+      },
+      {
+        "collection": "PPmax",
+        "imgSrc": "/arquivos/PPmax.png",
+        "url": "#"
+      },
+      {
+        "collection": "PPplus",
+        "imgSrc": "/arquivos/PPplus.png",
+        "url": "#"
+      },
+      {
+        "collection": "PPpop",
+        "imgSrc": "/arquivos/PPpop.png",
+        "url": "#"
       },
       {
         "collection": "PP-Start",
@@ -178,6 +198,11 @@ export const malas__content = {
         "url": "/mala/Go?map=c,specificationFilter_110"
       },
       {
+        "collection": "Turquia",
+        "imgSrc": "/arquivos/Turquia.png",
+        "url": "#"
+      },
+      {
         "collection": "TO Travel",
         "imgSrc": "/arquivos/TO_Travel.jpg",
         "url": "/mala/Travel?map=c,specificationFilter_110"
@@ -192,6 +217,7 @@ export const malas__content = {
         "imgSrc": "/arquivos/Ultralight-Plus.jpg",
         "url": "/mala/Ultralight%20Plus?map=c,specificationFilter_110"
       },
+
       {
         "collection": "Vega",
         "imgSrc": "/arquivos/Vega.jpg",

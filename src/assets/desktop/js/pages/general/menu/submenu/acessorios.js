@@ -80,7 +80,7 @@ export default function () {
         <!-- [ INÍCIO ] COLUNA 02 -->
         <li class="submenu__item submenu__item--col2">
           <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading">Por faixa de preço</div>
+            <div class="submenu__item__heading">faixa de preço</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/acessorios/de-0,01-a-40?map=c,priceFrom">Até R$40,00</a>
@@ -97,9 +97,6 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/acessorios/de-100,01-a-99999?map=c,priceFrom">Acima de R$100,01</a>
               </li>
-              <li class="submenu__list__item submenu__list__item--seeAll">
-                <a class="submenu__itemLink" href="/acessorios?map=c">Ver todos</a>
-              </li>
             </ul>
 
           </div>
@@ -108,6 +105,28 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 03 -->
         <li class="submenu__item submenu__item--col3">
+
+          <!-- POR GÊNERO -->
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
+              Gênero
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay-acessories"
+                  href="/acessorios?map=c" title="Filtrar por: Para Todos">Para
+                  Todos</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--female"
+                  href="/acessorios/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Ela">Para Ela</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--male"
+                  href="/acessorios/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Ele">Para Ele</a>
+              </li>
+            </ul>
+          </div>
 
           <!--[ INÍCIO ] POR TOM DE CORES -->
           <div class="submenu__itemWrapper">
@@ -166,28 +185,6 @@ export default function () {
           </div>
           <!-- [ FIM ] POR TOM DE CORES -->
 
-          <!-- POR GÊNERO -->
-          <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
-              Gênero
-            </div>
-            <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--yourWay-acessories"
-                  href="/acessorios?map=c" title="Filtrar por: Para Todos">Para
-                  Todos</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--female"
-                  href="/acessorios/Feminino?map=c,specificationFilter_67" title="Filtrar por: Para Ela">Para Ela</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--male"
-                  href="/acessorios/Masculino?map=c,specificationFilter_67" title="Filtrar por: Para Ele">Para Ele</a>
-              </li>
-            </ul>
-          </div>
-
         </li>
         <!-- [ FIM ] COLUNA 03 -->
 
@@ -241,7 +238,21 @@ export default function () {
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
         </li>
         <!-- [ FIM ] COLUNA 04 -->
-      </ul>
+
+
+        <!-- [ INÍCIO ] COLUNA 04 -->
+        <li class="submenu__item submenu__item--col4">
+
+        <!-- [ INÍCIO ] VEJA TAMBÉM -->
+          <div class="submenu__itemWrapper">
+            <a href="https://www.sestini.com.br/acessorios?map=c#1">
+              <button class="see_all"> Ver todos os acessórios </button>
+            </a>
+          </div>
+          <!-- [ FIM ] POR TIPO DE CADEADO  -->
+        </li>
+      <!-- [ FIM ] COLUNA 04 -->      
+      </ul>      
     </div>
   `
 }

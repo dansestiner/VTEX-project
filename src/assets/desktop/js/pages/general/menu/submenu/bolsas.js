@@ -22,9 +22,21 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Capricho?map=c,specificationFilter_110">Capricho</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_Capricho.png" width="250px" height="588px" alt="Categoria Capricho" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Cross%20Bag?map=c,c">Cross Bag</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/cross-bag.jpg" width="250px" height="588px" alt="Categoria Cross Bag" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Focuz?map=c,specificationFilter_110">Focuz</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_Focuz.png" width="250px" height="588px" alt="Categoria Focuz" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -33,6 +45,12 @@ export default function () {
                 <img src="/arquivos/hobo.jpg" width="250px" height="588px" alt="Categoria Hobo" />
               </div>
             </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Liv?map=c,specificationFilter_110">Liv</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_Liv.png" width="250px" height="588px" alt="Categoria Liv" />
+              </div>
+            </li>            
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Mini%20Bag?map=c,c">Mini Bag</a>
               <div class="submenu__imageWrapper">
@@ -46,9 +64,33 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Pixie?map=c,specificationFilter_110">Pixie</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_Pixie.png" width="250px" height="588px" alt="Categoria Pixie" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Satchel?map=c,c">Satchel</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/satchel.jpg" width="250px" height="588px" alt="Categoria Satchel" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Monograma?map=c,specificationFilter_110">Monograma</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_monograma.png" width="250px" height="588px" alt="Categoria Monograma" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Paul%20Frank">Paul Frank</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_PF.png" width="250px" height="588px" alt="Categoria Paul Frank" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/bolsa/Selfie?map=c,specificationFilter_110">Selfie</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Bolsa_Selfie.png" width="250px" height="588px" alt="Categoria Selfie" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -165,21 +207,21 @@ export default function () {
           <!-- [ FIM ] POR TOM DE CORES -->
 
           <!-- POR MATERIAL -->
-          <div class="submenu__itemWrapper">
+          <div class="submenu__itemWrapper por-material">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por Material</div>
-            <ul class="submenu__list submenu__list--row">
+            <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--nylon"
-                  href="/bolsa/Nylon?map=c,specificationFilter_72" title="Filtra por: Náilon">Náilon</a>
+                <a class="submenu__itemLink" href="#" title="Filtra por: Couro">Couro</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--pu"
-                  href="/bolsa/P.U?map=c,specificationFilter_72" title="Filtra por: Poliuretano (PU)">PU</a>
+                <a class="submenu__itemLink" href="/bolsa/Nylon?map=c,specificationFilter_72" title="Filtra por: Náilon">Náilon</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--polyester"
-                  href="/bolsa/Poliéster?map=c,specificationFilter_72" title="Filtrar por: Poliéster">Poliéster</a>
+                <a class="submenu__itemLink" href="/bolsa/Poliéster?map=c,specificationFilter_72" title="Filtrar por: Poliéster">Poliéster</a>
               </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/bolsa/P.U?map=c,specificationFilter_72" title="Filtra por: Poliuretano (PU)">PU</a>
+              </li>              
             </ul>
           </div>
         </li>
@@ -193,20 +235,16 @@ export default function () {
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire" href="/acessorios/Necessaire?map=c,c"
-                  title="Filtrar por: Necessaire">Necessaire</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case-purse" href="/Estojo?map=c"
+                  title="Filtrar por: Estojo">Estojo</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--wallet" href="/acessorios/Carteira?map=c,c"
                   title="Filtrar por: Carteira">Carteira</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case-purse" href="/Estojo?map=c"
-                  title="Filtrar por: Estojo">Estojo</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--sporting"
-                  href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire" href="/acessorios/Necessaire?map=c,c"
+                  title="Filtrar por: Necessaire">Necessaire</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--satchel" href="/Sacola?map=c"
@@ -215,25 +253,44 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
                   title="Filtrar por: Mala">Mala</a>
-              </li>
+              </li>              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--sporting"
+                  href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
+              </li>              
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
                   href="/acessorios/Pochete?map=c,c"
                   title="Filtrar por: Pochete">Pochete</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"
-                  title="Filtrar por: Acessórios">Acessórios</a>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--backpack" href="/mochila?map=c"
                   title="Filtrar por: Mochila">Mochila</a>
               </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"
+                  title="Filtrar por: Acessórios">Acessórios</a>
+              </li>           
             </ul>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
         </li>
         <!-- [ FIM ] COLUNA 04 -->
+
+
+        <!-- [ INÍCIO ] COLUNA 05 -->
+        <li class="submenu__item submenu__item--col5">
+          <div class="submenu__itemWrapper">         
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a href="/mochila?map=c">
+                  <button class="see_all">Ver todas as bolsas</button>  
+                </a>                
+              </li>
+            </ul>
+          </div>   
+        </li>
+        <!-- [ FIM ] COLUNA 05 -->
       </ul>
     </div>
   `

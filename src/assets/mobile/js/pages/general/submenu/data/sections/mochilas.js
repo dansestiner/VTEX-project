@@ -197,7 +197,11 @@ export const mochilas__content = {
         "imgSrc": "/arquivos/MochilaMinions.jpg",
         "url": "/minions"
       },
-
+      {
+        "collection": "Monograma",
+        "imgSrc": "/arquivos/Mochila_Monograma.png",
+        "url": "/Monograma?map=specificationFilter_110"
+      },
       {
         "collection": "NBA",
         "imgSrc": "/arquivos/NBA-juvenil.jpg",
