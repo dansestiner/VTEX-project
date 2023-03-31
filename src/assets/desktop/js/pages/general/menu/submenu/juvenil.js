@@ -96,9 +96,6 @@ export default function () {
                 <img src="/arquivos/Urbano.jpg" width="250px" height="588px" alt="Coleção Urbano" />
               </div>
             </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/426?map=productClusterIds">Ver todos os Produtos</a>
-            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -204,12 +201,12 @@ export default function () {
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
                     href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Com rodinhas">Com rodinhas</a>
+                    title="Filtrar por: Com rodinhas">Com rodas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
                     href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
+                    title="Filtrar por: Sem rodinhas">Sem rodas</a>
                 </li>                
               </ul>
             </div>
@@ -240,11 +237,7 @@ export default function () {
                   <a class="submenu__itemLink"
                     href="/mochila/de-150,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107">Acima de R$150,01</a>
                 </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Ver todos</a>
-                </li>
               </ul>
-
             </div>
           </div>
         </li>
@@ -355,9 +348,6 @@ export default function () {
                   <a class="submenu__itemLink"
                     href="/Lancheira/de-120,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$120,01</a>
-                </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/Lancheira/Juvenil?map=c,specificationFilter_107">Ver todos</a>
                 </li>
               </ul>
 
@@ -488,9 +478,6 @@ export default function () {
                     href="/Estojo/de-100,01-a-99999/Juvenil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$100,01</a>
                 </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/Estojo/Juvenil?map=c,specificationFilter_107">Ver todos</a>
-                </li>
               </ul>
             </div>
           </div>
@@ -532,7 +519,7 @@ export default function () {
                 title="Filtrar por: Carteira">Carteira</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--binder"
+              <a class="submenu__itemLink--withIcon submenu__itemLink--fichario"
                 href="/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
                 title="Filtrar por: Fichário">Fichário</a>
             </li>
@@ -542,7 +529,7 @@ export default function () {
             </li>      
             <li class="submenu__list__item">
               <a href="/426?map=productClusterIds">
-                <button class="see_all">Ver todas as mochilas</button>  
+                <button class="see_all">Ver todos os produtos Juvenil</button>  
               </a>
             </li> 
           </ul>

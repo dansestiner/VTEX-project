@@ -123,9 +123,6 @@ export default function () {
                 <img src="/arquivos/Pets.jpg" width="250px" height="588px" alt="Categoria Pets" />
               </div>
             </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/bolsa?map=c">Ver todas as Bolsas</a>
-            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -162,9 +159,6 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/bolsa/de-460,01-a-99999?map=c,priceFrom">Acima de R$460,01</a>
-              </li>
-              <li class="submenu__list__item submenu__list__item--seeAll">
-                <a class="submenu__itemLink" href="/bolsa?map=c">Ver todos</a>
               </li>
             </ul>
           </div>
@@ -284,7 +278,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a href="/mochila?map=c">
-                  <button class="see_all">Ver todas as bolsas</button>  
+                  <button class="see_all">Ver todas as Bolsas</button>  
                 </a>                
               </li>
             </ul>

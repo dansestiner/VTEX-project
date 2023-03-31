@@ -22,9 +22,15 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Esportiva?map=c,specificationFilter_106">Esportiva</a>
+                  <div class="submenu__imageWrapper">
+                    <img src="/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportiva" />
+                  </div>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executivo" />
+                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executiva" />
                 </div>
               </li>
               <hr style="border: 1px solid #E5E5E5;width: 80%;text-align: left;margin-left: 0;"/>
@@ -103,12 +109,6 @@ export default function () {
                     <img src="/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
                   </div>
               </li>              
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Esportiva?map=c,specificationFilter_106">Esportivo</a>
-                  <div class="submenu__imageWrapper">
-                    <img src="/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportivo" />
-                  </div>
-              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Evolution#1">Evolution</a>
                   <div class="submenu__imageWrapper">
@@ -426,10 +426,6 @@ export default function () {
                   <img src="/arquivos/web-3.0.jpg" width="250px" height="588px" alt="Coleção Web 3.0" />
                 </div>
               </li>
-              
-              <li class="submenu__list__item submenu__list__item--seeAll">
-                <a class="submenu__itemLink" href="/mochila?map=c">Ver todas as Mochilas</a>
-              </li>
             </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -455,9 +451,6 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/de-300,01-a-99999?map=c,priceFrom">Acima de R$300,01</a>
               </li>
-              <li class="submenu__list__item submenu__list__item--seeAll">
-                <a class="submenu__itemLink" href="/mochila?map=c">Ver todos</a>
-              </li>
             </ul>
           </div>
 
@@ -465,23 +458,33 @@ export default function () {
           <div class="submenu__itemWrapper por-material">
             <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
               Material</div>
-            <ul class="submenu__list">
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Nylon?map=c,specificationFilter_72">Náilon</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Poliéster?map=c,specificationFilter_72">Poliéster</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72">Algodão</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/PVC?map=c,specificationFilter_72">PVC</a>
-              </li>
-            </ul>
+              <ul class="submenu__list">
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72">Algodão</a>
+                </li>
+
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="#">Couro</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="#">Ecológico</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/Poliéster?map=c,specificationFilter_72">Poliéster</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/Nylon?map=c,specificationFilter_72">Náilon</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="#">PU</a>
+                </li>                
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/PVC?map=c,specificationFilter_72">PVC</a>
+                </li>
+              </ul>
           </div>
          <!-- POR MATERIAL -->
         </li>
@@ -498,12 +501,12 @@ export default function () {
           </div>
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--no-wheels"
-                href="/mochila/Sem%20Rodinhas?map=c,specificationFilter_57">Sem Rodinhas</a>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels"
                 href="/mochila/2%20Rodinhas?map=c,specificationFilter_57">Com Rodinhas</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--withIcon submenu__itemLink--no-wheels"
+                href="/mochila/Sem%20Rodinhas?map=c,specificationFilter_57">Sem Rodinhas</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
@@ -535,6 +538,24 @@ export default function () {
             </ul>
           </div>
           <!-- [ FIM ] POR GÊNERO  -->
+
+          <!-- [ INÍCIO ] POR EXPANSÍVEL  -->
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
+              EXPANSÍVEL
+            </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--com-expansivel"
+                  href="#" title="Filtrar por: Com expansível">Com</a>
+              </li>              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--sem-expansivel"
+                  href="#" title="Filtrar por: Sem expansível">Sem</a>
+              </li>
+            </ul>
+          </div>
+          <!-- [ FIM ] POR EXPANSÍVEL  -->
           
         </li>
         <!-- [ FIM ] COLUNA 03 -->
@@ -548,19 +569,22 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--backpack-small"
-                  href="/mochila/Pequeno?map=c,specificationFilter_54">Pequeno</a>
+                  href="/mochila/Pequeno?map=c,specificationFilter_54">P</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon  submenu__itemLink--size submenu__itemLink--backpack-medium"
-                  href="/mochila/Médio?map=c,specificationFilter_54">Médio</a>
+                  href="/mochila/Médio?map=c,specificationFilter_54">M</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--backpack-big"
-                  href="/mochila/Grande?map=c,specificationFilter_54">Grande</a>
+                  href="/mochila/Grande?map=c,specificationFilter_54">G</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--backpack-xlbig"
+                  href="/mochila/Grande?map=c,specificationFilter_54">XG</a>
               </li>
             </ul>
           </div>
-
           <!--[ INÍCIO ] POR TOM DE CORES -->
           <div class="submenu__itemWrapper por-material">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
@@ -656,7 +680,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a href="/mochila?map=c">
-                    <button class="see_all">Ver todas as malas</button>  
+                    <button class="see_all">Ver todas as Mochilas</button>  
                 </a>                
               </li>
             </ul>

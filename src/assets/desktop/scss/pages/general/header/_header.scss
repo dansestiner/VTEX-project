@@ -785,7 +785,7 @@
   background: $color-white;
   padding: 26px 0px;
   height: 584px;
-  max-height: 65vh;
+  max-height: 68vh;
   width: 100vw;
   box-shadow: 0px 130px 210px rgba(0, 0, 0, 0.5);
   transition: .035s ease-in-out opacity, .15s ease-in-out transform;
@@ -1145,29 +1145,41 @@
 
   &--big::before {
     background-image: url(/arquivos/bag--big.jpg?v=1);
-    background-size: cover;
+    background-size: contain;
   }
 
   &--backpack-small::before {
-    background-image: url(/arquivos/moch-pequena.png);
+    background-image: url(/arquivos/mochila_size_p.png);
+    background-size: contain;
   }
 
   &--backpack-medium::before {
-    background-image: url(/arquivos/moch-Média.png);
+    background-image: url(/arquivos/mochila_size_m.png);
+    background-size: contain;
   }
 
   &--backpack-big::before {
-    background-image: url(/arquivos/moch-Grande.png);
+    background-image: url(/arquivos/mochila_size_g.png);
+    background-size: contain;
   }
 
   &--backpack-xlbig::before {
-    background-image: url(/arquivos/tamanho-extra-grande.jpg);
+    background-image: url(/arquivos/mochila_size_xg.png);
+    background-size: contain;
   }
 
   // MATERIAL
   &--cloth {
     &::before {
       background-image: url(/arquivos/soft.jpg);
+      margin-bottom: 24px;
+      background-size: contain;
+    }
+  }
+
+  &--ecomala {
+    &::before {
+      background-image: url(/arquivos/MalaEco.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1281,7 +1293,7 @@
 
   &--moch-with-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-com-Rodas.jpg);
+      background-image: url(/arquivos/icon-com-rodinhas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1289,7 +1301,7 @@
 
   &--with-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-com-Rodas.jpg);
+      background-image: url(/arquivos/icon-com-rodinhas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1306,6 +1318,14 @@
   &--juvenile-no-wheels {
     &::before {
       background-image: url(/arquivos/Sem-rodinha2.png);
+      margin-bottom: 24px;
+      background-size: contain;
+    }
+  }
+
+  &--malinha {
+    &::before {
+      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1345,7 +1365,7 @@
 
   &--for-laptop {
     &::before {
-      background-image: url(/arquivos/Laptop.jpg);
+      background-image: url(/arquivos/icon-para-notebook.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1383,7 +1403,7 @@
 
   &--little-bags {
     &::before {
-      background-image: url(/arquivos/Malinha.jpg);
+      background-image: url(/arquivos/malas.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1739,14 +1759,16 @@
     }
   }
 
-  &--binder {
+  &--fichario {
     &::before {
-      background-image: url(/arquivos/Fichario.jpg);
+      background-image: url(/arquivos/icon-fichario-menu.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
     }
   }
+
+
 
   &--sporting {
     &::before {
@@ -1800,12 +1822,24 @@
     }
   }
 
-  &--fichario {
+  &--com-expansivel {
     &::before {
-      background-image: url(/arquivos/Fichario.jpg);
+      background-image: url(/arquivos/icon-com-expansivel.jpg);
       background-size: contain;
     }
   }
+
+  &--sem-expansivel {
+    &::before {
+      background-image: url(/arquivos/icon-sem-expansivel.jpg);
+      background-size: contain;
+    }
+  }
+
+  
+
+
+
 }
 
 .submenu--departments {
@@ -1851,6 +1885,9 @@
 .submenu.infantil .submenu__item--col2 {
   width: 249px;
 }
+.submenu.infantil .submenu__item--col3 {
+  width: 260px;
+}
 .submenu.infantil .submenu__item--col4 {
   width: 249px;
 }
@@ -1870,12 +1907,33 @@
   width: 249px;
 }
 .submenu.executivo .submenu__item--col3 {
-  width: 276px;
+  width: 255px;
 }
 .submenu.executivo .submenu__item--col4 {
   width: 249px;
 }
+/* mochilas */
+.submenu.mochilas .submenu__item--col4 {
+  margin-left: -63px;
+}
 
+.submenu.mochilas .submenu__item--col3 {
+  width: 236px;
+}
+
+.submenu.mochilas .submenu__item--col5 {
+  border-left: 1px solid #ebebeb;
+  padding-left: 40px
+}
+
+
+/* malas */
+.submenu.malas .submenu__item--col3 {
+  width: 235px;
+}
+.submenu.malas .submenu__item--col4 {
+  margin-left: -63px;
+}
 /*ajustes extra no menu*/
 .por-material .submenu__itemLink--withIcon:before {
   border: 0;

@@ -70,9 +70,6 @@ export default function () {
                 <img src="/arquivos/Travesseiro.jpg" width="250px" height="588px" alt="Categoria Travesseiro" />
               </div>
             </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/acessorios?map=c">Ver todos os Acessórios</a>
-            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -246,7 +243,7 @@ export default function () {
         <!-- [ INÍCIO ] VEJA TAMBÉM -->
           <div class="submenu__itemWrapper">
             <a href="https://www.sestini.com.br/acessorios?map=c#1">
-              <button class="see_all"> Ver todos os acessórios </button>
+              <button class="see_all"> Ver todos os Acessórios </button>
             </a>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->

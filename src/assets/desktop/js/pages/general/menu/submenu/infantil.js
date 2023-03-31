@@ -207,9 +207,6 @@ export default function () {
                 <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
               </div>
             </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/423?map=productClusterIds">Ver todos os Produtos</a>
-            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -292,9 +289,6 @@ export default function () {
                   <a class="submenu__itemLink"
                     href="/mochila/de-300,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de R$300,01</a>
                 </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Ver todos</a>
-                </li>
               </ul>
 
             </div>
@@ -359,9 +353,6 @@ export default function () {
                   <a class="submenu__itemLink"
                     href="/Lancheira/de-120,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$120,01</a>
-                </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/Lancheira/Infantil?map=c,specificationFilter_107">Ver todos</a>
                 </li>
               </ul>
 
@@ -429,9 +420,6 @@ export default function () {
                     href="/Estojo/de-100,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$100,01</a>
                 </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/Estojo/Infantil?map=c,specificationFilter_107">Ver todos</a>
-                </li>
               </ul>
 
             </div>
@@ -470,7 +458,7 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a href="/423?map=productClusterIds">
-                <button class="see_all">Ver todas as mochilas</button>  
+                <button class="see_all">Ver todos os produtos Infantil</button>  
               </a>
             </li>
           </ul>

@@ -105,9 +105,6 @@ export default function () {
                 <img src="/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
               </div>
             </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/Executiva?map=specificationFilter_106">Ver todos os Produtos</a>
-            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -150,12 +147,12 @@ export default function () {
               <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--backpack-with-wheels"
                     href="/mochila/2%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
-                    title="Filtrar por: Com rodinhas">Com rodinhas</a>
+                    title="Filtrar por: Com rodinhas">Com rodas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--backpack-no-wheels"
                     href="/mochila/Sem%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
-                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
+                    title="Filtrar por: Sem rodinhas">Sem rodas</a>
                 </li>                
               </ul>
             </div>
@@ -228,9 +225,6 @@ export default function () {
                     href="/mochila/de-300,01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106">Acima de
                     R$300,01</a>
                 </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Ver todos</a>
-                </li>
               </ul>
             </div>
           </div>
@@ -271,26 +265,27 @@ export default function () {
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
                 Categoria</div>
-              <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--postman"
-                    href="/pasta/carteiro?map=c,c" title="Filtrar por: Carteiro">Carteiro</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--executive"
-                    href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executiva</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--tablet"
-                    href="/pasta/tablet?map=c,c" title="Filtrar por: Tablet">Tablet</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--shoulder-belt"
-                    href="/pasta/tiracolo?map=c,c" title="Filtrar por: Tiracolo">Tiracolo</a>
-                </li>
-              </ul>
+                <ul class="submenu__list submenu__list--row">
+                  <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--postman"
+                      href="/pasta/carteiro?map=c,c" title="Filtrar por: Carteiro">Carteiro</a>
+                  </li>
+                  <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--executive"
+                      href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executiva</a>
+                  </li>
+                </ul>
+                <ul class="submenu__list submenu__list--row">
+                  <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--tablet"
+                      href="/pasta/tablet?map=c,c" title="Filtrar por: Tablet">Tablet</a>
+                  </li>
+                  <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--shoulder-belt"
+                      href="/pasta/tiracolo?map=c,c" title="Filtrar por: Tiracolo">Tiracolo</a>
+                  </li>
+                </ul>
             </div>
-
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--lightGray">tom de cor</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
@@ -342,9 +337,6 @@ export default function () {
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/pasta/de-400,01-a-99999/Executiva?map=c,priceFrom,specificationFilter_106">Acima de R$400,01</a>
-                </li>
-                <li class="submenu__list__item submenu__list__item--seeAll">
-                  <a class="submenu__itemLink" href="/pasta/Executiva?map=c,specificationFilter_106">Ver todos</a>
                 </li>
               </ul>
             </div>
@@ -448,9 +440,6 @@ export default function () {
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink" href="/acessorios/necessaire/de-100,01-a-99999?map=c,c,priceFrom">Acima de R$100,01</a>
                   </li>
-                  <li class="submenu__list__item submenu__list__item--seeAll">
-                    <a class="submenu__itemLink" href="/acessorios?map=c">Ver todos</a>
-                  </li>
                 </ul>
             </div>
           </div>
@@ -483,7 +472,7 @@ export default function () {
                   href="/acessorios/Executiva?map=c,specificationFilter_106" title="Filtrar por: Acessórios">Acessórios</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--binder" href="/acessorios/Fichario?map=c,c"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" href="/acessorios/Fichario?map=c,c"
                   title="Filtrar por: Fichário">Fichário</a>
               </li>
               <li class="submenu__list__item">
@@ -496,7 +485,7 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a href="/423?map=productClusterIds">
-                  <button class="see_all">Ver todas as mochilas</button>  
+                  <button class="see_all">Ver todos os produtos Executivos</button>  
                 </a>
               </li>
             </ul>

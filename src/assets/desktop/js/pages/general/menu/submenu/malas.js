@@ -317,9 +317,6 @@ export default function () {
               <img src="/arquivos/Zigma.jpg" width="250px" height="588px" alt="Coleção Zigma" />
             </div>
           </li>
-          <li class="submenu__list__item submenu__list__item--seeAll">
-            <a class="submenu__itemLink" href="/mala?map=c">Ver todas as Malas</a>
-          </li>
         </ul>
       </li>
       <!-- [ FIM ] COLUNA 01 -->
@@ -358,9 +355,6 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/de-620,01-a-99999?map=c,priceFrom">Acima de R$620,00</a>
-            </li>
-            <li class="submenu__list__item submenu__list__item--seeAll">
-              <a class="submenu__itemLink" href="/mala?map=c">Ver todos</a>
             </li>
           </ul>
 
@@ -411,7 +405,7 @@ export default function () {
               Material</div>
             <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink--withIcon submenu__itemLink--cloth"
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--ecomala"
                     href="#">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
@@ -459,15 +453,15 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--small"
-                  href="/mala/viagem/Pequena?map=c,c,c">Pequena</a>
+                  href="/mala/viagem/Pequena?map=c,c,c">P</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon  submenu__itemLink--size submenu__itemLink--medium"
-                  href="/mala/viagem/Media?map=c,c,c">Média</a>
+                  href="/mala/viagem/Media?map=c,c,c">M</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--big"
-                  href="/mala/viagem/Grande?map=c,c,c">Grande</a>
+                  href="/mala/viagem/Grande?map=c,c,c">G</a>
               </li>
             </ul>
           </div>
@@ -479,15 +473,15 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--2-wheels"
-                  href="/mala/2%20Rodinhas?map=c,specificationFilter_57">2 Rodinhas</a>
+                  href="/mala/2%20Rodinhas?map=c,specificationFilter_57">2 Rodas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--4-wheels"
-                  href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas</a>
+                  href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--8-wheels"
-                  href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodinhas Duplas</a>
+                  href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodas Duplas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--retractable"
@@ -595,7 +589,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a href="/mala?map=c">
-                    <button class="see_all">Ver todas as malas</button>  
+                    <button class="see_all">Ver todas as Malas</button>  
                 </a>                
               </li>
             </ul>
