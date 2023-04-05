@@ -197,24 +197,11 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="#">PPplus</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/PPplus.png" width="250px" height="588px" alt="Coleção PPplus" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="#">PPpop</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/PPpop.png" width="250px" height="588px" alt="Coleção PPpop" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/PP%20Start?map=c,specificationFilter_110">PP-Start</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PP-Start.jpg" width="250px" height="588px" alt="Coleção PP-Start" />
             </div>
           </li>
-          
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/PP%20Ultra?map=c,specificationFilter_110">PP-Ultra</a>
             <div class="submenu__imageWrapper">
@@ -250,18 +237,11 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="#">Turquia</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Turquia.png" width="250px" height="588px" alt="Coleção Turquia" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Travel?map=c,specificationFilter_110">TO Travel</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/TO_Travel.jpg" width="250px" height="588px" alt="Coleção TO Travel" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Ultralight%205?map=c,specificationFilter_110">Ultralight-5</a>
             <div class="submenu__imageWrapper">
@@ -365,10 +345,10 @@ export default function () {
             <div class="submenu__item__heading">EXPANSÍVEL</div>
                 <ul class="submenu__list">
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="#">Com Expansível</a>
+                    <a class="submenu__itemLink" href="/mala/Sim?map=c,specificationFilter_113">Com Expansível</a>
                 </li>
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="#">Sem Expansível</a>
+                    <a class="submenu__itemLink" href="/mala/Não?map=c,specificationFilter_113">Sem Expansível</a>
                 </li>
             </ul>  
           </div>
@@ -406,7 +386,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--ecomala"
-                    href="#">Ecológico</a>
+                    href="/rpet">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--hard"
@@ -419,23 +399,6 @@ export default function () {
             </ul>
          </div>
 
-        <!-- CADEADO -->
-        <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">CADEADO</div>
-            <ul class="submenu__list">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink" href="#">Com Cadeado TSA Fixo</a>
-                </li>
-                <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="#">Com Cadeado Fixo</a>
-                </li>
-                <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="#">Sem Cadeado</a>
-                </li>
-            </ul>
-        </div>
-        <!-- CADEADO -->
-        
         
       </li>
       <!-- [ FIM ] COLUNA 03 -->
@@ -465,7 +428,6 @@ export default function () {
               </li>
             </ul>
           </div>
-
           <div class="submenu__itemWrapper por-mobilidade">
             <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
               Mobilidade

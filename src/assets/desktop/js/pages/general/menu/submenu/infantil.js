@@ -22,6 +22,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/arco-iris">Arco-íris</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/arco-iris-collec.png" width="250px" height="588px" alt="Coleção Arco-íris" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/anime">Anime</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Anime.jpg" width="250px" height="588px" alt="Coleção Anime" />
@@ -109,6 +115,12 @@ export default function () {
               <a class="submenu__itemLink" href="/Kids?map=specificationFilter_110">Kids</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Sestini-Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/lady">Lady</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/lady-collec.png" width="250px" height="588px" alt="Coleção Lady" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -207,6 +219,12 @@ export default function () {
                 <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
               </div>
             </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/pink-collec.png" width="250px" height="588px" alt="Coleção Y Pink" />
+              </div>
+            </li>
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->
@@ -240,7 +258,6 @@ export default function () {
                 </li>
               </ul>
             </div>
-
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Mobilidade
               </div>
@@ -248,21 +265,19 @@ export default function () {
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--with-wheels"
                     href="/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Com rodinhas">Com rodinhas</a>
+                    title="Filtrar por: Com rodinhas">Com Rodas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--no-wheels"
                     href="/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Sem rodinhas">Sem rodinhas</a>
+                    title="Filtrar por: Sem rodinhas">Sem Rodas</a>
                 </li>                
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--malinha"
-                    href="#"
-                    title="Filtrar por: Malinha">Malinha</a>
+                    href="/mala/Infantil?specificationFilter_107" title="Filtrar por: Malinha">Malinha</a>
                 </li>
               </ul>
             </div>
-
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">

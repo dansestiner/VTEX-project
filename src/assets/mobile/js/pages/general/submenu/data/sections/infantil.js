@@ -13,6 +13,11 @@ export const infantil__content = {
         "url": "/alien"
       },
       {
+        "collections": "Arco-íris",
+        "imgSrc": "/arquivos/arco-iris-collec.png",
+        "url": "/arco-iris"
+      },
+      {
         "collections": "Anime",
         "imgSrc": "/arquivos/Anime.jpg",
         "url": "/anime"
@@ -90,6 +95,11 @@ export const infantil__content = {
         "url": "/Kids?map=specificationFilter_110"
       },
       {
+        "collections": "Lady",
+        "imgSrc": "/arquivos/lady-collec.png",
+        "url": "/lady"
+      },
+      {
         "collections": "Love",
         "imgSrc": "/arquivos/love.jpg",
         "url": "/x%20love"
@@ -129,6 +139,11 @@ export const infantil__content = {
         "imgSrc": "/arquivos/Sestini-Pets.jpg",
         "url": "/Pets?map=specificationFilter_110"
       },
+      /*{
+        "collections": "Pink",
+        "imgSrc": "/arquivos/pink-collec.png",
+        "url": "/pink"
+      },*/
       {
         "collections": "Plush",
         "imgSrc": "/arquivos/Plush.jpg",
@@ -170,6 +185,11 @@ export const infantil__content = {
         "url": "/Unicornio?map=specificationFilter_110"
       },
       {
+        "collections": "Y Pink",
+        "imgSrc": "/arquivos/pink-collec.png",
+        "url": "/y%20pink"
+      },
+      {
         "collections": "Ver todos os Produtos",
         "imgSrc": "",
         "url": "/Infantil?map=specificationFilter_107"
@@ -196,6 +216,28 @@ export const infantil__content = {
         "imgSrc": "/arquivos/I_ParaTodos.jpg",
         "url": "/mochila/Infantil?map=c,specificationFilter_107"
       }
+    ]
+  },
+
+  mobility__mochila: {
+    "categoryTitle": "Mochilas",
+    "title": "Mobilidade",
+    "content": [
+      {
+        "mobility__mochila": "Com Rodas",
+        "imgSrc": "/arquivos/icon-com-rodinhas.jpg",
+        "url": "/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+      },
+      {
+        "mobility__mochila": "Sem Rodas",
+        "imgSrc": "/arquivos/Mochila-sem-Rodas.jpg",
+        "url": "/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+      },
+      {
+        "mobility__mochila": "Malinha",
+        "imgSrc": "/arquivos/icon-menu-Malinha.jpg?v=1",
+        "url": "/mala/Infantil?specificationFilter_107"
+      },
     ]
   },
 

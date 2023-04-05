@@ -146,13 +146,13 @@ export default function () {
               <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--backpack-with-wheels"
-                    href="/mochila/2%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
-                    title="Filtrar por: Com rodinhas">Com rodas</a>
+                    href="/mochila/Sim/Executiva?map=c,specificationFilter_122,specificationFilter_106"
+                    title="Filtrar por: Com rodinhas">Com Rodas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--backpack-no-wheels"
                     href="/mochila/Sem%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
-                    title="Filtrar por: Sem rodinhas">Sem rodas</a>
+                    title="Filtrar por: Sem rodinhas">Sem Rodas</a>
                 </li>                
               </ul>
             </div>
@@ -269,13 +269,11 @@ export default function () {
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--postman"
                       href="/pasta/carteiro?map=c,c" title="Filtrar por: Carteiro">Carteiro</a>
-                  </li>
+                  </li>                  
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--executive"
                       href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executiva</a>
                   </li>
-                </ul>
-                <ul class="submenu__list submenu__list--row">
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--tablet"
                       href="/pasta/tablet?map=c,c" title="Filtrar por: Tablet">Tablet</a>
@@ -283,6 +281,10 @@ export default function () {
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--shoulder-belt"
                       href="/pasta/tiracolo?map=c,c" title="Filtrar por: Tiracolo">Tiracolo</a>
+                  </li>
+                  <li class="submenu__list__item">
+                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--pasta-exe-with-wheels"
+                      href="/pasta/Sim?map=c,specificationFilter_122" title="Filtrar por: Com Rodinhas">Com Rodas</a>
                   </li>
                 </ul>
             </div>
@@ -385,12 +387,12 @@ export default function () {
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--oneCompartment"
-                    href="/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56" title="Filtrar por: 1 Compartimento">1</a>
+                    href="/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56" title="Filtrar por: 1 Compartimento">1 Comp</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--twoCompartments"
                     href="/Acessorios/necessaire/2%20Compartimentos?map=c,c,specificationFilter_56"
-                    title="Filtrar por: 2 Compartimentos">2</a>
+                    title="Filtrar por: 2 Compartimentos">2 Comp</a>
                 </li>
               </ul>
             </div>
@@ -485,7 +487,7 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a href="/423?map=productClusterIds">
-                  <button class="see_all">Ver todos os produtos Executivos</button>  
+                  <button class="see_all">Todos os produtos Executivos</button>  
                 </a>
               </li>
             </ul>

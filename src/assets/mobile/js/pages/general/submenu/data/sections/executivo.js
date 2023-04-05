@@ -204,14 +204,14 @@ export const executivo__content = {
     "title": "Por Tipo",
     "content": [
       {
-        "perType__mochila": "Sem Rodinhas",
+        "perType__mochila": "Sem Rodas",
         "imgSrc": "/arquivos/Mochila.jpg",
         "url": "/mochila/Sem%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
       },
       {
-        "perType__mochila": "Com Rodinhas",
+        "perType__mochila": "Com Rodas",
         "imgSrc": "/arquivos/Mochila-com-Rodas2.jpg",
-        "url": "/mochila/2%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
+        "url": "/mochila/Sim/Executiva?map=c,specificationFilter_122,specificationFilter_106#1"
       }
     ]
   },
@@ -354,6 +354,11 @@ export const executivo__content = {
         "categorie__pasta": "Carteiro",
         "imgSrc": "/arquivos/Pastas.jpg",
         "url": "/pasta/carteiro?map=c,c"
+      },
+      {
+        "categorie__pasta": "Com Rodinhas",
+        "imgSrc": "/arquivos/icon-com-rodinhas-executivo.png",
+        "url": "/pasta/Sim?map=c,specificationFilter_122"
       },
       {
         "categorie__pasta": "Executiva",
@@ -504,12 +509,12 @@ export const executivo__content = {
     "title": "Por Compartimento",
     "content": [
       {
-        "perCompartment__necessaire": "1 Compartimento",
+        "perCompartment__necessaire": "1 Comp",
         "imgSrc": "/arquivos/Necesser.jpg",
         "url": "/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56"
       },
       {
-        "perCompartment__necessaire": "2 Compartimentos",
+        "perCompartment__necessaire": "2 Comp",
         "imgSrc": "/arquivos/Necessaire-2-comp.jpg",
         "url": "/Acessorios/necessaire/2%20Compartimentos?map=c,c,specificationFilter_56"
       }

@@ -70,7 +70,7 @@ export const malas__content = {
       {
         "collection": "Eco_Rpet",
         "imgSrc": "/arquivos/Eco_Rpet.png",
-        "url": "#"
+        "url": "/rpet"
       },
       {
         "collection": "Gama",
@@ -158,16 +158,6 @@ export const malas__content = {
         "url": "#"
       },
       {
-        "collection": "PPplus",
-        "imgSrc": "/arquivos/PPplus.png",
-        "url": "#"
-      },
-      {
-        "collection": "PPpop",
-        "imgSrc": "/arquivos/PPpop.png",
-        "url": "#"
-      },
-      {
         "collection": "PP-Start",
         "imgSrc": "/arquivos/PP-Start.jpg",
         "url": "/mala/PP%20Start?map=c,specificationFilter_110"
@@ -196,11 +186,6 @@ export const malas__content = {
         "collection": "TO Go",
         "imgSrc": "/arquivos/TO_Go.jpg",
         "url": "/mala/Go?map=c,specificationFilter_110"
-      },
-      {
-        "collection": "Turquia",
-        "imgSrc": "/arquivos/Turquia.png",
-        "url": "#"
       },
       {
         "collection": "TO Travel",
@@ -350,17 +335,17 @@ export const malas__content = {
     "title": "Por Mobilidade",
     "content": [
       {
-        "mobility": "2 Rodinhas",
+        "mobility": "2 Rodas",
         "imgSrc": "/arquivos/2-rodas.png",
         "url": "/mala/2%20Rodinhas?map=c,specificationFilter_57"
       },
       {
-        "mobility": "4 Rodinhas",
+        "mobility": "4 Rodas",
         "imgSrc": "/arquivos/4-rodas.png",
         "url": "/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
-        "mobility": "4 Rodinhas duplas",
+        "mobility": "4 Rodas duplas",
         "imgSrc": "/arquivos/8-rodas.png",
         "url": "/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57"
       },

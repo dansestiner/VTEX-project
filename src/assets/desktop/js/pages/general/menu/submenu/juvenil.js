@@ -130,87 +130,84 @@ export default function () {
               </li>
             </ul>
           </div>
-
-            <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
-              <ul class="submenu__list submenu__list--colors submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--colored"
-                    href="/mochila/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Colorido">Colorido</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                    href="/mochila/Amarelo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor amarelo">Amarelo</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--blue"
-                    href="/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor azul">Azul</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--gray"
-                    href="/mochila/Cinza/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                    title="Filtrar por: Cor cinza">Cinza</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--golden"
-                    href="/mochila/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                    title="Filtrar por: Cor Dourado">Dourado</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--orange"
-                    href="/mochila/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Laranja">Laranja</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--black"
-                    href="/mochila/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Preto">Preto</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--pink"
-                    href="/mochila/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Rosa">Rosa</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--purple"
-                    href="/mochila/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Roxo">Roxo</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--green"
-                    href="/mochila/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Verde">Verde</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--red"
-                    href="/mochila/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Vermelho">Vermelho</a>
-                </li>
-              </ul>
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
+              Mobilidade
             </div>
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
+                  href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+                  title="Filtrar por: Com rodinhas">Com Rodas</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
+                  href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+                  title="Filtrar por: Sem rodinhas">Sem Rodas</a>
+              </li>
+            </ul>
+          </div>
+          <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
+            <ul class="submenu__list submenu__list--colors submenu__list--row">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--colored"
+                  href="/mochila/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Colorido">Colorido</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--yellow"
+                  href="/mochila/Amarelo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Cor amarelo">Amarelo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--blue"
+                  href="/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Cor azul">Azul</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--gray"
+                  href="/mochila/Cinza/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
+                  title="Filtrar por: Cor cinza">Cinza</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--golden"
+                  href="/mochila/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
+                  title="Filtrar por: Cor Dourado">Dourado</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--orange"
+                  href="/mochila/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Laranja">Laranja</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--black"
+                  href="/mochila/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Preto">Preto</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--pink"
+                  href="/mochila/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Rosa">Rosa</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--purple"
+                  href="/mochila/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Roxo">Roxo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--green"
+                  href="/mochila/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Verde">Verde</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--red"
+                  href="/mochila/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Vermelho">Vermelho</a>
+              </li>
+            </ul>
+          </div>
            
-
-            <div class="submenu__itemWrapper">
-              <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">
-                Mobilidade
-              </div>
-              <ul class="submenu__list submenu__list--row">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
-                    href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Com rodinhas">Com rodas</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
-                    href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Sem rodinhas">Sem rodas</a>
-                </li>                
-              </ul>
-            </div>
-
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">

@@ -58,7 +58,7 @@ const Methods = {
                                 var template = `<p id='quantity-view-product'>Você visualizou <span>${16 * window.location.href.split(`#`)[1]}</span> de <span>${data.result}</span> produtos</p>`
                         }else{
                             var template = `<p id='quantity-view-product'>Você visualizou <span>${data.result}</span> de <span>${data.result}</span> produtos</p>`
-                        }                        
+                        }
                         $(`#quantity-view-product`).remove()
                         $(`.cf-pagination`).before(template)
                 })

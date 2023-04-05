@@ -23,6 +23,11 @@ export const mochilas__content = {
         "url": "/Alliance?map=specificationFilter_110"
       },
       {
+        "collection": "Arco-íris",
+        "imgSrc": "/arquivos/arco-iris-collec.png",
+        "url": "/arco-iris"
+      },
+      {
         "collection": "Anime",
         "imgSrc": "/arquivos/Anime.jpg",
         "url": "/anime"
@@ -146,6 +151,11 @@ export const mochilas__content = {
         "collection": "Juvenil",
         "imgSrc": "/arquivos/moch-jovem.jpg",
         "url": "/mochila/Juvenil?map=c,specificationFilter_107"
+      },
+      {
+        "collection": "Lady",
+        "imgSrc": "/arquivos/lady-collec.png",
+        "url": "/lady"
       },
       {
         "collection": "Kids",
@@ -328,10 +338,16 @@ export const mochilas__content = {
         "url": "/mochila/Web%203.0?map=c,specificationFilter_110"
       },
       {
+        "collection": "Y Pink",
+        "imgSrc": "/arquivos/pink-collec.png",
+        "url": "/y%20pink"
+      },
+      {
         "collection": "Ver todas as Mochilas",
         "imgSrc": "",
         "url": "/mochila?map=c"
       }
+
     ]
   },
 
@@ -446,14 +462,14 @@ export const mochilas__content = {
     "title": "Por Tipo",
     "content": [
       {
-        "type": "Sem Rodinhas",
+        "type": "Sem Rodas",
         "imgSrc": "/arquivos/sem-rodinha.png",
         "url": "/mochila/Sem%20Rodinhas?map=c,specificationFilter_57"
       },
       {
-        "type": "Com Rodinhas",
+        "type": "Com Rodas",
         "imgSrc": "/arquivos/Moch-com-roda.jpg",
-        "url": "/mochila/2%20Rodinhas?map=c,specificationFilter_57"
+        "url": "/mochila/Sim?map=c,specificationFilter_122"
       },
       {
         "type": "Para notebook",
@@ -462,6 +478,24 @@ export const mochilas__content = {
       }
     ]
   },
+
+
+  expandable: {
+    "title": "Expansível",
+    "content": [
+      {
+        "type": "Com",
+        "imgSrc": "/arquivos/icon-sem-expansivel.jpg",
+        "url": "/mochila/Sim?map=c,specificationFilter_113"
+      },
+      {
+        "type": "Sem",
+        "imgSrc": "/arquivos/icon-com-expansivel.jpg",
+        "url": "/mochila/Não?map=c,specificationFilter_113"
+      }      
+    ]
+  },
+
 
   perColor: {
     "title": "Por tom de cor",

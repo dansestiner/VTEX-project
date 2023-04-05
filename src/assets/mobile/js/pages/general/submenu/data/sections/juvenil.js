@@ -179,12 +179,12 @@ export const juvenil__content = {
     "title": "Por Tipo",
     "content": [
       {
-        "perType__mochila": "Sem Rodinhas",
+        "perType__mochila": "Sem Rodas",
         "imgSrc": "/arquivos/Sem-rodinha2.png",
         "url": "/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
-        "perType__mochila": "Com Rodinhas",
+        "perType__mochila": "Com Rodas",
         "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
         "url": "/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
       }

@@ -1149,17 +1149,17 @@
   }
 
   &--backpack-small::before {
-    background-image: url(/arquivos/mochila_size_p.png);
+    background-image: url(/arquivos/mochila_size_p1.png);
     background-size: contain;
   }
 
   &--backpack-medium::before {
-    background-image: url(/arquivos/mochila_size_m.png);
+    background-image: url(/arquivos/mochila_size_m1.png?v=4);
     background-size: contain;
   }
 
   &--backpack-big::before {
-    background-image: url(/arquivos/mochila_size_g.png);
+    background-image: url(/arquivos/mochila_size_g1.png?v=4);
     background-size: contain;
   }
 
@@ -1179,7 +1179,7 @@
 
   &--ecomala {
     &::before {
-      background-image: url(/arquivos/MalaEco.jpg);
+      background-image: url(/arquivos/mala-eco-new-icon.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1519,7 +1519,6 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaEle.jpg);
       background-size: contain;
-      border: 1px solid #303030;
     }
   }
 
@@ -1534,7 +1533,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaEla.jpg);
       background-size: contain;
-      border: 1px solid #303030;
+      
     }
   }
 
@@ -1577,7 +1576,7 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
-      border: 1px solid #303030;
+      
     }
   }
 
@@ -1661,7 +1660,6 @@
     &::before {
       background-image: url(/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
-      border: 1px solid #303030;
     }
   }
 
@@ -1814,7 +1812,12 @@
       background-size: contain;
     }
   }
-
+  &--pasta-exe-with-wheels {
+    &::before {
+      background-image: url(/arquivos/icon-com-rodinhas-executivo.png);
+      background-size: contain;
+    }
+  }
   &--maternity {
     &::before {
       background-image: url(/arquivos/Maternidade.jpg);
@@ -1824,14 +1827,14 @@
 
   &--com-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-com-expansivel.jpg);
+      background-image: url(/arquivos/icon-sem-expansivel.jpg);      
       background-size: contain;
     }
   }
 
   &--sem-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-sem-expansivel.jpg);
+      background-image: url(/arquivos/icon-com-expansivel.jpg);
       background-size: contain;
     }
   }
@@ -1881,6 +1884,17 @@
 
 /* ajuste para cada seção do menu */
 
+
+/* all icons */
+.submenu__itemLink--withIcon a {
+  line-height: 10px;
+}
+
+/* mochilas */
+img.lady {
+  width: 200px;
+}
+
 /* infantil */
 .submenu.infantil .submenu__item--col2 {
   width: 249px;
@@ -1913,14 +1927,6 @@
   width: 249px;
 }
 /* mochilas */
-.submenu.mochilas .submenu__item--col4 {
-  margin-left: -63px;
-}
-
-.submenu.mochilas .submenu__item--col3 {
-  width: 236px;
-}
-
 .submenu.mochilas .submenu__item--col5 {
   border-left: 1px solid #ebebeb;
   padding-left: 40px
@@ -1932,7 +1938,8 @@
   width: 235px;
 }
 .submenu.malas .submenu__item--col4 {
-  margin-left: -63px;
+  margin-left: -67px;
+
 }
 /*ajustes extra no menu*/
 .por-material .submenu__itemLink--withIcon:before {
