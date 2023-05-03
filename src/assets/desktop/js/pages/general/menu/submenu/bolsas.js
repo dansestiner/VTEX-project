@@ -274,7 +274,7 @@ export default function () {
           <div class="submenu__itemWrapper">         
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a href="/mochila?map=c">
+                <a href="/bolsa?map=c">
                   <button class="see_all">Ver todas as Bolsas</button>  
                 </a>                
               </li>

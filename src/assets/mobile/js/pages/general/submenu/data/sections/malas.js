@@ -68,9 +68,9 @@ export const malas__content = {
         "url": "/mala/Croco?map=c,specificationFilter_110"
       },
       {
-        "collection": "Eco_Rpet",
+        "collection": "Eco Rpet",
         "imgSrc": "/arquivos/Eco_Rpet.png",
-        "url": "/rpet"
+        "url": "/malas/colecao/eco-rpet"
       },
       {
         "collection": "Gama",
@@ -155,7 +155,7 @@ export const malas__content = {
       {
         "collection": "PPmax",
         "imgSrc": "/arquivos/PPmax.png",
-        "url": "#"
+        "url": "/pp%20max"
       },
       {
         "collection": "PP-Start",
@@ -409,11 +409,6 @@ export const malas__content = {
         "colorName": "Rosa",
         "hexCode": "#e012ca;",
         "url": "/mala/Rosa?map=c,specificationFilter_42"
-      },
-      {
-        "colorName": "Roxo",
-        "hexCode": "purple;",
-        "url": "/mala/Roxo?map=c,specificationFilter_42"
       },
       {
         "colorName": "Verde",

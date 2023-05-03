@@ -203,10 +203,6 @@ export default function () {
               <ul class="submenu__list">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/mochila/de-0,01-a-120/Executiva?map=c,priceFrom,specificationFilter_106">Até R$120,00</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink"
                     href="/mochila/de-120,01-a-160/Executiva?map=c,priceFrom,specificationFilter_106">De R$120,01 até
                     R$160,00</a>
                 </li>
@@ -428,9 +424,6 @@ export default function () {
               <div class="submenu__item__heading">Por faixa de preço</div>
                 <ul class="submenu__list">
                   <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="/acessorios/necessaire/de-0,01-a-40?map=c,c,priceFrom">Até R$40,00</a>
-                  </li>
-                  <li class="submenu__list__item">
                     <a class="submenu__itemLink" href="/acessorios/necessaire/de-40,01-a-60?map=c,c,priceFrom">De R$40,01 até R$60,00</a>
                   </li>
                   <li class="submenu__list__item">
@@ -486,7 +479,7 @@ export default function () {
                   href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
               </li>
               <li class="submenu__list__item">
-                <a href="/423?map=productClusterIds">
+                <a href="/425?map=productClusterIds">
                   <button class="see_all">Todos os produtos Executivos</button>  
                 </a>
               </li>

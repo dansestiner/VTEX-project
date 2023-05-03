@@ -102,3 +102,16 @@
         }
     }
 }
+@media (max-width: 480px) { 
+    .iframe div#btn button{
+        margin: auto;
+        display: block;
+        padding: 10px;
+        width: 80%;
+        border: 1px solid #9b9999;
+        background-color: #FFF;
+        color: #9b9999;
+        margin-bottom: 30px;
+        cursor: pointer;
+    }
+}

@@ -381,10 +381,6 @@ export const infantil__content = {
         "url": "/Estojo/de-60,01-a-80/Infantil?map=c,priceFrom,specificationFilter_107",
       },
       {
-        "priceRange__acessorio": "De R$80,01 até R$100,00",
-        "url": "/Estojo/de-80,01-a-100/Infantil?map=c,priceFrom,specificationFilter_107",
-      },
-      {
         "priceRange__acessorio": "Acima de R$100,01",
         "url": "/Estojo/de-100,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107",
       },

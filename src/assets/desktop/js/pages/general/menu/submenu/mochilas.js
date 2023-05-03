@@ -61,7 +61,7 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/arco-iris">Arco-íris</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/arco-iris-collec.png" width="250px" height="588px" alt="Coleção Arco-íris" />
+                  <img src="/arquivos/arco-iris-collec1.png" width="250px" height="588px" alt="Coleção Arco-íris" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -438,7 +438,7 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/pink-collec.png" width="250px" height="588px" alt="Coleção Y Pink" />
+                  <img src="/arquivos/pink-collec1.png" width="250px" height="588px" alt="Coleção Y Pink" />
                 </div>
               </li>
             </ul>
@@ -475,7 +475,7 @@ export default function () {
               Material</div>
               <ul class="submenu__list">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink" href="/rpet">Ecológico</a>
+                  <a class="submenu__itemLink" href="/mochila-sestini-magic-eco-textura/p">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink" href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>

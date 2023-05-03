@@ -95,7 +95,12 @@ const Methods = {
         ProductRvData.depth = product["Profundidade (cm)"] + " cm";
         ProductRvData.weight = product["Peso (kg)"] + " kg";
 
-        
+        //novos campos
+        ProductRvData.expansivel = product.Expansível;
+        ProductRvData.mobilidade = product.Mobilidade;
+
+
+              
         product["landingPage"] != undefined
         ? (ProductRvData.LandingPage =
             product["landingPage"])

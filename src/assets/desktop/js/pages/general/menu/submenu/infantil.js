@@ -427,11 +427,6 @@ export default function () {
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
-                    href="/Estojo/de-80,01-a-100/Infantil?map=c,priceFrom,specificationFilter_107">De R$80,01 até
-                    R$100,00</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink"
                     href="/Estojo/de-100,01-a-99999/Infantil?map=c,priceFrom,specificationFilter_107">Acima de
                     R$100,01</a>
                 </li>
@@ -451,7 +446,7 @@ export default function () {
                 title="Filtrar por: Sacola">Sacola</a>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--little-bags" href="/mala/escolar?map=c,c"
+              <a class="submenu__itemLink--withIcon submenu__itemLink--bags" href="/mala/escolar?map=c,c"
                 title="Filtrar por: Mala">Mala</a>
             </li>
             <li class="submenu__list__item">

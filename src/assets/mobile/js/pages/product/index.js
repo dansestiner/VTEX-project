@@ -17,6 +17,26 @@ const init = () => {
       $('.js--add-to-cart').parent().css("max-width", '100%')
     }
   }, 2000);
+
+  //LandingpPage em produtos
+  setInterval(function () {
+    if($('.iframe').length == 1){
+      $('.iframe button').attr('id', dataLayer[0].productReferenceId);
+    };
+    return false;
+  }, 100);  
+
+  $(document).on('click', '.btn-more-info', function(){
+    $('#iframe').removeClass('hidden');
+    resize();
+  });
+  
+  var resize = function(){
+    var frame = $('#iframe')[0];
+    frame.style.height = frame.contentWindow.document.body.scrollHeight + 20 + 'px';
+  }
+  $('.btn-more-info').trigger('click');
+  
 };
 
 export default {

@@ -361,6 +361,14 @@
   margin-bottom: 0.25rem;
 }
 
+
+/* espaço link mobile */
+@media only screen and (max-width: 600px) {
+  [class*="x-submenu__department__item"] {
+    margin-bottom: 0.85rem !important;
+  }
+}
+
 [class*="x-submenu__department__item"]:last-child {
   text-transform: uppercase;
 }

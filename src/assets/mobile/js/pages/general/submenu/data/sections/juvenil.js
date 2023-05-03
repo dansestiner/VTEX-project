@@ -325,10 +325,10 @@ export const juvenil__content = {
     "categoryTitle": "Lancheira",
     "title": "Por faixa de preço",
     "content": [
-      {
+      /*{
         "priceRange__lancheira": "Até R$50,00",
         "url": "/Lancheira/de-0,01-a-50/Juvenil?map=c,priceFrom,specificationFilter_107"
-      },
+      },*/
       {
         "priceRange__lancheira": "De R$50,01 até R$90,00",
         "url": "/Lancheira/de-50,01-a-90/Juvenil?map=c,priceFrom,specificationFilter_107"

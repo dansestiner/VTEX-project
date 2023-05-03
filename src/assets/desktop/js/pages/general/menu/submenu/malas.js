@@ -88,7 +88,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="#">Eco RPET</a>
+            <a class="submenu__itemLink" href="/malas/colecao/eco-rpet">Eco RPET</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Eco_Rpet.png" width="250px" height="588px" alt="Coleção Eco RPET" />
             </div>
@@ -191,7 +191,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="#">PPmax</a>
+            <a class="submenu__itemLink" href="/pp%20max">PPmax</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PPmax.png" width="250px" height="588px" alt="Coleção PPmax" />
             </div>
@@ -524,10 +524,6 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--pink" href="/mala/Rosa?map=c,specificationFilter_42"
                   title="Filtrar por: Cor rosa">Rosa</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--purple" href="/mala/Roxo?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor roxa">Roxo</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--green" href="/mala/Verde?map=c,specificationFilter_42"
