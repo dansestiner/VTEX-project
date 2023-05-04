@@ -29,14 +29,15 @@ const init = () => {
   $(document).on('click', '.btn-more-info', function(){
     $('#iframe').removeClass('hidden');
     resize();
+    $('.btn-more-info').trigger('click');
+    return false;
   });
   
   var resize = function(){
     var frame = $('#iframe')[0];
-    frame.style.height = frame.contentWindow.document.body.scrollHeight + 20 + 'px';
+    frame.style.height = frame.contentWindow.document.body.scrollHeight + 50 + 'px';
   }
-  $('.btn-more-info').trigger('click');
-  
+    
 };
 
 export default {
