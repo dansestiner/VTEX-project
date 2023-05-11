@@ -501,7 +501,7 @@ export const mochilas__content = {
 
 
   expandable: {
-    "title": "Expansivo",
+    "title": "Expansível",
     "content": [
       {
         "type": "Com",

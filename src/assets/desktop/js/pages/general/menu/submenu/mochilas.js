@@ -564,23 +564,23 @@ export default function () {
             </ul>
           </div>
           <!-- [ FIM ] POR GÊNERO  -->
-          <!-- [ INÍCIO ] POR EXPANSIVO  -->
+          <!-- [ INÍCIO ] POR EXPANSÍVEL  -->
           <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-              EXPANSIVO
+              EXPANSÍVEL
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--com-expansivel"
-                  href="/mochila/Sim?map=c,specificationFilter_113" title="Filtrar por: Com expansivo">Com</a>
+                  href="/mochila/Sim?map=c,specificationFilter_113" title="Filtrar por: Com expansível">Com</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--sem-expansivel"
-                  href="/mochila/Não?map=c,specificationFilter_113" title="Filtrar por: Sem expansivo">Sem</a>
+                  href="/mochila/Não?map=c,specificationFilter_113" title="Filtrar por: Sem expansível">Sem</a>
               </li>
             </ul>
           </div>
-          <!-- [ FIM ] POR EXPANSIVO  -->
+          <!-- [ FIM ] POR EXPANSÍVEL  -->
         </li>
         <!-- [ FIM ] COLUNA 03 -->
 
