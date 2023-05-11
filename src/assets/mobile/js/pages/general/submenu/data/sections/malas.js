@@ -173,6 +173,11 @@ export const malas__content = {
         "url": "/mala/Riviera?map=c,specificationFilter_110"
       },
       {
+        "collection": "Titanium",
+        "imgSrc": "/arquivos/titanium.png",
+        "url": "/titanium"
+      },
+      {
         "collection": "TO Cross",
         "imgSrc": "/arquivos/Cross.jpg",
         "url": "/mala/Cross?map=c,specificationFilter_110"

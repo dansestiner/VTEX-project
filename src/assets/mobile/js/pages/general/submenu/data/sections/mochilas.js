@@ -48,6 +48,11 @@ export const mochilas__content = {
         "url": "/mochila/Capricho?map=c,specificationFilter_110"
       },
       {
+        "collections": "Casual",
+        "imgSrc": "/arquivos/New_casual.png?v=2",
+        "url": "/casual"
+      },
+      {
         "collection": "College",
         "imgSrc": "/arquivos/College.jpg",
         "url": "/mochila/College?map=c,specificationFilter_110"
@@ -86,6 +91,11 @@ export const mochilas__content = {
         "collection": "Fantasy",
         "imgSrc": "/arquivos/Fantasy.jpg",
         "url": "/fantasy#1"
+      },
+      {
+        "seeToo": "Fellipe Krein",
+        "imgSrc": "/arquivos/Mochila.jpg",
+        "url": "/mochila?map=c"
       },
       {
         "collection": "Fit",
@@ -216,6 +226,11 @@ export const mochilas__content = {
         "collection": "NBA",
         "imgSrc": "/arquivos/NBA-juvenil.jpg",
         "url": "/nba"
+      },
+      {
+        "collections": "Next",
+        "imgSrc": "/arquivos/Next.png",
+        "url": "/next"
       },
       {
         "collection": "Panda",
@@ -454,7 +469,12 @@ export const mochilas__content = {
         "material": "PVC",
         "imgSrc": "/arquivos/pvc.jpg",
         "url": "/mochila/PVC?map=c,specificationFilter_72"
-      }
+      },
+      {
+        "collections": "Work",
+        "imgSrc": "/arquivos/Work.png",
+        "url": "/work"
+      },
     ]
   },
 
@@ -481,7 +501,7 @@ export const mochilas__content = {
 
 
   expandable: {
-    "title": "Expansível",
+    "title": "Expansivo",
     "content": [
       {
         "type": "Com",

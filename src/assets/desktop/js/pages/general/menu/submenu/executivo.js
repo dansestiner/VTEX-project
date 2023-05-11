@@ -22,6 +22,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/casual">Casual</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Easy?map=specificationFilter_110">Easy</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
@@ -46,6 +52,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/next">Next</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Next.png" width="250px" height="588px" alt="Coleção Next" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Prime?map=specificationFilter_110">Prime</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
@@ -54,7 +66,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Rover?map=specificationFilter_110">Rover</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Rover.jpg" width="250px" height="588px" alt="Coleção Rover" />
+                <img src="/arquivos/Rover.jpg" style="width: 166px; height: 370px; margin-top: 1rem;" width="250px" height="588px" alt="Coleção Rover" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -105,6 +117,14 @@ export default function () {
                 <img src="/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
               </div>
             </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/work">Work</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Work.png" width="250px" height="588px" alt="Coleção Work" />
+              </div>
+            </li>
+
+
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->

@@ -89,6 +89,12 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/casual">Casual</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/College?map=c,specificationFilter_110">College</a>
                   <div class="submenu__imageWrapper">
                     <img src="/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
@@ -123,15 +129,19 @@ export default function () {
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Fantasy.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
                 </div>
+              </li>              
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/bolsa/Mochila?map=c,c#1">Fellipe Krein</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Coleção Fellipe Krein" />
+                </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Fit?map=specificationFilter_110">Fit</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Fit.jpg" width="250px" height="588px" alt="Coleção Fit" />
                 </div>
-              </li>
-
+              </li>              
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/plus%20floral#1">Floral</a>
                 <div class="submenu__imageWrapper">
@@ -275,7 +285,12 @@ export default function () {
                   <img src="/arquivos/NBA-juvenil.jpg" width="250px" height="588px" alt="Coleção NBA" />
                 </div>
               </li>
-
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/next">Next</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/Next.png" width="250px" height="588px" alt="Coleção Next" />
+                </div>
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/panda">Panda</a>
                 <div class="submenu__imageWrapper">
@@ -436,6 +451,12 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/work">Work</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/Work.png" width="250px" height="588px" alt="Coleção Work" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                   <img src="/arquivos/pink-collec1.png" width="250px" height="588px" alt="Coleção Y Pink" />
@@ -543,25 +564,23 @@ export default function () {
             </ul>
           </div>
           <!-- [ FIM ] POR GÊNERO  -->
-
-          <!-- [ INÍCIO ] POR EXPANSÍVEL  -->
+          <!-- [ INÍCIO ] POR EXPANSIVO  -->
           <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-              EXPANSÍVEL
+              EXPANSIVO
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--com-expansivel"
-                  href="/mochila/Sim?map=c,specificationFilter_113" title="Filtrar por: Com expansível">Com</a>
-              </li>              
+                  href="/mochila/Sim?map=c,specificationFilter_113" title="Filtrar por: Com expansivo">Com</a>
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--sem-expansivel"
-                  href="/mochila/Não?map=c,specificationFilter_113" title="Filtrar por: Sem expansível">Sem</a>
+                  href="/mochila/Não?map=c,specificationFilter_113" title="Filtrar por: Sem expansivo">Sem</a>
               </li>
             </ul>
           </div>
-          <!-- [ FIM ] POR EXPANSÍVEL  -->
-          
+          <!-- [ FIM ] POR EXPANSIVO  -->
         </li>
         <!-- [ FIM ] COLUNA 03 -->
 

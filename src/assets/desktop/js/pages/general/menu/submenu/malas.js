@@ -215,7 +215,12 @@ export default function () {
               <img src="/arquivos/Riviera.jpg" width="250px" height="588px" alt="Coleção Riviera" />
             </div>
           </li>
-
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/titanium">Titanium</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
+            </div>
+          </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Cross?map=c,specificationFilter_110">TO Cross</a>
             <div class="submenu__imageWrapper">
@@ -337,21 +342,18 @@ export default function () {
               <a class="submenu__itemLink" href="/mala/de-620,01-a-99999?map=c,priceFrom">Acima de R$620,00</a>
             </li>
           </ul>
-
         </div>
-
-
         <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading">EXPANSÍVEL</div>
+            <div class="submenu__item__heading">EXPANSIVO</div>
                 <ul class="submenu__list">
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="/mala/Sim?map=c,specificationFilter_113">Com Expansível</a>
+                  <a class="submenu__itemLink" href="/mala/Sim?map=c,specificationFilter_113">Com Expansivo</a>
                 </li>
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="/mala/Não?map=c,specificationFilter_113">Sem Expansível</a>
+                    <a class="submenu__itemLink" href="/mala/Não?map=c,specificationFilter_113">Sem Expansivo</a>
                 </li>
-            </ul>  
-          </div>
+            </ul>
+        </div>
       </li>
       <!-- [ FIM ] COLUNA 02 -->
 

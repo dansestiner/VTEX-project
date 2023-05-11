@@ -13,6 +13,11 @@ export const executivo__content = {
         "url": "/Alliance?map=specificationFilter_110"
       },
       {
+        "collections": "Casual",
+        "imgSrc": "/arquivos/New_casual.png?v=2",
+        "url": "/casual"
+      },
+      {
         "collections": "Easy",
         "imgSrc": "/arquivos/Easy.jpg",
         "url": "/Easy?map=specificationFilter_110"
@@ -37,11 +42,11 @@ export const executivo__content = {
         "imgSrc": "/arquivos/Load.jpg",
         "url": "/Load?map=specificationFilter_110"
       },
-      /*{
-        "collections": "Next X6",
-        "imgSrc": "/arquivos/Next X6.jpg",
-        "url": "/Next%20X6?map=specificationFilter_110"
-      },*/
+      {
+        "collections": "Next",
+        "imgSrc": "/arquivos/Next.png",
+        "url": "/next"
+      },
       {
         "collections": "Prime",
         "imgSrc": "/arquivos/Prime.jpg",
@@ -91,6 +96,11 @@ export const executivo__content = {
         "collections": "Pixie",
         "imgSrc": "/arquivos/Pixie.jpg",
         "url": "/Pixie?map=specificationFilter_110"
+      },
+      {
+        "collections": "Work",
+        "imgSrc": "/arquivos/Work.png",
+        "url": "/work"
       },
       {
         "collections": "Ver todos os Produtos",
