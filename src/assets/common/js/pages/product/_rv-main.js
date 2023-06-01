@@ -1,7 +1,7 @@
-import CacheSelectors from "./__cache-selectors";
-import ProductRvData from "./_rv-data";
-import ProductRvController from "./_rv-controller";
 import { searchProductArray } from "../../utils/vtex-api-catalog";
+import CacheSelectors from "./__cache-selectors";
+import ProductRvController from "./_rv-controller";
+import ProductRvData from "./_rv-data";
 
 const El = CacheSelectors.product;
 const Methods = {
@@ -100,7 +100,7 @@ const Methods = {
         ProductRvData.mobilidade = product.Mobilidade;
 
 
-              
+
         product["landingPage"] != undefined
         ? (ProductRvData.LandingPage =
             product["landingPage"])
@@ -174,7 +174,7 @@ const Methods = {
               });
               ProductRvData.specs = finalDifferentials.map((differential) => ({
                 name: `<h2>${differential.description}</h2><p>${differential.name}</p>`,
-                imageUrl: `/arquivos/icon-${Sestini.globalHelpers.slugifyText(
+                imageUrl: `https://sestini.vteximg.com.br/arquivos/icon-${Sestini.globalHelpers.slugifyText(
                   differential.description
                 )}.png`,
               }));

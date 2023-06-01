@@ -4,107 +4,107 @@ export const executivo__content = {
     "content": [
       {
         "collections": "Active",
-        "imgSrc": "/arquivos/Active.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Active.jpg",
         "url": "/Active?map=specificationFilter_110"
       },
       {
         "collections": "Alliance",
-        "imgSrc": "/arquivos/Alliance.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Alliance.jpg",
         "url": "/Alliance?map=specificationFilter_110"
       },
       {
         "collections": "Casual",
-        "imgSrc": "/arquivos/New_casual.png?v=2",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/New_casual.png?v=2",
         "url": "/casual"
       },
       {
         "collections": "Easy",
-        "imgSrc": "/arquivos/Easy.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Easy.jpg",
         "url": "/Easy?map=specificationFilter_110"
       },
       {
         "collections": "Harvest",
-        "imgSrc": "/arquivos/Harvest.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Harvest.jpg",
         "url": "/Harvest?map=specificationFilter_110"
       },
       /*{
         "collections": "Job",
-        "imgSrc": "/arquivos/Job.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Job.jpg",
         "url": "/Job?map=specificationFilter_110"
       },*/
       {
         "collections": "Liv",
-        "imgSrc": "/arquivos/Liv.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Liv.jpg",
         "url": "/Liv?map=specificationFilter_110"
       },
       {
         "collections": "Load",
-        "imgSrc": "/arquivos/Load.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Load.jpg",
         "url": "/Load?map=specificationFilter_110"
       },
       {
         "collections": "Next",
-        "imgSrc": "/arquivos/Next.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Next.png",
         "url": "/next"
       },
       {
         "collections": "Prime",
-        "imgSrc": "/arquivos/Prime.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Prime.jpg",
         "url": "/Prime?map=specificationFilter_110"
       },
       {
         "collections": "Rover",
-        "imgSrc": "/arquivos/Rover.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rover.jpg",
         "url": "/Rover?map=specificationFilter_110"
       },
       {
         "collections": "Scarf",
-        "imgSrc": "/arquivos/Scarf.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Scarf.jpg",
         "url": "/Scarf?map=specificationFilter_110"
       },
       {
         "collections": "Safe",
-        "imgSrc": "/arquivos/Safe.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Safe.jpg",
         "url": "/Safe?map=specificationFilter_110"
       },
       {
         "collections": "Smart",
-        "imgSrc": "/arquivos/Smart.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Smart.jpg",
         "url": "/Smart?map=specificationFilter_110"
       },
       {
         "collections": "ST3000",
-        "imgSrc": "/arquivos/ST3000.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/ST3000.jpg",
         "url": "/ST3000?map=specificationFilter_110"
       },
       {
         "collections": "Techno",
-        "imgSrc": "/arquivos/Techno.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Techno.jpg",
         "url": "/Techno?map=specificationFilter_110"
       },
       {
         "collections": "Web-3.0",
-        "imgSrc": "/arquivos/Web-3.0.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Web-3.0.jpg",
         "url": "/Web%203.0?map=specificationFilter_110"
       },
       {
         "collections": "Dry",
-        "imgSrc": "/arquivos/Dry.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Dry.jpg",
         "url": "/Dry?map=specificationFilter_110"
       },
       {
         "collections": "Pixie",
-        "imgSrc": "/arquivos/Pixie.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pixie.jpg",
         "url": "/Pixie?map=specificationFilter_110"
       },
       {
         "collections": "Work",
-        "imgSrc": "/arquivos/Work.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Work.png",
         "url": "/work"
       },
       {
         "collections": "Ver todos os Produtos",
-        "imgSrc": "",
+        "imgSrc": "https://sestini.vteximg.com.br",
         "url": "/Executiva?map=specificationFilter_106"
       }
     ]
@@ -193,17 +193,17 @@ export const executivo__content = {
     "content": [
       {
         "gender__mochila": "Para Ela",
-        "imgSrc": "/arquivos/E_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEla.jpg",
         "url": "/mochila/Feminino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__mochila": "Para Ele",
-        "imgSrc": "/arquivos/E_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEle.jpg",
         "url": "/mochila/Masculino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__mochila": "Para Todos",
-        "imgSrc": "/arquivos/E_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaTodos.jpg",
         "url": "/mochila/Executiva?map=c,specificationFilter_106"
       }
     ]
@@ -215,12 +215,12 @@ export const executivo__content = {
     "content": [
       {
         "perType__mochila": "Sem Rodas",
-        "imgSrc": "/arquivos/Mochila.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila.jpg",
         "url": "/mochila/Sem%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
       },
       {
         "perType__mochila": "Com Rodas",
-        "imgSrc": "/arquivos/Mochila-com-Rodas2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas2.jpg",
         "url": "/mochila/Sim/Executiva?map=c,specificationFilter_122,specificationFilter_106#1"
       }
     ]
@@ -340,17 +340,17 @@ export const executivo__content = {
     "content": [
       {
         "gender__pasta": "Para Ela",
-        "imgSrc": "/arquivos/E_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEla.jpg",
         "url": "/pasta/Feminino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__pasta": "Para Ele",
-        "imgSrc": "/arquivos/E_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEle.jpg",
         "url": "/Acessorios/necessaire/Masculino/Executiva?map=c,c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__pasta": "Para Todos",
-        "imgSrc": "/arquivos/E_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaTodos.jpg",
         "url": "/pasta/Executiva?map=c,specificationFilter_106"
       }
     ]
@@ -362,27 +362,27 @@ export const executivo__content = {
     "content": [
       {
         "categorie__pasta": "Carteiro",
-        "imgSrc": "/arquivos/Pastas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pastas.jpg",
         "url": "/pasta/carteiro?map=c,c"
       },
       {
         "categorie__pasta": "Com Rodinhas",
-        "imgSrc": "/arquivos/icon-com-rodinhas-executivo.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/icon-com-rodinhas-executivo.png",
         "url": "/pasta/Sim?map=c,specificationFilter_122"
       },
       {
         "categorie__pasta": "Executiva",
-        "imgSrc": "/arquivos/Pasta.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pasta.jpg",
         "url": "/pasta/executiva?map=c,c"
       },
       {
         "categorie__pasta": "Tablet",
-        "imgSrc": "/arquivos/Tablet.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Tablet.jpg",
         "url": "/pasta/tablet?map=c,c"
       },
       {
         "categorie__pasta": "Tiracolo",
-        "imgSrc": "/arquivos/Tiracolo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Tiracolo.jpg",
         "url": "/pasta/tiracolo?map=c,c"
       }
     ]
@@ -498,17 +498,17 @@ export const executivo__content = {
     "content": [
       {
         "gender__necessaire": "Para Ela",
-        "imgSrc": "/arquivos/E_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEla.jpg",
         "url": "/Acessorios/Necessaire/Feminino/Executiva?map=c,c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__necessaire": "Para Ele",
-        "imgSrc": "/arquivos/E_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaEle.jpg",
         "url": "/necessaire/Masculino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
       },
       {
         "gender__necessaire": "Para Todos",
-        "imgSrc": "/arquivos/E_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/E_ParaTodos.jpg",
         "url": "/necessaire/Executiva?map=c,specificationFilter_106"
       }
     ]
@@ -520,12 +520,12 @@ export const executivo__content = {
     "content": [
       {
         "perCompartment__necessaire": "1 Comp",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/Acessorios/necessaire/1%20Compartimento?map=c,c,specificationFilter_56"
       },
       {
         "perCompartment__necessaire": "2 Comp",
-        "imgSrc": "/arquivos/Necessaire-2-comp.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necessaire-2-comp.jpg",
         "url": "/Acessorios/necessaire/2%20Compartimentos?map=c,c,specificationFilter_56"
       }
     ]
@@ -567,37 +567,37 @@ export const executivo__content = {
     "content": [
       {
         "seeToo": "Bolsa",
-        "imgSrc": "/arquivos/Bolsa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa.jpg",
         "url": "/bolsas?map=c"
       },
       {
         "seeToo": "Esportivo",
-        "imgSrc": "/arquivos/Esportivo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Esportivo.jpg",
         "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
       },
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sacola2.jpg",
         "url": "/Sacola?map=c"
       },
       {
         "seeToo": "Mala",
-        "imgSrc": "/arquivos/Mala.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mala.jpg",
         "url": "/mala?map=c"
       },
       {
         "seeToo": "Fichário",
-        "imgSrc": "/arquivos/Fichario.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fichario.jpg",
         "url": "/acessorios/Fichario?map=c,c"
       },
       {
         "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Acessorios.jpg",
         "url": "/acessorios/Executiva?map=c,specificationFilter_106"
       },
       {
         "seeToo": "Carteira",
-        "imgSrc": "/arquivos/Carteira1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Carteira1.jpg",
         "url": "/acessorios/Carteira?map=c,c"
       }
     ]

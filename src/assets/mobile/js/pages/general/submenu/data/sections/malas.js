@@ -4,238 +4,238 @@ export const malas__content = {
     "content": [
       {
         "collection": "4-All",
-        "imgSrc": "/arquivos/4-All.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/4-All.jpg",
         "url": "/mala/4%20All?map=c,specificationFilter_110"
       },
       {
         "collection": "4-Fun",
-        "imgSrc": "/arquivos/4-Fun.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/4-Fun.jpg",
         "url": "/mala/4%20Fun?map=c,specificationFilter_110"
       },
       {
         "collection": "4-Joy",
-        "imgSrc": "/arquivos/4-Joy.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/4-Joy.jpg",
         "url": "/mala/4%20Joy?map=c,specificationFilter_110"
       },
       {
         "collection": "4-Life",
-        "imgSrc": "/arquivos/4-Life.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/4-Life.jpg",
         "url": "/mala/4%20Life?map=c,specificationFilter_110"
       },
       {
         "collection": "Apolo",
-        "imgSrc": "/arquivos/apolo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/apolo.jpg",
         "url": "/mala/Apolo?map=c,specificationFilter_110"
       },
       {
         "collection": "Atlanta",
-        "imgSrc": "/arquivos/Atlanta.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Atlanta.jpg",
         "url": "/mala/Atlanta?map=c,specificationFilter_110"
       },
       {
         "collection": "Blocos",
-        "imgSrc": "/arquivos/Blocos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Blocos.jpg",
         "url": "/mala/Blocos?map=c,specificationFilter_110"
       },
       {
         "collection": "Capri",
-        "imgSrc": "/arquivos/Capri.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Capri.jpg",
         "url": "/mala/Capri?map=c,specificationFilter_110"
       },
       {
         "collection": "Classic",
-        "imgSrc": "/arquivos/classic.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/classic.jpg",
         "url": "/mala/Classic?map=c,specificationFilter_110"
       },
       {
         "collection": "Colors",
-        "imgSrc": "/arquivos/SestiniColors.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/SestiniColors.jpg",
         "url": "/mala/Colors?map=c,specificationFilter_110"
       },
       {
         "collection": "Cosmo",
-        "imgSrc": "/arquivos/Cosmo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Cosmo.jpg",
         "url": "/mala/Cosmo?map=c,specificationFilter_110"
       },
       {
         "collection": "Croácia",
-        "imgSrc": "/arquivos/Croacia.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Croacia.jpg",
         "url": "/mala/Croácia?map=c,specificationFilter_110"
       },
       {
         "collection": "Croco",
-        "imgSrc": "/arquivos/Croco.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Croco.jpg",
         "url": "/mala/Croco?map=c,specificationFilter_110"
       },
       {
         "collection": "Eco Rpet",
-        "imgSrc": "/arquivos/Eco_Rpet.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Eco_Rpet.png",
         "url": "/malas/colecao/eco-rpet"
       },
       {
         "collection": "Gama",
-        "imgSrc": "/arquivos/Gama.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Gama.jpg",
         "url": "/mala/Gama?map=c,specificationFilter_110"
       },
       {
         "collection": "Genebra",
-        "imgSrc": "/arquivos/Genebra.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Genebra.jpg",
         "url": "/mala/Genebra?map=c,specificationFilter_110"
       },
       {
         "collection": "Girls-VR",
-        "imgSrc": "/arquivos/Girls-VR.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Girls-VR.jpg",
         "url": "/mala/Girls%20VR?map=c,specificationFilter_110"
       },
       {
         "collection": "Ibiza",
-        "imgSrc": "/arquivos/Ibiza.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Ibiza.jpg",
         "url": "/mala/Ibiza?map=c,specificationFilter_110"
       },
       {
         "collection": "Kids",
-        "imgSrc": "/arquivos/Kids.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Kids.jpg",
         "url": "/mala/Kids?map=c,specificationFilter_110"
       },
       {
         "collection": "Lisboa",
-        "imgSrc": "/arquivos/Lisboa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Lisboa.jpg",
         "url": "/mala/Lisboa?map=c,specificationFilter_110"
       },
       {
         "collection": "London",
-        "imgSrc": "/arquivos/London.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/London.jpg",
         "url": "/mala/London?map=c,specificationFilter_110"
       },
       {
         "collection": "Milão",
-        "imgSrc": "/arquivos/Milao.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Milao.jpg",
         "url": "/mala/Milão?map=c,specificationFilter_110"
       },
       {
         "collection": "Minecraft",
-        "imgSrc": "/arquivos/Minecraft.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Minecraft.jpg",
         "url": "/mala/Minecraft?map=c,specificationFilter_110"
       },
       {
         "collection": "Minions",
-        "imgSrc": "/arquivos/Minions.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Minions.jpg",
         "url": "/mala/Minions?map=c,specificationFilter_110"
       },
       {
         "collection": "Monograma",
-        "imgSrc": "/arquivos/Mala_Monograma.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mala_Monograma.png",
         "url": "/mala/Monograma?map=c,specificationFilter_110"
       },
       {
         "collection": "Montreal",
-        "imgSrc": "/arquivos/Montreal.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Montreal.jpg",
         "url": "/mala/Montreal?map=c,specificationFilter_110"
       },
       {
         "collection": "NBA",
-        "imgSrc": "/arquivos/NBA.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/NBA.jpg",
         "url": "/mala/NBA?map=c,specificationFilter_110"
       },
       {
         "collection": "Órion",
-        "imgSrc": "/arquivos/orion.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/orion.jpg",
         "url": "/mala/Orion?map=c,specificationFilter_110"
       },
       {
         "collection": "Paris",
-        "imgSrc": "/arquivos/Paris.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Paris.jpg",
         "url": "/mala/Paris?map=c,specificationFilter_110"
       },
       {
         "collection": "Paris Saint-German",
-        "imgSrc": "/arquivos/Mala_PSG.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mala_PSG.jpg",
         "url": "/mala/Paris%20Saint-German?map=c,specificationFilter_110"
       },
       {
         "collection": "PPmax",
-        "imgSrc": "/arquivos/PPmax.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/PPmax.png",
         "url": "/pp%20max"
       },
       {
         "collection": "PP-Start",
-        "imgSrc": "/arquivos/PP-Start.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/PP-Start.jpg",
         "url": "/mala/PP%20Start?map=c,specificationFilter_110"
       },
       {
         "collection": "PP-Ultra",
-        "imgSrc": "/arquivos/PP-Ultra.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/PP-Ultra.jpg",
         "url": "/mala/PP%20Ultra?map=c,specificationFilter_110"
       },
       {
         "collection": "Riviera",
-        "imgSrc": "/arquivos/Riviera.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Riviera.jpg",
         "url": "/mala/Riviera?map=c,specificationFilter_110"
       },
       {
         "collection": "Titanium",
-        "imgSrc": "/arquivos/titanium.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/titanium.png",
         "url": "/titanium"
       },
       {
         "collection": "TO Cross",
-        "imgSrc": "/arquivos/Cross.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Cross.jpg",
         "url": "/mala/Cross?map=c,specificationFilter_110"
       },
       {
         "collection": "TO Fly",
-        "imgSrc": "/arquivos/Fly.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fly.jpg",
         "url": "/mala/Fly?map=c,specificationFilter_110"
       },
       {
         "collection": "TO Go",
-        "imgSrc": "/arquivos/TO_Go.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/TO_Go.jpg",
         "url": "/mala/Go?map=c,specificationFilter_110"
       },
       {
         "collection": "TO Travel",
-        "imgSrc": "/arquivos/TO_Travel.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/TO_Travel.jpg",
         "url": "/mala/Travel?map=c,specificationFilter_110"
       },
       {
         "collection": "Ultralight-5",
-        "imgSrc": "/arquivos/Ultralight.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Ultralight.jpg",
         "url": "/mala/Ultralight%205?map=c,specificationFilter_110"
       },
       {
         "collection": "Ultralight-Plus",
-        "imgSrc": "/arquivos/Ultralight-Plus.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Ultralight-Plus.jpg",
         "url": "/mala/Ultralight%20Plus?map=c,specificationFilter_110"
       },
 
       {
         "collection": "Vega",
-        "imgSrc": "/arquivos/Vega.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Vega.jpg",
         "url": "/mala/Vega?map=c,specificationFilter_110"
       },
       {
         "collection": "Vênus",
-        "imgSrc": "/arquivos/Venus.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Venus.jpg",
         "url": "/mala/Venus?map=c,specificationFilter_110"
       },
       {
         "collection": "Voyage",
-        "imgSrc": "/arquivos/Voyage.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Voyage.jpg",
         "url": "/mala/Voyage?map=c,specificationFilter_110"
       },
       {
         "collection": "Wheeless",
-        "imgSrc": "/arquivos/Wheeless.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Wheeless.jpg",
         "url": "/mala/Wheeless?map=c,specificationFilter_110"
       },
       {
         "collection": "Zafira",
-        "imgSrc": "/arquivos/Zafira.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Zafira.jpg",
         "url": "/mala/Zafira?map=c,specificationFilter_110"
       },
       {
         "collection": "Zigma",
-        "imgSrc": "/arquivos/Zigma.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Zigma.jpg",
         "url": "/mala/Zigma?map=c,specificationFilter_110"
       },
       {
@@ -299,22 +299,22 @@ export const malas__content = {
       [
         {
           "size": "Bordo",
-          "imgSrc": "/arquivos/Bordo.png",
+          "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bordo.png",
           "url": "/mala/viagem/bordo?map=c,c,c"
         },
         {
           "size": "Pequena",
-          "imgSrc": "/arquivos/Pequena.png",
+          "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pequena.png",
           "url": "/mala/viagem/Pequena?map=c,c,c"
         },
         {
           "size": "Média",
-          "imgSrc": "/arquivos/Media.png",
+          "imgSrc": "https://sestini.vteximg.com.br/arquivos/Media.png",
           "url": "/mala/viagem/Media?map=c,c,c"
         },
         {
           "size": "Grande",
-          "imgSrc": "/arquivos/Grande.png",
+          "imgSrc": "https://sestini.vteximg.com.br/arquivos/Grande.png",
           "url": "/mala/viagem/Grande?map=c,c,c"
         }
       ]
@@ -325,12 +325,12 @@ export const malas__content = {
     "content": [
       {
         "material": "Tecido/soft",
-        "imgSrc": "/arquivos/soft.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/soft.jpg",
         "url": "/mala/Soft-Tecido?map=c,specificationFilter_66"
       },
       {
         "material": "Rígida",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rigido.jpg",
         "url": "/mala/Rígida?map=c,specificationFilter_66"
       }
     ]
@@ -341,22 +341,22 @@ export const malas__content = {
     "content": [
       {
         "mobility": "2 Rodas",
-        "imgSrc": "/arquivos/2-rodas.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/2-rodas.png",
         "url": "/mala/2%20Rodinhas?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas",
-        "imgSrc": "/arquivos/4-rodas.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/4-rodas.png",
         "url": "/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas duplas",
-        "imgSrc": "/arquivos/8-rodas.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/8-rodas.png",
         "url": "/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "Rodas retráteis",
-        "imgSrc": "/arquivos/Roda-retratil.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Roda-retratil.jpg",
         "url": "/mala/Rodas%20Retráteis?map=c,specificationFilter_57"
       }
     ]
@@ -438,17 +438,17 @@ export const malas__content = {
     "content": [
       {
         "gender": "Feminino",
-        "imgSrc": "/arquivos/M_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/M_ParaEla.jpg",
         "url": "/mala/Feminino?map=c,specificationFilter_67"
       },
       {
         "gender": "Masculino",
-        "imgSrc": "/arquivos/M_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/M_ParaEle.jpg",
         "url": "/mala/Masculino?map=c,specificationFilter_67"
       },
       {
         "gender": "Do seu jeito",
-        "imgSrc": "/arquivos/M_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/M_ParaTodos.jpg",
         "url": "/mala?map=c"
       }
     ]
@@ -459,12 +459,12 @@ export const malas__content = {
     "content": [
       {
         "padlock": "TSA",
-        "imgSrc": "/arquivos/logo-TSA.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/logo-TSA.jpg",
         "url": "/mala/TSA%20Fixo?map=c,specificationFilter_70"
       },
       {
         "padlock": "FIXO",
-        "imgSrc": "/arquivos/Fixo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fixo.jpg",
         "url": "/mala/Fixo?map=c,specificationFilter_70"
       }
     ]
@@ -475,17 +475,17 @@ export const malas__content = {
     "content": [
       {
         "toTravel": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Acessorios.jpg",
         "url": "/Acessorios?map=c"
       },
       {
         "toTravel": "Sacola",
-        "imgSrc": "/arquivos/icon-sacola.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/icon-sacola.png",
         "url": "/Sacola?map=c"
       },
       {
         "toTravel": "Frasqueira",
-        "imgSrc": "/arquivos/icon-frasqueira.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/icon-frasqueira.png",
         "url": "/mala/Frasqueira?map=c,c"
       }
     ]

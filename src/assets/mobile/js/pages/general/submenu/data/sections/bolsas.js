@@ -4,107 +4,107 @@ export const bolsas__content = {
     "content": [
       {
         "categories": "Bowling",
-        "imgSrc": "/arquivos/bowling.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bowling.jpg",
         "url": "/bolsa/Bowling?map=c,c"
       },
       {
         "categories": "Bucket",
-        "imgSrc": "/arquivos/bucket.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bucket.jpg",
         "url": "/bolsa/Bucket?map=c,c"
       },
       {
         "categories": "Capricho",
-        "imgSrc": "/arquivos/Bolsa_Capricho.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_Capricho.png",
         "url": "/bolsa/Capricho?map=c,specificationFilter_110"
       },
-      /*{ 
+      /*{
         "categories": "Clutch",
-        "imgSrc": "/arquivos/clutch.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/clutch.jpg",
         "url": "/bolsa/Clutch?map=c,c"
       },*/
       {
         "categories": "Cross Bag",
-        "imgSrc": "/arquivos/cross-bag.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/cross-bag.jpg",
         "url": "/bolsa/Cross%20Bag?map=c,c"
       },
       {
         "categories": "Focuz",
-        "imgSrc": "/arquivos/Bolsa_Focuz.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_Focuz.png",
         "url": "/bolsa/Focuz?map=c,specificationFilter_110"
       },
       {
         "categories": "Hobo",
-        "imgSrc": "/arquivos/hobo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/hobo.jpg",
         "url": "/bolsa/Hobo?map=c,c"
       },
       {
         "categories": "Liv",
-        "imgSrc": "/arquivos/Bolsa_Liv.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_Liv.png",
         "url": "/bolsa/Liv?map=c,specificationFilter_110"
       },
       /*{
         "categories": "Maternidade",
-        "imgSrc": "/arquivos/bolsa-Maternidade.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bolsa-Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
       },*/
       {
         "categories": "Mini Bag",
-        "imgSrc": "/arquivos/mini-bag.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/mini-bag.jpg",
         "url": "/bolsa/Mini%20Bag?map=c,c"
       },
       {
         "categories": "Mochila",
-        "imgSrc": "/arquivos/bolsa-mochila.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bolsa-mochila.jpg",
         "url": "/bolsa/Mochila?map=c,c"
       },
       {
         "categories": "Pixie",
-        "imgSrc": "/arquivos/Bolsa_Pixie.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_Pixie.png",
         "url": "/bolsa/Pixie?map=c,specificationFilter_110"
       },
       {
         "categories": "Satchel",
-        "imgSrc": "/arquivos/satchel.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/satchel.jpg",
         "url": "/bolsa/Satchel?map=c,c"
       },
       {
         "categories": "Paul Frank",
-        "imgSrc": "/arquivos/Bolsa_PF.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_PF.png",
         "url": "/bolsa/Paul%20Frank"
       },
       {
         "categories": "Monograma",
-        "imgSrc": "/arquivos/Bolsa_monograma.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_monograma.png",
         "url": "/bolsa/Monograma?map=c,specificationFilter_110"
       },
       {
         "categories": "Selfie",
-        "imgSrc": "/arquivos/Bolsa_Selfie.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa_Selfie.png",
         "url": "/bolsa/Selfie?map=c,specificationFilter_110"
       },
       {
         "categories": "Shopping",
-        "imgSrc": "/arquivos/shopping.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/shopping.jpg",
         "url": "/bolsa/Shopping?map=c,c"
       },
       {
         "categories": "Tiracolo",
-        "imgSrc": "/arquivos/bolsa-Tiracolo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bolsa-Tiracolo.jpg",
         "url": "/bolsa/Tiracolo?map=c,c"
       },
       {
         "categories": "Tote",
-        "imgSrc": "/arquivos/bolsa-Tote.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/bolsa-Tote.jpg",
         "url": "/bolsa/Tote?map=c,c"
       },
       {
         "categories": "Praia",
-        "imgSrc": "/arquivos/Praia.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Praia.jpg",
         "url": "/429?map=productClusterIds#1"
       },
       {
         "categories": "Pets",
-        "imgSrc": "/arquivos/Pets.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pets.jpg",
         "url": "/pets-produtos"
       },
       {
@@ -163,22 +163,22 @@ export const bolsas__content = {
     "content": [
       {
         "material": "Náilon",
-        "imgSrc": "/arquivos/Nailon.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Nailon.jpg",
         "url": "/bolsa/Nylon?map=c,specificationFilter_72"
       },
       {
         "material": "Poliuretano (PU)",
-        "imgSrc": "/arquivos/P.U.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/P.U.jpg",
         "url": "/bolsa/P.U?map=c,specificationFilter_72"
       },
       {
         "material": "Poliéster",
-        "imgSrc": "/arquivos/poliester.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/poliester.jpg",
         "url": "/bolsa/Poliéster?map=c,specificationFilter_72"
       }
       /*{
         "material": "Couro",
-        "imgSrc": "/arquivos/Couro.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Couro.jpg",
         "url": "/bolsa/Couro?map=c,specificationFilter_72"
       }*/
     ]
@@ -235,47 +235,47 @@ export const bolsas__content = {
     "content": [
       {
         "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire?map=c,c"
       },
       {
         "seeToo": "Carteira",
-        "imgSrc": "/arquivos/Carteira1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Carteira1.jpg",
         "url": "/acessorios/Carteira?map=c,c"
       },
       {
         "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Estojo2.jpg",
         "url": "/Estojo?map=c"
       },
       {
         "seeToo": "Esportivo",
-        "imgSrc": "/arquivos/Esportivo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Esportivo.jpg",
         "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
       },
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sacola2.jpg",
         "url": "/Sacola?map=c"
       },
       {
         "seeToo": "Mala",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rigido.jpg",
         "url": "/mala?map=c"
       },
       {
         "seeToo": "Pochete",
-        "imgSrc": "/arquivos/Pochete1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pochete1.jpg",
         "url": "/acessorios/Pochete?map=c,c"
       },
       {
         "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Acessorios.jpg",
         "url": "/Acessorios?map=c"
       },
       {
         "seeToo": "Mochila",
-        "imgSrc": "/arquivos/Mochila.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila.jpg",
         "url": "/mochila?map=c"
       },
     ]

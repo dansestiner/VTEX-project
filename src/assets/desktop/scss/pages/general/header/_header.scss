@@ -31,7 +31,7 @@
       font-weight: 400;
       font-size: 12px;
 
-      &+& {
+      & + & {
         margin-top: 15px;
       }
 
@@ -64,7 +64,7 @@
         justify-content: center;
         display: flex;
 
-        &>h1 {
+        & > h1 {
           display: none;
         }
       }
@@ -409,11 +409,11 @@
             }
           }
 
-          &>a {
+          & > a {
             display: flex;
             align-items: center;
 
-            &>p {
+            & > p {
               font-style: normal;
               font-weight: 600;
               font-size: 12px;
@@ -454,7 +454,7 @@
           .icon-bag {
             position: relative;
 
-            &>span {
+            & > span {
               position: absolute;
               top: -5px;
               left: 75%;
@@ -524,18 +524,18 @@
           text-transform: uppercase;
           transition: 0.4s all;
 
-          &>a>strong {
+          & > a > strong {
             color: $color-white;
             font-weight: 700;
           }
 
           &:hover {
-            &>a {
+            & > a {
               font-weight: 700;
               transition: 0.4s all;
             }
 
-            &>.x-header-container__bottom-menu-sub {
+            & > .x-header-container__bottom-menu-sub {
               max-height: 100000px;
               opacity: 1;
               transition: all 0.6s;
@@ -597,10 +597,10 @@
               }
             }
 
-            &>li {
+            & > li {
               flex: 0 0 23%;
 
-              &>h2 {
+              & > h2 {
                 font-size: 18px;
                 font-weight: 700;
                 margin-bottom: 10px;
@@ -629,7 +629,7 @@
                 }
               }
 
-              &>ul>li {
+              & > ul > li {
                 font-size: 14px;
                 font-weight: 500;
                 color: $color-black;
@@ -647,7 +647,6 @@
 
           &-banner {
             &.malas {
-
               .vve-container,
               .vve-container__inner {
                 height: 100%;
@@ -679,7 +678,7 @@
 }
 
 #smarthint-search-result {
-  top: 214px!important;
+  top: 214px !important;
   z-index: 50 !important;
 }
 
@@ -722,24 +721,24 @@
 
     &__item {
       display: block;
-      padding: 0 0 .75rem;
+      padding: 0 0 0.75rem;
 
       &:hover {
-        >.submenuWrapper {
+        > .submenuWrapper {
           pointer-events: all;
           transform: translate(-50%, 0) scaleY(1);
           overflow: hidden;
           opacity: 1;
         }
 
-        >a {
+        > a {
           &::after {
             transform: scaleX(1);
           }
         }
       }
 
-      >a {
+      > a {
         position: relative;
         color: $color-white;
         text-transform: uppercase;
@@ -780,7 +779,7 @@
   position: absolute;
   left: 50%;
   top: 32px;
-  transform: translate(-50%, 0%) scaleY(.97);
+  transform: translate(-50%, 0%) scaleY(0.97);
   transform-origin: top;
   background: $color-white;
   padding: 26px 0px;
@@ -788,19 +787,18 @@
   max-height: 68vh;
   width: 100vw;
   box-shadow: 0px 130px 210px rgba(0, 0, 0, 0.5);
-  transition: .035s ease-in-out opacity, .15s ease-in-out transform;
+  transition: 0.035s ease-in-out opacity, 0.15s ease-in-out transform;
 
   opacity: 0;
   pointer-events: none;
 
-  .submenu__itemLink--childishYourWay, 
-  .submenu__itemLink--juvenileYourWay, 
+  .submenu__itemLink--childishYourWay,
+  .submenu__itemLink--juvenileYourWay,
   .submenu__itemLink--yourWay-acessories,
   .submenu__itemLink--executiveYourWay,
   .submenu__itemLink--yourWay {
     width: 65px;
   }
-
 
   &:hover {
     pointer-events: all;
@@ -814,11 +812,11 @@
   margin: 0 auto;
   height: 100%;
   display: grid;
-  grid-template-columns: .6fr .7fr 1.2fr 1fr 1fr;
+  grid-template-columns: 0.6fr 0.7fr 1.2fr 1fr 1fr;
   gap: 1.5rem;
 
   &--departments {
-    grid-template-columns: .52fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 0.52fr 1fr 1fr 1fr 1fr;
   }
 }
 
@@ -826,7 +824,6 @@
   height: 93%;
   overflow: hidden;
   overflow-y: auto;
-
 
   /* ===== Scrollbar CSS ===== */
   /* Firefox */
@@ -843,7 +840,7 @@
   &:hover::-webkit-scrollbar {
     width: 6px;
     height: 4px;
-    transition: all 8s ease-out
+    transition: all 8s ease-out;
   }
 
   &::-webkit-scrollbar-track {
@@ -855,18 +852,16 @@
     border-radius: 30px;
     border: 0px solid #ffffff;
   }
-
 }
-
 
 .submenu__list--row {
   display: flex;
   flex-wrap: wrap;
-  margin: -.5rem;
+  margin: -0.5rem;
   max-width: 100%;
 
- > li {
-    margin: .5rem;
+  > li {
+    margin: 0.5rem;
   }
 }
 
@@ -880,7 +875,7 @@
   height: 100%;
   overflow-y: auto;
 
-   .submenu__itemWrapper + .submenu__itemWrapper {
+  .submenu__itemWrapper + .submenu__itemWrapper {
     margin-top: 2.5rem;
   }
 
@@ -916,10 +911,10 @@
   &--col1 {
     border-right: 1px solid #ebebeb;
     white-space: nowrap;
-    margin-left: -.5rem;
+    margin-left: -0.5rem;
 
     .submenu__item__heading {
-      margin-left: .5rem;
+      margin-left: 0.5rem;
       font-size: 12px !important;
       color: #000;
       letter-spacing: 1px;
@@ -935,16 +930,15 @@
       color: #303030;
     }
     .submenu__list__item {
-
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:serif='http://www.serif.com/' width='100%25' height='100%25' viewBox='0 0 9 12' version='1.1' xml:space='preserve' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Cg transform='matrix(1,0,0,1,-0.507514,1.2097e-12)'%3E%3Cpath d='M2.05,2.697L6.275,6C6.275,6 2.05,9.303 2.05,9.303C1.722,9.559 1.664,10.034 1.92,10.362C2.177,10.69 2.652,10.748 2.98,10.492L7.965,6.595C8.148,6.452 8.255,6.232 8.255,6C8.255,5.768 8.148,5.548 7.965,5.405L2.98,1.508C2.652,1.252 2.177,1.31 1.92,1.638C1.664,1.966 1.722,2.441 2.05,2.697Z' style='fill:%23b4b4b4;'/%3E%3C/g%3E%3C/svg%3E");
       background-size: 8px;
       background-repeat: no-repeat;
       background-position: 95% 50%;
 
-      >a {
+      > a {
         display: block;
         position: relative;
-        transition: ease-out .1s;
+        transition: ease-out 0.1s;
 
         &::before {
           content: "";
@@ -958,14 +952,14 @@
           height: calc(100% + 6px);
           z-index: -1;
           transform-origin: left bottom;
-          transition: .3s ease-out;
+          transition: 0.3s ease-out;
         }
       }
 
       &:hover {
         background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:serif='http://www.serif.com/' width='100%25' height='100%25' viewBox='0 0 9 12' version='1.1' xml:space='preserve' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Cg transform='matrix(1,0,0,1,-0.507514,1.2097e-12)'%3E%3Cpath d='M2.05,2.697L6.275,6C6.275,6 2.05,9.303 2.05,9.303C1.722,9.559 1.664,10.034 1.92,10.362C2.177,10.69 2.652,10.748 2.98,10.492L7.965,6.595C8.148,6.452 8.255,6.232 8.255,6C8.255,5.768 8.148,5.548 7.965,5.405L2.98,1.508C2.652,1.252 2.177,1.31 1.92,1.638C1.664,1.966 1.722,2.441 2.05,2.697Z' style='fill:%23ffffff;'/%3E%3C/g%3E%3C/svg%3E");
 
-        >a {
+        > a {
           color: $color-white;
           text-indent: 8px;
 
@@ -974,7 +968,7 @@
           }
         }
 
-        >.submenu__imageWrapper {
+        > .submenu__imageWrapper {
           display: flex;
           opacity: 1;
           pointer-events: all;
@@ -988,10 +982,6 @@
       }
     }
   }
-
-
-
-  
 
   &--col2 {
     border-right: 1px solid #ebebeb;
@@ -1019,8 +1009,8 @@
   .submenu__list--colors {
     margin: -3px;
     > li {
-        margin: 3px;
-      }
+      margin: 3px;
+    }
   }
 }
 
@@ -1061,12 +1051,11 @@
   text-overflow: ellipsis;
 
   &--color {
-    transition: .15s ease-in;
+    transition: 0.15s ease-in;
 
     &:hover {
-      opacity: .65;
+      opacity: 0.65;
     }
-
   }
 
   &--withIcon {
@@ -1086,10 +1075,10 @@
     width: 58px;
     background-repeat: no-repeat;
     background-size: auto;
-    transition: .15s ease-in;
+    transition: 0.15s ease-in;
 
     &:hover {
-      opacity: .65;
+      opacity: 0.65;
     }
 
     &::before {
@@ -1113,7 +1102,7 @@
     width: 60px;
     height: 60px;
 
-    &::before{
+    &::before {
       object-fit: contain;
     }
   }
@@ -1129,49 +1118,49 @@
   }
 
   &--board::before {
-    background-image: url(/arquivos/bag--board.jpg?v=1);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/bag--board.jpg?v=1);
     background-size: cover;
   }
 
   &--small::before {
-    background-image: url(/arquivos/bag--small.jpg?v=1);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/bag--small.jpg?v=1);
     background-size: cover;
   }
 
   &--medium::before {
-    background-image: url(/arquivos/bag--medium.jpg?v=1);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/bag--medium.jpg?v=1);
     background-size: cover;
   }
 
   &--big::before {
-    background-image: url(/arquivos/bag--big.jpg?v=1);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/bag--big.jpg?v=1);
     background-size: contain;
   }
 
   &--backpack-small::before {
-    background-image: url(/arquivos/mochila_size_p1.png);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/mochila_size_p1.png);
     background-size: contain;
   }
 
   &--backpack-medium::before {
-    background-image: url(/arquivos/mochila_size_m1.png?v=4);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/mochila_size_m1.png?v=4);
     background-size: contain;
   }
 
   &--backpack-big::before {
-    background-image: url(/arquivos/mochila_size_g1.png?v=4);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/mochila_size_g1.png?v=4);
     background-size: contain;
   }
 
   &--backpack-xlbig::before {
-    background-image: url(/arquivos/mochila_size_xg.png);
+    background-image: url(https://sestini.vteximg.com.br/arquivos/mochila_size_xg.png);
     background-size: contain;
   }
 
   // MATERIAL
   &--cloth {
     &::before {
-      background-image: url(/arquivos/soft.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/soft.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1179,7 +1168,7 @@
 
   &--ecomala {
     &::before {
-      background-image: url(/arquivos/mala-eco-new-icon.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/mala-eco-new-icon.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1187,15 +1176,15 @@
 
   &--hard {
     &::before {
-      background-image: url(/arquivos/rigido.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/rigido.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
   }
 
   &--suitcase {
-    &::before { 
-      background-image: url(/arquivos/malas.jpg);
+    &::before {
+      background-image: url(https://sestini.vteximg.com.br/arquivos/malas.jpg);
       background-size: contain;
     }
   }
@@ -1203,7 +1192,7 @@
   /*&--backpack-nylon,
   &--nylon {
     &::before {
-      background-image: url(/arquivos/Nailon.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Nailon.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1212,7 +1201,7 @@
   &--backpack-pu,
   &--pu {
     &::before {
-      background-image: url(/arquivos/P.U.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/P.U.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1221,7 +1210,7 @@
   /*&--backpack-poliester,
   &--polyester {
     &::before {
-      background-image: url(/arquivos/Poliester.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Poliester.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1230,21 +1219,21 @@
   &--backpack-leather,
   &--leather {
     &::before {
-      background-image: url(/arquivos/Couro.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Couro.jpg);
       margin-bottom: 24px;
     }
   }
 
   &--metal {
     &::before {
-      background-image: url(/arquivos/Metal.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Metal.jpg);
       margin-bottom: 24px;
     }
   }
 
   /*&--backpack-cottom {
     &::before {
-      background-image: url(/arquivos/Algodao.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Algodao.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1252,7 +1241,7 @@
 
   /*&--backpack-neoprene {
     &::before {
-      background-image: url(/arquivos/Neoprene.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Neoprene.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1260,7 +1249,7 @@
 
   /*&--backpack-pvc {
     &::before {
-      background-image: url(/arquivos/pvc.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/pvc.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1269,7 +1258,7 @@
   // MOBILITY
   &--no-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-sem-Rodas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochila-sem-Rodas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1277,7 +1266,7 @@
 
   &--backpack-no-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochila.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1285,7 +1274,7 @@
 
   &--backpack-with-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-com-Rodas2.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas2.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1293,7 +1282,7 @@
 
   &--moch-with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-com-rodinhas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1301,7 +1290,7 @@
 
   &--with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-com-rodinhas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1309,7 +1298,7 @@
 
   &--juvenile-with-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-com-Rodas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1317,7 +1306,7 @@
 
   &--juvenile-no-wheels {
     &::before {
-      background-image: url(/arquivos/Sem-rodinha2.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Sem-rodinha2.png);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1325,7 +1314,7 @@
 
   &--malinha {
     &::before {
-      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=1);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-menu-Malinha.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1333,7 +1322,7 @@
 
   &--2-wheels {
     &::before {
-      background-image: url(/arquivos/2-rodas.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/2-rodas.png);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1341,7 +1330,7 @@
 
   &--4-wheels {
     &::before {
-      background-image: url(/arquivos/4-rodas.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/4-rodas.png);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1349,7 +1338,7 @@
 
   &--8-wheels {
     &::before {
-      background-image: url(/arquivos/8-rodas.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/8-rodas.png);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1357,7 +1346,7 @@
 
   &--retractable {
     &::before {
-      background-image: url(/arquivos/Roda-retratil.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Roda-retratil.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1365,7 +1354,7 @@
 
   &--for-laptop {
     &::before {
-      background-image: url(/arquivos/icon-para-notebook.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-para-notebook.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1373,7 +1362,7 @@
 
   &--backpack {
     &::before {
-      background-image: url(/arquivos/Mochila.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochila.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1383,7 +1372,7 @@
 
   &--backpacks {
     &::before {
-      background-image: url(/arquivos/Mochilas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mochilas.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1403,7 +1392,7 @@
 
   &--little-bags {
     &::before {
-      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=1);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-menu-Malinha.jpg?v=1);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1413,7 +1402,7 @@
 
   &--bags {
     &::before {
-      background-image: url(/arquivos/malas.jpg); 
+      background-image: url(https://sestini.vteximg.com.br/arquivos/malas.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1424,7 +1413,7 @@
 
   &--purses {
     &::before {
-      background-image: url(/arquivos/Bolsa.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Bolsa.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1483,28 +1472,34 @@
   }
 
   &--golden {
-    background-image: radial-gradient(ellipse farthest-corner at right bottom,
+    background-image: radial-gradient(
+        ellipse farthest-corner at right bottom,
         #fedb37 0%,
         #fdb931 8%,
         #9f7928 30%,
         #8a6e2f 40%,
-        transparent 80%),
-      radial-gradient(ellipse farthest-corner at left top,
+        transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
         #ffffff 0%,
         #ffffac 8%,
         #d1b464 25%,
         #5d4a1f 62.5%,
-        #5d4a1f 100%);
+        #5d4a1f 100%
+      );
   }
 
   &--colored {
     transform: rotate(45deg);
-    background-image: linear-gradient(to top,
-        rgba(233, 165, 165, 1),
-        rgba(184, 193, 192, 1),
-        rgba(101, 192, 224, 1),
-        rgba(174, 162, 219, 1),
-        #81c1d9);
+    background-image: linear-gradient(
+      to top,
+      rgba(233, 165, 165, 1),
+      rgba(184, 193, 192, 1),
+      rgba(101, 192, 224, 1),
+      rgba(174, 162, 219, 1),
+      #81c1d9
+    );
   }
 
   // GENDER
@@ -1517,155 +1512,153 @@
 
   &--male {
     &::before {
-      background-image: url(/arquivos/Mo_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mo_ParaEle.jpg);
       background-size: contain;
     }
   }
 
   &--bagMale {
     &::before {
-      background-image: url(/arquivos/M_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/M_ParaEle.jpg);
       background-size: contain;
     }
   }
 
   &--female {
     &::before {
-      background-image: url(/arquivos/Mo_ParaEla.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mo_ParaEla.jpg);
       background-size: contain;
-      
     }
   }
 
   &--childishFemale {
     &::before {
-      background-image: url(/arquivos/I_ParaEla.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/I_ParaEla.jpg);
       background-size: contain;
     }
   }
 
   &--childishMale {
     &::before {
-      background-image: url(/arquivos/I_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/I_ParaEle.jpg);
       background-size: contain;
     }
   }
 
   &--childishYourWay {
     &::before {
-      background-image: url(/arquivos/I_ParaTodos.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/I_ParaTodos.jpg);
       background-size: contain;
     }
   }
 
   &--juvenileFemale {
     &::before {
-      background-image: url(/arquivos/J_ParaEla.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/J_ParaEla.jpg);
       background-size: contain;
     }
   }
 
   &--juvenileMale {
     &::before {
-      background-image: url(/arquivos/J_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/J_ParaEle.jpg);
       background-size: contain;
     }
   }
 
   &--juvenileYourWay {
     &::before {
-      background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
-      
     }
   }
 
   &--executive {
     &::before {
-      background-image: url(/arquivos/Pasta.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Pasta.jpg);
       background-size: contain;
     }
   }
 
   &--postman {
     &::before {
-      background-image: url(/arquivos/Pastas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Pastas.jpg);
       background-size: contain;
     }
   }
 
   &--tablet {
     &::before {
-      background-image: url(/arquivos/Tablet.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Tablet.jpg);
       background-size: contain;
     }
   }
 
   &--shoulder-belt {
     &::before {
-      background-image: url(/arquivos/Tiracolo.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Tiracolo.jpg);
       background-size: contain;
     }
   }
 
   &--oneCompartment {
     &::before {
-      background-image: url(/arquivos/Necesser.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Necesser.jpg);
       background-size: contain;
     }
   }
 
   &--twoCompartments {
     &::before {
-      background-image: url(/arquivos/Necessaire-2-comp.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Necessaire-2-comp.jpg);
       background-size: contain;
     }
   }
 
   &--executiveFemale {
     &::before {
-      background-image: url(/arquivos/E_ParaEla.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/E_ParaEla.jpg);
       background-size: contain;
     }
   }
 
   &--executiveMale {
     &::before {
-      background-image: url(/arquivos/E_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/E_ParaEle.jpg);
       background-size: contain;
     }
   }
 
   &--executiveYourWay {
     &::before {
-      background-image: url(/arquivos/E_ParaTodos.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/E_ParaTodos.jpg);
       background-size: contain;
     }
   }
 
   &--bagFemale {
     &::before {
-      background-image: url(/arquivos/M_ParaEla.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/M_ParaEla.jpg);
       background-size: contain;
     }
   }
 
   &--bagMale {
     &::before {
-      background-image: url(/arquivos/M_ParaEle.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/M_ParaEle.jpg);
     }
   }
 
   &--yourWay-acessories {
     &::before {
-      background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg);
       background-size: contain;
     }
   }
 
   &--yourWay {
     &::before {
-      background-image: url(/arquivos/M_ParaTodos.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/M_ParaTodos.jpg);
       background-size: contain;
     }
   }
@@ -1675,20 +1668,18 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/logo-TSA.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/logo-TSA.jpg);
       background-size: contain;
     }
-
   }
 
   &--fix {
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/Fixo.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Fixo.jpg);
       background-size: contain;
     }
-
   }
 
   // TRAVELPLUS
@@ -1696,7 +1687,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/Acessorios.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Acessorios.jpg);
       background-size: contain;
     }
   }
@@ -1705,7 +1696,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/Sacola2.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Sacola2.jpg);
       background-size: contain;
     }
   }
@@ -1714,7 +1705,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/icon-frasqueira.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-frasqueira.png);
       background-size: contain;
     }
   }
@@ -1722,35 +1713,35 @@
   // SEE TOO ( BACKPACKS )
   &--pencil-case-purse {
     &::before {
-      background-image: url(/arquivos/Estojo2.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Estojo2.jpg);
       background-size: contain;
     }
   }
 
   &--pencil-case {
     &::before {
-      background-image: url(/arquivos/Estojo.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Estojo.jpg);
       background-size: contain;
     }
   }
 
   &--juvenile-pencil-case {
     &::before {
-      background-image: url(/arquivos/Estojo-1.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Estojo-1.jpg);
       background-size: contain;
     }
   }
 
   &--lunch-bag {
     &::before {
-      background-image: url(/arquivos/Lancheira.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Lancheira.jpg);
       background-size: contain;
     }
   }
 
   &--necessaire {
     &::before {
-      background-image: url(/arquivos/Necesser.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Necesser.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1759,18 +1750,16 @@
 
   &--fichario {
     &::before {
-      background-image: url(/arquivos/icon-fichario-menu.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-fichario-menu.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
     }
   }
 
-
-
   &--sporting {
     &::before {
-      background-image: url(/arquivos/Esportivo.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Esportivo.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1779,7 +1768,7 @@
 
   &--sports {
     &::before {
-      background-image: url(/arquivos/Esportivo.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Esportivo.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1788,7 +1777,7 @@
 
   &--money-belt {
     &::before {
-      background-image: url(/arquivos/Pochete1.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Pochete1.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1796,10 +1785,10 @@
   }
 
   &--wallet {
-    margin-left: .5rem;
+    margin-left: 0.5rem;
 
     &::before {
-      background-image: url(/arquivos/Carteira1.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Carteira1.jpg);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1808,52 +1797,47 @@
 
   &--folder {
     &::before {
-      background-image: url(/arquivos/Pastas.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Pastas.jpg);
       background-size: contain;
     }
   }
   &--pasta-exe-with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas-executivo.png);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-com-rodinhas-executivo.png);
       background-size: contain;
     }
   }
   &--maternity {
     &::before {
-      background-image: url(/arquivos/Maternidade.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/Maternidade.jpg);
       background-size: contain;
     }
   }
 
   &--com-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-sem-expansivel.jpg);      
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-sem-expansivel.jpg);
       background-size: contain;
     }
   }
 
   &--sem-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-com-expansivel.jpg);
+      background-image: url(https://sestini.vteximg.com.br/arquivos/icon-com-expansivel.jpg);
       background-size: contain;
     }
   }
-
-  
-
-
-
 }
 
 .submenu--departments {
- .submenu__imageWrapper {
-  max-width: 270px;
-  transform: translateX(133px);
- }
+  .submenu__imageWrapper {
+    max-width: 270px;
+    transform: translateX(133px);
+  }
 
- .submenu__item--col2 {
-  border: none;
- }
+  .submenu__item--col2 {
+    border: none;
+  }
 }
 
 .submenu__imageWrapper {
@@ -1883,7 +1867,6 @@
 }
 
 /* ajuste para cada seção do menu */
-
 
 /* all icons */
 .submenu__itemLink--withIcon a {
@@ -1929,9 +1912,8 @@ img.lady {
 /* mochilas */
 .submenu.mochilas .submenu__item--col5 {
   border-left: 1px solid #ebebeb;
-  padding-left: 40px
+  padding-left: 40px;
 }
-
 
 /* malas */
 .submenu.malas .submenu__item--col3 {
@@ -1939,7 +1921,6 @@ img.lady {
 }
 .submenu.malas .submenu__item--col4 {
   margin-left: -67px;
-
 }
 /*ajustes extra no menu*/
 .por-material .submenu__itemLink--withIcon:before {

@@ -4,77 +4,77 @@ export const juvenil__content = {
     "content": [
       {
         "collections": "Capricho",
-        "imgSrc": "/arquivos/Capricho.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Capricho.jpg",
         "url": "/Capricho?map=specificationFilter_110"
       },
       {
         "collections": "College",
-        "imgSrc": "/arquivos/College.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/College.jpg",
         "url": "/College?map=specificationFilter_110"
       },
       {
         "collections": "Evolution",
-        "imgSrc": "/arquivos/Evolution.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Evolution.jpg",
         "url": "/Evolution#1"
       },
       {
         "collections": "Fit",
-        "imgSrc": "/arquivos/Fit.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fit.jpg",
         "url": "/Fit?map=specificationFilter_110"
       },
       {
         "collections": "Focuz",
-        "imgSrc": "/arquivos/Focuz.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Focuz.jpg",
         "url": "/Focuz?map=specificationFilter_110"
       },
       {
         "collections": "Happy",
-        "imgSrc": "/arquivos/Happy.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Happy.jpg",
         "url": "/Happy?map=specificationFilter_110"
       },
       {
         "collections": "Lunch",
-        "imgSrc": "/arquivos/Lunch.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Lunch.jpg",
         "url": "/Lunch?map=specificationFilter_110"
       },
       {
         "collections": "Magic",
-        "imgSrc": "/arquivos/Magic.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Magic.jpg",
         "url": "/Magic?map=specificationFilter_110"
       },
       {
         "collections": "NBA",
-        "imgSrc": "/arquivos/NBA-juvenil.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/NBA-juvenil.jpg",
         "url": "/nba#1"
       },
       {
         "collections": "Paris Saint-German",
-        "imgSrc": "/arquivos/MochilaPSG.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/MochilaPSG.jpg",
         "url": "/psg#1"
       },
       {
         "collections": "Paul Frank",
-        "imgSrc": "/arquivos/Paul Frank.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Paul Frank.jpg",
         "url": "/Paul%20Frank?map=specificationFilter_110"
-      },      
+      },
       {
         "collections": "Rolling",
-        "imgSrc": "/arquivos/Rolling.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rolling.jpg",
         "url": "/Rolling?map=specificationFilter_110"
       },
       {
         "collections": "Selfie",
-        "imgSrc": "/arquivos/Selfie-juvenil.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Selfie-juvenil.jpg",
         "url": "/Selfie?map=specificationFilter_110"
       },
       {
         "collections": "Urbano",
-        "imgSrc": "/arquivos/Urbano.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Urbano.jpg",
         "url": "/Urbano?map=specificationFilter_110"
       },
       {
         "collections": "Ver todos os Produtos",
-        "imgSrc": "",
+        "imgSrc": "https://sestini.vteximg.com.br",
         "url": "/426?map=productClusterIds"
       }
     ]
@@ -158,17 +158,17 @@ export const juvenil__content = {
     "content": [
       {
         "gender__mochila": "Para Ela",
-        "imgSrc": "/arquivos/J_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEla.jpg",
         "url": "/mochila/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__mochila": "Para Ele",
-        "imgSrc": "/arquivos/J_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEle.jpg",
         "url": "/mochila/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__mochila": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg",
         "url": "/mochila/Juvenil?map=c,specificationFilter_107"
       }
     ]
@@ -180,12 +180,12 @@ export const juvenil__content = {
     "content": [
       {
         "perType__mochila": "Sem Rodas",
-        "imgSrc": "/arquivos/Sem-rodinha2.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sem-rodinha2.png",
         "url": "/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "perType__mochila": "Com Rodas",
-        "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas.jpg",
         "url": "/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
       }
     ]
@@ -305,17 +305,17 @@ export const juvenil__content = {
     "content": [
       {
         "gender__lancheira": "Para Ela",
-        "imgSrc": "/arquivos/J_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEla.jpg",
         "url": "/Lancheira/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__lancheira": "Para Ele",
-        "imgSrc": "/arquivos/J_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEle.jpg",
         "url": "/Lancheira/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__lancheira": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg",
         "url": "/Lancheira/Juvenil?map=c,specificationFilter_107"
       }
     ]
@@ -378,7 +378,7 @@ export const juvenil__content = {
       },*/
       {
         "perColor__acessorio": "Cinza",
-        "hexCode": "#d8d8d8;", 
+        "hexCode": "#d8d8d8;",
         "url": "/Estojo/Cinza/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },
       {
@@ -430,17 +430,17 @@ export const juvenil__content = {
     "content": [
       {
         "gender__acessorio": "Para Ela",
-        "imgSrc": "/arquivos/J_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEla.jpg",
         "url": "/Estojos/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Para Ele",
-        "imgSrc": "/arquivos/J_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEle.jpg",
         "url": "/Estojos/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg",
         "url": "/Estojos/Infantil?map=c,specificationFilter_107"
       }
     ]
@@ -452,17 +452,17 @@ export const juvenil__content = {
     "content": [
       {
         "gender__acessorio": "Para Ela",
-        "imgSrc": "/arquivos/J_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEla.jpg",
         "url": "/Estojo/Feminino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Para Ele",
-        "imgSrc": "/arquivos/J_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/J_ParaEle.jpg",
         "url": "/Estojo/Masculino/Juvenil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg",
         "url": "/Estojo/Juvenil?map=c,specificationFilter_107"
       }
     ]
@@ -504,52 +504,52 @@ export const juvenil__content = {
     "content": [
       {
         "seeToo": "Bolsa",
-        "imgSrc": "/arquivos/Bolsa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa.jpg",
         "url": "/bolsa/Juvenil?map=c,specificationFilter_107"
       },
       /*{
         "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo-1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Estojo-1.jpg",
         "url": "/Estojo/Juvenil?map=c,specificationFilter_106"
       },*/
       {
         "seeToo": "Esportivo",
-        "imgSrc": "/arquivos/Esportivo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Esportivo.jpg",
         "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
       },
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sacola2.jpg",
         "url": "/Sacola/Juvenil?map=c,specificationFilter_107"
       },
       {
         "seeToo": "Mala",
-        "imgSrc": "/arquivos/Mala.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mala.jpg",
         "url": "/mala/Juvenil?map=c,specificationFilter_107"
       },
       {
         "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Pochete",
-        "imgSrc": "/arquivos/Pochete1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pochete1.jpg",
         "url": "/acessorios/Pochete/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Acessorios.jpg",
         "url": "/Acessorios?map=c"
       },
       {
         "seeToo": "Fichário",
-        "imgSrc": "/arquivos/Fichario.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fichario.jpg",
         "url": "/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
       },
       {
         "seeToo": "Carteira",
-        "imgSrc": "/arquivos/Carteira1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Carteira1.jpg",
         "url": "/acessorios/Carteira?map=c,c"
       }
     ]

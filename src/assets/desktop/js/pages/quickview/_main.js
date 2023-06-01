@@ -1,5 +1,5 @@
-import CacheSelector from '../general/__cache-selectors';
 import { getFirstAvailableSku, getProductPriceInfo } from '../../../../common/js/utils/vtex-helpers';
+import CacheSelector from '../general/__cache-selectors';
 
 import Controller from './controller';
 import Data from './data';
@@ -88,7 +88,7 @@ const Methods = {
                         // .filter(x => !specsBlackList.includes('icon-'+Sestini.globalHelpers.slugifyText( x )) )
                         .map(spec => ({
                             name: spec,
-                            imageUrl: `/arquivos/icon-${Sestini.globalHelpers.slugifyText(
+                            imageUrl: `https://sestini.vteximg.com.br/arquivos/icon-${Sestini.globalHelpers.slugifyText(
                 spec
               )}.png`
                         })) : [];

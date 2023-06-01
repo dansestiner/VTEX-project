@@ -38,19 +38,19 @@ const Methods = {
     const banner = $(`.x-category__banner`).find(`img`);
     location.indexOf(`acessorios`) > -1 &&
       banner
-        .attr(`src`, `/arquivos/banner-menu-acessorio.png`)
+        .attr(`src`, `https://sestini.vteximg.com.br/arquivos/banner-menu-acessorio.png`)
         .attr("title", "Acessórios");
     location.indexOf(`infantil`) > -1 &&
       banner
-        .attr(`src`, `/arquivos/banner-menu-infantil.png`)
+        .attr(`src`, `https://sestini.vteximg.com.br/arquivos/banner-menu-infantil.png`)
         .attr("title", "Infantil");
     location.indexOf(`juvenil`) > -1 &&
       banner
-        .attr(`src`, `/arquivos/banner-menu-juvenil.png`)
+        .attr(`src`, `https://sestini.vteximg.com.br/arquivos/banner-menu-juvenil.png`)
         .attr("title", "Juvenil");
     location.indexOf(`executivo`) > -1 &&
       banner
-        .attr(`src`, `/arquivos/banner-menu-executivo.png`)
+        .attr(`src`, `https://sestini.vteximg.com.br/arquivos/banner-menu-executivo.png`)
         .attr("title", "Executivo");
     $(`.x-category__banner`).css(`display`, `block`);
   },
@@ -127,7 +127,7 @@ const Methods = {
 
     const markup = `
             <div class="vve-image__container">
-                <img class="vve-image__single title="" alt="" src="/arquivos/${fullName}.jpg" />
+                <img class="vve-image__single title="" alt="" src="https://sestini.vteximg.com.br/arquivos/${fullName}.jpg" />
             </div>`;
 
     El.banner.append(markup);
@@ -195,7 +195,7 @@ const Methods = {
       const lowerCaseColor = nameColor.toLowerCase();
       $(this).css(
         "background",
-        `url(/arquivos/${lowerCaseColor}.jpg) center no-repeat`
+        `url(https://sestini.vteximg.com.br/arquivos/${lowerCaseColor}.jpg) center no-repeat`
       );
     });
   },

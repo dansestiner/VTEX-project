@@ -4,194 +4,194 @@ export const infantil__content = {
     "content": [
       {
         "collections": "A Casa Mágica da Gabby",
-        "imgSrc": "/arquivos/A-Casa-Mágica-da-Gabby.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/A-Casa-Mágica-da-Gabby.jpg",
         "url": "/gabby"
       },
       {
         "collections": "Alien",
-        "imgSrc": "/arquivos/Alien.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Alien.jpg",
         "url": "/alien"
       },
       {
         "collections": "Arco-íris",
-        "imgSrc": "/arquivos/arco-iris-collec.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/arco-iris-collec.png",
         "url": "/arco-iris"
       },
       {
         "collections": "Anime",
-        "imgSrc": "/arquivos/Anime.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Anime.jpg",
         "url": "/anime"
       },
       {
         "collections": "Anymalu",
-        "imgSrc": "/arquivos/Anymalu.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Anymalu.jpg",
         "url": "/Anymalu?map=specificationFilter_110"
       },
       {
         "collections": "Authentic Games",
-        "imgSrc": "/arquivos/Authentic-Games.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Authentic-Games.jpg",
         "url": "/Authentic%20Games?map=specificationFilter_110"
       },
       {
         "collections": "Bloco",
-        "imgSrc": "/arquivos/blocos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/blocos.jpg",
         "url": "/blocos"
       },
       {
         "collections": "Colors",
-        "imgSrc": "/arquivos/Mala_Colors.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mala_Colors.jpg",
         "url": "/mala/Colors?map=c,specificationFilter_110"
       },
-      
+
       {
         "collections": "Dino",
-        "imgSrc": "/arquivos/Dino-hover.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Dino-hover.jpg",
         "url": "/Dino?map=specificationFilter_110"
       },
-      
+
       {
         "collections": "Fantasy",
-        "imgSrc": "/arquivos/Fantasy.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fantasy.jpg",
         "url": "/fantasy"
       },
       {
         "collections": "Floral",
-        "imgSrc": "/arquivos/Floral.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Floral.jpg",
         "url": "/plus%20floral"
       },
       {
         "collections": "Futebol",
-        "imgSrc": "/arquivos/Futebol.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Futebol.jpg",
         "url": "/Futebol?map=specificationFilter_110"
       },
       {
         "collections": "Game",
-        "imgSrc": "/arquivos/Game.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Game.jpg",
         "url": "/Game?map=specificationFilter_110"
       },
       {
         "collections": "Game Over",
-        "imgSrc": "/arquivos/Game-Over.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Game-Over.jpg",
         "url": "/game%20over"
-      },     
+      },
       {
         "collections": "Girafa",
-        "imgSrc": "/arquivos/girafa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/girafa.jpg",
         "url": "/girafa"
       },
       {
         "collections": "Judy",
-        "imgSrc": "/arquivos/judy.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/judy.jpg",
         "url": "/Judy?map=specificationFilter_110"
       },
       {
         "collections": "Jurassic",
-        "imgSrc": "/arquivos/Jurassic.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Jurassic.jpg",
         "url": "/jurassic"
       },
       {
         "collections": "Kids",
-        "imgSrc": "/arquivos/Sestini-Kids.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sestini-Kids.jpg",
         "url": "/Kids?map=specificationFilter_110"
       },
       {
         "collections": "Lady",
-        "imgSrc": "/arquivos/lady-collec.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/lady-collec.png",
         "url": "/lady"
       },
       {
         "collections": "Love",
-        "imgSrc": "/arquivos/love.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/love.jpg",
         "url": "/x%20love"
       },
       {
         "collections": "Lulu",
-        "imgSrc": "/arquivos/lulu.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/lulu.jpg",
         "url": "/lulu"
       },
       {
         "collections": "Mermaid",
-        "imgSrc": "/arquivos/Mermaid.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mermaid.jpg",
         "url": "/mermaid"
       },
       {
         "collections": "Minecraft",
-        "imgSrc": "/arquivos/MochilaMinecraft.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/MochilaMinecraft.jpg",
         "url": "/minecraft"
       },
       {
         "collections": "Minions",
-        "imgSrc": "/arquivos/MochilaMinions.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/MochilaMinions.jpg",
         "url": "/minions"
       },
       {
         "collections": "Panda",
-        "imgSrc": "/arquivos/Panda.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Panda.jpg",
         "url": "/panda"
       },
       {
         "collections": "Paris Saint-German",
-        "imgSrc": "/arquivos/Paris-Saint-German.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Paris-Saint-German.jpg",
         "url": "/psg"
       },
       {
         "collections": "Pets",
-        "imgSrc": "/arquivos/Sestini-Pets.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sestini-Pets.jpg",
         "url": "/Pets?map=specificationFilter_110"
       },
       /*{
         "collections": "Pink",
-        "imgSrc": "/arquivos/pink-collec.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/pink-collec.png",
         "url": "/pink"
       },*/
       {
         "collections": "Plush",
-        "imgSrc": "/arquivos/Plush.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Plush.jpg",
         "url": "/plush"
       },
       {
         "collections": "Sereia",
-        "imgSrc": "/arquivos/Sereia.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sereia.jpg",
         "url": "/Sereia?map=specificationFilter_110"
       },
       {
         "collections": "Star",
-        "imgSrc": "/arquivos/star.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/star.jpg",
         "url": "/Y%20star"
       },
       {
         "collections": "Street",
-        "imgSrc": "/arquivos/Street.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Street.jpg",
         "url": "/plus%20street"
       },
       {
         "collections": "Surf",
-        "imgSrc": "/arquivos/surf.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/surf.jpg",
         "url": "/surf"
       },
       {
         "collections": "Tini",
-        "imgSrc": "/arquivos/Tini.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Tini.jpg",
         "url": "/Tini?map=specificationFilter_110"
       },
       {
         "collections": "Tubarão",
-        "imgSrc": "/arquivos/Tubarão.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Tubarão.jpg",
         "url": "/tubarão"
       },
       {
         "collections": "Unicórnio",
-        "imgSrc": "/arquivos/Unicornio.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Unicornio.jpg",
         "url": "/Unicornio?map=specificationFilter_110"
       },
       {
         "collections": "Y Pink",
-        "imgSrc": "/arquivos/pink-collec.png",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/pink-collec.png",
         "url": "/y%20pink"
       },
       {
         "collections": "Ver todos os Produtos",
-        "imgSrc": "",
+        "imgSrc": "https://sestini.vteximg.com.br",
         "url": "/Infantil?map=specificationFilter_107"
       }
     ]
@@ -203,17 +203,17 @@ export const infantil__content = {
     "content": [
       {
         "gender__mochila": "Para ela",
-        "imgSrc": "/arquivos/I_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEla.jpg",
         "url": "/mochila/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__mochila": "Para ele",
-        "imgSrc": "/arquivos/I_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEle.jpg",
         "url": "/mochila/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__mochila": "Para todos",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaTodos.jpg",
         "url": "/mochila/Infantil?map=c,specificationFilter_107"
       }
     ]
@@ -225,17 +225,17 @@ export const infantil__content = {
     "content": [
       {
         "mobility__mochila": "Com Rodas",
-        "imgSrc": "/arquivos/icon-com-rodinhas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/icon-com-rodinhas.jpg",
         "url": "/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "mobility__mochila": "Sem Rodas",
-        "imgSrc": "/arquivos/Mochila-sem-Rodas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-sem-Rodas.jpg",
         "url": "/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "mobility__mochila": "Malinha",
-        "imgSrc": "/arquivos/icon-menu-Malinha.jpg?v=1",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/icon-menu-Malinha.jpg?v=1",
         "url": "/mala/Infantil?specificationFilter_107"
       },
     ]
@@ -247,12 +247,12 @@ export const infantil__content = {
     "content": [
       {
         "perType__mochila": "Sem Rodinhas",
-        "imgSrc": "/arquivos/Mochila-sem-Rodas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-sem-Rodas.jpg",
         "url": "/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "perType__mochila": "Com Rodinhas",
-        "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas.jpg",
         "url": "/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       }
     ]
@@ -295,17 +295,17 @@ export const infantil__content = {
     "content": [
       {
         "gender__lancheira": "Feminino",
-        "imgSrc": "/arquivos/I_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEla.jpg",
         "url": "/Lancheira/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__lancheira": "Masculino",
-        "imgSrc": "/arquivos/I_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEle.jpg",
         "url": "/Lancheira/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__lancheira": "Do seu jeito",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaTodos.jpg",
         "url": "/Lancheira/Infantil?map=c,specificationFilter_107"
       }
     ]
@@ -348,17 +348,17 @@ export const infantil__content = {
     "content": [
       {
         "gender__acessorio": "Feminino",
-        "imgSrc": "/arquivos/I_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEla.jpg",
         "url": "/Estojo/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Masculino",
-        "imgSrc": "/arquivos/I_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaEle.jpg",
         "url": "/Estojo/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
         "gender__acessorio": "Do seu jeito",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/I_ParaTodos.jpg",
         "url": "/Estojo/Infantil?map=c,specificationFilter_107"
       }
     ]
@@ -396,42 +396,42 @@ export const infantil__content = {
     "content": [
       /*{
         "seeToo": "Bolsa",
-        "imgSrc": "/arquivos/Bolsa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa.jpg",
         "url": "/bolsa/Infantil?map=c,specificationFilter_106"
       },*/
       /*{
         "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Estojo.jpg",
         "url": ""
       },*/
       /*{
         "seeToo": "Maternidade",
-        "imgSrc": "/arquivos/Maternidade.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,specificationFilter_110"
       },*/
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sacola2.jpg",
         "url": "/Sacola?map=c"
       },
       {
         "seeToo": "Malinha",
-        "imgSrc": "/arquivos/Malinha.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Malinha.jpg",
         "url": "/mala/escolar?map=c,c"
       },
       {
         "seeToo": "Malas",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rigido.jpg",
         "url": "/mala?map=c"
       },
       {
         "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Acessorios.jpg",
         "url": "/Acessorios?map=c"
       },
       {
         "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire?map=c,c"
       },
     ]
