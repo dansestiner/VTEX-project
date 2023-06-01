@@ -198,7 +198,7 @@ const Methods = {
         const permission = Cookies.get('openBenefitBar');
         if (!permission) {
             $(".js--header").prepend(template);
-            $('body main').css('margin-top', '169.5px')
+            //$('body main').css('margin-top', '169.5px')
             this.bindCloseBenefitBar();
             this.createCarouselBenefitBar()
         }

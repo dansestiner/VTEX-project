@@ -105,7 +105,7 @@ export const bolsas__content = {
       {
         "categories": "Pets",
         "imgSrc": "/arquivos/Pets.jpg",
-        "url": "/linha-sestini-pets"
+        "url": "/pets-produtos"
       },
       {
         "categories": "Ver todas as Bolsas",

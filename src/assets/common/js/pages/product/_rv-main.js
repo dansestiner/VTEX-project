@@ -160,7 +160,7 @@ const Methods = {
 
         // Specifications
         fetch(
-          "https://ssmm.sestini.com.br/Ecom/ecomm-api/get-differentials.php"
+          "https://ssmm.sestini.com.br/Ecom/get-differentials.php"
         )
           .then((res) => res.json())
           .then((data) => {
@@ -236,7 +236,7 @@ const Methods = {
   },
 
   getRelatedIds(skuId, product) {
-    var urlFetch = `https://ssmm.sestini.com.br/Ecom/similar-products.php?skuId=${skuId}`;
+    var urlFetch = `https://ssmm.sestini.com.br/Ecom/similar-products-teste.php?skuId=${skuId}`;
     fetch(urlFetch)
       .then((res) => res.json())
       .then((data) => {
