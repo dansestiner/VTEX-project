@@ -139,7 +139,7 @@ body {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url("/arquivos/icon-chat.png");
+  background-image: url("https://sestini.vteximg.com.br/arquivos/icon-chat.png");
   height: 70px;
   width: 100px;
   cursor: pointer;
@@ -150,7 +150,7 @@ body {
   z-index: 9999999999999999999999999999999999999;
   @include mq("sm", max) {
     left: -10px;
-    background-image: url("/arquivos/icon-chat.png");
+    background-image: url("https://sestini.vteximg.com.br/arquivos/icon-chat.png");
     height: 60px;
     mask-border-width: 80px;
   }

@@ -12,62 +12,62 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Balanca?map=c,c">Balança</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Balança.jpg" width="250px" height="588px" alt="Categoria Balança" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Balança.jpg" width="250px" height="588px" alt="Categoria Balança" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Cadeados?map=c,c">Cadeados</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/CADEADO2.jpg" width="250px" height="588px" alt="Categoria Cadeados" />
+                <img src="https://sestini.vteximg.com.br/arquivos/CADEADO2.jpg" width="250px" height="588px" alt="Categoria Cadeados" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Capa?map=c,c">Capa</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Capa-de-mala.jpg" width="250px" height="588px" alt="Categoria Capa" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Capa-de-mala.jpg" width="250px" height="588px" alt="Categoria Capa" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Carteira?map=c,c">Carteira</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Carteira.jpg" width="250px" height="588px" alt="Categoria Carteira" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Carteira.jpg" width="250px" height="588px" alt="Categoria Carteira" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Necessaire?map=c,c">Necessaire</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Necessaire.jpg" width="250px" height="588px" alt="Categoria Necessaire" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Necessaire.jpg" width="250px" height="588px" alt="Categoria Necessaire" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Pochete?map=c,c">Pochete</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Pochete.jpg" width="250px" height="588px" alt="Categoria Pochete" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Pochete.jpg" width="250px" height="588px" alt="Categoria Pochete" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Porta%20Dolar?map=c,c">Porta Dólar</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Porta-Dolar.jpg" width="250px" height="588px" alt="Categoria Porta Dólar" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Porta-Dolar.jpg" width="250px" height="588px" alt="Categoria Porta Dólar" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Protetor%20Auricular?map=c,c">Protetor Auricular</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/PROTETOR-AURICULAR.jpg" width="250px" height="588px"
+                <img src="https://sestini.vteximg.com.br/arquivos/PROTETOR-AURICULAR.jpg" width="250px" height="588px"
                   alt="Categoria Protetor Auricular" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Tag%20de%20mala?map=c,c">Tag de Mala</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/TAG-DE-MALA.jpg" width="250px" height="588px" alt="Categoria Tag de Mala" />
+                <img src="https://sestini.vteximg.com.br/arquivos/TAG-DE-MALA.jpg" width="250px" height="588px" alt="Categoria Tag de Mala" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Travesseiro?map=c,c">Travesseiro</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Travesseiro.jpg" width="250px" height="588px" alt="Categoria Travesseiro" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Travesseiro.jpg" width="250px" height="588px" alt="Categoria Travesseiro" />
               </div>
             </li>
           </ul>
@@ -248,8 +248,8 @@ export default function () {
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
         </li>
-      <!-- [ FIM ] COLUNA 04 -->      
-      </ul>      
+      <!-- [ FIM ] COLUNA 04 -->
+      </ul>
     </div>
   `
 }

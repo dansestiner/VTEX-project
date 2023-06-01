@@ -1,4 +1,3 @@
-import { Minimatch } from "minimatch"
 
 const Methods = {
   init() {
@@ -112,7 +111,7 @@ const Methods = {
   showPopUp() {
     const template = `<div class='modal-bemvindo-form'>
                         <div class='modal-bemvindo-form-container'>
-                          <img src="/arquivos/modal-bemvindo-form-2.png" alt='Use o cupom BEMVINDO10'/>
+                          <img src="https://sestini.vteximg.com.br/arquivos/modal-bemvindo-form-2.png" alt='Use o cupom BEMVINDO10'/>
                           <p class='modal-bemvindo-form-container-paragraph'>Como forma de agradecimento, </br> utilize o cupom abaixo:</p>
                           <p class='modal-bemvindo-form-container-paragraph coupon'>BEMVINDO10 <span id='copy-icon'></span></p>
                           <p class='modal-bemvindo-form-container-paragraph'>E arrase com Produtos Sestini</p>

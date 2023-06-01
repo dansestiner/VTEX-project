@@ -12,454 +12,454 @@ export default function () {
               <li class="submenu__list__item">
                   <a class="submenu__itemLink" href="/mochila/Infantil?map=c,specificationFilter_107">Infantil</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/moch-infantil.jpg" width="250px" height="588px" alt="Coleção Infantil" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Juvenil?map=c,specificationFilter_107">Juvenil</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/moch-jovem.jpg" width="250px" height="588px" alt="Coleção Juvenil" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Esportiva?map=c,specificationFilter_106">Esportiva</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportiva" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/moch-esportivo.jpg" width="250px" height="588px" alt="Coleção Esportiva" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Executiva?map=c,specificationFilter_106">Executiva</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executiva" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/moch-executivo.jpg" width="250px" height="588px" alt="Coleção Executiva" />
                 </div>
               </li>
               <hr style="border: 1px solid #E5E5E5;width: 80%;text-align: left;margin-left: 0;"/>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/gabby">A Casa Mágica da Gabby</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/A-Casa-Mágica-da-Gabby.jpg" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/A-Casa-Mágica-da-Gabby.jpg" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Active?map=specificationFilter_110">Active</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Active.jpg" width="250px" height="588px" alt="Coleção Active" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Active.jpg" width="250px" height="588px" alt="Coleção Active" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/alien">Alien</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Alien.jpg" width="250px" height="588px" alt="Coleção Alien" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Alien.jpg" width="250px" height="588px" alt="Coleção Alien" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Alliance?map=c,specificationFilter_110">Alliance</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Alliance.jpg" width="250px" height="588px" alt="Coleção Alliance" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Alliance.jpg" width="250px" height="588px" alt="Coleção Alliance" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/arco-iris">Arco-íris</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/arco-iris-collec1.png" width="250px" height="588px" alt="Coleção Arco-íris" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/arco-iris-collec1.png" width="250px" height="588px" alt="Coleção Arco-íris" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/anime">Anime</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Anime.jpg" width="250px" height="588px" alt="Coleção Anime" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Anime.jpg" width="250px" height="588px" alt="Coleção Anime" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Anymalu?map=specificationFilter_110">Anymalu</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Anymalu.jpg" width="250px" height="588px" alt="Coleção Anymalu" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Anymalu.jpg" width="250px" height="588px" alt="Coleção Anymalu" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Authentic%20Games?map=specificationFilter_110">Authentic Games</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Authentic-Games.jpg" width="250px" height="588px" alt="Coleção Authentic Games" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Authentic-Games.jpg" width="250px" height="588px" alt="Coleção Authentic Games" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Capricho?map=c,specificationFilter_110">Capricho</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/casual">Casual</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/College?map=c,specificationFilter_110">College</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/College.jpg" width="250px" height="588px" alt="Coleção College" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Dino?map=specificationFilter_110">Dino</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/Dino.jpg" width="250px" height="588px" alt="Coleção Dino" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/Dino.jpg" width="250px" height="588px" alt="Coleção Dino" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Dry?map=c,specificationFilter_110">Dry</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Easy?map=specificationFilter_110">Easy</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
                   </div>
-              </li>              
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Evolution#1">Evolution</a>
                   <div class="submenu__imageWrapper">
-                    <img src="/arquivos/Evolution.jpg" width="250px" height="588px" alt="Coleção Evolution" />
+                    <img src="https://sestini.vteximg.com.br/arquivos/Evolution.jpg" width="250px" height="588px" alt="Coleção Evolution" />
                   </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/fantasy#1">Fantasy</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Fantasy.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Fantasy.jpg" width="250px" height="588px" alt="Coleção Fantasy" />
                 </div>
-              </li>              
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/bolsa/Mochila?map=c,c#1">Fellipe Krein</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Coleção Fellipe Krein" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Coleção Fellipe Krein" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Fit?map=specificationFilter_110">Fit</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Fit.jpg" width="250px" height="588px" alt="Coleção Fit" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Fit.jpg" width="250px" height="588px" alt="Coleção Fit" />
                 </div>
-              </li>              
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/plus%20floral#1">Floral</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Floral.jpg" width="250px" height="588px" alt="Coleção Floral" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Floral.jpg" width="250px" height="588px" alt="Coleção Floral" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Focuz?map=c,specificationFilter_110">Focuz</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Futebol?map=specificationFilter_110">Futebol</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Futebol.jpg" width="250px" height="588px" alt="Coleção Futebol" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Futebol.jpg" width="250px" height="588px" alt="Coleção Futebol" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/game%20over">Game Over</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
                 </div>
               </li>
-              
+
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/girafa#1">Girafa</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/girafa.jpg" width="250px" height="588px" alt="Coleção Girafa" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/girafa.jpg" width="250px" height="588px" alt="Coleção Girafa" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Happy?map=specificationFilter_110">Happy</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Harvest?map=specificationFilter_110">Harvest</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Harvest.jpg" width="250px" height="588px" alt="Coleção Harvest" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Harvest.jpg" width="250px" height="588px" alt="Coleção Harvest" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Judy?map=specificationFilter_110">Judy</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Judy.jpg" width="250px" height="588px" alt="Coleção Judy" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Judy.jpg" width="250px" height="588px" alt="Coleção Judy" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/jurassic#1">Jurassic</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Jurassic.jpg" width="250px" height="588px" alt="Coleção Jurassic" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Jurassic.jpg" width="250px" height="588px" alt="Coleção Jurassic" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Kids?map=specificationFilter_110">kids</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Sestini-Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Sestini-Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/lady">Lady</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/lady-collec.png" class="lady" width="250px" height="588px" alt="Coleção Lady" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/lady-collec.png" class="lady" width="250px" height="588px" alt="Coleção Lady" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Liv?map=c,specificationFilter_110">Liv</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Liv.jpg" width="250px" height="588px" alt="Coleção Liv" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Liv.jpg" width="250px" height="588px" alt="Coleção Liv" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Load?map=specificationFilter_110">Load</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Load.jpg" width="250px" height="588px" alt="Coleção Load" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Load.jpg" width="250px" height="588px" alt="Coleção Load" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/x%20love#1">Love</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/love.jpg" width="250px" height="588px" alt="Coleção Love" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/love.jpg" width="250px" height="588px" alt="Coleção Love" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/lulu#1">Lulu</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/lulu.jpg" width="250px" height="588px" alt="Coleção Lulu" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/lulu.jpg" width="250px" height="588px" alt="Coleção Lulu" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Lunch?map=specificationFilter_110">Lunch</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Lunch.jpg" width="250px" height="588px" alt="Coleção Lunch" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Lunch.jpg" width="250px" height="588px" alt="Coleção Lunch" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Magic?map=c,specificationFilter_110">Magic</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Magic.jpg" width="250px" height="588px" alt="Coleção Magic" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Magic.jpg" width="250px" height="588px" alt="Coleção Magic" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mermaid">Mermaid</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Mermaid.jpg" width="250px" height="588px" alt="Coleção Mermaid" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Mermaid.jpg" width="250px" height="588px" alt="Coleção Mermaid" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/minecraft#1">Minecraft</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/MochilaMinecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/MochilaMinecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/minions">Minions</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/MochilaMinions.jpg" width="250px" height="588px" alt="Coleção Minions" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/MochilaMinions.jpg" width="250px" height="588px" alt="Coleção Minions" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Monograma?map=specificationFilter_110">Monograma</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Mochila_Monograma.png" width="250px" height="588px" alt="Coleção Monograma" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Mochila_Monograma.png" width="250px" height="588px" alt="Coleção Monograma" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/nba">NBA</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/NBA-juvenil.jpg" width="250px" height="588px" alt="Coleção NBA" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/NBA-juvenil.jpg" width="250px" height="588px" alt="Coleção NBA" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/next">Next</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/Next.png" width="250px" height="588px" alt="Coleção Next" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Next.png" width="250px" height="588px" alt="Coleção Next" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/panda">Panda</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Panda.jpg" width="250px" height="588px" alt="Coleção Panda" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Panda.jpg" width="250px" height="588px" alt="Coleção Panda" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/psg">Paris Saint-German</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/psg"></a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/paul-frank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/paul-frank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Pets?map=specificationFilter_110">Pets</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Sestini-Pets.jpg" width="250px" height="588px" alt="Coleção Pets" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Sestini-Pets.jpg" width="250px" height="588px" alt="Coleção Pets" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Pixie?map=specificationFilter_110">Pixie</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/plush#1">Plush</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Plush.jpg" width="250px" height="588px" alt="Coleção Plush" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Plush.jpg" width="250px" height="588px" alt="Coleção Plush" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Prime?map=c,specificationFilter_110">Prime</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Rolling?map=c,specificationFilter_110">Rolling</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Rolling.jpg" width="250px" height="588px" alt="Coleção Rolling" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Rolling.jpg" width="250px" height="588px" alt="Coleção Rolling" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Rover?map=specificationFilter_110">Rover</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Rover.jpg" width="250px" height="588px" alt="Coleção Rover" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Rover.jpg" width="250px" height="588px" alt="Coleção Rover" />
                 </div>
               </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Safe?map=c,specificationFilter_110">Safe</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Safe.jpg" width="250px" height="588px" alt="Coleção Safe" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Safe.jpg" width="250px" height="588px" alt="Coleção Safe" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Scarf?map=specificationFilter_110">Scarf</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Scarf.jpg" width="250px" height="588px" alt="Coleção Scarf" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Scarf.jpg" width="250px" height="588px" alt="Coleção Scarf" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Selfie?map=specificationFilter_110">Selfie</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Selfie.jpg" width="250px" height="588px" alt="Coleção Selfie" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Selfie.jpg" width="250px" height="588px" alt="Coleção Selfie" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Sereia?map=specificationFilter_110">Sereia</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Sereia.jpg" width="250px" height="588px" alt="Coleção Sereia" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Sereia.jpg" width="250px" height="588px" alt="Coleção Sereia" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Smart?map=specificationFilter_110">Smart</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Smart.jpg" width="250px" height="588px" alt="Coleção Smart" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Smart.jpg" width="250px" height="588px" alt="Coleção Smart" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/ST3000?map=c,specificationFilter_110">ST3000</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/ST3000.jpg" width="250px" height="588px" alt="Coleção ST3000" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/ST3000.jpg" width="250px" height="588px" alt="Coleção ST3000" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Y%20star#1">Star</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Star.jpg" width="250px" height="588px" alt="Coleção Star" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Star.jpg" width="250px" height="588px" alt="Coleção Star" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/plus%20street">Street</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Street.jpg" width="250px" height="588px" alt="Coleção Street" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Street.jpg" width="250px" height="588px" alt="Coleção Street" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/surf">Surf</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Surf.jpg" width="250px" height="588px" alt="Coleção Surf" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Surf.jpg" width="250px" height="588px" alt="Coleção Surf" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Techno?map=specificationFilter_110">Techno</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Techno.jpg" width="250px" height="588px" alt="Coleção Techno" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Techno.jpg" width="250px" height="588px" alt="Coleção Techno" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Tini?map=specificationFilter_110">Tini</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/tubarão">Tubarão</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Unicornio?map=specificationFilter_110">Unicórnio</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Urbano?map=specificationFilter_110">Urban</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Urbano.jpg" width="250px" height="588px" alt="Coleção Urban" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Urbano.jpg" width="250px" height="588px" alt="Coleção Urban" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Web%203.0?map=c,specificationFilter_110">Web 3.0</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/web-3.0.jpg" width="250px" height="588px" alt="Coleção Web 3.0" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/web-3.0.jpg" width="250px" height="588px" alt="Coleção Web 3.0" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/work">Work</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/Work.png" width="250px" height="588px" alt="Coleção Work" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/Work.png" width="250px" height="588px" alt="Coleção Work" />
                 </div>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/pink-collec1.png" width="250px" height="588px" alt="Coleção Y Pink" />
+                  <img src="https://sestini.vteximg.com.br/arquivos/pink-collec1.png" width="250px" height="588px" alt="Coleção Y Pink" />
                 </div>
               </li>
             </ul>
@@ -468,7 +468,7 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 02 -->
         <li class="submenu__item submenu__item--col2">
-          
+
           <div class="submenu__itemWrapper">
             <div class="submenu__item__heading">Por faixa de preço</div>
             <ul class="submenu__list">
@@ -492,7 +492,7 @@ export default function () {
 
           <!-- POR MATERIAL -->
           <div class="submenu__itemWrapper por-material">
-            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por 
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
               Material</div>
               <ul class="submenu__list">
                 <li class="submenu__list__item">
@@ -514,7 +514,7 @@ export default function () {
           </div>
          <!-- POR MATERIAL -->
         </li>
- 
+
         <!-- [ FIM ] COLUNA 02 -->
 
         <!-- [ INÍCIO ] COLUNA 03 -->
@@ -696,12 +696,12 @@ export default function () {
             </ul>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
-          <div class="submenu__itemWrapper">            
+          <div class="submenu__itemWrapper">
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a href="/mochila?map=c">
-                    <button class="see_all">Ver todas as Mochilas</button>  
-                </a>                
+                    <button class="see_all">Ver todas as Mochilas</button>
+                </a>
               </li>
             </ul>
           </div>

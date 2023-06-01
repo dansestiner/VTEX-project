@@ -12,115 +12,115 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Bowling?map=c,c">Bowling</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/bowling.jpg" width="250px" height="588px" alt="Categoria Bowling" />
+                <img src="https://sestini.vteximg.com.br/arquivos/bowling.jpg" width="250px" height="588px" alt="Categoria Bowling" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Bucket?map=c,c">Bucket</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/bucket.jpg" width="250px" height="588px" alt="Categoria Bucket" />
+                <img src="https://sestini.vteximg.com.br/arquivos/bucket.jpg" width="250px" height="588px" alt="Categoria Bucket" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Capricho?map=c,specificationFilter_110">Capricho</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_Capricho.png" width="250px" height="588px" alt="Categoria Capricho" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_Capricho.png" width="250px" height="588px" alt="Categoria Capricho" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Cross%20Bag?map=c,c">Cross Bag</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/cross-bag.jpg" width="250px" height="588px" alt="Categoria Cross Bag" />
+                <img src="https://sestini.vteximg.com.br/arquivos/cross-bag.jpg" width="250px" height="588px" alt="Categoria Cross Bag" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Focuz?map=c,specificationFilter_110">Focuz</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_Focuz.png" width="250px" height="588px" alt="Categoria Focuz" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_Focuz.png" width="250px" height="588px" alt="Categoria Focuz" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Hobo?map=c,c">Hobo</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/hobo.jpg" width="250px" height="588px" alt="Categoria Hobo" />
+                <img src="https://sestini.vteximg.com.br/arquivos/hobo.jpg" width="250px" height="588px" alt="Categoria Hobo" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Liv?map=c,specificationFilter_110">Liv</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_Liv.png" width="250px" height="588px" alt="Categoria Liv" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_Liv.png" width="250px" height="588px" alt="Categoria Liv" />
               </div>
-            </li>            
+            </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Mini%20Bag?map=c,c">Mini Bag</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/mini-bag.jpg" width="250px" height="588px" alt="Categoria Mini Bag" />
+                <img src="https://sestini.vteximg.com.br/arquivos/mini-bag.jpg" width="250px" height="588px" alt="Categoria Mini Bag" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Mochila?map=c,c">Mochila</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Categoria Mochila" />
+                <img src="https://sestini.vteximg.com.br/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Categoria Mochila" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Pixie?map=c,specificationFilter_110">Pixie</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_Pixie.png" width="250px" height="588px" alt="Categoria Pixie" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_Pixie.png" width="250px" height="588px" alt="Categoria Pixie" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Satchel?map=c,c">Satchel</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/satchel.jpg" width="250px" height="588px" alt="Categoria Satchel" />
+                <img src="https://sestini.vteximg.com.br/arquivos/satchel.jpg" width="250px" height="588px" alt="Categoria Satchel" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Monograma?map=c,specificationFilter_110">Monograma</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_monograma.png" width="250px" height="588px" alt="Categoria Monograma" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_monograma.png" width="250px" height="588px" alt="Categoria Monograma" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Paul%20Frank">Paul Frank</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_PF.png" width="250px" height="588px" alt="Categoria Paul Frank" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_PF.png" width="250px" height="588px" alt="Categoria Paul Frank" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Selfie?map=c,specificationFilter_110">Selfie</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Bolsa_Selfie.png" width="250px" height="588px" alt="Categoria Selfie" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Bolsa_Selfie.png" width="250px" height="588px" alt="Categoria Selfie" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Shopping?map=c,c">Shopping</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/shopping.jpg" width="250px" height="588px" alt="Categoria Shopping" />
+                <img src="https://sestini.vteximg.com.br/arquivos/shopping.jpg" width="250px" height="588px" alt="Categoria Shopping" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Tiracolo?map=c,c">Tiracolo</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/bolsa-Tiracolo.jpg" width="250px" height="588px" alt="Categoria Tiracolo" />
+                <img src="https://sestini.vteximg.com.br/arquivos/bolsa-Tiracolo.jpg" width="250px" height="588px" alt="Categoria Tiracolo" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/bolsa/Tote?map=c,c">Tote</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/bolsa-Tote.jpg" width="250px" height="588px" alt="Categoria Tote" />
+                <img src="https://sestini.vteximg.com.br/arquivos/bolsa-Tote.jpg" width="250px" height="588px" alt="Categoria Tote" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/429?map=productClusterIds#1">Praia</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Praia.jpg" width="250px" height="588px" alt="Categoria Praia" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Praia.jpg" width="250px" height="588px" alt="Categoria Praia" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/linha-sestini-pets">Pets</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Pets.jpg" width="250px" height="588px" alt="Categoria Pets" />
+                <img src="https://sestini.vteximg.com.br/arquivos/Pets.jpg" width="250px" height="588px" alt="Categoria Pets" />
               </div>
             </li>
           </ul>
@@ -212,7 +212,7 @@ export default function () {
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/bolsa/P.U?map=c,specificationFilter_72" title="Filtra por: Poliuretano (PU)">PU</a>
-              </li>              
+              </li>
             </ul>
           </div>
         </li>
@@ -244,11 +244,11 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
                   title="Filtrar por: Mala">Mala</a>
-              </li>              
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--sporting"
                   href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
-              </li>              
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
                   href="/acessorios/Pochete?map=c,c"
@@ -261,7 +261,7 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"
                   title="Filtrar por: Acessórios">Acessórios</a>
-              </li>           
+              </li>
             </ul>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
@@ -271,15 +271,15 @@ export default function () {
 
         <!-- [ INÍCIO ] COLUNA 05 -->
         <li class="submenu__item submenu__item--col5">
-          <div class="submenu__itemWrapper">         
+          <div class="submenu__itemWrapper">
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a href="/bolsa?map=c">
-                  <button class="see_all">Ver todas as Bolsas</button>  
-                </a>                
+                  <button class="see_all">Ver todas as Bolsas</button>
+                </a>
               </li>
             </ul>
-          </div>   
+          </div>
         </li>
         <!-- [ FIM ] COLUNA 05 -->
       </ul>

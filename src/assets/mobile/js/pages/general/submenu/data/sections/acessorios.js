@@ -4,57 +4,57 @@ export const acessorios__content = {
     "content": [
       {
         "categories": "Balança",
-        "imgSrc": "/arquivos/Balança.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Balança.jpg",
         "url": "/acessorios/Balanca?map=c,c"
       },
       {
         "categories": "Cadeados",
-        "imgSrc": "/arquivos/CADEADO2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/CADEADO2.jpg",
         "url": "/acessorios/Cadeados?map=c,c"
       },
       {
         "categories": "Capa",
-        "imgSrc": "/arquivos/Capa-de-mala.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Capa-de-mala.jpg",
         "url": "/acessorios/Capa?map=c,c"
       },
       {
         "categories": "Carteira",
-        "imgSrc": "/arquivos/Carteira.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Carteira.jpg",
         "url": "/acessorios/Carteira?map=c,c"
       },
       {
         "categories": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire?map=c,c"
       },
       {
         "categories": "Pochete",
-        "imgSrc": "/arquivos/Pochete.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pochete.jpg",
         "url": "/acessorios/Pochete?map=c,c"
       },
       {
         "categories": "Porta Dólar",
-        "imgSrc": "/arquivos/Porta-Dolar.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Porta-Dolar.jpg",
         "url": "/acessorios/Porta%20Dolar?map=c,c"
       },
       {
         "categories": "Protetor Auricular",
-        "imgSrc": "/arquivos/PROTETOR-AURICULAR.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/PROTETOR-AURICULAR.jpg",
         "url": "/acessorios/Protetor%20Auricular?map=c,c"
       },
       {
         "categories": "Tag de Mala",
-        "imgSrc": "/arquivos/TAG-DE-MALA.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/TAG-DE-MALA.jpg",
         "url": "/acessorios/Tag%20de%20mala?map=c,c"
       },
       {
         "categories": "Travesseiro",
-        "imgSrc": "/arquivos/Travesseiro.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Travesseiro.jpg",
         "url": "/acessorios/Travesseiro?map=c"
       },
       {
         "categories": "Ver todos os Acessórios",
-        "imgSrc": "",
+        "imgSrc": "https://sestini.vteximg.com.br",
         "url": "/acessorios?map=c"
       }
     ]
@@ -166,17 +166,17 @@ export const acessorios__content = {
     "content": [
       {
         "gender": "Feminino",
-        "imgSrc": "/arquivos/Mo_ParaEla.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaEla.jpg",
         "url": "/acessorios/Feminino?map=c,specificationFilter_67"
       },
       {
         "gender": "Masculino",
-        "imgSrc": "/arquivos/Mo_ParaEle.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaEle.jpg",
         "url": "/acessorios/Masculino?map=c,specificationFilter_67"
       },
       {
         "gender": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mo_ParaTodos.jpg",
         "url": "/acessorios?map=c"
       }
     ]
@@ -187,52 +187,52 @@ export const acessorios__content = {
     "content": [
       {
         "seeToo": "Bolsas",
-        "imgSrc": "/arquivos/Bolsa.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Bolsa.jpg",
         "url": "/bolsa?map=c"
       },
       {
         "seeToo": "Malas",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Rigido.jpg",
         "url": "/mala?map=c"
       },
       {
         "seeToo": "Mochilas",
-        "imgSrc": "/arquivos/Mochila.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila.jpg",
         "url": "/mochila?map=c"
       },
       {
         "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Necesser.jpg",
         "url": "/acessorios/Necessaire?map=c,c"
       },
       {
         "seeToo": "Pochete",
-        "imgSrc": "/arquivos/Pochete1.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Pochete1.jpg",
         "url": "/acessorios/Pochete?map=c,c#1"
       },
       {
         "seeToo": "Fichário",
-        "imgSrc": "/arquivos/Fichario.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Fichario.jpg",
         "url": "/acessorios/Fichario?map=c,c"
       },
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Sacola2.jpg",
         "url": "/Sacola?map=c"
       },
       {
         "seeToo": "Malinha",
-        "imgSrc": "/arquivos/Malinha.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Malinha.jpg",
         "url": "/mala/escolar?map=c,c"
       },
       /*{
         "seeToo": "Maternidade",
-        "imgSrc": "/arquivos/Maternidade.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
       },*/
       {
         "seeToo": "Mochila com Rodas",
-        "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
+        "imgSrc": "https://sestini.vteximg.com.br/arquivos/Mochila-com-Rodas.jpg",
         "url": "/mochila/2%20Rodinhas?map=c,specificationFilter_57"
       },
 

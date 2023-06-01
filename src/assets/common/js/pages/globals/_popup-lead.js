@@ -14,7 +14,7 @@ const popupLead = {
         const template = `<div class='popup-lead'>
                             <div class='popup-lead__close-btn'>X</div>
                             <div class='popup-lead__left'>
-                                <img alt='Malas Sestini' src='/arquivos/popup-image-newsletter.jpg' />
+                                <img alt='Malas Sestini' src='https://sestini.vteximg.com.br/arquivos/popup-image-newsletter.jpg' />
                             </div>
                             <div class='popup-lead__right'>
                                 <h2 class='popup-lead__right__title'>Bem-vindo(a)</h2>
