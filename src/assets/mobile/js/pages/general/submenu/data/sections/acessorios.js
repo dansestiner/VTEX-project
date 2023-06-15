@@ -1,5 +1,5 @@
 export const acessorios__content = {
-  collections: {
+  /*collections: {
     "title": "Categorias",
     "content": [
       {
@@ -58,7 +58,7 @@ export const acessorios__content = {
         "url": "/acessorios?map=c"
       }
     ]
-  },
+  },*/
 
   priceRange: {
     "title": "Faixa de Preço",

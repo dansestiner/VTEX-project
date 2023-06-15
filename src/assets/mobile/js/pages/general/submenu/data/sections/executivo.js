@@ -1,5 +1,5 @@
 export const executivo__content = {
-  collections: {
+  /*collections: {
     "title": "Coleções",
     "content": [
       {
@@ -32,7 +32,7 @@ export const executivo__content = {
         "imgSrc": "/arquivos/Job.jpg",
         "url": "/Job?map=specificationFilter_110"
       },*/
-      {
+      /*{
         "collections": "Liv",
         "imgSrc": "/arquivos/Liv.jpg",
         "url": "/Liv?map=specificationFilter_110"
@@ -108,7 +108,7 @@ export const executivo__content = {
         "url": "/Executiva?map=specificationFilter_106"
       }
     ]
-  },
+  },*/
 
   perColor__mochila: {
     "categoryTitle": "Mochila",

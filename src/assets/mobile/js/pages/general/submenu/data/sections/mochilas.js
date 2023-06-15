@@ -1,5 +1,5 @@
 export const mochilas__content = {
-  collections: {
+  /*collections: {
     "title": "Coleções",
     "content": [
       {
@@ -364,7 +364,7 @@ export const mochilas__content = {
       }
 
     ]
-  },
+  },*/
 
   brand: {
     "title": "Por Marca",

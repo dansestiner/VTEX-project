@@ -1,5 +1,5 @@
 export const malas__content = {
-  collections: {
+  /*collections: {
     "title": "Coleções",
     "content": [
       {
@@ -243,7 +243,7 @@ export const malas__content = {
         "url": "/mala?map=c"
       }
     ]
-  },
+  },*/
 
   brands: {
     "title": "Por Marca",

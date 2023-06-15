@@ -1,5 +1,5 @@
 export const bolsas__content = {
-  collections: {
+  /*collections: {
     "title": "Categorias",
     "content": [
       {
@@ -16,13 +16,13 @@ export const bolsas__content = {
         "categories": "Capricho",
         "imgSrc": "/arquivos/Bolsa_Capricho.png",
         "url": "/bolsa/Capricho?map=c,specificationFilter_110"
-      },
+      },*/
       /*{ 
         "categories": "Clutch",
         "imgSrc": "/arquivos/clutch.jpg",
         "url": "/bolsa/Clutch?map=c,c"
       },*/
-      {
+      /*{
         "categories": "Cross Bag",
         "imgSrc": "/arquivos/cross-bag.jpg",
         "url": "/bolsa/Cross%20Bag?map=c,c"
@@ -47,7 +47,7 @@ export const bolsas__content = {
         "imgSrc": "/arquivos/bolsa-Maternidade.jpg",
         "url": "/bolsa/Maternidade?map=c,c"
       },*/
-      {
+      /*{
         "categories": "Mini Bag",
         "imgSrc": "/arquivos/mini-bag.jpg",
         "url": "/bolsa/Mini%20Bag?map=c,c"
@@ -112,7 +112,7 @@ export const bolsas__content = {
         "url": "/bolsa?map=c"
       }
     ]
-  },
+  },*/
 
   brand: {
     "title": "Por Marca",

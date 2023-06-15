@@ -1,5 +1,5 @@
 export const infantil__content = {
-  collections: {
+  /*collections: {
     "title": "Categorias",
     "content": [
       {
@@ -144,7 +144,7 @@ export const infantil__content = {
         "imgSrc": "/arquivos/pink-collec.png",
         "url": "/pink"
       },*/
-      {
+      /*{
         "collections": "Plush",
         "imgSrc": "/arquivos/Plush.jpg",
         "url": "/plush"
@@ -195,7 +195,7 @@ export const infantil__content = {
         "url": "/Infantil?map=specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   gender__mochila: {
     "categoryTitle": "Mochila",

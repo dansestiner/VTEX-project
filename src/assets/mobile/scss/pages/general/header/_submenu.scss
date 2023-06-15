@@ -367,6 +367,10 @@
   [class*="x-submenu__department__item"] {
     margin-bottom: 0.85rem !important;
   }
+  ul.x-submenu__department__list--Por-tom-de-cor {
+    display: flex;
+    flex-wrap: wrap;
+}
 }
 
 [class*="x-submenu__department__item"]:last-child {

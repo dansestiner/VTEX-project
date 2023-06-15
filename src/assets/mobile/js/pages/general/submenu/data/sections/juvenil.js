@@ -1,5 +1,5 @@
 export const juvenil__content = {
-  collections: {
+  /*collections: {
     "title": "Coleções",
     "content": [
       {
@@ -78,7 +78,7 @@ export const juvenil__content = {
         "url": "/426?map=productClusterIds"
       }
     ]
-  },
+  },*/
 
   perColor__mochila: {
     "categoryTitle": "Mochila",
