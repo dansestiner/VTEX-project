@@ -191,7 +191,7 @@ export const juvenil__content = {
     ]
   },
 
-  priceRange__mochila: {
+  /*priceRange__mochila: {
     "categoryTitle": "Mochila",
     "title": "Por faixa de preço",
     "content": [
@@ -220,7 +220,7 @@ export const juvenil__content = {
         "url": "/mochila/Juvenil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   perColor__lancheira: {
     "categoryTitle": "Lancheira",
@@ -321,7 +321,7 @@ export const juvenil__content = {
     ]
   },
 
-  priceRange__lancheira: {
+  /*priceRange__lancheira: {
     "categoryTitle": "Lancheira",
     "title": "Por faixa de preço",
     "content": [
@@ -329,7 +329,7 @@ export const juvenil__content = {
         "priceRange__lancheira": "Até R$50,00",
         "url": "/Lancheira/de-0,01-a-50/Juvenil?map=c,priceFrom,specificationFilter_107"
       },*/
-      {
+      /*{
         "priceRange__lancheira": "De R$50,01 até R$90,00",
         "url": "/Lancheira/de-50,01-a-90/Juvenil?map=c,priceFrom,specificationFilter_107"
       },
@@ -350,9 +350,9 @@ export const juvenil__content = {
         "url": "/Lancheira/Juvenil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
-  perColor__acessorio: {
+  /*perColor__acessorio: {
     "categoryTitle": "Estojos",
     "title": "Por tom de cor",
     "content": [
@@ -376,7 +376,7 @@ export const juvenil__content = {
         "hexCode": "white;",
         "url": "/Estojo/Branco/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       },*/
-      {
+      /*{
         "perColor__acessorio": "Cinza",
         "hexCode": "#d8d8d8;", 
         "url": "/Estojo/Cinza/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
@@ -415,14 +415,14 @@ export const juvenil__content = {
         "perColor__acessorio": "Vermelho",
         "hexCode": "#e31a1a;",
         "url": "/Estojo/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-      },
+      },*/
       /*{
         "perColor__acessorio": "Vinho",
         "hexCode": "#8e0c0c;",
         "url": "/Estojo/Vinho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
       }*/
-    ]
-  },
+    /*]
+  },*/
 
   gender__acessorio: {
     "categoryTitle": "Estojos",
@@ -468,7 +468,7 @@ export const juvenil__content = {
     ]
   },
 
-  priceRange__acessorio: {
+  /*priceRange__acessorio: {
     "categoryTitle": "Estojo",
     "title": "Por faixa de preço",
     "content": [
@@ -497,7 +497,7 @@ export const juvenil__content = {
         "url": "/Estojo/Juvenil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   seeToo: {
     "title": "Veja também",

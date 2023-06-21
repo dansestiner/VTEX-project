@@ -112,6 +112,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="https://www.sestini.com.br/hug">Hug</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/hug.png" width="250px" height="588px" alt="Coleção Hug" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Ibiza?map=c,specificationFilter_110">Ibiza</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ibiza.jpg" width="250px" height="588px" alt="Coleção Ibiza" />

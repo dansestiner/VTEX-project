@@ -258,7 +258,7 @@ export const infantil__content = {
     ]
   },
 
-  priceRange__mochila: {
+  /*priceRange__mochila: {
     "categoryTitle": "Mochila",
     "title": "Por faixa de preço",
     "content": [
@@ -287,9 +287,9 @@ export const infantil__content = {
         "url": "/mochila/Infantil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
-  gender__lancheira: {
+  /*gender__lancheira: {
     "categoryTitle": "Lancheira",
     "title": "Por Gênero",
     "content": [
@@ -309,7 +309,7 @@ export const infantil__content = {
         "url": "/Lancheira/Infantil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   priceRange__lancheira: {
     "categoryTitle": "Lancheira",
@@ -342,7 +342,7 @@ export const infantil__content = {
     ]
   },
 
-  gender__acessorio: {
+  /*gender__acessorio: {
     "categoryTitle": "Estojos",
     "title": "Por Gênero",
     "content": [
@@ -362,7 +362,7 @@ export const infantil__content = {
         "url": "/Estojo/Infantil?map=c,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   priceRange__acessorio: {
     "categoryTitle": "Estojos",
