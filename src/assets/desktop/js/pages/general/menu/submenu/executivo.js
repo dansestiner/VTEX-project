@@ -28,6 +28,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Dry?map=specificationFilter_110">Dry</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Easy?map=specificationFilter_110">Easy</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Easy.jpg" width="250px" height="588px" alt="Coleção Easy" />
@@ -100,31 +106,29 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Web%203.0?map=specificationFilter_110">Web-3.0</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Web-3.0.jpg" width="250px" height="588px" alt="Coleção Web-3.0" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Dry?map=specificationFilter_110">Dry</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Dry.jpg" width="250px" height="588px" alt="Coleção Dry" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Pixie?map=specificationFilter_110">Pixie</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Pixie.jpg" width="250px" height="588px" alt="Coleção Pixie" />
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/walk">Walk</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/walk.png" width="250px" height="588px" alt="Coleção Walk" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Web%203.0?map=specificationFilter_110">Web-3.0</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Web-3.0.jpg" width="250px" height="588px" alt="Coleção Web-3.0" />
+              </div>
+            </li>   
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/work">Work</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Work.png" width="250px" height="588px" alt="Coleção Work" />
               </div>
             </li>
-
-
           </ul>
         </li>
         <!-- [ FIM ] COLUNA 01 -->

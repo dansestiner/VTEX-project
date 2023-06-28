@@ -90,7 +90,7 @@ export default function () {
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/malas/colecao/eco-rpet">Eco RPET</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/Eco_Rpet.png" width="250px" height="588px" alt="Coleção Eco RPET" />
+              <img src="/arquivos/eco-rpet-2.png" width="250px" height="588px" alt="Coleção Eco RPET" />
             </div>
           </li>
           <li class="submenu__list__item">
