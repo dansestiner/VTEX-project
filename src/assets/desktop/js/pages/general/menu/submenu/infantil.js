@@ -34,12 +34,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Anymalu?map=specificationFilter_110">Anymalu</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Anymalu.jpg" width="250px" height="588px" alt="Coleção Anymalu" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Authentic%20Games?map=specificationFilter_110">Authentic Games</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Authentic-Games.jpg" width="250px" height="588px" alt="Coleção Authentic Games" />
