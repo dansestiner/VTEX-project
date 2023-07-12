@@ -384,6 +384,12 @@
 
 .x-submenu__department__container--cover {
   margin-bottom: 39px;
+  display: block;
+  &.flex--row--noWrapp{
+    > li{
+      width: 49%;
+    }
+  }
 }
 
 .x-submenu__department__container--cover > .x-submenu__container__listItem:last-child {
@@ -399,6 +405,14 @@
 
 .x-submenu__department__container .x-submenu__container__listItem {
   margin-top: 39px;
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+  > ul.x-submenu__department__container{
+    li.x-submenu__container__listItem{
+      width: 100%;
+    }
+  }
 }
 
 .x-submenu__department__container--oneColumn [class*="--Por-faixa-de-preço"] {
