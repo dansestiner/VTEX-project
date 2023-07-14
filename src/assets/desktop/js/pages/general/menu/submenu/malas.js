@@ -70,6 +70,12 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/compact">Compact</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/compact.png" width="250px" height="588px" alt="Coleção Compact" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Cosmo?map=c,specificationFilter_110">Cosmo</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Cosmo.jpg" width="250px" height="588px" alt="Coleção Cosmo" />

@@ -107,19 +107,19 @@ const Methods = {
         : "";
 
         if(ProductRvData.garantiaProdutos == 'Super Garantia') {
-          ProductRvData.garantiaProdutos = '<a style=" color: #da0f00; font-weight: 700;" href="/garantia/sestini" target="_blank">Super Garantia</a>';
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline; font-weight: 700;" href="/garantia/sestini-garantia" target="_blank">Super Garantia</a>';
         }
         
         if(ProductRvData.garantiaProdutos == 'Couro') {
-          ProductRvData.garantiaProdutos = '<a style=" color: #da0f00; font-weight: 700;" href="/garantia/bolsas-carteiras" target="_blank">90 dias</a>';
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline; font-weight: 700;" href="/garantia/bolsas-carteiras" target="_blank">90 dias</a>';
         }
 
         if(ProductRvData.garantiaProdutos == 'TO Stout') {
-          ProductRvData.garantiaProdutos = '<a style=" color: #da0f00; font-weight: 700;" href="/garantia/stout-travel-one" target="_blank">90 dias</a>';
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; font-weight: 700;" text-decoration: underline; href="/garantia/stout-travel-one" target="_blank">90 dias</a>';
         }
 
         if(ProductRvData.garantiaProdutos == 'Acessórios') {
-          ProductRvData.garantiaProdutos = '<a style=" color: #da0f00; font-weight: 700;" href="/garantia/sestini-acessorios" target="_blank">90 dias</a>';
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; font-weight: 700;" text-decoration: underline; href="/garantia/sestini-acessorios" target="_blank">90 dias</a>';
         }
 
         product["landingPage"] != undefined
