@@ -61,6 +61,8 @@
 
   &__account {
     width: 100%;
+    display: flex;
+    flex-direction: column;
 
     &-items {
       @include flex-centered;
