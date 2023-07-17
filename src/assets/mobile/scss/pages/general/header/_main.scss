@@ -38,7 +38,7 @@
       width: 100%;
   }
   &-container {
-      align-items: flex-start;
+      align-items: center;
   }
   &-top {
       padding: 18px 16px 18px;
@@ -55,7 +55,7 @@
   }
   &__left {
       min-width: 82px;
-      width: 30%;
+      width: 24%;
       display: flex;
 
       .x-header__utilities-item {
@@ -104,8 +104,8 @@
           align-items: center;
           width: 100%;
           transition: all 600ms ease-in-out;
-          width: 86px;
-          height: 24px;
+          width: 126px;
+          height: 35px;
       }
   }
   &__utilities {

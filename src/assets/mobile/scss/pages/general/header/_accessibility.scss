@@ -1,18 +1,18 @@
 .x-header-accessibility {
     &-button {
-        position: absolute;
+        position: fixed;
         width: 42px;
         height: 42px;
         border-radius: 6px 0px 0px 6px;
         right: -1px;
-        top: 223px;
+        top: unset;
+        bottom: calc(75vh - 145px);
         background: #595959;
         border: 1px solid #FFF;
         flex: 0 0 10%;
         display: flex;
         align-items: center;
         justify-content: center;
-        margin: 5px;
         padding: 7px;
         margin-right: 0;
         &:hover {
