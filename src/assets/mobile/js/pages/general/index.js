@@ -12,6 +12,7 @@ const init = () => {
   imageSearch.init();
 
   $(document).ready(function () {
+    console.log('testtt')
     $('body').addClass('loadBestShelf');
     function bestResolutionImage() {
       $('.x-shelf__img-container .x-shelf__img-front').each(function () {
@@ -42,6 +43,9 @@ const init = () => {
       }
     }, 20);
 
+
+    $('.x-submenu__department__list--Por-Tamanho').addClass('open-submenu');
+    $('.x-submenu__department__list--Por-tamanho').addClass('open-submenu');
     $('.x-submenu__department__heading').on('click', function () {
       $(this).toggleClass('open');
       $(this).next('.x-submenu__department__list').toggleClass('open-submenu');

@@ -17,116 +17,102 @@ export const bolsas__content = {
         "imgSrc": "/arquivos/Bolsa_Capricho.png",
         "url": "/bolsa/Capricho?map=c,specificationFilter_110"
       },*/
-      /*{ 
-        "categories": "Clutch",
-        "imgSrc": "/arquivos/clutch.jpg",
-        "url": "/bolsa/Clutch?map=c,c"
-      },*/
-      /*{
-        "categories": "Cross Bag",
-        "imgSrc": "/arquivos/cross-bag.jpg",
-        "url": "/bolsa/Cross%20Bag?map=c,c"
-      },
-      {
-        "categories": "Focuz",
-        "imgSrc": "/arquivos/Bolsa_Focuz.png",
-        "url": "/bolsa/Focuz?map=c,specificationFilter_110"
-      },
-      {
-        "categories": "Hobo",
-        "imgSrc": "/arquivos/hobo.jpg",
-        "url": "/bolsa/Hobo?map=c,c"
-      },
-      {
-        "categories": "Liv",
-        "imgSrc": "/arquivos/Bolsa_Liv.png",
-        "url": "/bolsa/Liv?map=c,specificationFilter_110"
-      },
-      /*{
-        "categories": "Maternidade",
-        "imgSrc": "/arquivos/bolsa-Maternidade.jpg",
-        "url": "/bolsa/Maternidade?map=c,c"
-      },*/
-      /*{
-        "categories": "Mini Bag",
-        "imgSrc": "/arquivos/mini-bag.jpg",
-        "url": "/bolsa/Mini%20Bag?map=c,c"
-      },
-      {
-        "categories": "Mochila",
-        "imgSrc": "/arquivos/bolsa-mochila.jpg",
-        "url": "/bolsa/Mochila?map=c,c"
-      },
-      {
-        "categories": "Pixie",
-        "imgSrc": "/arquivos/Bolsa_Pixie.png",
-        "url": "/bolsa/Pixie?map=c,specificationFilter_110"
-      },
-      {
-        "categories": "Satchel",
-        "imgSrc": "/arquivos/satchel.jpg",
-        "url": "/bolsa/Satchel?map=c,c"
-      },
-      {
-        "categories": "Paul Frank",
-        "imgSrc": "/arquivos/Bolsa_PF.png",
-        "url": "/bolsa/Paul%20Frank"
-      },
-      {
-        "categories": "Monograma",
-        "imgSrc": "/arquivos/Bolsa_monograma.png",
-        "url": "/bolsa/Monograma?map=c,specificationFilter_110"
-      },
-      {
-        "categories": "Selfie",
-        "imgSrc": "/arquivos/Bolsa_Selfie.png",
-        "url": "/bolsa/Selfie?map=c,specificationFilter_110"
-      },
-      {
-        "categories": "Shopping",
-        "imgSrc": "/arquivos/shopping.jpg",
-        "url": "/bolsa/Shopping?map=c,c"
-      },
-      {
-        "categories": "Tiracolo",
-        "imgSrc": "/arquivos/bolsa-Tiracolo.jpg",
-        "url": "/bolsa/Tiracolo?map=c,c"
-      },
-      {
-        "categories": "Tote",
-        "imgSrc": "/arquivos/bolsa-Tote.jpg",
-        "url": "/bolsa/Tote?map=c,c"
-      },
-      {
-        "categories": "Praia",
-        "imgSrc": "/arquivos/Praia.jpg",
-        "url": "/429?map=productClusterIds#1"
-      },
-      {
-        "categories": "Pets",
-        "imgSrc": "/arquivos/Pets.jpg",
-        "url": "/pets-produtos"
-      },
-      {
-        "categories": "Ver todas as Bolsas",
-        "url": "/bolsa?map=c"
-      }
-    ]
+  /*{
+    "categories": "Clutch",
+    "imgSrc": "/arquivos/clutch.jpg",
+    "url": "/bolsa/Clutch?map=c,c"
   },*/
-
-  brand: {
-    "title": "Por Marca",
-    "content": [
-      {
-        "brands": "Sestini",
-        "url": "/bolsa/sestini?map=c,b"
-      },
-      {
-        "brands": "Fellipe Krein",
-        "url": "/bolsa/Fellipe%20Krein?map=c,b"
-      }
-    ]
+  /*{
+    "categories": "Cross Bag",
+    "imgSrc": "/arquivos/cross-bag.jpg",
+    "url": "/bolsa/Cross%20Bag?map=c,c"
   },
+  {
+    "categories": "Focuz",
+    "imgSrc": "/arquivos/Bolsa_Focuz.png",
+    "url": "/bolsa/Focuz?map=c,specificationFilter_110"
+  },
+  {
+    "categories": "Hobo",
+    "imgSrc": "/arquivos/hobo.jpg",
+    "url": "/bolsa/Hobo?map=c,c"
+  },
+  {
+    "categories": "Liv",
+    "imgSrc": "/arquivos/Bolsa_Liv.png",
+    "url": "/bolsa/Liv?map=c,specificationFilter_110"
+  },
+  /*{
+    "categories": "Maternidade",
+    "imgSrc": "/arquivos/bolsa-Maternidade.jpg",
+    "url": "/bolsa/Maternidade?map=c,c"
+  },*/
+  /*{
+    "categories": "Mini Bag",
+    "imgSrc": "/arquivos/mini-bag.jpg",
+    "url": "/bolsa/Mini%20Bag?map=c,c"
+  },
+  {
+    "categories": "Mochila",
+    "imgSrc": "/arquivos/bolsa-mochila.jpg",
+    "url": "/bolsa/Mochila?map=c,c"
+  },
+  {
+    "categories": "Pixie",
+    "imgSrc": "/arquivos/Bolsa_Pixie.png",
+    "url": "/bolsa/Pixie?map=c,specificationFilter_110"
+  },
+  {
+    "categories": "Satchel",
+    "imgSrc": "/arquivos/satchel.jpg",
+    "url": "/bolsa/Satchel?map=c,c"
+  },
+  {
+    "categories": "Paul Frank",
+    "imgSrc": "/arquivos/Bolsa_PF.png",
+    "url": "/bolsa/Paul%20Frank"
+  },
+  {
+    "categories": "Monograma",
+    "imgSrc": "/arquivos/Bolsa_monograma.png",
+    "url": "/bolsa/Monograma?map=c,specificationFilter_110"
+  },
+  {
+    "categories": "Selfie",
+    "imgSrc": "/arquivos/Bolsa_Selfie.png",
+    "url": "/bolsa/Selfie?map=c,specificationFilter_110"
+  },
+  {
+    "categories": "Shopping",
+    "imgSrc": "/arquivos/shopping.jpg",
+    "url": "/bolsa/Shopping?map=c,c"
+  },
+  {
+    "categories": "Tiracolo",
+    "imgSrc": "/arquivos/bolsa-Tiracolo.jpg",
+    "url": "/bolsa/Tiracolo?map=c,c"
+  },
+  {
+    "categories": "Tote",
+    "imgSrc": "/arquivos/bolsa-Tote.jpg",
+    "url": "/bolsa/Tote?map=c,c"
+  },
+  {
+    "categories": "Praia",
+    "imgSrc": "/arquivos/Praia.jpg",
+    "url": "/429?map=productClusterIds#1"
+  },
+  {
+    "categories": "Pets",
+    "imgSrc": "/arquivos/Pets.jpg",
+    "url": "/pets-produtos"
+  },
+  {
+    "categories": "Ver todas as Bolsas",
+    "url": "/bolsa?map=c"
+  }
+]
+},*/
 
   priceRange: {
     "title": "Faixa de Preço",
@@ -154,6 +140,20 @@ export const bolsas__content = {
       {
         "priceRange": "VER TODOS",
         "url": "/bolsa?map=c"
+      }
+    ]
+  },
+
+  brand: {
+    "title": "Por Marca",
+    "content": [
+      {
+        "brands": "Sestini",
+        "url": "/bolsa/sestini?map=c,b"
+      },
+      {
+        "brands": "Fellipe Krein",
+        "url": "/bolsa/Fellipe%20Krein?map=c,b"
       }
     ]
   },
