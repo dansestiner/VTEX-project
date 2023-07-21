@@ -449,6 +449,8 @@
 .x-submenu__department__list.x-submenu__department__list--gray.open-submenu,
 .x-submenu__department__list--Por-tom-de-cor.open-submenu {
   display: flex;
+  height: 100%;
+  max-height: fit-content;
 }
 
 [class*="x-submenu__department__item"] {
@@ -473,10 +475,6 @@
     flex-wrap: wrap;
   }
 
-}
-
-[class*="x-submenu__department__item"]:last-child {
-  text-transform: uppercase;
 }
 
 .x-submenu__department__container--cover

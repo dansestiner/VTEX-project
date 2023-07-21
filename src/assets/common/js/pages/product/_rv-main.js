@@ -100,7 +100,28 @@ const Methods = {
         ProductRvData.mobilidade = product.Mobilidade;
 
 
-              
+        
+        product["Garantia Produtos"] != undefined
+        ? (ProductRvData.garantiaProdutos =
+            product["Garantia Produtos"])
+        : "";
+
+        if(ProductRvData.garantiaProdutos == 'Super Garantia') {
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;" href="/garantia/sestini-garantia" target="_blank">Super Garantia</a>';
+        }
+        
+        if(ProductRvData.garantiaProdutos == 'Couro') {
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;" href="/garantia/bolsas-carteiras" target="_blank">90 dias</a>';
+        }
+
+        if(ProductRvData.garantiaProdutos == 'TO Stout') {
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;"  href="/garantia/stout-travelone" target="_blank">90 dias</a>';
+        }
+
+        if(ProductRvData.garantiaProdutos == 'Acessórios') {
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;" href="/garantia/sestini-acessorios" target="_blank">90 dias</a>';
+        }
+
         product["landingPage"] != undefined
         ? (ProductRvData.LandingPage =
             product["landingPage"])
