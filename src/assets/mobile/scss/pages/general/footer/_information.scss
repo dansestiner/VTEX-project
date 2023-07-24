@@ -1,6 +1,7 @@
 .x-footer__information {
   display: flex;
   flex-direction: column;
+  margin-top: 48px;
 
   &-payment {
     margin-bottom: 20px;
@@ -12,16 +13,59 @@
     padding-top: 0;
     padding-bottom: 18px;
   }
-  
-  &-payment{
-    border-bottom: 1px solid #c9c9c9;
+
+  &-security {
+    padding-bottom: 42px !important;
+
+    .x-footer__information-items {
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+      .seloEbit {
+        width: 28px;
+        height: 38px;
+      }
+
+      .seloGoogle {
+        width: 86px;
+        height: 30px;
+
+        a {
+          img {
+            width: 86px !important;
+            height: 30px !important;
+          }
+        }
+      }
+
+      .reputation-ra {
+        width: 66px;
+        height: 24px;
+
+        .icon-reclame-aqui {
+          width: 66px;
+          height: 24px;
+        }
+      }
+
+      .seloReclameAqui {
+        width: 66px;
+        height: 24px;
+
+        a {
+          img {
+            width: 66px !important;
+            height: 24px !important;
+          }
+        }
+      }
   }
 
   &-title {
-    color: $color-black;
+    color: #000;
     font-style: normal;
     font-family: $font-primary;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 16px;
     line-height: 22px;
     margin-bottom: 20px;
@@ -31,7 +75,7 @@
   &-items {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .icon-reclame-aqui{
