@@ -70,7 +70,7 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/compact">Compact</a>
+            <a class="submenu__itemLink" href="/mala/Compact?map=c,specificationFilter_110">Compact</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/compact.png" width="250px" height="588px" alt="Coleção Compact" />
             </div>
@@ -231,6 +231,12 @@ export default function () {
             <a class="submenu__itemLink" href="/titanium">Titanium</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/soft">Soft</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/mala-soft.png" width="250px" height="588px" alt="Coleção Soft" />
             </div>
           </li>
           <li class="submenu__list__item">

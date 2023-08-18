@@ -111,7 +111,7 @@ export default {
                     product.shippingResult = res.formattedResponse.map(item => ({
                         ...item,
                         shippingText: item.shippingText.replace(/(\sp.*\d$)/gi, ''),
-                        //shippingType: item.shippingType.split('(')[0]
+                        shippingType: item.shippingType.split('(')[0]
                     }));
                     product.shippingCalculatedError = false;
                     // Add shipping bar

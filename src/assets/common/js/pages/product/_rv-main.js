@@ -111,7 +111,7 @@ const Methods = {
         }
         
         if(ProductRvData.garantiaProdutos == 'Couro') {
-          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;" href="/garantia/bolsas-carteiras" target="_blank">90 dias</a>';
+          ProductRvData.garantiaProdutos = '<a style=" color: #000; text-decoration: underline;" href="/garantia/couro-sinteticos" target="_blank">90 dias</a>';
         }
 
         if(ProductRvData.garantiaProdutos == 'TO Stout') {
@@ -415,12 +415,22 @@ const Methods = {
       });
       $(".x-product__sizes").css("display", "");
 
-      const dataUrl = window.dataLayer[0].pageUrl;
-      const dataProd = window.dataLayer[0].productName;
-      const dataId = window.dataLayer[0].productId;
-      const referenceId = window.dataLayer[0].productReferenceId;
-      const CategoryNameProduct = window.dataLayer[0].productCategoryName;
-      const categoryName = window.dataLayer[0].productDepartmentName;
+      if (window.navigator.brave != undefined && window.navigator.brave.isBrave.name == "isBrave") {
+        const dataUrl = window.dataLayer[0].pageUrl;
+        const dataProd = window.dataLayer[0].productName;
+        const dataId = window.dataLayer[0].productId;
+        const referenceId = window.dataLayer[0].productReferenceId;
+        const CategoryNameProduct = window.dataLayer[0].productCategoryName;
+        const categoryName = window.dataLayer[0].productDepartmentName;
+      }
+      else {
+        const dataUrl = window.dataLayer[1].pageUrl;
+        const dataProd = window.dataLayer[1].productName;
+        const dataId = window.dataLayer[1].productId;
+        const referenceId = window.dataLayer[1].productReferenceId;
+        const CategoryNameProduct = window.dataLayer[1].productCategoryName;
+        const categoryName = window.dataLayer[1].productDepartmentName;
+      }      
 
       console.log(referenceId);
 
