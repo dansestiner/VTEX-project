@@ -1,10 +1,10 @@
 export default {
   preHeader: document.querySelector('.js--pre-header'),
   header: {
-    self: document.querySelector('.js--header'),
-    buttonMenu: document.querySelector('.js--menu-mobile-btn'),
-    closeMenu: document.querySelector('.js--menu-close'),
-    menu: document.querySelector('.js--menu-mobile'),
+    self: document.querySelector('.x-header-new'),
+    buttonMenu: document.querySelector('.x-header-new .js--menu-mobile-btn'),
+    closeMenu: document.querySelector('.js--menu-mobile-new .js--menu-close'),
+    menu: document.querySelector('.js--menu-mobile-new'),
     login: document.querySelector('.js--menu-login'),
   },
   footer: {

@@ -58,7 +58,7 @@ const Methods = {
   renderMenu() {
     const html = String.raw;
     const departamentsElements = document.querySelectorAll(
-      ".x-submenu__department"
+      ".js--menu-mobile-new .x-submenu__department"
     );
 
 
