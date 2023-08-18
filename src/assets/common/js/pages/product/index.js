@@ -14,28 +14,21 @@ const init = () => {
       $('.x-product__label')[1].remove()
     }
   }, 2000);
-  document.title = dataLayer[0].pageTitle.split('|')[0] + "| Sestini Oficial"
-
+  
+  if (window.navigator.brave != undefined && window.navigator.brave.isBrave.name == "isBrave") {
+    document.title = dataLayer[0].pageTitle.split('|')[0] + "| Sestini Oficial"
+  }
+  else {
+    document.title = dataLayer[1].pageTitle.split('|')[0] + "| Sestini Oficial"
+  }
+  
   //LandingpPage em produtos
   setInterval(function () {
     if($('.iframe').length == 1){
-      $('.iframe button').attr('id', dataLayer[0].productReferenceId);
+      $('.iframe button').attr('id', dataLayer[1].productReferenceId);
     };
     return false;
-  }, 100);  
-
-  $(document).on('click', '.btn-more-info', function(){
-    $('#iframe').removeClass('hidden');
-    resize();
-    $('.btn-more-info').trigger('click');
-    return false;
-  });
-  
-  var resize = function(){
-    var frame = $('#iframe')[0];
-    frame.style.height = frame.contentWindow.document.body.scrollHeight + 50 + 'px';
-  }
-  $('.btn-more-info').trigger('click');
+  }, 100);
 };
 
 export default {
