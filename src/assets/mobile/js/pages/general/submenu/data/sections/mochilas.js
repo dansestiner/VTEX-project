@@ -366,29 +366,13 @@ export const mochilas__content = {
     ]
   },*/
 
-  size: {
-    "title": "Por Tamanho",
+  brand: {
+    "title": "Por Marca",
     "content": [
       {
-        "size": "Pequeno",
-        "imgSrc": "/arquivos/moch-pequena.png",
-        "url": "/mochila/Pequeno?map=c,specificationFilter_54"
+        "brand": "Sestini",
+        "url": "/mochila/sestini?map=c,b"
       },
-      {
-        "size": "Médio",
-        "imgSrc": "/arquivos/moch-Média.png",
-        "url": "/mochila/Médio?map=c,specificationFilter_54"
-      },
-      {
-        "size": "Grande",
-        "imgSrc": "/arquivos/moch-Grande.png",
-        "url": "/mochila/Grande?map=c,specificationFilter_54"
-      }
-      /*{
-        "size": "Extra Grande",
-        "imgSrc": "/arquivos/tamanho-extra-grande.jpg",
-        "url": "/mochila/Extra%20Grande?map=c,specificationFilter_54"
-      }*/
     ]
   },
 
@@ -422,13 +406,29 @@ export const mochilas__content = {
     ]
   },
 
-  brand: {
-    "title": "Por Marca",
+  size: {
+    "title": "Por Tamanho",
     "content": [
       {
-        "brand": "Sestini",
-        "url": "/mochila/sestini?map=c,b"
+        "size": "Pequeno",
+        "imgSrc": "/arquivos/moch-pequena.png",
+        "url": "/mochila/Pequeno?map=c,specificationFilter_54"
       },
+      {
+        "size": "Médio",
+        "imgSrc": "/arquivos/moch-Média.png",
+        "url": "/mochila/Médio?map=c,specificationFilter_54"
+      },
+      {
+        "size": "Grande",
+        "imgSrc": "/arquivos/moch-Grande.png",
+        "url": "/mochila/Grande?map=c,specificationFilter_54"
+      }
+      /*{
+        "size": "Extra Grande",
+        "imgSrc": "/arquivos/tamanho-extra-grande.jpg",
+        "url": "/mochila/Extra%20Grande?map=c,specificationFilter_54"
+      }*/
     ]
   },
 
@@ -512,7 +512,7 @@ export const mochilas__content = {
         "type": "Sem",
         "imgSrc": "/arquivos/icon-com-expansivel.jpg",
         "url": "/mochila/Não?map=c,specificationFilter_113"
-      }
+      }      
     ]
   },
 
