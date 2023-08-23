@@ -4,15 +4,12 @@ import renderDepartmentLists from "./renderDepartmentLists";
 export default function (department, index, data) {
   if (index > 6) return;
   const html = String.raw;
-  const sections = Object.values(data[index].sections);
+  const sections = Object.values(data[ index ].sections);
 
   department.innerHTML = html`
     <li class="x-submenu__department-title">
-      <a class="x-submenu__department-title-link__see-more" href="${data[index].href}">Ver Tudo</a>
-
-      <a class="x-submenu__department-title-link" href="${data[index].href}" title="${data[index].title}">${data[index
-    ].title}</a>
-      <button class="x-submenu__back js--submenu-back" title="Voltar">
+      <a class="x-submenu__department-title-link" href="${data[ index ].href}" title="${data[ index ].title}">${data[ index
+        ].title}</a><button class="x-submenu__back js--submenu-back" title="Voltar">
         <svg xmlns="http://www.w3.org/2000/svg" width="26.719" height="15.581" viewBox="0 0 26.719 15.581">
           <g id="noun_return_2211465" transform="translate(-20.34 -32.789)">
             <g id="Group_3845" data-name="Group 3845" transform="translate(20.34 32.789)">
@@ -34,10 +31,10 @@ export default function (department, index, data) {
         </svg>
       </button>
     </li>
-
+    
     <ul class="x-submenu__department__container flex--row--noWrapp">
       <li class="x-submenu__container__listItem">
-        ${renderDepartmentLists(sections[0])}
+        ${renderDepartmentLists(sections[ 0 ])}
       </li>
     </ul>
     <ul
