@@ -16,17 +16,17 @@ const Methods = {
   },
 
   openSubmenu() {
-    [ ...submenu.openSubmenu ].map((button, index) => {
+    [...submenu.openSubmenu].map((button, index) => {
       button.addEventListener("click", (ev) => {
         ev.preventDefault();
-        submenu.submenuDepartments[ index ].classList.add("is--active");
+        submenu.submenuDepartments[index].classList.add("is--active");
       });
     });
   },
   closeSubmenu() {
     const submenuCloseButtonElements =
       document.querySelectorAll(".js--submenu-back");
-    [ ...submenuCloseButtonElements ].map((button) => {
+    [...submenuCloseButtonElements].map((button) => {
       button.addEventListener("click", (ev) => {
         ev.preventDefault();
         Methods.resetElements();
@@ -34,12 +34,12 @@ const Methods = {
     });
   },
   handleAccordions() {
-    [ ...submenu.departmentsAccordion ].map((button, index) => {
+    [...submenu.departmentsAccordion].map((button, index) => {
       button.addEventListener("click", (ev) => {
         !ev.currentTarget.classList.contains("is--opened")
           ? (Methods.resetAccordions(),
             ev.currentTarget.classList.add("is--opened"),
-            submenu.departmentsAccordion[ index ].classList.add("is--opened"))
+            submenu.departmentsAccordion[index].classList.add("is--opened"))
           : Methods.resetAccordions();
       });
     });
@@ -51,14 +51,14 @@ const Methods = {
     ].map((el) => el.classList.remove("is--opened"));
   },
   resetElements() {
-    [ ...submenu.submenuDepartments ].map((item) =>
+    [...submenu.submenuDepartments].map((item) =>
       item.classList.remove("is--active")
     );
   },
   renderMenu() {
     const html = String.raw;
     const departamentsElements = document.querySelectorAll(
-      ".x-submenu__department"
+      ".js--menu-mobile-new .x-submenu__department"
     );
 
 
@@ -68,8 +68,9 @@ const Methods = {
       if (index > 3) return renderSubmenuVariation(department, index, data);
       department.innerHTML = html`
         <li class="x-submenu__department-title">
-          <a class="x-submenu__department-title-link" href="${data[ index ].href}" title="${data[ index ].title}">${data[ index
-            ].title}</a><button class="x-submenu__back js--submenu-back" title="Voltar">
+        <a class="x-submenu__department-title-link__see-more" href="${data[index].href}">Ver Tudo</a>
+          <a class="x-submenu__department-title-link" href="${data[index].href}" title="${data[index].title}">${data[index
+        ].title}</a><button class="x-submenu__back js--submenu-back" title="Voltar">
             <svg xmlns="http://www.w3.org/2000/svg" width="26.719" height="15.581" viewBox="0 0 26.719 15.581">
               <g id="noun_return_2211465" transform="translate(-20.34 -32.789)">
                 <g id="Group_3845" data-name="Group 3845" transform="translate(20.34 32.789)">
@@ -94,19 +95,19 @@ const Methods = {
 
         <ul class="x-submenu__department__container x-submenu__department__container--cover flex--row--noWrapp">
           <li class="x-submenu__container__listItem">
-            ${renderDepartmentLists(Object.values(data[ index ].sections)[ iterationIndex++ ])}
+            ${renderDepartmentLists(Object.values(data[index].sections)[iterationIndex++])}
           </li>
           <li class="x-submenu__container__listItem">
             <ul class="x-submenu__department__container">
-              ${renderSecondColumnLists(data[ index ].sections, index, iterationIndex)}
+              ${renderSecondColumnLists(data[index].sections, index, iterationIndex)}
             </ul>
           </li>
         </ul>
         <ul class="x-submenu__department__container">
           ${renderContainerListItems(
-            Object.values(data[ index ].sections).splice(index !== 3 ? 3 : 2)
-          )
-                }
+          Object.values(data[index].sections).splice(index !== 3 ? 3 : 2)
+        )
+        }
         </ul>
   `;
 
