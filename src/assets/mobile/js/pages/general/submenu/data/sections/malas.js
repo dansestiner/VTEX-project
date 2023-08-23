@@ -244,23 +244,31 @@ export const malas__content = {
       }
     ]
   },*/
-
-  brands: {
-    "title": "Por Marca",
-    "content": [
-      {
-        "brand": "Sestini",
-        "url": "/mala/sestini?map=c,b"
-      },
-      {
-        "brand": "Stout",
-        "url": "/mala/stout?map=c,b"
-      },
-      {
-        "brand": "Travel One",
-        "url": "/mala/travel-one?map=c,b"
-      }
-    ]
+  size: {
+    "title": "Por tamanho",
+    "content":
+      [
+        {
+          "size": "Bordo",
+          "imgSrc": "/arquivos/Bordo.png",
+          "url": "/mala/viagem/bordo?map=c,c,c"
+        },
+        {
+          "size": "Pequena",
+          "imgSrc": "/arquivos/Pequena.png",
+          "url": "/mala/viagem/Pequena?map=c,c,c"
+        },
+        {
+          "size": "Média",
+          "imgSrc": "/arquivos/Media.png",
+          "url": "/mala/viagem/Media?map=c,c,c"
+        },
+        {
+          "size": "Grande",
+          "imgSrc": "/arquivos/Grande.png",
+          "url": "/mala/viagem/Grande?map=c,c,c"
+        }
+      ]
   },
 
   priceRange: {
@@ -293,31 +301,22 @@ export const malas__content = {
     ]
   },
 
-  size: {
-    "title": "Por tamanho",
-    "content":
-      [
-        {
-          "size": "Bordo",
-          "imgSrc": "/arquivos/Bordo.png",
-          "url": "/mala/viagem/bordo?map=c,c,c"
-        },
-        {
-          "size": "Pequena",
-          "imgSrc": "/arquivos/Pequena.png",
-          "url": "/mala/viagem/Pequena?map=c,c,c"
-        },
-        {
-          "size": "Média",
-          "imgSrc": "/arquivos/Media.png",
-          "url": "/mala/viagem/Media?map=c,c,c"
-        },
-        {
-          "size": "Grande",
-          "imgSrc": "/arquivos/Grande.png",
-          "url": "/mala/viagem/Grande?map=c,c,c"
-        }
-      ]
+  brands: {
+    "title": "Por Marca",
+    "content": [
+      {
+        "brand": "Sestini",
+        "url": "/mala/sestini?map=c,b"
+      },
+      {
+        "brand": "Stout",
+        "url": "/mala/stout?map=c,b"
+      },
+      {
+        "brand": "Travel One",
+        "url": "/mala/travel-one?map=c,b"
+      }
+    ]
   },
 
   materials: {
