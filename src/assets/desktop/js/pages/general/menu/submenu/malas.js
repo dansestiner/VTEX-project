@@ -209,6 +209,20 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/PP%20Pop?map=c,specificationFilter_110">PP-Pop</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/mala_PPpop.png" width="250px" height="588px" alt="Coleção PP-Pop" />
+            </div>
+          </li>
+
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/PP%20Plus?map=c,specificationFilter_110">PP-Plus</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/mala_PPplus.png" width="250px" height="588px" alt="Coleção PP-Plus" />
+            </div>
+          </li>
+
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/PP%20Start?map=c,specificationFilter_110">PP-Start</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PP-Start.jpg" width="250px" height="588px" alt="Coleção PP-Start" />
@@ -220,7 +234,6 @@ export default function () {
               <img src="/arquivos/PP-Ultra.jpg" width="250px" height="588px" alt="Coleção PP-Ultra" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Riviera?map=c,specificationFilter_110">Riviera</a>
             <div class="submenu__imageWrapper">

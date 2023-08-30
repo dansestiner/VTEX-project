@@ -71,12 +71,6 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Authentic%20Games?map=specificationFilter_110">Authentic Games</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/Authentic-Games.jpg" width="250px" height="588px" alt="Coleção Authentic Games" />
-                </div>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Capricho?map=c,specificationFilter_110">Capricho</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
@@ -117,7 +111,7 @@ export default function () {
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/et-mochila.png" width="250px" height="588px" alt="E.T." />
                 </div>
-              </li>               
+              </li>              
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Evolution#1">Evolution</a>
                   <div class="submenu__imageWrapper">

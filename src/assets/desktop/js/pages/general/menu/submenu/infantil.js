@@ -262,7 +262,7 @@ export default function () {
                 </li>                
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--malinha"
-                    href="/mala/Infantil?specificationFilter_107" title="Filtrar por: Malinha">Malinha</a>
+                    href="/mala/escolar?map=c,c" title="Filtrar por: Malinha">Malinha</a>
                 </li>
               </ul>
             </div>
