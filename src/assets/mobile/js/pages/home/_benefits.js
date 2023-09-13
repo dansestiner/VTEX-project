@@ -12,7 +12,7 @@ const Methods = {
         slide: 'li',
         autoplay: true,
         centerMode: true,
-        arrows: false,
+        arrows: true,
         dots: false,
         centerMode: false,
         lazyLoad: Sestini.slickLazyMobile,
