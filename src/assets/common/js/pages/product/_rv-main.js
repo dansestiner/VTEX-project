@@ -101,9 +101,9 @@ const Methods = {
 
 
         
-        product["Garantia Produtos"] != undefined
+        product["Garantia Produtos"][0] != undefined
         ? (ProductRvData.garantiaProdutos =
-            product["Garantia Produtos"])
+            product["Garantia Produtos"][0])
         : "";
 
         if(ProductRvData.garantiaProdutos == 'Super Garantia') {

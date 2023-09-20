@@ -12,7 +12,7 @@ export default function () {
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/gabby">A Casa Mágica da Gabby</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/A-Casa-Mágica-da-Gabby.jpg" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
+                <img src="/arquivos/A-Casa-Mágica-da-Gabby.png?v=1" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -24,7 +24,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/arco-iris">Arco-íris</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/arco-iris-collec.png" width="250px" height="588px" alt="Coleção Arco-íris" />
+                <img src="/arquivos/arco-iris-collec2.png" width="250px" height="588px" alt="Coleção Arco-íris" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -40,10 +40,22 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mochilas/camuflado">Camuflado</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/camuflado.png" width="250px" height="588px" alt="Coleção Camuflado" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Mala_Colors.jpg" width="250px" height="588px" alt="Coleção Colors" />
               </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/coral">Coral</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/coral.png" width="250px" height="588px" alt="Coleção Coral" />
+                </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Dino?map=specificationFilter_110">Dino</a>
@@ -70,12 +82,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Game?map=specificationFilter_110">Game</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Game.jpg" width="250px" height="588px" alt="Coleção Game" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/game%20over">Game Over</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
@@ -96,13 +102,13 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/jurassic">Jurassic</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Jurassic.jpg" width="250px" height="588px" alt="Coleção Jurassic" />
+                <img src="/arquivos/Jurassic.png?v=1" width="250px" height="588px" alt="Coleção Jurassic" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Kids?map=specificationFilter_110">Kids</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Sestini-Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+                <img src="/arquivos/Sestini-Kids.png" width="250px" height="588px" alt="Coleção Kids" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -132,15 +138,27 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/minecraft">Minecraft</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/MochilaMinecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
+                <img src="/arquivos/MochilaMinecraft.png" width="250px" height="588px" alt="Coleção Minecraft" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/minions">Minions</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/MochilaMinions.jpg" width="250px" height="588px" alt="Coleção Minions" />
+                <img src="/arquivos/MochilaMinions.png" width="250px" height="588px" alt="Coleção Minions" />
               </div>
             </li>
+            <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/My%20Little%20Pony">My Little Pony</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/my-little-pony.png" width="250px" height="588px" alt="Coleção My Little Pony" />
+                </div>
+            </li>
+            <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/neon">Neon</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/neon.png" width="250px" height="588px" alt="Coleção Neon" />
+                </div>
+              </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/panda">Panda</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
@@ -150,13 +168,13 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/psg">Paris Saint-German</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Paris-Saint-German.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                <img src="/arquivos/Paris-Saint-German.png" width="250px" height="588px" alt="Coleção Paris Saint-German" />
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Pets?map=specificationFilter_110">Pets</a>
+              <a class="submenu__itemLink" href="/pj%20masks">PJ Masks</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Sestini-Pets.jpg" width="250px" height="588px" alt="Coleção Pets" />
+                <img src="/arquivos/pj-masks.png" width="250px" height="588px" alt="Coleção PJ Masks" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -165,6 +183,12 @@ export default function () {
                 <img src="/arquivos/Plush.jpg" width="250px" height="588px" alt="Coleção Plush" />
               </div>
             </li>
+            <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/skate">Skate</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/skate.png" width="250px" height="588px" alt="Coleção Skate" />
+                </div>
+              </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Sereia?map=specificationFilter_110">Sereia</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
@@ -195,10 +219,23 @@ export default function () {
                 <img src="/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
               </div>
             </li>
+            
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/tubarão">Tubarão</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/transformers">Transformers</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/tranformers-menu.png" width="250px" height="588px" alt="Coleção Transformers" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/trolls">Trolls</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/trolls.png" width="250px" height="588px" alt="Coleção Trolls" />
               </div>
             </li>
             <li class="submenu__list__item">

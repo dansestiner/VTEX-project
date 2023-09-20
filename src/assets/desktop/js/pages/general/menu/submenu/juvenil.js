@@ -62,13 +62,13 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Magic?map=specificationFilter_110">Magic</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Magic.jpg" width="250px" height="588px" alt="Coleção Magic" />
+                <img src="/arquivos/magic-menu.png" width="250px" height="588px" alt="Coleção Magic" />
               </div>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/nba#1">NBA</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/NBA-juvenil.jpg" width="250px" height="588px" alt="Coleção NBA" />
+                <img src="/arquivos/NBA-juvenil.png" width="250px" height="588px" alt="Coleção NBA" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -80,7 +80,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Paul%20Frank?map=specificationFilter_110">Paul Frank</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/paul-frank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
+                <img src="/arquivos/paul-frank.png" width="250px" height="588px" alt="Coleção Paul Frank" />
               </div>
             </li>
             <li class="submenu__list__item">

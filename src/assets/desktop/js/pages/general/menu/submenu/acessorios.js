@@ -52,13 +52,6 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/acessorios/Protetor%20Auricular?map=c,c">Protetor Auricular</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/PROTETOR-AURICULAR.jpg" width="250px" height="588px"
-                  alt="Categoria Protetor Auricular" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Tag%20de%20mala?map=c,c">Tag de Mala</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/TAG-DE-MALA.jpg" width="250px" height="588px" alt="Categoria Tag de Mala" />
@@ -243,7 +236,7 @@ export default function () {
         <!-- [ INÍCIO ] VEJA TAMBÉM -->
           <div class="submenu__itemWrapper">
             <a href="https://www.sestini.com.br/acessorios?map=c#1">
-              <button class="see_all"> Ver todos os Acessórios </button>
+              <button class="see_all"> Ver todos ok Kits </button>
             </a>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->

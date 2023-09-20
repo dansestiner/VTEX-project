@@ -279,26 +279,17 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Ultralight%205?map=c,specificationFilter_110">Ultralight-5</a>
+            <a class="submenu__itemLink" href="/mala/Ultralight">Ultralight</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ultralight.jpg" width="250px" height="588px" alt="Ultralight-5" />
             </div>
           </li>
-
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Ultralight%20Plus?map=c,specificationFilter_110">Ultralight-Plus</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Ultralight-Plus.jpg" width="250px" height="588px" alt="Coleção Ultralight-Plus" />
-            </div>
-          </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Vega?map=c,specificationFilter_110">Vega</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Vega.jpg" width="250px" height="588px" alt="Coleção Vega" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Venus?map=c,specificationFilter_110">Vênus</a>
             <div class="submenu__imageWrapper">

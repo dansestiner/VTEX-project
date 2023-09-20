@@ -5,6 +5,7 @@ import Submenu__Acessorios from './submenu/acessorios'
 import Submenu__Infantil from './submenu/infantil'
 import Submenu__Juvenil from './submenu/juvenil'
 import Submenu__Executivo from './submenu/executivo'
+import Submenu__Kits from './submenu/kits'
 
 const html = String.raw
 
