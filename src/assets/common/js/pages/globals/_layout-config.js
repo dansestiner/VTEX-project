@@ -1,6 +1,5 @@
 const GlobalLayoutConfig = {
   init() {
-    GlobalLayoutConfig.setSpikeIconBinds();
     GlobalLayoutConfig.setFlagDiscount();
     setTimeout(() => {
       GlobalLayoutConfig.setLoginBtnHref();
@@ -9,7 +8,7 @@ const GlobalLayoutConfig = {
       }
     }, 500);
   },
-  setSpikeIconBinds() {
+  /*setSpikeIconBinds() {
     // ICON SPIKE
     var open = false;
     setTimeout(() => {
@@ -45,7 +44,7 @@ const GlobalLayoutConfig = {
       $(".icon-spike").hide();
     });
     $(".icon-spike").css("display", "block");
-  },
+  },*/
   setFlagDiscount() {
     $(".shelf-product-flag__discount").each((item, elem) => {
       const oldPrice =

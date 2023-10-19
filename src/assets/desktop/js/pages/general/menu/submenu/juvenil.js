@@ -24,11 +24,17 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila-et-o-extraterrestre-1982-preto/p">E.T.</a>
-                <div class="submenu__imageWrapper">
-                  <img src="/arquivos/et-mochila.png" width="250px" height="588px" alt="E.T." />
-                </div>
-              </li>
+              <a class="submenu__itemLink" href="/mochila-et-o-extraterrestre-1982-preto/p">E.T.</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/et-mochila.png" width="250px" height="588px" alt="E.T." />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Evolution#1">Estojos</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/colecao-estojos.png" width="250px" height="588px" alt="Coleção Estojos" />
+              </div>
+            </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Evolution#1">Evolution</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">

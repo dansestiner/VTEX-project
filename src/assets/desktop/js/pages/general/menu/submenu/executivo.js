@@ -285,22 +285,10 @@ export default function () {
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por
                 Categoria</div>
-                <ul class="submenu__list submenu__list--row">
-                  <li class="submenu__list__item">
-                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--postman"
-                      href="/pasta/carteiro?map=c,c" title="Filtrar por: Carteiro">Carteiro</a>
-                  </li>                  
+                <ul class="submenu__list submenu__list--row">               
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--executive"
                       href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executiva</a>
-                  </li>
-                  <li class="submenu__list__item">
-                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--tablet"
-                      href="/pasta/tablet?map=c,c" title="Filtrar por: Tablet">Tablet</a>
-                  </li>
-                  <li class="submenu__list__item">
-                    <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--shoulder-belt"
-                      href="/pasta/tiracolo?map=c,c" title="Filtrar por: Tiracolo">Tiracolo</a>
                   </li>
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--pasta-exe-with-wheels"

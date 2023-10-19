@@ -4,6 +4,7 @@ const Methods = {
     Methods.setDiscountFlag();
     Methods.setBordoFlag();
     Methods.setblackFlag();
+    Methods.setredNovember();
     Methods.addWhatsappIcon();
     Methods.bindHoverTooltip();
     Methods.bindAddCartFbEvent();
@@ -127,6 +128,21 @@ const Methods = {
             color: #fff"
           >
             <span>Black Friday</span>
+          </div>`);
+      }
+    });
+  },
+
+  setredNovember() {
+    Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {
+      if (product["Red November"] && product["Red November"][0] === "Sim") {
+        window.innerWidth >= 768
+          ? $(".x-product__img-right").append(`<div class="flag-redNovember">
+            <img src="/arquivos/redNovember-selo.png" alt="Selo Red November" style="position: absolute;top: 10px;right: 10px;width: 100px;" />
+          </div>`)
+          : $(".x-product__img-content")
+              .append(`<div class="flag-redNovember-mobile">
+                <img src="/arquivos/redNovember-selo.png" alt="Selo Red November" style="position: absolute;top: 38px;right: 0px;width: 100px;" />
           </div>`);
       }
     });

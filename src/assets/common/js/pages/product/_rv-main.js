@@ -99,11 +99,9 @@ const Methods = {
         ProductRvData.expansivel = product.Expansível;
         ProductRvData.mobilidade = product.Mobilidade;
 
-
-        
-        product["Garantia Produtos"][0] != undefined
+        product["Garantia Produtos"] != undefined
         ? (ProductRvData.garantiaProdutos =
-            product["Garantia Produtos"][0])
+            product["Garantia Produtos"])
         : "";
 
         if(ProductRvData.garantiaProdutos == 'Super Garantia') {
@@ -135,6 +133,11 @@ const Methods = {
         product["Compartimento Notebook (LxA)"] != undefined
           ? (ProductRvData.notebookCompartment =
               product["Compartimento Notebook (LxA)"] + " cm")
+          : "";
+
+          product["Red November"] != undefined
+          ? (ProductRvData.redNovember =
+              product["Red November"])
           : "";
 
         product["Capacidade Total (L)"] != undefined

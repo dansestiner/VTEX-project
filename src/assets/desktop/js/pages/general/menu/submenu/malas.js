@@ -66,7 +66,7 @@ export default function () {
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/SestiniColors.jpg" width="250px" height="588px" alt="Coleção Colors" />
+                <img src="/arquivos/Mala_Colors.jpg" width="250px" height="588px" alt="Coleção Colors" />
               </div>
           </li>
           <li class="submenu__list__item">
@@ -94,7 +94,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/malas/colecao/eco-rpet">Eco RPET</a>
+            <a class="submenu__itemLink" href="/mala/Eco%20RPET?map=c,specificationFilter_110#1">Eco RPET</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/eco-rpet-2.png" width="250px" height="588px" alt="Coleção Eco RPET" />
             </div>
@@ -118,7 +118,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="https://www.sestini.com.br/hug">Hug</a>
+            <a class="submenu__itemLink" href="/mala/Ultralight%20Hug?map=c,specificationFilter_110">Hug</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/hug.png" width="250px" height="588px" alt="Coleção Hug" />
             </div>
@@ -147,7 +147,6 @@ export default function () {
               <img src="/arquivos/London.jpg" width="250px" height="588px" alt="Coleção London" />
             </div>
           </li>
-          
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Milão?map=c,specificationFilter_110">Milão</a>
             <div class="submenu__imageWrapper">
@@ -203,7 +202,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/pp%20max">PPmax</a>
+            <a class="submenu__itemLink" href="/mala/PP%20Max?map=c,specificationFilter_110#1">PPmax</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PPmax.png" width="250px" height="588px" alt="Coleção PPmax" />
             </div>
@@ -241,13 +240,13 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/titanium">Titanium</a>
+            <a class="submenu__itemLink" href="/mala/Titanium?map=c,specificationFilter_110">Titanium</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/soft">Soft</a>
+            <a class="submenu__itemLink" href="/mala/Soft?map=c,specificationFilter_110">Soft</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/mala-soft.png" width="250px" height="588px" alt="Coleção Soft" />
             </div>
@@ -273,6 +272,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/tokio">Tokio</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/colecao-tokio.png" width="250px" height="588px" alt="Coleção Tokio" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Travel?map=c,specificationFilter_110">TO Travel</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/TO_Travel.jpg" width="250px" height="588px" alt="Coleção TO Travel" />
@@ -291,33 +296,23 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Venus?map=c,specificationFilter_110">Vênus</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Venus.jpg" width="250px" height="588px" alt="Coleção Vênus" />
-            </div>
-          </li>
-
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Voyage?map=c,specificationFilter_110">Voyage</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Voyage.jpg" width="250px" height="588px" alt="Coleção Voyage" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Wheeless?map=c,specificationFilter_110">Wheeless</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Wheeless.jpg" width="250px" height="588px" alt="Coleção Wheeless" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Zafira?map=c,specificationFilter_110">Zafira</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Zafira.jpg" width="250px" height="588px" alt="Coleção Zafira" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Zigma?map=c,specificationFilter_110">Zigma</a>
             <div class="submenu__imageWrapper">

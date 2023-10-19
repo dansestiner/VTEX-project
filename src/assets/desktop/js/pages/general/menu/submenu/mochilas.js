@@ -303,7 +303,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/neon">My Little Pony</a>
+                <a class="submenu__itemLink" href="/mochila/My%20Litlle%20Pony?map=c,c,specificationFilter_110#1">My Little Pony</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                   <img src="/arquivos/my-little-pony.png" width="250px" height="588px" alt="Coleção My Little Pony" />
                 </div>
@@ -324,6 +324,12 @@ export default function () {
                 <a class="submenu__itemLink" href="/mochila/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/paul-frank.png" width="250px" height="588px" alt="Coleção Paul Frank" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/peppa">Peppa pig</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/colecao-peppa-pig.png" width="250px" height="588px" alt="Coleção Peppa pig" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -350,14 +356,18 @@ export default function () {
                   <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
                 </div>
               </li>
-
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/rock">Rock</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/colecao-rock.png" width="250px" height="588px" alt="Coleção Rock" />
+                </div>
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Rolling?map=c,specificationFilter_110">Rolling</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Rolling.jpg" width="250px" height="588px" alt="Coleção Rolling" />
                 </div>
               </li>
-
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/Rover?map=specificationFilter_110">Rover</a>
                 <div class="submenu__imageWrapper">
@@ -411,6 +421,12 @@ export default function () {
                 <a class="submenu__itemLink" href="/Y%20star#1">Star</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Star.jpg" width="250px" height="588px" alt="Coleção Star" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/start">Start</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/colecao-start.png" width="250px" height="588px" alt="Coleção Start" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -559,7 +575,7 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
-                href="/mochila/Notebook?map=c,specificationFilter_56">Para
+                href="/mochila/Compartimento%20para%20Notebook?map=c,specificationFilter_56">Para
                 Notebook</a>
             </li>
           </ul>
