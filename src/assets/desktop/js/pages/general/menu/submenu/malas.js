@@ -142,12 +142,6 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/London?map=c,specificationFilter_110">London</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/London.jpg" width="250px" height="588px" alt="Coleção London" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Milão?map=c,specificationFilter_110">Milão</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Milao.jpg" width="250px" height="588px" alt="Coleção Milao" />

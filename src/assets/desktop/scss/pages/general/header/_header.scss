@@ -1710,6 +1710,33 @@
     }
   }
 
+  &--balance {
+    &::before {
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-image: url(/arquivos/icon-menu-balanca.jpg);
+      background-size: contain;
+    }
+  }
+
+  &--padlock {
+    &::before {
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-image: url(/arquivos/icon-menu-cadeado.jpg);
+      background-size: contain;
+    }
+  }
+
+  &--suitcasecover {
+    &::before {
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-image: url(/arquivos/icon-menu-capa-mala.png);
+      background-size: contain;
+    }
+  }
+
   &--cellaret {
     &::before {
       border-radius: 14px;
@@ -1953,4 +1980,21 @@ button.see_all {
   padding: 10px;
   border-radius: 9px;
   font-size: 13px;
+}
+
+/* kits */
+.kits .submenu__item--col2 {
+  border: 0px;
+}
+.submenu.kits {
+  grid-template-columns: 0.6fr 0.7fr 0.2fr 1fr 1fr;
+}
+.kits img {
+  cursor: pointer;
+}
+.kits .submenu__item--col3 {
+  width: 214px;
+}
+.kits .submenu__item--col3 .submenu__itemWrapper {
+  margin-left:1rem;
 }

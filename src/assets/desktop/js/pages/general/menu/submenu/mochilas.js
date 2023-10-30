@@ -535,7 +535,7 @@ export default function () {
               Material</div>
               <ul class="submenu__list">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink" href="/mochila-sestini-magic-eco-textura/p">Ecológico</a>
+                  <a class="submenu__itemLink" href="/mochila-sestini-magic-ecologico-cinza/p">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink" href="/mochila/NEOPRENE?map=c,specificationFilter_72">Neoprene</a>
@@ -611,11 +611,11 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--com-expansivel"
-                  href="/mochila/Sim?map=c,specificationFilter_113" title="Filtrar por: Com expansível">Com</a>
+                  href="/mochila/Com%20Expansível?map=c,specificationFilter_113" title="Filtrar por: Com expansível">Com</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--sem-expansivel"
-                  href="/mochila/Não?map=c,specificationFilter_113" title="Filtrar por: Sem expansível">Sem</a>
+                  href="/mochila/Sem%20Expansível?map=c,specificationFilter_113" title="Filtrar por: Sem expansível">Sem</a>
               </li>
             </ul>
           </div>
