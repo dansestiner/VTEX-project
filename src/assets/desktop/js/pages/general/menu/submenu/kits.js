@@ -200,10 +200,10 @@ export default function () {
         <!-- [ INÍCIO ] KIT MATERIAL -->
         <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-              KITS JUVENIL
+              KITS INFANTIL
             </div>
             <ul class="submenu__list submenu__list--row">
-              <a href="/kit/juvenil">
+              <a href="/kit/infantil">
                 <li class="submenu__list__item">
                   <img src="/arquivos/kits-viagem-menu-coluna-2.png" alt="Kits juvenil" />
                 </li>
@@ -219,10 +219,10 @@ export default function () {
         <!-- [ INÍCIO ] KIT MATERIAL -->
         <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--gender submenu__item__heading--lightGray">
-              KITS INFANTIL
+              KITS JUVENIL
             </div>
             <ul class="submenu__list submenu__list--row">
-              <a href="/kit/infantil">
+              <a href="/kit/juvenil">
                 <li class="submenu__list__item">
                   <img src="/arquivos/kits-viagem-menu-coluna-3.png" alt="Kits Juvenil" />
                 </li>
@@ -232,6 +232,8 @@ export default function () {
         </div>
       </li>
       <!-- [ FIM ] COLUNA 03 -->
+
+      
 
       <!-- [ INÍCIO ] COLUNA 05 -->
       <li class="submenu__item submenu__item--col5">
