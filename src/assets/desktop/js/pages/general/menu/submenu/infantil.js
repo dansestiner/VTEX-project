@@ -48,7 +48,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Mala_Colors.jpg" width="250px" height="588px" alt="Coleção Colors" />
+                <img src="/arquivos/Mala_Colors.png?v=1" width="250px" height="588px" alt="Coleção Colors" />
               </div>
             </li>
             <li class="submenu__list__item">

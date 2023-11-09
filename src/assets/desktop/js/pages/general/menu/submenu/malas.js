@@ -34,6 +34,12 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mala/A%20Casa%20Mágica%20da%20Gabby?map=c,specificationFilter_110">4-All</a>
+              <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Malinha_Gabby.png" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
+              </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Apolo?map=c,specificationFilter_110">Apolo</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/apolo.jpg" width="250px" height="588px" alt="Coleção Apolo" />
@@ -193,6 +199,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Paris%20Saint-German?map=c,specificationFilter_110">Paris Saint-German</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Mala_PSG.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Peppa?map=c,specificationFilter_110">Peppa Pig</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Malinha_Peppa_Pig.png" width="250px" height="588px" alt="Coleção Peppa Pig" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -358,10 +370,10 @@ export default function () {
             <div class="submenu__item__heading">EXPANSIVO</div>
                 <ul class="submenu__list">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink" href="/mala/Sim?map=c,specificationFilter_113">Com Expansivo</a>
+                  <a class="submenu__itemLink" href="/mala/Com%20Expansível?map=c,specificationFilter_113">Com Expansivo</a>
                 </li>
                 <li class="submenu__list__item">
-                    <a class="submenu__itemLink" href="/mala/Não?map=c,specificationFilter_113">Sem Expansivo</a>
+                    <a class="submenu__itemLink" href="/mala/Sem%20Expansível?map=c,specificationFilter_113">Sem Expansivo</a>
                 </li>
             </ul>
         </div>
@@ -399,7 +411,7 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--ecomala"
-                    href="/rpet">Ecológico</a>
+                    href="/mala/Eco%20RPET?map=c,specificationFilter_110">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--hard"

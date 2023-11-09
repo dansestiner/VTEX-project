@@ -35,13 +35,13 @@ export default function () {
               </li>
               <hr style="border: 1px solid #E5E5E5;width: 80%;text-align: left;margin-left: 0;"/>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/gabby">A Casa Mágica da Gabby</a>
+                <a class="submenu__itemLink" href="/mochila/A%20Casa%20Mágica%20da%20Gabby?map=c,specificationFilter_110">A Casa Mágica da Gabby</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/A-Casa-Mágica-da-Gabby.png?v=1" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Active?map=specificationFilter_110">Active</a>
+                <a class="submenu__itemLink" href="mochila/Active?map=c,specificationFilter_110?map=specificationFilter_110">Active</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Active.jpg" width="250px" height="588px" alt="Coleção Active" />
                 </div>

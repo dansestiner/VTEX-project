@@ -49,7 +49,7 @@ export function renderMenu() {
           <a class="menu__list__item__link" href="/pets-produtos">Pets</a>
         </li>
         <li class="menu__list__item">
-          <a class="menu__list__item__link" href="/425?map=productClusterIds#1">Kits</a>
+          <a class="menu__list__item__link" href="/kit">Kits</a>
           ${Submenu__Kits()}
         </li>
         <li class="menu__list__item menu__list__item">
