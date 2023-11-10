@@ -435,31 +435,29 @@ const Methods = {
         const categoryName = window.dataLayer[1].productDepartmentName;
       }      
 
-      console.log(referenceId);
-
       let tamanhos = [];
 
       if (sizes.Grande != undefined) {
         sizes.Grande.map((item) => {
-          if (item.productReference == referenceId) tamanhos.push(item);
+          if (item.productReference == window.dataLayer[0].productReferenceId) tamanhos.push(item);
         });
       }
 
       if (sizes.Médio != undefined) {
         sizes.Médio.map((item) => {
-          if (item.productReference == referenceId) tamanhos.push(item);
+          if (item.productReference == window.dataLayer[0].productReferenceId) tamanhos.push(item);
         });
       }
 
       if (sizes.Pequeno != undefined) {
         sizes.Pequeno.map((item) => {
-          if (item.productReference == referenceId) tamanhos.push(item);
+          if (item.productReference == window.dataLayer[0].productReferenceId) tamanhos.push(item);
         });
       }
 
       if (sizes.Bordo != undefined) {
         sizes.Bordo.map((item) => {
-          if (item.productReference == referenceId) tamanhos.push(item);
+          if (item.productReference == window.dataLayer[0].productReferenceId) tamanhos.push(item);
         });
       }
 

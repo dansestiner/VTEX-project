@@ -19,7 +19,7 @@ const init = () => {
     document.title = dataLayer[0].pageTitle.split('|')[0] + "| Sestini Oficial"
   }
   else {
-    document.title = dataLayer[1].pageTitle.split('|')[0] + "| Sestini Oficial"
+    document.title = dataLayer[0].pageTitle.split('|')[0] + "| Sestini Oficial"
   }
   
   //LandingpPage em produtos
