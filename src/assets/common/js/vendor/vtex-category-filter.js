@@ -120,9 +120,14 @@
       if (self.options.pagination) {
         self._startPagination();
         self.load('html', pageNumber, () => {
-          self._showItems(pageNumber);
+          if(pageNumber){
+            setInterval(function () {
+              self._showItems(pageNumber);
+              return false;
+            }, 10);
+          }
+          _checkAndLoadWithCookie();
         });
-
         return false;
       }
 

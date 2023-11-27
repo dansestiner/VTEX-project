@@ -5,6 +5,7 @@ import { acessorios__content } from './sections/acessorios'
 import { infantil__content } from "./sections/infantil"
 import { juvenil__content } from "./sections/juvenil"
 import { executivo__content } from "./sections/executivo"
+import { kits__content } from "./sections/kits"
 
 export const data = [
   {
@@ -41,5 +42,10 @@ export const data = [
     title: 'Executivo',
     href: "/Executiva?map=specificationFilter_ ??",
     sections: executivo__content
+  },
+  {
+    title: 'Kits',
+    href: "/kit?map=specificationFilter_ ??",
+    sections: kits__content
   },
 ]

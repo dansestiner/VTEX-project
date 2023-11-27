@@ -40,6 +40,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mochila/Elegance?map=c,specificationFilter_110">Elegance</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/Elegance.png" width="250px" height="588px" alt="Coleção Elegance" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Harvest?map=specificationFilter_110">Harvest</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Harvest.jpg" width="250px" height="588px" alt="Coleção Harvest" />

@@ -34,7 +34,7 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/A%20Casa%20Mágica%20da%20Gabby?map=c,specificationFilter_110">4-All</a>
+              <a class="submenu__itemLink" href="/mala/A%20Casa%20Mágica%20da%20Gabby?map=c,specificationFilter_110">A Casa Mágica da Gabby</a>
               <div class="submenu__imageWrapper">
                   <img src="/arquivos/Malinha_Gabby.png" width="250px" height="588px" alt="Coleção A Casa Mágica da Gabby" />
               </div>
@@ -118,7 +118,7 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Girls%20VR?map=c,specificationFilter_110">Girls-VR</a>
+            <a class="submenu__itemLink" href="/mala/Girls?map=c,specificationFilter_110">Girls-VR</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Girls-VR.jpg" width="250px" height="588px" alt="Coleção Girls-VR" />
             </div>
@@ -219,7 +219,6 @@ export default function () {
               <img src="/arquivos/mala_PPpop.png" width="250px" height="588px" alt="Coleção PP-Pop" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/PP%20Plus?map=c,specificationFilter_110">PP-Plus</a>
             <div class="submenu__imageWrapper">
@@ -231,12 +230,6 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/PP%20Start?map=c,specificationFilter_110">PP-Start</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PP-Start.jpg" width="250px" height="588px" alt="Coleção PP-Start" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/PP%20Ultra?map=c,specificationFilter_110">PP-Ultra</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/PP-Ultra.jpg" width="250px" height="588px" alt="Coleção PP-Ultra" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -263,7 +256,6 @@ export default function () {
               <img src="/arquivos/Cross.jpg" width="250px" height="588px" alt="Coleção TO Cross" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Fly?map=c,specificationFilter_110">TO Fly</a>
             <div class="submenu__imageWrapper">
@@ -278,9 +270,9 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/tokio">Tokio</a>
+            <a class="submenu__itemLink" href="/sacola/Tour?map=c,specificationFilter_110">Tour</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/colecao-tokio.png" width="250px" height="588px" alt="Coleção Tokio" />
+              <img src="/arquivos/tour.jpg" width="250px" height="588px" alt="Coleção Tour" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -299,6 +291,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Vega?map=c,specificationFilter_110">Vega</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Vega.jpg" width="250px" height="588px" alt="Coleção Vega" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Veneza?map=c,specificationFilter_110">Veneza</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Veneza.jpg" width="250px" height="588px" alt="Coleção Veneza" />
             </div>
           </li>
           <li class="submenu__list__item">

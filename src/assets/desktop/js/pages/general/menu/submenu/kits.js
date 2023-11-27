@@ -46,22 +46,21 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/kit/Apolo?map=c,specificationFilter_110">Apolo</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/apolo.jpg" width="250px" height="588px" alt="Coleção Apolo" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/kit/Atlanta?map=c,specificationFilter_110">Atlanta</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Atlanta.jpg" width="250px" height="588px" alt="Coleção Atlanta" />
               </div>
           </li>
-          
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/kit/Capricho?map=specificationFilter_110">Capricho</a>
+            <a class="submenu__itemLink" href="/kit/Capricho">Capricho</a>
             <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Game?map=c,specificationFilter_110">Game Over</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/game-kit.png" width="250px" height="588px" alt="Coleção Game Over" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -89,15 +88,15 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/kit/NBA?map=c,specificationFilter_110">NBA</a>
+            <a class="submenu__itemLink" href="/kit/NBA?map=c,specificationFilter_110">NBA</a>
             <div class="submenu__imageWrapper">
-                <img src="/arquivos/NBA.jpg" width="250px" height="588px" alt="Coleção NBA" />
+              <img src="/arquivos/NBA.jpg" width="250px" height="588px" alt="Coleção NBA" />
             </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
             <div class="submenu__imageWrapper">
-                <img src="/arquivos/paul-frank.png" width="250px" height="588px" alt="Coleção Paul Frank" />
+              <img src="/arquivos/paul-frank.png" width="250px" height="588px" alt="Coleção Paul Frank" />
             </div>
           </li>
           <li class="submenu__list__item">
