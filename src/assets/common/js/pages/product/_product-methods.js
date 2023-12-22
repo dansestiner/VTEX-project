@@ -5,6 +5,7 @@ const Methods = {
     Methods.setBordoFlag();
     Methods.setblackFlag();
     Methods.setredNovember();
+    Methods.setLimitedEdition();
     Methods.addWhatsappIcon();
     Methods.bindHoverTooltip();
     Methods.bindAddCartFbEvent();
@@ -128,6 +129,25 @@ const Methods = {
             color: #fff"
           >
             <span>Black Friday</span>
+          </div>`);
+      }
+    });
+  },
+
+  setLimitedEdition(){
+    Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {
+      if (product["Edição limitada"] && product["Edição limitada"][0] === "Sim") {
+        window.innerWidth >= 768
+          ? $(".x-product__img-right").append(`<div class="flag-limitedEdition">
+            <img src="/arquivos/EDICAOLIMITADA-selo.png" alt="Selo Edição Limitada" style="position: absolute;top: 10px;right: 10px;width: 100px;" />
+          </div>`)
+          : $(".x-product__img-content")
+              .append(`<div class="flag-limitedEdition-mobile">
+                <img src="/arquivos/EDICAOLIMITADA-selo.png" alt="Selo Edição Limitada" style="
+                position: absolute;
+                width: 36%;
+                top: 35px;
+                left: 0;" />
           </div>`);
       }
     });

@@ -94,7 +94,7 @@ export default function () {
         <!-- [ FIM ] COLUNA 02 -->
 
         <!-- [ INÍCIO ] COLUNA 03 -->
-        <li class="submenu__item submenu__item--col3">
+        <li class="submenu__item submenu__item--col3 por-genero">
 
           <!-- POR GÊNERO -->
           <div class="submenu__itemWrapper">
@@ -119,56 +119,48 @@ export default function () {
           </div>
 
           <!--[ INÍCIO ] POR TOM DE CORES -->
-          <div class="submenu__itemWrapper">
+          <div class="submenu__itemWrapper acessorios-por-tom-cores">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
             <ul class="submenu__list submenu__list--colors submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--colored"
-                  href="/acessorios/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--blue"
-                  href="/acessorios/Azul?map=c,specificationFilter_42" title="Filtrar por: Cor azul">Azul</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--white"
-                  href="/acessorios/Branco?map=c,specificationFilter_42" title="Filtrar por: Cor branca">Branco</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--gray"
-                  href="/acessorios/Cinza?map=c,specificationFilter_42" title="Filtrar por: Cor cinza">Cinza</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--orange"
-                  href="/acessorios/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+                <a class="submenu__itemLink--color submenu__itemLink--black"
+                  href="/acessorios/Preto?map=c,specificationFilter_42" title="Filtrar por: Cor preta">Preto</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--brown"
                   href="/acessorios/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--black"
-                  href="/acessorios/Preto?map=c,specificationFilter_42" title="Filtrar por: Cor preta">Preto</a>
+                <a class="submenu__itemLink--color submenu__itemLink--green"
+                  href="/acessorios/Verde?map=c,specificationFilter_42" title="Filtrar por: Cor verde">Verde</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--blue"
+                  href="/acessorios/Azul?map=c,specificationFilter_42" title="Filtrar por: Cor azul">Azul</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--pink"
                   href="/acessorios/Rosa?map=c,specificationFilter_42" title="Filtrar por: Cor rosa">Rosa</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--purple"
-                  href="/acessorios/Roxo?map=c,specificationFilter_42" title="Filtrar por: Cor roxo">Roxo</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--green"
-                  href="/acessorios/Verde?map=c,specificationFilter_42" title="Filtrar por: Cor verde">Verde</a>
+                <a class="submenu__itemLink--color submenu__itemLink--colored--acessories"
+                  href="/acessorios/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--red"
                   href="/acessorios/Vermelho?map=c,specificationFilter_42" title="Filtrar por: Cor vermelha">Vermelho</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--wine"
-                  href="/acessorios/Vinho?map=c,specificationFilter_42" title="Filtrar por: Cor vinho">Vinho</a>
+                <a class="submenu__itemLink--color submenu__itemLink--orange"
+                  href="/acessorios/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--purple"
+                  href="/acessorios/Roxo?map=c,specificationFilter_42" title="Filtrar por: Cor roxo">Roxo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--gray"
+                  href="/acessorios/Cinza?map=c,specificationFilter_42" title="Filtrar por: Cor cinza">Cinza</a>
               </li>
             </ul>
 
@@ -179,7 +171,7 @@ export default function () {
         <!-- [ FIM ] COLUNA 03 -->
 
         <!-- [ INÍCIO ] COLUNA 04 -->
-        <li class="submenu__item submenu__item--col4">
+        <li class="submenu__item submenu__item--col4 veja-tambem">
 
           <!-- [ INÍCIO ] VEJA TAMBÉM -->
           <div class="submenu__itemWrapper">
@@ -187,61 +179,56 @@ export default function () {
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--purses" href="/bolsa?map=c"
-                  title="Filtrar por: Bolsas">Bolsas</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
-                  title="Filtrar por: Malas">Malas</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--backpack" href="/mochila?map=c"
-                  title="Filtrar por: Mochilas">Mochilas</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire" href="/acessorios/Necessaire?map=c,c"
-                  title="Filtrar por: Necessaire">Necessaire</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
-                  href="/acessorios/Pochete?map=c,c#1"
-                  title="Filtrar por: Pochete">Pochete</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" href="/acessorios/Fichario?map=c,c"
-                  title="Filtrar por: Fichário">Fichário</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case-purse" href="/Estojo?map=c"
+                  title="Filtrar por: Estojo">Estojo</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--satchel" href="/Sacola?map=c"
                   title="Filtrar por: Sacola">Sacola</a>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--suitcase" href="/mala?map=c"
+                  title="Filtrar por: Mala">Mala</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--necessaire" href="/acessorios/Necessaire?map=c,c"
+                  title="Filtrar por: Necessaire">Necessaire</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fichario"
+                  href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--folder"
+                  href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--little-bags" href="/mala/escolar?map=c,c"
                   title="Filtrar por: Malinha">Malinha</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels" href="/mochila/2%20Rodinhas?map=c,specificationFilter_57"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels" href="/mochila/2%20Rodas?map=c,specificationFilter_57"
                   title="Filtrar por: Mochila com rodas">Mochila com rodas</a>
               </li>
             </ul>
           </div>
           <!-- [ FIM ] POR TIPO DE CADEADO  -->
         </li>
-        <!-- [ FIM ] COLUNA 04 -->
+        <!-- [ FIM ] COLUNA 04 -->  
 
-
-        <!-- [ INÍCIO ] COLUNA 04 -->
-        <li class="submenu__item submenu__item--col4">
-
-        <!-- [ INÍCIO ] VEJA TAMBÉM -->
-          <div class="submenu__itemWrapper">
-            <a href="https://www.sestini.com.br/acessorios?map=c#1">
-              <button class="see_all"> Ver todos ok Kits </button>
-            </a>
-          </div>
-          <!-- [ FIM ] POR TIPO DE CADEADO  -->
+        <!-- [ INÍCIO ] COLUNA 05 -->
+        <li class="submenu__item submenu__item--col5">
+          <div class="submenu__itemWrapper">         
+            <ul class="submenu__list submenu__list--row">
+              <li class="submenu__list__item">
+                <a href="/acessorios/?map=c">
+                  <button class="see_all">Ver todos os Acessórios</button>  
+                </a>                
+              </li>
+            </ul>
+          </div>   
         </li>
-      <!-- [ FIM ] COLUNA 04 -->      
+        <!-- [ FIM ] COLUNA 05 -->
       </ul>      
     </div>
   `

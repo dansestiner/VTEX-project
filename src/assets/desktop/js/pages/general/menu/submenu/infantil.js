@@ -34,13 +34,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/blocos">Blocos</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/blocos.jpg" width="250px" height="588px" alt="Coleção Blocos" />
-              </div>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochilas/camuflado">Camuflado</a>
+              <a class="submenu__itemLink" href="/mochilas/Camuflado?map=c,specificationFilter_110">Camuflado</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/camuflado.png" width="250px" height="588px" alt="Coleção Camuflado" />
               </div>
@@ -48,11 +42,11 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Mala_Colors.png?v=1" width="250px" height="588px" alt="Coleção Colors" />
+                <img src="/arquivos/Colors1.jpg" width="250px" height="588px" alt="Coleção Colors" />
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/coral">Coral</a>
+              <a class="submenu__itemLink" href="/Coral">Coral</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/coral.png" width="250px" height="588px" alt="Coleção Coral" />
                 </div>
@@ -78,7 +72,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Futebol?map=specificationFilter_110">Futebol</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Futebol.jpg" width="250px" height="588px" alt="Coleção Futebol" />
+                <img src="/arquivos/Futebol1.jpg" width="250px" height="588px" alt="Coleção Futebol" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -216,7 +210,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/start">Start</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/colecao-start.png" width="250px" height="588px" alt="Coleção Start" />
+                <img src="/arquivos/Start-collec.jpg" width="250px" height="588px" alt="Coleção Start" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -308,7 +302,7 @@ export default function () {
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--with-wheels"
                     href="/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
-                    title="Filtrar por: Com rodinhas">Com Rodas</a>
+                    title="Filtrar por: Com rodinhas">Com Rodinhas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--no-wheels"

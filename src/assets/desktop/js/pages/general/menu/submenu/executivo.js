@@ -191,6 +191,17 @@ export default function () {
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
                 <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--black"
+                    href="/mochila/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+                    title="Filtrar por: Preto">Preto</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--brown"
+                    href="/mochila/Marrom/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+                    title="Filtrar por: Marrom">Marrom</a>
+                </li>
+
+                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--blue"
                     href="/mochila/Azul/Executiva?map=c,specificationFilter_42,specificationFilter_106"
                     title="Filtrar por: Cor azul">Azul</a>
@@ -201,29 +212,9 @@ export default function () {
                     title="Filtrar por: Cor cinza">Cinza</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--brown"
-                    href="/mochila/Marrom/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
-                    title="Filtrar por: Marrom">Marrom</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--black"
-                    href="/mochila/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Preto">Preto</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--pink"
-                    href="/mochila/Rosa/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Rosa">Rosa</a>
-                </li>
-                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--red"
                     href="/mochila/Vermelho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
                     title="Filtrar por: Vermelho">Vermelho</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--wine"
-                    href="/mochila/Vinho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Vinho">Vinho</a>
                 </li>
               </ul>
             </div>
@@ -294,7 +285,7 @@ export default function () {
                 <ul class="submenu__list submenu__list--row">               
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--executive"
-                      href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executiva</a>
+                      href="/pasta/executiva?map=c,c" title="Filtrar por: Executiva">Executivo</a>
                   </li>
                   <li class="submenu__list__item">
                     <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--pasta-exe-with-wheels"
@@ -306,6 +297,16 @@ export default function () {
               <div class="submenu__item__heading submenu__item__heading--lightGray">tom de cor</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
                 <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--black"
+                    href="/pasta/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+                    title="Filtrar por: Preto">Preto</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--brown"
+                    href="/pasta/Marrom/Executiva?map=c,specificationFilter_42,specificationFilter_106"
+                    title="Filtrar por: Marrom">Marrom</a>
+                </li>
+                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--blue"
                     href="/pasta/Azul/Executiva?map=c,specificationFilter_42,specificationFilter_106"
                     title="Filtrar por: Cor azul">Azul</a>
@@ -314,21 +315,6 @@ export default function () {
                   <a class="submenu__itemLink--color submenu__itemLink--gray"
                     href="/pasta/Cinza/Executiva?map=c,specificationFilter_42,,specificationFilter_106"
                     title="Filtrar por: Cor cinza">Cinza</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--brown"
-                    href="/pasta/Marrom/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Marrom">Marrom</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--black"
-                    href="/pasta/Preto/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Preto">Preto</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--wine"
-                    href="/pasta/Vinho/Executiva?map=c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Vinho">Vinho</a>
                 </li>
               </ul>
             </div>           
@@ -415,24 +401,19 @@ export default function () {
               <div class="submenu__item__heading submenu__item__heading--lightGray">tom de cores</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
                 <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--black"
+                    href="/Acessorios/necessaire/Preto/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
+                    title="Filtrar por: Cor preta">Preto</a>
+                  </li>
+                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--blue"
                     href="/Acessorios/necessaire/Azul/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
                     title="Filtrar por: Cor azul">Azul</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--white"
-                    href="/Acessorios/necessaire/Branco/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Cor branca">Branco</a>
-                </li>
-                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--brown"
                     href="/Acessorios/necessaire/Marrom/Executiva?map=c,c,specificationFilter_42,,specificationFilter_106"
                     title="Filtrar por: Cor marrom">Marrom</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--black"
-                    href="/Acessorios/necessaire/Preto/Executiva?map=c,c,specificationFilter_42,specificationFilter_106"
-                    title="Filtrar por: Cor preta">Preto</a>
                 </li>
               </ul>
             </div>
@@ -465,7 +446,7 @@ export default function () {
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--purses"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--purses-executive"
                   href="/bolsas?map=c#1" title="Filtrar por: Bolsa">Bolsa</a>
               </li>
               <li class="submenu__list__item">
@@ -481,6 +462,14 @@ export default function () {
                   title="Filtrar por: Carteira">Carteira</a>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--tag-mala" href="/acessorios/Tag%20de%20mala?map=c,c"
+                  title="Filtrar por: Tag de Mala">Tag de Mala</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--withIcon submenu__itemLink--dollar" href="/acessorios/Porta%20Dolar?map=c,c"
+                  title="Filtrar por: Porta Dólar">Porta Dólar</a>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--acessories"
                   href="/acessorios/Executiva?map=c,specificationFilter_106" title="Filtrar por: Acessórios">Acessórios</a>
               </li>
@@ -493,8 +482,8 @@ export default function () {
                   title="Filtrar por: Estojo">Estojo</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--sports"
-                  href="/Sacola/Esportiva?map=c,specificationFilter_106" title="Filtrar por: Esportivo">Esportivo</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--beach"
+                  href="/429?map=productClusterIds#1" title="Filtrar por: Praia">Praia</a>
               </li>
               <li class="submenu__list__item">
                 <a href="/425?map=productClusterIds">

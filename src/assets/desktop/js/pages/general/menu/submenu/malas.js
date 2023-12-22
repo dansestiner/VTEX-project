@@ -46,16 +46,16 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Atlanta?map=c,specificationFilter_110">Atlanta</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Atlanta.jpg" width="250px" height="588px" alt="Coleção Atlanta" />
-              </div>
+            <a class="submenu__itemLink" href="/mala/Atlanta?map=c,specificationFilter_110">Atlanta</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Atlanta.jpg" width="250px" height="588px" alt="Coleção Atlanta" />
+            </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Blocos?map=c,specificationFilter_110">Blocos</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Blocos.jpg" width="250px" height="588px" alt="Coleção Blocos" />
-              </div>
+            <a class="submenu__itemLink" href="https://www.sestini.com.br/mala-de-viagem-bordo-com-rodas-360-pc-bayern-degrade/p">Bayern de Munique</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Mala_Bayern.jpg" width="250px" height="588px" alt="Coleção Bayern de Munique" />
+            </div>
           </li>
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Capri?map=c,specificationFilter_110">Capri</a>
@@ -72,7 +72,7 @@ export default function () {
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Mala_Colors.jpg" width="250px" height="588px" alt="Coleção Colors" />
+                <img src="/arquivos/Colors1.jpg" width="250px" height="588px" alt="Coleção Colors" />
               </div>
           </li>
           <li class="submenu__list__item">
@@ -106,10 +106,28 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Evidence?map=c,specificationFilter_110">Evidence</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Evidence.jpg" width="250px" height="588px" alt="Coleção Evidence" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/sacola/Focuz?map=c,specificationFilter_110">Focuz</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Sacola_Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Gama?map=c,specificationFilter_110">Gama</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Gama.jpg" width="250px" height="588px" alt="Coleção Gama" />
               </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/sacola/Game%20Over">Game Over</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Sacola_GameOver.jpg" width="250px" height="588px" alt="Coleção Game Over" />
+            </div>
           </li>
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Genebra?map=c,specificationFilter_110">Genebra</a>
@@ -140,6 +158,12 @@ export default function () {
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
               </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/sacola/Kids?map=c,specificationFilter_110">Kids</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Sacola_Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+            </div>
           </li>
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Lisboa?map=c,specificationFilter_110">Lisboa</a>
@@ -187,6 +211,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Orion?map=c,specificationFilter_110">Órion</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/orion.jpg" width="250px" height="588px" alt="Coleção Órion" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/sacola/Paul%20Frank?map=c,specificationFilter_110">Paul Frank</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Scolas_PaulFrank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -239,15 +269,15 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Titanium?map=c,specificationFilter_110">Titanium</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Soft?map=c,specificationFilter_110">Soft</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/mala-soft.png" width="250px" height="588px" alt="Coleção Soft" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Titanium?map=c,specificationFilter_110">Titanium</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -272,7 +302,7 @@ export default function () {
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/sacola/Tour?map=c,specificationFilter_110">Tour</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/tour.jpg" width="250px" height="588px" alt="Coleção Tour" />
+              <img src="/arquivos/tour.jpg?v=1" width="250px" height="588px" alt="Coleção Tour" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -285,6 +315,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Ultralight">Ultralight</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ultralight.jpg" width="250px" height="588px" alt="Ultralight-5" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/V8?map=c,specificationFilter_110">V8</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/V8.jpg" width="250px" height="588px" alt="Coleção V8" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -422,7 +458,18 @@ export default function () {
             </ul>
          </div>
 
-        
+        <!-- CADEADO -->
+        <div class="submenu__itemWrapper">
+            <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">CADEADO</div>
+            <ul class="submenu__list">
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mala/TSA%20Fixo?map=c,specificationFilter_70">Com Cadeado TSA Fixo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mala/Fixo?map=c,specificationFilter_70">Com Cadeado Fixo</a>
+              </li>
+            </ul>
+         </div>        
       </li>
       <!-- [ FIM ] COLUNA 03 -->
 
@@ -433,19 +480,19 @@ export default function () {
         <div class="submenu__itemWrapper">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por Tamanho</div>
             <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--board"
                   href="/mala/viagem/bordo?map=c,c,c">Bordo</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--small"
                   href="/mala/viagem/Pequena?map=c,c,c">P</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon  submenu__itemLink--size submenu__itemLink--medium"
                   href="/mala/viagem/Media?map=c,c,c">M</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--size submenu__itemLink--big"
                   href="/mala/viagem/Grande?map=c,c,c">G</a>
               </li>
@@ -456,21 +503,21 @@ export default function () {
               Mobilidade
             </div>
             <ul class="submenu__list submenu__list--row">
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--2-wheels"
-                  href="/mala/2%20Rodinhas?map=c,specificationFilter_57">2 Rodas</a>
+                  href="/mala/2 Rodas?map=c,specificationFilter_57">2 Rodas</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--4-wheels"
-                  href="/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodas</a>
+                  href="/mala/4 Rodas 360°?map=c,specificationFilter_57">4 Rodas</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--8-wheels"
-                  href="/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57">4 Rodas Duplas</a>
+                  href="/mala/4 Rodas Duplas 360°?map=c,specificationFilter_57">4 Rodas Duplas</a>
               </li>
-              <li class="submenu__list__item">
+              <li class="submenu__list__item" style="width: 46px;">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--retractable"
-                  href="/mala/Rodas%20Retráteis?map=c,specificationFilter_57">Rodas Retráteis</a>
+                  href="/mala/Rodas Retráteis?map=c,specificationFilter_57">Rodas Retráteis</a>
               </li>
             </ul>
         </div>
@@ -489,13 +536,14 @@ export default function () {
               VEJA TAMBÉM</div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--acessories"
-                  href="/Acessorios?map=c" title="Filtrar por: Acessórios">Acessórios</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--pillow"
+                href="/acessorios/Travesseiro?map=c,c" title="Filtrar por: Travesseiro">Travesseiro</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--satchel"
                   href="/Sacola?map=c" title="Filtrar por: Sacola">Sacola</a>
               </li>
+
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--travelPlus submenu__itemLink--cellaret"
                   href="/mala/Frasqueira?map=c,c" title="Filtrar por: Frasqueira">Frasqueira</a>
@@ -513,6 +561,34 @@ export default function () {
                   href="/mala/Colorido?map=c,specificationFilter_42" title="Filtrar por: Colorido">Colorido</a>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--black" href="/mala/Preto?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor preta">Preto</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--blue" href="/mala/Azul?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor azul">Azul</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--gray" href="/mala/Cinza?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor cinza">Cinza</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--pink" href="/mala/Rosa?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor rosa">Rosa</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--red"
+                  href="/mala/Vermelho?map=c,specificationFilter_42" title="Filtrar por: Cor vermelha">Vermelho</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--green" href="/mala/Verde?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor verde">Verde</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--brown"
+                  href="/mala/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--golden"
                   href="/mala/Dourado?map=c,specificationFilter_42" title="Filtrar por: Cor dourada">Dourado</a>
               </li>
@@ -521,45 +597,10 @@ export default function () {
                   href="/mala/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--blue" href="/mala/Azul?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor azul">Azul</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--white"
-                  href="/mala/Branco?map=c,specificationFilter_42" title="Filtrar por: Cor branca">Branco</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--gray" href="/mala/Cinza?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor cinza">Cinza</a>
-              </li>
-              <li class="submenu__list__item">
                 <a class="submenu__itemLink--color submenu__itemLink--yellow"
                   href="/mala/Amarelo?map=c,specificationFilter_42" title="Filtrar por: Cor amarelo">Amarelo</a>
               </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--brown"
-                  href="/mala/Marrom?map=c,specificationFilter_42" title="Filtrar por: Cor marrom">Marrom</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--black" href="/mala/Preto?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor preta">Preto</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--pink" href="/mala/Rosa?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor rosa">Rosa</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--green" href="/mala/Verde?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor verde">Verde</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--red"
-                  href="/mala/Vermelho?map=c,specificationFilter_42" title="Filtrar por: Cor vermelha">Vermelho</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--wine" href="/mala/Vinho?map=c,specificationFilter_42"
-                  title="Filtrar por: Cor vinho">Vinho</a>
-              </li>
+              
             </ul>
   
           </div>

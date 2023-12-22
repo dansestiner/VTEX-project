@@ -866,10 +866,29 @@
   max-width: 100%;
 
  > li {
-    margin: .5rem;
+    margin: 0.2rem;
+    margin-left: 10px;
   }
 }
 
+.submenu__item--col3.por-genero {
+  width: 290px;
+}
+.acessorios-por-tom-cores {
+  width: 200px;
+}
+.por-tamanho {
+  width: 235px !important;
+}
+.submenu__item--col4.veja-tambem {
+  width: 315px !important;
+}
+.submenu__item--col4.veja-tambem-bolsas {
+  width: 300px !important;
+}
+.por-tom-de-cores-bolsas {
+  width: 200px !important;
+}
 .submenu__item {
   display: flex;
   flex-direction: column;
@@ -1025,7 +1044,7 @@
 }
 
 .submenu__item__heading {
-  font-family: Gotham, sans-serif;
+  font-family: Unbounded, sans-serif;
   font-size: 14px;
   font-weight: 900;
   font-stretch: normal;
@@ -1040,14 +1059,10 @@
   &--lightGray {
     color: #505050;
   }
-
-  &--gender {
-    margin-top: 5px !important;
-  }
 }
 
 .submenu__itemLink {
-  font-family: Gotham, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 12px;
   font-weight: 500;
   font-stretch: normal;
@@ -1104,8 +1119,8 @@
       margin-bottom: 18px;
       background-repeat: no-repeat;
       background-position: 50%;
-      border: 1px solid #b4b4b4;
       border-radius: 14px;
+      border: 1px solid silver;
     }
   }
 
@@ -1149,17 +1164,17 @@
   }
 
   &--backpack-small::before {
-    background-image: url(/arquivos/mochila_size_p1.png);
+    background-image: url(/arquivos/mochila_size_p1.png?v=9);
     background-size: contain;
   }
 
   &--backpack-medium::before {
-    background-image: url(/arquivos/mochila_size_m1.png?v=4);
+    background-image: url(/arquivos/mochila_size_m1.png?v=9);
     background-size: contain;
   }
 
   &--backpack-big::before {
-    background-image: url(/arquivos/mochila_size_g1.png?v=4);
+    background-image: url(/arquivos/mochila_size_g1.png?v=7);
     background-size: contain;
   }
 
@@ -1171,7 +1186,7 @@
   // MATERIAL
   &--cloth {
     &::before {
-      background-image: url(/arquivos/soft.jpg);
+      background-image: url(/arquivos/soft.jpg?v=6);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1179,7 +1194,7 @@
 
   &--ecomala {
     &::before {
-      background-image: url(/arquivos/mala-eco-new-icon.jpg);
+      background-image: url(/arquivos/mala-eco-new-icon.jpg?v=5);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1187,7 +1202,7 @@
 
   &--hard {
     &::before {
-      background-image: url(/arquivos/rigido.jpg);
+      background-image: url(/arquivos/rigido.jpg?v=6);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1195,7 +1210,7 @@
 
   &--suitcase {
     &::before { 
-      background-image: url(/arquivos/malas.jpg);
+      background-image: url(/arquivos/malas.jpg?v=1.jpg);
       background-size: contain;
     }
   }
@@ -1269,7 +1284,7 @@
   // MOBILITY
   &--no-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-sem-Rodas.jpg);
+      background-image: url(/arquivos/Mochila-sem-Rodas.jpg?v=2);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1277,7 +1292,7 @@
 
   &--backpack-no-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila.jpg);
+      background-image: url(/arquivos/Mochila.jpg?v=3);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1285,7 +1300,7 @@
 
   &--backpack-with-wheels {
     &::before {
-      background-image: url(/arquivos/Mochila-com-Rodas2.jpg);
+      background-image: url(/arquivos/icon-com-rodinhas.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1293,7 +1308,7 @@
 
   &--moch-with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas.jpg);
+      background-image: url(/arquivos/icon-com-rodinhas.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1301,7 +1316,7 @@
 
   &--with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas.jpg);
+      background-image: url(/arquivos/icon-com-rodinhas.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1317,7 +1332,7 @@
 
   &--juvenile-no-wheels {
     &::before {
-      background-image: url(/arquivos/Sem-rodinha2.png);
+      background-image: url(/arquivos/Sem-rodinha2.jpg);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1325,7 +1340,7 @@
 
   &--malinha {
     &::before {
-      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=1);
+      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=2);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1333,7 +1348,7 @@
 
   &--2-wheels {
     &::before {
-      background-image: url(/arquivos/2-rodas.png);
+      background-image: url(/arquivos/2-rodas.jpg?v=3);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1341,31 +1356,29 @@
 
   &--4-wheels {
     &::before {
-      background-image: url(/arquivos/4-rodas.png);
+      background-image: url(/arquivos/4-rodas.jpg?v=1);
       margin-bottom: 24px;
-      background-size: contain;
+      background-size: cover;
     }
   }
 
   &--8-wheels {
     &::before {
-      background-image: url(/arquivos/8-rodas.png);
-      margin-bottom: 24px;
-      background-size: contain;
+      background-image: url(/arquivos/8-rodas.jpg?v=1);
+      background-size: cover;
     }
   }
 
   &--retractable {
     &::before {
-      background-image: url(/arquivos/Roda-retratil.jpg);
-      margin-bottom: 24px;
-      background-size: contain;
+      background-image: url(/arquivos/Roda-retratil.jpg?v=3);
+      background-size: cover;
     }
   }
 
   &--for-laptop {
     &::before {
-      background-image: url(/arquivos/icon-para-notebook.jpg);
+      background-image: url(/arquivos/icon-para-notebook.jpg?v=1);
       margin-bottom: 24px;
       background-size: contain;
     }
@@ -1373,7 +1386,7 @@
 
   &--backpack {
     &::before {
-      background-image: url(/arquivos/Mochila.jpg);
+      background-image: url(/arquivos/Mochila.jpg?v=1);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1403,7 +1416,27 @@
 
   &--little-bags {
     &::before {
-      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=1);
+      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=2);
+      background-size: cover;
+      margin-bottom: 24px;
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+    }
+  }
+
+  &--little-bags {
+    &::before {
+      background-image: url(/arquivos/icon-menu-Malinha.jpg?v=2);
+      background-size: cover;
+      margin-bottom: 24px;
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+    }
+  }
+
+  &--beach {
+    &::before {
+      background-image: url(/arquivos/beach.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1413,7 +1446,7 @@
 
   &--bags {
     &::before {
-      background-image: url(/arquivos/malas.jpg); 
+      background-image: url(/arquivos/malas.jpg?v=3); 
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1424,7 +1457,18 @@
 
   &--purses {
     &::before {
-      background-image: url(/arquivos/Bolsa.jpg);
+      background-image: url(/arquivos/Bolsa.jpg?v=2);
+      background-size: cover;
+      margin-bottom: 24px;
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-size: contain;
+    }
+  }
+
+  &--purses-executive {
+    &::before {
+      background-image: url(/arquivos/Bolsas-executive.jpg);
       background-size: cover;
       margin-bottom: 24px;
       border-radius: 14px;
@@ -1435,43 +1479,43 @@
 
   // COLORS
   &--red {
-    background-color: #e31a1a;
+    background-color: #DA291C;
   }
 
   &--orange {
-    background-color: orange;
+    background-color: #FFAA4D;
   }
 
   &--blue {
-    background-color: #0e45f5;
+    background-color: #006298;
   }
 
   &--white {
     background-color: white;
-  }
+  } 
 
-  &--gray {
-    background-color: #d8d8d8;
+  &--gray { 
+    background-color: #808080;
   }
 
   &--brown {
-    background-color: #644908;
+    background-color: #964B00;
   }
 
   &--black {
-    background-color: black;
+    background-color: #101820;
   }
 
   &--pink {
-    background-color: #e012ca;
+    background-color: #FFB0BE;
   }
 
   &--purple {
-    background-color: purple;
+    background-color: #6B3FA0;
   }
 
   &--green {
-    background-color: #0dc834;
+    background-color: #008000;
   }
 
   &--wine {
@@ -1479,32 +1523,29 @@
   }
 
   &--yellow {
-    background-color: yellow;
+    background-color: #FF0;
   }
 
   &--golden {
-    background-image: radial-gradient(ellipse farthest-corner at right bottom,
-        #fedb37 0%,
-        #fdb931 8%,
-        #9f7928 30%,
-        #8a6e2f 40%,
-        transparent 80%),
-      radial-gradient(ellipse farthest-corner at left top,
-        #ffffff 0%,
-        #ffffac 8%,
-        #d1b464 25%,
-        #5d4a1f 62.5%,
-        #5d4a1f 100%);
+    background-image: linear-gradient(180deg, #FEBF00 0%, #DBA808 46.35%, #947817 100%);
   }
 
   &--colored {
-    transform: rotate(45deg);
-    background-image: linear-gradient(to top,
-        rgba(233, 165, 165, 1),
-        rgba(184, 193, 192, 1),
-        rgba(101, 192, 224, 1),
-        rgba(174, 162, 219, 1),
-        #81c1d9);
+    transform: rotate(0deg);
+    background-image: linear-gradient(180deg, #FF0 0%, #FFA500 22.4%, #0077BE 63.02%, #008000 100%);
+  }
+
+  &--colored-mochila {
+    transform: rotate(0deg);
+    background-image: linear-gradient(180deg, #FFA500 0%, #FFB0BE 41.67%, #0077BE 70.31%, #008000 100%);
+  }
+  &--colored--acessories {
+    transform: rotate(0deg);
+    background-image: linear-gradient(180deg, #FFA500 0%, #FFB0BE 41.67%, #0077BE 70.31%, #008000 100%);
+  }
+  &--colored--juveil {
+    transform: rotate(0deg);
+    background-image: linear-gradient(180deg, #FF0 0%, #FFA500 22.4%, #0077BE 63.02%, #008000 100%);
   }
 
   // GENDER
@@ -1517,7 +1558,7 @@
 
   &--male {
     &::before {
-      background-image: url(/arquivos/Mo_ParaEle.jpg);
+      background-image: url(/arquivos/Mo_ParaEle.jpg?v=1);
       background-size: contain;
     }
   }
@@ -1531,7 +1572,7 @@
 
   &--female {
     &::before {
-      background-image: url(/arquivos/Mo_ParaEla.jpg);
+      background-image: url(/arquivos/Mo_ParaEla.jpg?v=1);
       background-size: contain;
       
     }
@@ -1539,14 +1580,14 @@
 
   &--childishFemale {
     &::before {
-      background-image: url(/arquivos/I_ParaEla.jpg);
+      background-image: url(/arquivos/I_ParaEla.jpg?v=1);
       background-size: contain;
     }
   }
 
   &--childishMale {
     &::before {
-      background-image: url(/arquivos/I_ParaEle.jpg);
+      background-image: url(/arquivos/I_ParaEle.jpg?v=1);
       background-size: contain;
     }
   }
@@ -1560,21 +1601,21 @@
 
   &--juvenileFemale {
     &::before {
-      background-image: url(/arquivos/J_ParaEla.jpg);
+      background-image: url(/arquivos/J_ParaEla.jpg?v=1);
       background-size: contain;
     }
   }
 
   &--juvenileMale {
     &::before {
-      background-image: url(/arquivos/J_ParaEle.jpg);
+      background-image: url(/arquivos/J_ParaEle.jpg?v=2);
       background-size: contain;
     }
   }
 
   &--juvenileYourWay {
     &::before {
-      background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-image: url(/arquivos/Mo_ParaTodos.jpg?v=2);
       background-size: contain;
       
     }
@@ -1582,14 +1623,7 @@
 
   &--executive {
     &::before {
-      background-image: url(/arquivos/Pasta.jpg);
-      background-size: contain;
-    }
-  }
-
-  &--postman {
-    &::before {
-      background-image: url(/arquivos/Pastas.jpg);
+      background-image: url(/arquivos/Pasta.jpg?v=1);
       background-size: contain;
     }
   }
@@ -1610,42 +1644,42 @@
 
   &--oneCompartment {
     &::before {
-      background-image: url(/arquivos/Necesser.jpg);
+      background-image: url(/arquivos/Necesser.jpg?v=1);
       background-size: contain;
     }
   }
 
   &--twoCompartments {
     &::before {
-      background-image: url(/arquivos/Necessaire-2-comp.jpg);
+      background-image: url(/arquivos/Necessaire-2-comp.jpg?v=1);
       background-size: contain;
     }
   }
 
   &--executiveFemale {
     &::before {
-      background-image: url(/arquivos/E_ParaEla.jpg);
+      background-image: url(/arquivos/E_ParaEla.jpg?v=2);
       background-size: contain;
     }
   }
 
   &--executiveMale {
     &::before {
-      background-image: url(/arquivos/E_ParaEle.jpg);
+      background-image: url(/arquivos/E_ParaEle.jpg?v=2);
       background-size: contain;
     }
   }
 
   &--executiveYourWay {
     &::before {
-      background-image: url(/arquivos/E_ParaTodos.jpg);
+      background-image: url(/arquivos/E_ParaTodos.jpg?v=2);
       background-size: contain;
     }
   }
 
   &--bagFemale {
     &::before {
-      background-image: url(/arquivos/M_ParaEla.jpg);
+      background-image: url(/arquivos/M_ParaEla.jpg?v=2);
       background-size: contain;
     }
   }
@@ -1658,14 +1692,14 @@
 
   &--yourWay-acessories {
     &::before {
-      background-image: url(/arquivos/Mo_ParaTodos.jpg);
+      background-image: url(/arquivos/Mo_ParaTodos.jpg?v=3);
       background-size: contain;
     }
   }
 
   &--yourWay {
     &::before {
-      background-image: url(/arquivos/M_ParaTodos.jpg);
+      background-image: url(/arquivos/M_ParaTodos.jpg?v=2);
       background-size: contain;
     }
   }
@@ -1696,7 +1730,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/Acessorios.jpg);
+      background-image: url(/arquivos/Acessorios.jpg?v=9);
       background-size: contain;
     }
   }
@@ -1705,7 +1739,16 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/Sacola2.jpg);
+      background-image: url(/arquivos/Sacola2.jpg?v=4);
+      background-size: contain;
+    }
+  }
+
+  &--pillow {
+    &::before {
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-image: url(/arquivos/travesseiro-menu.jpg?v=2);
       background-size: contain;
     }
   }
@@ -1714,7 +1757,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/icon-menu-balanca.jpg);
+      background-image: url(/arquivos/icon-menu-balanca.jpg?v=1);
       background-size: contain;
     }
   }
@@ -1723,7 +1766,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/icon-menu-cadeado.jpg);
+      background-image: url(/arquivos/icon-menu-cadeado.jpg?v=1);
       background-size: contain;
     }
   }
@@ -1732,7 +1775,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/icon-menu-capa-mala.png);
+      background-image: url(/arquivos/icon-menu-capa-mala.png?v=1);
       background-size: contain;
     }
   }
@@ -1741,7 +1784,7 @@
     &::before {
       border-radius: 14px;
       border: 1px solid #b4b4b4;
-      background-image: url(/arquivos/icon-frasqueira.png);
+      background-image: url(/arquivos/icon-frasqueira.jpg?v=2);
       background-size: contain;
     }
   }
@@ -1749,14 +1792,14 @@
   // SEE TOO ( BACKPACKS )
   &--pencil-case-purse {
     &::before {
-      background-image: url(/arquivos/Estojo2.jpg);
+      background-image: url(/arquivos/Estojo2.jpg?v=2);
       background-size: contain;
     }
   }
 
   &--pencil-case {
     &::before {
-      background-image: url(/arquivos/Estojo.jpg);
+      background-image: url(/arquivos/Estojo.png?v=7);
       background-size: contain;
     }
   }
@@ -1770,14 +1813,14 @@
 
   &--lunch-bag {
     &::before {
-      background-image: url(/arquivos/Lancheira.jpg);
+      background-image: url(/arquivos/Lancheira.png?v=6);
       background-size: contain;
     }
   }
 
   &--necessaire {
     &::before {
-      background-image: url(/arquivos/Necesser.jpg);
+      background-image: url(/arquivos/Necesser.png);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1786,7 +1829,7 @@
 
   &--fichario {
     &::before {
-      background-image: url(/arquivos/icon-fichario-menu.jpg);
+      background-image: url(/arquivos/icon-fichario-menu.png?v=1);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1797,7 +1840,7 @@
 
   &--sporting {
     &::before {
-      background-image: url(/arquivos/Esportivo.jpg);
+      background-image: url(/arquivos/Esportivo.jpg?v=1);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1806,7 +1849,7 @@
 
   &--sports {
     &::before {
-      background-image: url(/arquivos/Esportivo.jpg);
+      background-image: url(/arquivos/Esportivo.jpg?v=2);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
@@ -1815,33 +1858,50 @@
 
   &--money-belt {
     &::before {
-      background-image: url(/arquivos/Pochete1.jpg);
+      background-image: url(/arquivos/Pochete1.jpg?v=1);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
     }
   }
 
-  &--wallet {
-    margin-left: .5rem;
-
+  &--dollar {
     &::before {
-      background-image: url(/arquivos/Carteira1.jpg);
+      background-image: url(/arquivos/porta-dollar.png);
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
     }
   }
+
+  &--tag-mala {
+    &::before {
+      background-image: url(/arquivos/tag-mala.jpg);
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-size: contain;
+    }
+  }
+
+  
+
+  &--wallet::before {
+    background-image: url(/arquivos/Carteira.jpg?v=3);
+    border-radius: 14px;
+    border: 1px solid #b4b4b4;
+    background-size: contain;
+  }
+  
 
   &--folder {
     &::before {
-      background-image: url(/arquivos/Pastas.jpg);
+      background-image: url(/arquivos/Pastas.png?v=1);
       background-size: contain;
     }
   }
   &--pasta-exe-with-wheels {
     &::before {
-      background-image: url(/arquivos/icon-com-rodinhas-executivo.png);
+      background-image: url(/arquivos/icon-com-rodinhas-executivo.jpg);
       background-size: contain;
     }
   }
@@ -1854,14 +1914,14 @@
 
   &--com-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-sem-expansivel.jpg);      
+      background-image: url(/arquivos/icon-com-expansivel.png);      
       background-size: contain;
     }
   }
 
   &--sem-expansivel {
     &::before {
-      background-image: url(/arquivos/icon-com-expansivel.jpg);
+      background-image: url(/arquivos/icon-sem-expansivel.png);
       background-size: contain;
     }
   }
@@ -1965,16 +2025,16 @@ img.lady {
   width: 235px;
 }
 .submenu.malas .submenu__item--col4 {
-  margin-left: -67px;
-
+  margin-left: -46px;
+  width: 298px;
 }
 /*ajustes extra no menu*/
-.por-material .submenu__itemLink--withIcon:before {
+/*.por-material .submenu__itemLink--withIcon:before {
   border: 0;
 }
 .por-mobilidade .submenu__itemLink--withIcon:before {
   border: 0;
-}
+}*/
 button.see_all {
   border: 1px solid #303030;
   padding: 10px;

@@ -30,7 +30,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Evolution#1">Estojos</a>
+              <a class="submenu__itemLink" href="/estojos">Estojos</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/colecao-estojos.png" width="250px" height="588px" alt="Coleção Estojos" />
               </div>
@@ -149,7 +149,7 @@ export default function () {
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
                   href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
-                  title="Filtrar por: Com rodinhas">Com Rodas</a>
+                  title="Filtrar por: Com rodinhas">Mochilas Com Rodas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
@@ -162,60 +162,53 @@ export default function () {
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cor</div>
             <ul class="submenu__list submenu__list--colors submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--colored"
-                  href="/mochila/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Colorido">Colorido</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                  href="/mochila/Amarelo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Cor amarelo">Amarelo</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--blue"
-                  href="/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Cor azul">Azul</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--gray"
-                  href="/mochila/Cinza/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                  title="Filtrar por: Cor cinza">Cinza</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--golden"
-                  href="/mochila/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                  title="Filtrar por: Cor Dourado">Dourado</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--orange"
-                  href="/mochila/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Laranja">Laranja</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--black"
-                  href="/mochila/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Preto">Preto</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--pink"
-                  href="/mochila/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Rosa">Rosa</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--purple"
-                  href="/mochila/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Roxo">Roxo</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--green"
-                  href="/mochila/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Verde">Verde</a>
-              </li>
-              <li class="submenu__list__item">
-                <a class="submenu__itemLink--color submenu__itemLink--red"
-                  href="/mochila/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                  title="Filtrar por: Vermelho">Vermelho</a>
-              </li>
+              <a class="submenu__itemLink--color submenu__itemLink--colored"
+                href="/mochila/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Colorido">Colorido</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--green"
+                href="/mochila/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Verde">Verde</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--blue"
+                href="/mochila/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Cor azul">Azul</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--purple"
+                href="/mochila/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Roxo">Roxo</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--black"
+                href="/mochila/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Preto">Preto</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--golden"
+                href="/mochila/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
+                title="Filtrar por: Cor Dourado">Dourado</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--orange"
+                href="/mochila/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--pink"
+                href="/mochila/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Rosa">Rosa</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--gray" href="/Lancheira/Cinza?map=c,specificationFilter_42"
+                title="Filtrar por: Cor cinza">Cinza</a>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink--color submenu__itemLink--red"
+                href="/mochila/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                title="Filtrar por: Vermelho">Vermelho</a>
+            </li>
             </ul>
           </div>
            
@@ -289,9 +282,9 @@ export default function () {
                     title="Filtrar por: Colorido">Colorido</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                    href="/Lancheira/Amarelo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor amarelo">Amarelo</a>
+                  <a class="submenu__itemLink--color submenu__itemLink--green"
+                    href="/Lancheira/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                    title="Filtrar por: Verde">Verde</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--blue"
@@ -299,9 +292,9 @@ export default function () {
                     title="Filtrar por: Cor azul">Azul</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--golden"
-                    href="/Lancheira/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                    title="Filtrar por: Cor Dourado">Dourado</a>
+                  <a class="submenu__itemLink--color submenu__itemLink--purple"
+                    href="/Lancheira/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                    title="Filtrar por: Roxo">Roxo</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--black"
@@ -309,19 +302,22 @@ export default function () {
                     title="Filtrar por: Preto">Preto</a>
                 </li>
                 <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--golden"
+                    href="/Lancheira/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
+                    title="Filtrar por: Cor Dourado">Dourado</a>
+                </li>
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink--color submenu__itemLink--orange"
+                    href="/mala/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+                </li>
+                <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--pink"
                     href="/Lancheira/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
                     title="Filtrar por: Rosa">Rosa</a>
                 </li>
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--purple"
-                    href="/Lancheira/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Roxo">Roxo</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--green"
-                    href="/Lancheira/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Verde">Verde</a>
+                  <a class="submenu__itemLink--color submenu__itemLink--gray" href="/Lancheira/Cinza?map=c,specificationFilter_42"
+                    title="Filtrar por: Cor cinza">Cinza</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--red"
@@ -399,60 +395,53 @@ export default function () {
               <div class="submenu__item__heading submenu__item__heading--lightGray">Por tom de cores</div>
               <ul class="submenu__list submenu__list--colors submenu__list--row">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--colored"
-                    href="/Estojo/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Colorido">Colorido</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--yellow"
-                    href="/Estojo/Amarelo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor amarelo">Amarelo</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--blue"
-                    href="/Estojo/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor azul">Azul</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--gray"
-                    href="/Estojo/Cinza/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor cinza">Cinza</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--golden"
-                    href="/Estojo/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
-                    title="Filtrar por: Cor dourado">Dourado</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--orange"
-                    href="/Estojo/Laranja/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor laranja">Laranja</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--black"
-                    href="/Estojo/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor preta">Preto</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--pink"
-                    href="/Estojo/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor rosa">Rosa</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--purple"
-                    href="/Estojo/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor roxo">Roxo</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--green"
-                    href="/Estojo/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor verde">Verde</a>
-                </li>
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink--color submenu__itemLink--red"
-                    href="/Estojo/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
-                    title="Filtrar por: Cor vermelha">Vermelho</a>
-                </li>
+                <a class="submenu__itemLink--color submenu__itemLink--colored"
+                  href="/estojo/Colorido/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Colorido">Colorido</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--green"
+                  href="/estojo/Verde/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Verde">Verde</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--blue"
+                  href="/estojo/Azul/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Cor azul">Azul</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--purple"
+                  href="/estojo/Roxo/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Roxo">Roxo</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--black"
+                  href="/estojo/Preto/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Preto">Preto</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--golden"
+                  href="/estojo/Dourado/Juvenil?map=c,specificationFilter_42,,specificationFilter_107"
+                  title="Filtrar por: Cor Dourado">Dourado</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--orange"
+                  href="/estojo/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--pink"
+                  href="/estojo/Rosa/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Rosa">Rosa</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--gray" href="/estojo/Cinza?map=c,specificationFilter_42"
+                  title="Filtrar por: Cor cinza">Cinza</a>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink--color submenu__itemLink--red"
+                  href="/estojo/Vermelho/Juvenil?map=c,specificationFilter_42,specificationFilter_107"
+                  title="Filtrar por: Vermelho">Vermelho</a>
+              </li>
               </ul>
             </div>
             <!-- [ FIM ] POR TOM DE CORES -->            
@@ -498,8 +487,8 @@ export default function () {
           </div>
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--purses"
-                href="/bolsa/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Bolsa">Bolsa</a>
+              <a class="submenu__itemLink--withIcon submenu__itemLink--beach"
+                href="/429?map=productClusterIds#1" title="Filtrar por: Praia">Praia</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--satchel"
@@ -525,11 +514,6 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--wallet" href="/acessorios/Carteira?map=c,c"
                 title="Filtrar por: Carteira">Carteira</a>
-            </li>
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink--withIcon submenu__itemLink--fichario"
-                href="/acessorios/Fichario/Juvenil?map=c,c,specificationFilter_107"
-                title="Filtrar por: Fichário">Fichário</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--sports"
