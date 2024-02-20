@@ -482,19 +482,19 @@ export const mochilas__content = {
     "title": "Por Tipo",
     "content": [
       {
-        "type": "Sem Rodas",
-        "imgSrc": "/arquivos/sem-rodinha.png",
-        "url": "/mochila/Sem%20Rodinhas?map=c,specificationFilter_57"
-      },
-      {
-        "type": "Com Rodas",
-        "imgSrc": "/arquivos/Moch-com-roda.jpg",
+        "type": "Com Rodinhas",
+        "imgSrc": "/arquivos/com-rodinha_v2.jpg",
         "url": "/mochila/Sim?map=c,specificationFilter_122"
       },
       {
+        "type": "Sem Rodas",
+        "imgSrc": "/arquivos/sem-rodinha.jpg?v=1",
+        "url": "/mochila/Sem%20Rodas?map=c,specificationFilter_57"
+      },
+      {
         "type": "Para notebook",
-        "imgSrc": "/arquivos/Laptop.jpg",
-        "url": "/mochila/Notebook?map=c,specificationFilter_56"
+        "imgSrc": "/arquivos/Mala-Tecido_v2.jpg",
+        "url": "/mochila/Note/mochila/Compartimento%20para%20Notebook?map=c,specificationFilter_56#1book?map=c,specificationFilter_56"
       }
     ]
   },
@@ -505,14 +505,14 @@ export const mochilas__content = {
     "content": [
       {
         "type": "Com",
-        "imgSrc": "/arquivos/icon-sem-expansivel.jpg",
+        "imgSrc": "/arquivos/icon-com-expansivel.jpg?v=1",
         "url": "/mochila/Sim?map=c,specificationFilter_113"
       },
       {
         "type": "Sem",
-        "imgSrc": "/arquivos/icon-com-expansivel.jpg",
+        "imgSrc": "/arquivos/icon-sem-expansivel.jpg?v=1",
         "url": "/mochila/Não?map=c,specificationFilter_113"
-      }      
+      }
     ]
   },
 
@@ -522,74 +522,64 @@ export const mochilas__content = {
     "content": [
       {
         "color": "Colorido",
-        "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
+        "hexCode": "linear-gradient(180deg, #FF0 0%, #FFA500 22.4%, #0077BE 63.02%, #008000 100%);",
         "url": "/mochila/Colorido?map=c,specificationFilter_42"
       },
       {
-        "color": "Amarelo",
-        "hexCode": "yellow;",
-        "url": "/mochila/Amarelo?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Azul",
-        "hexCode": "#0e45f5;",
-        "url": "/mochila/Azul?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Branco",
-        "hexCode": "white;",
-        "url": "/mochila/Branco?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Cinza",
-        "hexCode": "#d8d8d8;",
-        "url": "/mochila/Cinza?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Dourado",
-        "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
-        "url": "/mochila/Dourado?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Laranja",
-        "hexCode": "orange;",
-        "url": "/mochila/Laranja?map=c,specificationFilter_42"
-      },
-      {
-        "color": "Marrom",
-        "hexCode": "#644908;",
-        "url": "/mochila/Marrom?map=c,specificationFilter_42"
-      },
-      {
         "color": "Preto",
-        "hexCode": "black;",
+        "hexCode": "#101820;",
         "url": "/mochila/Preto?map=c,specificationFilter_42"
       },
       {
+        "color": "Cinza",
+        "hexCode": "#808080;",
+        "url": "/mochila/Cinza?map=c,specificationFilter_42"
+      },
+      {
         "color": "Rosa",
-        "hexCode": "#e012ca;",
+        "hexCode": "#FFB0BE;",
         "url": "/mochila/Rosa?map=c,specificationFilter_42"
       },
       {
         "color": "Roxo",
-        "hexCode": "purple;",
+        "hexCode": "#6B3FA0;",
         "url": "/mochila/Roxo?map=c,specificationFilter_42"
       },
       {
-        "color": "Verde",
-        "hexCode": "#0dc834;",
-        "url": "/mochila/Verde?map=c,specificationFilter_42"
+        "color": "Azul",
+        "hexCode": "#006298;",
+        "url": "/mochila/Azul?map=c,specificationFilter_42"
       },
       {
         "color": "Vermelho",
-        "hexCode": "#e31a1a;",
+        "hexCode": "#DA291C;",
         "url": "/mochila/Vermelho?map=c,specificationFilter_42"
       },
       {
-        "color": "Vinho",
-        "hexCode": "#8e0c0c;",
-        "url": "/mochila/Vinho?map=c,specificationFilter_42"
-      }
+        "color": "Verde",
+        "hexCode": "#008000;",
+        "url": "/mochila/Verde?map=c,specificationFilter_42"
+      },
+      {
+        "color": "Dourado",
+        "hexCode": "linear-gradient(180deg, #FEBF00 0%, #DBA808 46.35%, #947817 100%);",
+        "url": "/mochila/Dourado?map=c,specificationFilter_42"
+      },
+      {
+        "color": "Marrom",
+        "hexCode": "#964B00;",
+        "url": "/mochila/Marrom?map=c,specificationFilter_42"
+      },
+      {
+        "color": "Laranja",
+        "hexCode": "#FFAA4D;",
+        "url": "/mochila/Laranja?map=c,specificationFilter_42"
+      },
+      {
+        "color": "Amarelo",
+        "hexCode": "#FF0;",
+        "url": "/mochila/Amarelo?map=c,specificationFilter_42"
+      },
     ]
   },
 
@@ -597,19 +587,19 @@ export const mochilas__content = {
     "title": "Por Gênero",
     "content": [
       {
-        "gender": "Feminino",
-        "imgSrc": "/arquivos/Mo_ParaEla.jpg",
+        "gender": "Para Todos",
+        "imgSrc": "/arquivos/M_ParaTodos.jpg?v=6",
+        "url": "/mochila?map=c"
+      },
+      {
+        "gender": "Para Ela",
+        "imgSrc": "/arquivos/Mo_ParaEla.jpg?v=1",
         "url": "/mochila/Feminino?map=c,specificationFilter_67"
       },
       {
-        "gender": "Masculino",
-        "imgSrc": "/arquivos/Mo_ParaEle.jpg",
+        "gender": "Para Ele",
+        "imgSrc": "/arquivos/Mo_ParaEle.jpg?v=1",
         "url": "/mochila/Masculino?map=c,specificationFilter_67"
-      },
-      {
-        "gender": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
-        "url": "/mochila?map=c"
       }
     ]
   },
@@ -618,35 +608,20 @@ export const mochilas__content = {
     "title": "Veja também",
     "content": [
       {
-        "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo.jpg",
-        "url": "/Estojo?map=c"
-      },
-      {
         "seeToo": "Lancheira",
-        "imgSrc": "/arquivos/Lancheira.jpg",
+        "imgSrc": "/arquivos/Lancheira.png?v=6",
         "url": "/Lancheira?map=c"
       },
       {
-        "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
-        "url": "/acessorios/Necessaire?map=c,c"
+        "seeToo": "Estojo",
+        "imgSrc": "/arquivos/Estojo.png?v=7",
+        "url": "/Estojo?map=c"
       },
       {
         "seeToo": "Pastas",
-        "imgSrc": "/arquivos/Pastas.jpg",
+        "imgSrc": "/arquivos/Pastas.png?v=1",
         "url": "/Pasta?map=c"
-      },
-      /*{
-        "seeToo": "Maternidade",
-        "imgSrc": "/arquivos/Maternidade.jpg",
-        "url": "/bolsa/Maternidade?map=c,c"
-      },*/
-      {
-        "seeToo": "Fichário",
-        "imgSrc": "/arquivos/Fichario.jpg",
-        "url": "/acessorios/Fichario?map=c,c"
-      }
+      },     
     ]
   }
 }

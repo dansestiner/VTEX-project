@@ -200,9 +200,10 @@
         content: "";
         display: block;
         position: absolute;
-        left: -21px;
-        bottom: 0px;
-        width: 100vw;
+        left: -45px;
+        right: 0;
+        width: 500px;
+        bottom: 0;
         height: 1px;
         background-color: #b4b4b4;
       }
@@ -304,8 +305,12 @@
 }
 
 .x-submenu__department {
-  padding: 0 21px 35px 21px;
-  max-width: 100vw;
+  position: absolute;
+  top: 0;
+  padding: 0 1rem;
+  right: 0;
+  left: 0;
+  width: 100%;
 }
 
 .flex--row {
@@ -318,13 +323,24 @@
   flex-wrap: nowrap;
 }
 
+.x-submenu__department-title {
+  padding: 0 2rem !important;
+}
+
+.x-submenu__department-title-link {
+  font-family: Unbounded;
+  font-weight: 600;
+  color: #0E0E0E;
+  font-size: 14px;
+}
+
 .x-submenu__department__heading {
   margin: 0px 0 14px 0px;
   object-fit: contain;
-  font-family: Gotham, sans-serif;
+  font-family: Unbounded;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 900;
+  font-weight: 600;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
@@ -350,14 +366,14 @@
 }
 
 [class*="x-submenu__department__item"] {
-  font-family: Gotham, sans-serif;
+  font-family: Inter, sans-serif;
   font-size: 12px;
   font-weight: 500;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
   text-align: left;
-  color: #000;
+  color: #595959 !important;
   margin-bottom: 0.25rem;
 }
 
@@ -365,16 +381,12 @@
 /* espaço link mobile */
 @media only screen and (max-width: 600px) {
   [class*="x-submenu__department__item"] {
-    margin-bottom: 0.85rem !important;
+    margin-bottom: 0.45rem !important;
   }
   ul.x-submenu__department__list--Por-tom-de-cor {
     display: flex;
     flex-wrap: wrap;
 }
-}
-
-[class*="x-submenu__department__item"]:last-child {
-  text-transform: uppercase;
 }
 
 .x-submenu__department__container--cover
@@ -385,6 +397,7 @@
 .x-submenu__department__container--cover {
   margin-bottom: 39px;
   display: block;
+  padding: 0 1rem;
   &.flex--row--noWrapp{
     > li{
       width: 49%;
@@ -393,7 +406,7 @@
 }
 
 .x-submenu__department__container--cover > .x-submenu__container__listItem:last-child {
-  padding-left: 2rem;
+  padding-left: 1rem;
   border-left: 1px solid #ebebeb;
 }
 
@@ -422,11 +435,9 @@
 .x-submenu__container__listItem--marginTop {
   margin-top: 39px;
 }
-
 .x-submenu__department__list--gray {
   max-width: 79vw;
 }
-
 .x-submenu__department__heading--gray {
   color: #505050;
 }
@@ -465,8 +476,6 @@
   top: 50%;
   left: 50%;
   transform: translate3d(-50%, -50%, 0);
-  width: 116%;
-  height: 116%;
   border-radius: 13.5px;
 }
 

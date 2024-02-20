@@ -35,9 +35,9 @@ export const kits__content = {
           "url": "/acessorios/Balança?map=c,c"
         },
         {
-          "seeToo": "Fichário",
-          "imgSrc": "/arquivos/icon-fichario-menu.jpg",
-          "url": "/acessorios/Fichario?map=c,c"
+          "seeToo": "Mochila Saquinho",
+          "imgSrc": "/arquivos/mochila-saquinho.png",
+          "url": "/saquinho"
         },
         {
           "seeToo": "Cadeado",

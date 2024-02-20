@@ -40,6 +40,12 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/sacola/Active?map=c,specificationFilter_110">Active</a>
+              <div class="submenu__imageWrapper">
+                  <img src="/arquivos/Sacola_Active 1.png" width="250px" height="588px" alt="Coleção Sacola Active" />
+              </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Apolo?map=c,specificationFilter_110">Apolo</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/apolo.jpg" width="250px" height="588px" alt="Coleção Apolo" />
@@ -100,16 +106,22 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Eco%20RPET?map=c,specificationFilter_110#1">Eco RPET</a>
+            <a class="submenu__itemLink" href="/malas/colecao/eco-rpet">Eco RPET</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/eco-rpet-2.png" width="250px" height="588px" alt="Coleção Eco RPET" />
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Essencial?map=c,specificationFilter_110">Essencial</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Ecenssial.png" width="250px" height="588px" alt="Coleção Essencial" />
+            </div>
+          </li>          
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Evidence?map=c,specificationFilter_110">Evidence</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Evidence.jpg" width="250px" height="588px" alt="Coleção Evidence" />
-            </div>
+            </div> 
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/sacola/Focuz?map=c,specificationFilter_110">Focuz</a>
@@ -117,11 +129,12 @@ export default function () {
               <img src="/arquivos/Sacola_Focuz.jpg" width="250px" height="588px" alt="Coleção Focuz" />
             </div>
           </li>
+          
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Gama?map=c,specificationFilter_110">Gama</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Gama.jpg" width="250px" height="588px" alt="Coleção Gama" />
-              </div>
+            <a class="submenu__itemLink" href="/mala/Gama?map=c,specificationFilter_110">Gama</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Gama.jpg" width="250px" height="588px" alt="Coleção Gama" />
+            </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/sacola/Game%20Over">Game Over</a>
@@ -142,6 +155,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala-de-viagem-bordo-com-rodas-360-pc-gremio-azul-escuro/p">Grêmio</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Mala_Gremio.jpg" width="250px" height="588px" alt="Coleção Grêmio" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Ultralight%20Hug?map=c,specificationFilter_110">Hug</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/hug.png" width="250px" height="588px" alt="Coleção Hug" />
@@ -151,6 +170,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Ibiza?map=c,specificationFilter_110">Ibiza</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ibiza.jpg" width="250px" height="588px" alt="Coleção Ibiza" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala-de-viagem-bordo-com-rodas-360-pc-internacional-colorado/p">Internacional</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Mala_Internacional.jpg" width="250px" height="588px" alt="Coleção Intenacional" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -211,6 +236,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Orion?map=c,specificationFilter_110">Órion</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/orion.jpg" width="250px" height="588px" alt="Coleção Órion" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Palmeiras?map=c,specificationFilter_110">Palmeiras</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Mala_Palmeiras.jpg" width="250px" height="588px" alt="Coleção Palmeiras" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -281,6 +312,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Royale?map=c,specificationFilter_110">Royale</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Royale_mala.png" width="250px" height="588px" alt="Coleção Royale" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Cross?map=c,specificationFilter_110">TO Cross</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Cross.jpg" width="250px" height="588px" alt="Coleção TO Cross" />
@@ -311,6 +348,14 @@ export default function () {
               <img src="/arquivos/TO_Travel.jpg" width="250px" height="588px" alt="Coleção TO Travel" />
             </div>
           </li>
+
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Trunk?map=c,specificationFilter_110">Trunk</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Trunk.png" width="250px" height="588px" alt="Coleção Trunk" />
+            </div>
+          </li>
+
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Ultralight">Ultralight</a>
             <div class="submenu__imageWrapper">

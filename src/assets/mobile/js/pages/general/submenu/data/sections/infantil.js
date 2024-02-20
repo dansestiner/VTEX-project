@@ -202,6 +202,11 @@ export const infantil__content = {
     "title": "Por Gênero",
     "content": [
       {
+        "gender__mochila": "Para todos",
+        "imgSrc": "/arquivos/I_ParaTodos.jpg",
+        "url": "/mochila/Infantil?map=c,specificationFilter_107"
+      },
+      {
         "gender__mochila": "Para ela",
         "imgSrc": "/arquivos/I_ParaEla.jpg",
         "url": "/mochila/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
@@ -211,11 +216,7 @@ export const infantil__content = {
         "imgSrc": "/arquivos/I_ParaEle.jpg",
         "url": "/mochila/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
-      {
-        "gender__mochila": "Para todos",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
-        "url": "/mochila/Infantil?map=c,specificationFilter_107"
-      }
+      
     ]
   },
 
@@ -224,24 +225,24 @@ export const infantil__content = {
     "title": "Mobilidade",
     "content": [
       {
-        "mobility__mochila": "Com Rodas",
-        "imgSrc": "/arquivos/icon-com-rodinhas.jpg",
-        "url": "/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+        "mobility__mochila": "Com Rodinhas",
+        "imgSrc": "/arquivos/icon-com-rodinhas.jpg?v=1",
+        "url": "/mochila/2%20Rodas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "mobility__mochila": "Sem Rodas",
         "imgSrc": "/arquivos/Mochila-sem-Rodas.jpg",
-        "url": "/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+        "url": "/mochila/Sem%20Rodas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "mobility__mochila": "Malinha",
-        "imgSrc": "/arquivos/icon-menu-Malinha.jpg?v=1",
+        "imgSrc": "/arquivos/icon-menu-Malinha.jpg?v=2",
         "url": "/mala/Infantil?specificationFilter_107"
       },
     ]
   },
 
-  perType__mochila: {
+  /*perType__mochila: {
     "categoryTitle": "Mochila",
     "title": "Por Tipo",
     "content": [
@@ -256,7 +257,7 @@ export const infantil__content = {
         "url": "/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
       }
     ]
-  },
+  },*/
 
   /*priceRange__mochila: {
     "categoryTitle": "Mochila",
@@ -289,27 +290,27 @@ export const infantil__content = {
     ]
   },*/
 
-  /*gender__lancheira: {
+  gender__lancheira: {
     "categoryTitle": "Lancheira",
     "title": "Por Gênero",
     "content": [
       {
-        "gender__lancheira": "Feminino",
-        "imgSrc": "/arquivos/I_ParaEla.jpg",
+        "gender__lancheira": "Para Todos",
+        "imgSrc": "/arquivos/Para-Todos-infantil.jpg?v=1",
+        "url": "/Lancheira/Infantil?map=c,specificationFilter_107"
+      },
+      {
+        "gender__lancheira": "Para Ela",
+        "imgSrc": "/arquivos/Para-Ela-infantil.jpg?v=1",
         "url": "/Lancheira/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
-        "gender__lancheira": "Masculino",
-        "imgSrc": "/arquivos/I_ParaEle.jpg",
+        "gender__lancheira": "Para Ele",
+        "imgSrc": "/arquivos/Para-Ele-infantil.jpg?v=1",
         "url": "/Lancheira/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
-      },
-      {
-        "gender__lancheira": "Do seu jeito",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
-        "url": "/Lancheira/Infantil?map=c,specificationFilter_107"
       }
     ]
-  },*/
+  },
 
   priceRange__lancheira: {
     "categoryTitle": "Lancheira",
@@ -342,27 +343,28 @@ export const infantil__content = {
     ]
   },
 
-  /*gender__acessorio: {
+  gender__acessorio: {
     "categoryTitle": "Estojos",
     "title": "Por Gênero",
     "content": [
       {
-        "gender__acessorio": "Feminino",
-        "imgSrc": "/arquivos/I_ParaEla.jpg",
+        "gender__acessorio": "Para Todos",
+        "imgSrc": "/arquivos/Para-Todos-infantil.jpg?v=1",
+        "url": "/Estojo/Infantil?map=c,specificationFilter_107"
+      },
+      {
+        "gender__acessorio": "Para Ela",
+        "imgSrc": "/arquivos/Para-Ela-infantil.jpg?v=1",
         "url": "/Estojo/Feminino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
       {
-        "gender__acessorio": "Masculino",
-        "imgSrc": "/arquivos/I_ParaEle.jpg",
+        "gender__acessorio": "Para Ele",
+        "imgSrc": "/arquivos/Para-Ele-infantil.jpg?v=1",
         "url": "/Estojo/Masculino/Infantil?map=c,specificationFilter_67,specificationFilter_107"
       },
-      {
-        "gender__acessorio": "Do seu jeito",
-        "imgSrc": "/arquivos/I_ParaTodos.jpg",
-        "url": "/Estojo/Infantil?map=c,specificationFilter_107"
-      }
+      
     ]
-  },*/
+  },
 
   priceRange__acessorio: {
     "categoryTitle": "Estojos",
@@ -393,41 +395,21 @@ export const infantil__content = {
 
   seeToo: {
     "title": "Veja também",
-    "content": [
-      /*{
-        "seeToo": "Bolsa",
-        "imgSrc": "/arquivos/Bolsa.jpg",
-        "url": "/bolsa/Infantil?map=c,specificationFilter_106"
-      },*/
-      /*{
-        "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo.jpg",
-        "url": ""
-      },*/
-      /*{
-        "seeToo": "Maternidade",
-        "imgSrc": "/arquivos/Maternidade.jpg",
-        "url": "/bolsa/Maternidade?map=c,specificationFilter_110"
-      },*/
+    "content": [      
+      {
+        "seeToo": "Mochila Saquinho",
+        "imgSrc": "/arquivos/mochila-saquinho.png",
+        "url": "/saquinho"
+      },
       {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "/arquivos/Sacola2.jpg?v=4",
         "url": "/Sacola?map=c"
       },
       {
-        "seeToo": "Malinha",
-        "imgSrc": "/arquivos/Malinha.jpg",
-        "url": "/mala/escolar?map=c,c"
-      },
-      {
         "seeToo": "Malas",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "imgSrc": "/arquivos/malas.jpg?v=3",
         "url": "/mala?map=c"
-      },
-      {
-        "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
-        "url": "/Acessorios?map=c"
       },
       {
         "seeToo": "Necessaire",

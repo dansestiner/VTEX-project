@@ -71,6 +71,12 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Bayern?map=c,specificationFilter_110">Bayern de Munique</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/mochila_bayern.jpg" width="250px" height="588px" alt="Coleção Bayern de Munique" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Camuflado?map=c,specificationFilter_110">Camuflado</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/camuflado.png" width="250px" height="588px" alt="Coleção Camuflado" />
@@ -83,7 +89,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="mochilas/casual">Casual</a>
+                <a class="submenu__itemLink" href="mochilas/sestini-casual">Casual</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                   <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
                 </div>
@@ -149,7 +155,7 @@ export default function () {
                 </div>
               </li>               
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/floral">Floral</a>
+                <a class="submenu__itemLink" href="/mochilas/plus%20floral">Floral</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Floral.jpg" width="250px" height="588px" alt="Coleção Floral" />
                 </div>
@@ -178,6 +184,12 @@ export default function () {
                 <a class="submenu__itemLink" href="/girafa#1">Girafa</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/girafa.jpg" width="250px" height="588px" alt="Coleção Girafa" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Grêmio?map=c,specificationFilter_110">Grêmio</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/mochila_Gremio.png" width="250px" height="588px" alt="Coleção Grêmio" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -301,6 +313,12 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila-gg-2-compartimentos-sestini-outsider-army/p">Outsider</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/Outsider.png" width="250px" height="588px" alt="Coleção Outsider" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/panda">Panda</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Panda.jpg" width="250px" height="588px" alt="Coleção Panda" />
@@ -310,6 +328,12 @@ export default function () {
                 <a class="submenu__itemLink" href="/mochila/Paris%20Saint-German?map=c,c,specificationFilter_110">Paris Saint-German</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Paris-Saint-German.png" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+                </div>
+              </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Palmeiras?map=c,specificationFilter_110">Palmeiras</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/mochila_Palmeiras.jpg" width="250px" height="588px" alt="Coleção Palmeiras" />
                 </div>
               </li>
               <li class="submenu__list__item">
@@ -422,7 +446,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/street">Street</a>
+                <a class="submenu__itemLink" href="/mochila/plus%20street">Street</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Street.jpg" width="250px" height="588px" alt="Coleção Street" />
                 </div>
@@ -497,7 +521,7 @@ export default function () {
               Material</div>
               <ul class="submenu__list">
                 <li class="submenu__list__item">
-                  <a class="submenu__itemLink" href="/mochila-sestini-magic-ecologico-cinza/p">Ecológico</a>
+                  <a class="submenu__itemLink" href="/mochila-ecologica">Ecológico</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink" href="/mochila/Neoprene?map=c,specificationFilter_72">Neoprene</a>
@@ -532,11 +556,11 @@ export default function () {
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--moch-with-wheels"
-                href="/mochila/Sim?map=c,specificationFilter_122#1">Com Rodas</a>
+                href="/mochila/2%20Rodas?map=c,specificationFilter_57">Com Rodas</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--backpack-no-wheels"
-                href="/mochila/Sem%20Rodinhas?map=c,specificationFilter_57">Sem Rodas</a>
+                href="/mochila/Sem%20Rodas?map=c,specificationFilter_57,specificationFilter_107#1">Sem Rodas</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--for-laptop"
@@ -673,24 +697,24 @@ export default function () {
 
           <!-- [ INÍCIO ] VEJA TAMBÉM -->
           <div class="submenu__itemWrapper">
-            <div class="submenu__item__heading submenu__item__heading--padlock submenu__item__heading--lightGray">Veja
+            <div class="submenu__item__heading submenu__item__heading--lightGray">Veja
               também
             </div>
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--lunch-bag"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--lunch-bag"
                     href="/Lancheira?map=c" title="Filtrar por: Lancheira">Lancheira</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--pencil-case"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case"
                   href="/Estojo?map=c" title="Filtrar por: Estojo">Estojo</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fichario"
-                  href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--mochilaSaquinho"
+                  href="/saquinho" title="Filtrar por: Mochila Saquinho">Mochila Saquinho</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--folder"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--folder"
                   href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
               </li>
             </ul>

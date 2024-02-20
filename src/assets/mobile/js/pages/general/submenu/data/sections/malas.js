@@ -341,17 +341,17 @@ export const malas__content = {
     "content": [
       {
         "mobility": "2 Rodas",
-        "imgSrc": "/arquivos/2-rodas.png",
+        "imgSrc": "/arquivos/2-rodas.jpg?v=1",
         "url": "/mala/2%20Rodinhas?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas",
-        "imgSrc": "/arquivos/4-rodas.png",
+        "imgSrc": "/arquivos/4-rodas.jpg?=v=1",
         "url": "/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas duplas",
-        "imgSrc": "/arquivos/8-rodas.png",
+        "imgSrc": "/arquivos/8-rodas.jpg?v=1",
         "url": "/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57"
       },
       {
@@ -367,69 +367,59 @@ export const malas__content = {
     "content": [
       {
         "colorName": "Colorido",
-        "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
+        "hexCode": "linear-gradient(180deg, #FF0 0%, #FFA500 22.4%, #0077BE 63.02%, #008000 100%);",
         "url": "/mala/Colorido?map=c,specificationFilter_42"
       },
       {
-        "colorName": "Amarelo",
-        "hexCode": "yellow;",
-        "url": "/mala/Amarelo?map=c,specificationFilter_42"
+        "colorName": "Preto",
+        "hexCode": "#101820",
+        "url": "/mala/Preto?map=c,specificationFilter_42"
       },
       {
         "colorName": "Azul",
-        "hexCode": "#0e45f5;",
+        "hexCode": "#006298;",
         "url": "/mala/Azul?map=c,specificationFilter_42"
       },
       {
-        "colorName": "Branco",
-        "hexCode": "white;",
-        "url": "/mala/Branco?map=c,specificationFilter_42"
-      },
-      {
         "colorName": "Cinza",
-        "hexCode": "#d8d8d8;",
+        "hexCode": "#808080;",
         "url": "/mala/Cinza?map=c,specificationFilter_42"
       },
       {
+        "colorName": "Rosa",
+        "hexCode": "#FFB0BE;",
+        "url": "/mala/Rosa?map=c,specificationFilter_42"
+      },
+      {
+        "colorName": "Vermelho",
+        "hexCode": "#DA291C;",
+        "url": "/mala/Vermelho?map=c,specificationFilter_42"
+      },
+      {
+        "colorName": "Verde",
+        "hexCode": "#008000;",
+        "url": "/mala/Verde?map=c,specificationFilter_42"
+      },
+      {
+        "colorName": "Marrom",
+        "hexCode": "#964B00;",
+        "url": "/mala/Marrom?map=c,specificationFilter_42"
+      },
+      {
         "colorName": "Dourado",
-        "hexCode": "orange;",
+        "hexCode": "7linear-gradient(180deg, #FEBF00 0%, #DBA808 46.35%, #947817 100%);;",
         "url": "/mala/Laranja?map=c,specificationFilter_42"
       },
       {
         "colorName": "Laranja",
-        "hexCode": "radial-gradient(ellipse farthest-corner at right bottom, #fedb37 0%, #fdb931 8%, #9f7928 30%, #8a6e2f 40%, transparent 80%), radial-gradient(ellipse farthest-corner at left top, #ffffff 0%, #ffffac 8%, #d1b464 25%, #5d4a1f 62.5%, #5d4a1f 100%);",
+        "hexCode": "#FFAA4D",
         "url": "/mala/Dourado?map=c,specificationFilter_42"
       },
       {
-        "colorName": "Marrom",
-        "hexCode": "#644908;",
-        "url": "/mala/Marrom?map=c,specificationFilter_42"
+        "colorName": "Amarelo",
+        "hexCode": "#FF0",
+        "url": "/mala/Amarelo?map=c,specificationFilter_42"
       },
-      {
-        "colorName": "Preto",
-        "hexCode": "black;",
-        "url": "/mala/Preto?map=c,specificationFilter_42"
-      },
-      {
-        "colorName": "Rosa",
-        "hexCode": "#e012ca;",
-        "url": "/mala/Rosa?map=c,specificationFilter_42"
-      },
-      {
-        "colorName": "Verde",
-        "hexCode": "#0dc834;",
-        "url": "/mala/Verde?map=c,specificationFilter_42"
-      },
-      {
-        "colorName": "Vermelho",
-        "hexCode": "#e31a1a;",
-        "url": "/mala/Vermelho?map=c,specificationFilter_42"
-      },
-      {
-        "colorName": "Vinho",
-        "hexCode": "#8e0c0c;",
-        "url": "/mala/Vinho?map=c,specificationFilter_42"
-      }
     ]
   },
 
@@ -438,17 +428,17 @@ export const malas__content = {
     "content": [
       {
         "gender": "Feminino",
-        "imgSrc": "/arquivos/M_ParaEla.jpg",
+        "imgSrc": "/arquivos/M_ParaEla.jpg?v=6",
         "url": "/mala/Feminino?map=c,specificationFilter_67"
       },
       {
         "gender": "Masculino",
-        "imgSrc": "/arquivos/M_ParaEle.jpg",
+        "imgSrc": "/arquivos/M_ParaEle.jpg?v=6",
         "url": "/mala/Masculino?map=c,specificationFilter_67"
       },
       {
         "gender": "Do seu jeito",
-        "imgSrc": "/arquivos/M_ParaTodos.jpg",
+        "imgSrc": "/arquivos/M_ParaTodos.jpg?v=6",
         "url": "/mala?map=c"
       }
     ]
@@ -480,12 +470,12 @@ export const malas__content = {
       },
       {
         "toTravel": "Sacola",
-        "imgSrc": "/arquivos/icon-sacola.png",
+        "imgSrc": "/arquivos/Sacola2.jpg?v=4",
         "url": "/Sacola?map=c"
       },
       {
         "toTravel": "Frasqueira",
-        "imgSrc": "/arquivos/icon-frasqueira.png",
+        "imgSrc": "/arquivos/icon-frasqueira.jpg?v=2",
         "url": "/mala/Frasqueira?map=c,c"
       }
     ]

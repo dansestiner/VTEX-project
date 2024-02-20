@@ -95,69 +95,65 @@ export const acessorios__content = {
     "content": [
       {
         "perColor": "Colorido",
-        "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
+        "hexCode": "linear-gradient(180deg, #FF0 0%, #FFA500 22.4%, #0077BE 63.02%, #008000 100%);",
         "url": "/acessorios/Colorido?map=c,specificationFilter_42"
-      },
-     /*{
-        "perColor": "Amarelo",
-        "hexCode": "yellow;",
-        "url": "/acessorios/Amarelo?map=c,specificationFilter_42"
-      },*/
-      {
-        "perColor": "Azul",
-        "hexCode": "#0e45f5;",
-        "url": "/acessorios/Azul?map=c,specificationFilter_42"
-      },
-      {
-        "perColor": "Branco",
-        "hexCode": "white;",
-        "url": "/acessorios/Branco?map=c,specificationFilter_42"
-      },
-      {
-        "perColor": "Cinza",
-        "hexCode": "#d8d8d8;",
-        "url": "/acessorios/Cinza?map=c,specificationFilter_42"
-      },
-      {
-        "perColor": "Laranja",
-        "hexCode": "orange;",
-        "url": "/acessorios/Laranja?map=c,specificationFilter_42"
-      },
-      {
-        "perColor": "Marrom",
-        "hexCode": "#644908;",
-        "url": "/acessorios/Marrom?map=c,specificationFilter_42"
       },
       {
         "perColor": "Preto",
-        "hexCode": "black;",
+        "hexCode": "#101820",
         "url": "/acessorios/Preto?map=c,specificationFilter_42"
       },
       {
+        "perColor": "Cinza",
+        "hexCode": "#808080;",
+        "url": "/acessorios/Cinza?map=c,specificationFilter_42"
+      },
+      {
         "perColor": "Rosa",
-        "hexCode": "#e012ca;",
+        "hexCode": "#FFB0BE;",
         "url": "/acessorios/Rosa?map=c,specificationFilter_42"
       },
       {
         "perColor": "Roxo",
-        "hexCode": "purple;",
+        "hexCode": "#6B3FA0;",
         "url": "/acessorios/Roxo?map=c,specificationFilter_42"
       },
       {
-        "perColor": "Verde",
-        "hexCode": "#0dc834;",
-        "url": "/acessorios/Verde?map=c,specificationFilter_42"
+        "perColor": "Azul",
+        "hexCode": "#006298;",
+        "url": "/acessorios/Azul?map=c,specificationFilter_42"
       },
       {
         "perColor": "Vermelho",
-        "hexCode": "#e31a1a;",
+        "hexCode": "#DA291C;",
         "url": "/acessorios/Vermelho?map=c,specificationFilter_42"
       },
       {
-        "perColor": "Vinho",
-        "hexCode": "#8e0c0c;",
-        "url": "/acessorios/Vinho?map=c,specificationFilter_42"
-      }
+        "perColor": "Verde",
+        "hexCode": "#008000;",
+        "url": "/acessorios/Verde?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Dourado",
+        "hexCode": "linear-gradient(180deg, #FEBF00 0%, #DBA808 46.35%, #947817 100%);",
+        "url": "/acessorios/Dourado?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Marrom",
+        "hexCode": "#964B00;",
+        "url": "/acessorios/Marrom?map=c,specificationFilter_42"
+      },      
+      {
+        "perColor": "Laranja",
+        "hexCode": "#FFAA4D;",
+        "url": "/acessorios/Laranja?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Amarelo",
+        "hexCode": "#FF0;",
+        "url": "/acessorios/Amarelo?map=c,specificationFilter_42"
+      },
+      
     ]
   },
 
@@ -165,20 +161,20 @@ export const acessorios__content = {
     "title": "Por Gênero",
     "content": [
       {
-        "gender": "Feminino",
+        "gender": "Para Todos",
+        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
+        "url": "/acessorios?map=c"
+      },
+      {
+        "gender": "Para Ela",
         "imgSrc": "/arquivos/Mo_ParaEla.jpg",
         "url": "/acessorios/Feminino?map=c,specificationFilter_67"
       },
       {
-        "gender": "Masculino",
+        "gender": "Para Ele",
         "imgSrc": "/arquivos/Mo_ParaEle.jpg",
         "url": "/acessorios/Masculino?map=c,specificationFilter_67"
       },
-      {
-        "gender": "Do seu jeito",
-        "imgSrc": "/arquivos/Mo_ParaTodos.jpg",
-        "url": "/acessorios?map=c"
-      }
     ]
   },
 
@@ -187,55 +183,56 @@ export const acessorios__content = {
     "content": [
       {
         "seeToo": "Bolsas",
-        "imgSrc": "/arquivos/Bolsa.jpg",
+        "imgSrc": "/arquivos/Bolsas-executive.jpg",
         "url": "/bolsa?map=c"
       },
       {
-        "seeToo": "Malas",
-        "imgSrc": "/arquivos/Rigido.jpg",
+        "seeToo": "Sacola",
+        "imgSrc": "/arquivos/Sacola2.jpg?v=4",
+        "url": "/Sacola?map=c"
+      },
+      {
+        "seeToo": "Mala",
+        "imgSrc": "/arquivos/malas.jpg?v=1.jpg",
         "url": "/mala?map=c"
+      },
+      {
+        "seeToo": "Necessaire",
+        "imgSrc": "/arquivos/Necesser.png",
+        "url": "/acessorios/Necessaire?map=c,c"
+      },
+      {
+        "seeToo": "Malinha",
+        "imgSrc": "/arquivos/icon-menu-Malinha.jpg?v=2",
+        "url": "/mala/escolar?map=c,c"
+      },
+      {
+        "seeToo": "Mochila Saquinho",
+        "imgSrc": "/arquivos/mochila-saquinho.png",
+        "url": "/saquinho"
       },
       {
         "seeToo": "Mochilas",
         "imgSrc": "/arquivos/Mochila.jpg",
         "url": "/mochila?map=c"
       },
-      {
-        "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
-        "url": "/acessorios/Necessaire?map=c,c"
-      },
+      
       {
         "seeToo": "Pochete",
         "imgSrc": "/arquivos/Pochete1.jpg",
         "url": "/acessorios/Pochete?map=c,c#1"
       },
       {
-        "seeToo": "Fichário",
-        "imgSrc": "/arquivos/Fichario.jpg",
-        "url": "/acessorios/Fichario?map=c,c"
+        "seeToo": "Pastas",
+        "imgSrc": "/arquivos/Pastas.png?v=1",
+        "url": "/arquivos/Pastas.png?v=1"
       },
-      {
-        "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
-        "url": "/Sacola?map=c"
-      },
-      {
-        "seeToo": "Malinha",
-        "imgSrc": "/arquivos/Malinha.jpg",
-        "url": "/mala/escolar?map=c,c"
-      },
-      /*{
-        "seeToo": "Maternidade",
-        "imgSrc": "/arquivos/Maternidade.jpg",
-        "url": "/bolsa/Maternidade?map=c,c"
-      },*/
       {
         "seeToo": "Mochila com Rodas",
-        "imgSrc": "/arquivos/Mochila-com-Rodas.jpg",
+        "imgSrc": "/arquivos/icon-com-rodinhas.jpg?v=1",
         "url": "/mochila/2%20Rodinhas?map=c,specificationFilter_57"
       },
-
+      
     ]
   }
 }

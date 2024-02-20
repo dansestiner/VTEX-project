@@ -66,7 +66,7 @@ export default function () {
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Game?map=c,specificationFilter_110">Game Over</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/game-kit.png" width="250px" height="588px" alt="Coleção Game Over" />
+              <img src="/arquivos/Kits_Game_Over.png" width="250px" height="588px" alt="Coleção Game Over" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -82,6 +82,18 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Jurassic?map=c,specificationFilter_110">Jurassic</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kit_Jurassic_World.png" width="250px" height="588px" alt="Coleção Jurassic" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Kids?map=c,specificationFilter_110">Kids</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kits_Kids.png" width="250px" height="588px" alt="Coleção kids" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/kit/Minecraft?map=c,specificationFilter_110">Minecraft</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Kits_Minecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
@@ -90,13 +102,13 @@ export default function () {
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/kit/Minions?map=c,specificationFilter_110">Minions</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Kits_Minions.jpg" width="250px" height="588px" alt="Coleção Minions" />
+                <img src="/arquivos/Kits_Minions.png" width="250px" height="588px" alt="Coleção Minions" />
               </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/My%20Little%20Pony">My Little Pony</a>
             <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/my-little-pony.png" width="250px" height="588px" alt="Coleção My Little Pony" />
+              <img src="/arquivos/Kits_My_Little_Ponny.png" width="250px" height="588px" alt="Coleção My Little Pony" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -111,6 +123,7 @@ export default function () {
               <img src="/arquivos/Kits_PaulFrank.jpg" width="250px" height="588px" alt="Coleção Paul Frank" />
             </div>
           </li>
+
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Paris?map=c,specificationFilter_110">Paris</a>
             <div class="submenu__imageWrapper">
@@ -120,19 +133,19 @@ export default function () {
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Peppa?map=c,specificationFilter_110">Peppa</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/Kits_Peppa.jpg" width="250px" height="588px" alt="Coleção Peppa" />
+              <img src="/arquivos/Kits_Peppa.png" width="250px" height="588px" alt="Coleção Peppa" />
             </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/pj%20masks">PJ Masks</a>
             <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/pj-masks.png" width="250px" height="588px" alt="Coleção PJ Masks" />
+                <img src="/arquivos/Kits_PJMasks.png" width="250px" height="588px" alt="Coleção PJ Masks" />
             </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Paris%20Saint-German?map=c,specificationFilter_110">PSG</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/Kits_PSG.jpg" width="250px" height="588px" alt="Coleção PSG" />
+              <img src="/arquivos/Kits_PSG.png" width="250px" height="588px" alt="Coleção PSG" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -162,7 +175,7 @@ export default function () {
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/transformers">Transformers</a>
             <div class="submenu__imageWrapper">
-                <img src="/arquivos/tranformers-menu.png" width="250px" height="588px" alt="Coleção Transformers" />
+                <img src="/arquivos/Kits_Transformers.png" width="250px" height="588px" alt="Coleção Transformers" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -275,8 +288,8 @@ export default function () {
                   href="/acessorios/Balança?map=c,c" title="Filtrar por: Balança">Balança</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" 
-                  href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--mochilaSaquinho"
+                  href="/saquinho" title="Filtrar por: Mochila Saquinho">Mochila Saquinho</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--padlock"

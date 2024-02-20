@@ -61,6 +61,11 @@ const Methods = {
                         }
                         $(`#quantity-view-product`).remove()
                         $(`.cf-pagination`).before(template)
+                        
+                        var validar = $('.n16colunas ul').length;
+                        if(validar === 0){
+                            $('.n16colunas').html('<p style="text-align: center; font-weight: bold; margin-bottom: 1rem;">Ops... Encontramos um erro, recarregue a página para visualizar os produtos! </p>');	
+                        };
                 })
             }else{
                 if (parseInt(dataLayer[0].pageTitle.split(`–`)[0].trim())){
@@ -75,6 +80,11 @@ const Methods = {
                             }
                             $(`#quantity-view-product`).remove()
                             $(`.cf-pagination`).before(template)
+
+                            var validar = $('.n16colunas ul').length;
+                            if(validar === 0){
+                                $('.n16colunas').html('<p style="text-align: center; font-weight: bold; margin-bottom: 1rem;">Ops... Encontramos um erro, recarregue a página para visualizar os produtos! </p>');	
+                            };
                     })
                 }
             }

@@ -9,7 +9,12 @@ export default function () {
         <li class="submenu__item submenu__item--col1">
           <div class="submenu__item__heading">Coleções</div>
           <ul class="submenu__list">
-
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/Bayern?map=c,specificationFilter_110">Bayern de Munique</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/mochila_bayern.jpg" width="250px" height="588px" alt="Coleção Bayern de Munique" />
+              </div>
+            </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Capricho?map=specificationFilter_110">Capricho</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
@@ -54,6 +59,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mochila/Grêmio?map=c,specificationFilter_110">Grêmio</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/mochila_Gremio.png" width="250px" height="588px" alt="Coleção Grêmio" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Happy?map=specificationFilter_110">Happy</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
@@ -72,15 +83,27 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/nba#1">NBA</a>
+              <a class="submenu__itemLink" href="https://www.sestini.com.br/colecao-nba">NBA</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/NBA-juvenil.png" width="250px" height="588px" alt="Coleção NBA" />
               </div>
             </li>
             <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila-gg-2-compartimentos-sestini-outsider-army/p">Outsider</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/Outsider.png" width="250px" height="588px" alt="Coleção Outsider" />
+                </div>
+              </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/psg#1">Paris Saint-German</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/MochilaPSG.jpg" width="250px" height="588px" alt="Coleção Paris Saint-German" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mochila/Palmeiras?map=c,specificationFilter_110">Palmeiras</a>
+              <div class="submenu__imageWrapper">
+                <img src="/arquivos/mochila_Palmeiras.jpg" width="250px" height="588px" alt="Coleção Palmeiras" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -148,12 +171,12 @@ export default function () {
             <ul class="submenu__list submenu__list--row">
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--moch-with-wheels"
-                  href="/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+                  href="/mochila/2%20Rodas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
                   title="Filtrar por: Com rodinhas">Mochilas Com Rodas</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--juvenile-no-wheels"
-                  href="/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+                  href="/mochila/Sem%20Rodas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
                   title="Filtrar por: Sem rodinhas">Sem Rodas</a>
               </li>
             </ul>

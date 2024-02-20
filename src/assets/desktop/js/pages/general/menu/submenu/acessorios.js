@@ -3,7 +3,7 @@ const html = String.raw
 export default function () {
   return html`
     <div class=submenuWrapper>
-      <ul class="submenu">
+      <ul class="submenu acessorios">
 
         <!-- [ INICIO ] COLUNA 01 -->
         <li class="submenu__item submenu__item--col1">
@@ -30,7 +30,7 @@ export default function () {
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/acessorios/Carteira?map=c,c">Carteira</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/Carteira.jpg" width="250px" height="588px" alt="Categoria Carteira" />
+                <img src="/arquivos/Carteira_hover.jpg" width="250px" height="588px" alt="Categoria Carteira" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -195,11 +195,11 @@ export default function () {
                   title="Filtrar por: Necessaire">Necessaire</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--fichario"
-                  href="/acessorios/Fichario?map=c,c" title="Filtrar por: Fichário">Fichário</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--mochilaSaquinho"
+                  href="/saquinho" title="Filtrar por: Mochila Saquinho">Mochila Saquinho</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--padlock submenu__itemLink--folder"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--folder"
                   href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
               </li>
               <li class="submenu__list__item">

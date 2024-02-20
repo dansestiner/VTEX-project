@@ -140,6 +140,11 @@ const Methods = {
               product["Red November"])
           : "";
 
+          product["Cor nominal"] != undefined
+          ? (ProductRvData.corNominal =
+              product["Cor nominal"])
+          : "";
+
         product["Capacidade Total (L)"] != undefined
           ? (ProductRvData.totalcap = product["Capacidade Total (L)"] + " L")
           : El.capacidadeTotal.remove();
@@ -179,7 +184,8 @@ const Methods = {
           (product.skuSpecifications &&
             product.skuSpecifications[0] &&
             product.skuSpecifications[0].values &&
-            product.skuSpecifications[0].values[0].name) ||
+            product["Cor nominal"][0] && 
+            product.skuSpecifications[0].values[0].name) || 
           product.Cor;
 
         // Specifications

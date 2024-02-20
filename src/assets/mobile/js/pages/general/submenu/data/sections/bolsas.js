@@ -188,45 +188,51 @@ export const bolsas__content = {
     "title": "Por tom de cor",
     "content": [
       {
-        "perColor": "Colorido",
-        "hexCode": "linear-gradient(to top, #e9a5a5, #b8c1c0, #65c0e0, #aea2db, #81c1d9);",
-        "url": "/bolsa/Colorido?map=c,specificationFilter_42"
-      },
-      /*{
-        "perColor": "Amarelo",
-        "hexCode": "yellow;",
-        "url": "/bolsa/Amarelo?map=c,specificationFilter_42"
-      },*/
-      {
-        "perColor": "Branco",
-        "hexCode": "white;",
-        "url": "/bolsa/Branco?map=c,specificationFilter_42"
-      },
-      {
-        "perColor": "Cinza",
-        "hexCode": "#d8d8d8;",
-        "url": "/bolsa/Cinza?map=c,specificationFilter_42"
-      },
-      {
         "perColor": "Preto",
-        "hexCode": "black;",
+        "hexCode": "#101820;",
         "url": "/bolsa/Preto?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Marrom",
+        "hexCode": "#964B00",
+        "url": "/bolsa/Marrom?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Verde",
+        "hexCode": "#0dc834;",
+        "url": "/bolsa/Verde?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Azul",
+        "hexCode": "#006298;",
+        "url": "/bolsa/Azul?map=c,specificationFilter_42"
       },
       {
         "perColor": "Roxo",
         "hexCode": "purple;",
         "url": "/bolsa/Roxo?map=c,specificationFilter_42"
       },
+      
       {
-        "perColor": "Verde",
-        "hexCode": "#0dc834;",
-        "url": "/bolsa/Verde?map=c,specificationFilter_42"
-      }
-      /*{
         "perColor": "Vermelho",
-        "hexCode": "#e31a1a;",
+        "hexCode": "#DA291C;",
         "url": "/bolsa/Vermelho?map=c,specificationFilter_42"
-      }*/
+      },
+      {
+        "perColor": "Laranja",
+        "hexCode": "#FFAA4D;",
+        "url": "/bolsa/Laranja?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Rosa",
+        "hexCode": "#ffb0be;",
+        "url": "/bolsa/Rosa?map=c,specificationFilter_42"
+      },
+      {
+        "perColor": "Cinza",
+        "hexCode": "#808080;",
+        "url": "/bolsa/Cinza?map=c,specificationFilter_42"
+      },
     ]
   },
 
@@ -234,49 +240,44 @@ export const bolsas__content = {
     "title": "Veja também",
     "content": [
       {
-        "seeToo": "Necessaire",
-        "imgSrc": "/arquivos/Necesser.jpg",
-        "url": "/acessorios/Necessaire?map=c,c"
-      },
-      {
-        "seeToo": "Carteira",
-        "imgSrc": "/arquivos/Carteira1.jpg",
-        "url": "/acessorios/Carteira?map=c,c"
-      },
-      {
-        "seeToo": "Estojo",
-        "imgSrc": "/arquivos/Estojo2.jpg",
-        "url": "/Estojo?map=c"
-      },
-      {
-        "seeToo": "Esportivo",
-        "imgSrc": "/arquivos/Esportivo.jpg",
-        "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
-      },
-      {
         "seeToo": "Sacola",
-        "imgSrc": "/arquivos/Sacola2.jpg",
+        "imgSrc": "/arquivos/Sacola2.jpg?v=4",
         "url": "/Sacola?map=c"
       },
       {
-        "seeToo": "Mala",
-        "imgSrc": "/arquivos/Rigido.jpg",
-        "url": "/mala?map=c"
+        "seeToo": "Travesseiro",
+        "imgSrc": "/arquivos/travesseiro-menu.jpg?v=2",
+        "url": "/acessorios/Travesseiro?map=c,c"
+      },
+      {
+        "seeToo": "Frasqueira",
+        "imgSrc": "/arquivos/icon-frasqueira.jpg?v=2",
+        "url": "/mala/Frasqueira?map=c,c"
+      },
+      {
+        "seeToo": "Carteira",
+        "imgSrc": "/arquivos/Carteira.jpg?v=3",
+        "url": "/acessorios/Carteira?map=c,c"
+      },  
+      {
+        "seeToo": "Estojo",
+        "imgSrc": "/arquivos/Estojo2.jpg?v=2",
+        "url": "/Estojo?map=c"
+      },
+      {
+        "seeToo": "Necessaire",
+        "imgSrc": "/arquivos/Necesser.png",
+        "url": "/acessorios/Necessaire?map=c,c"
+      },
+      {
+        "seeToo": "Esportivo",
+        "imgSrc": "/arquivos/Esportivo.jpg?v=1",
+        "url": "/Sacola/Esportiva?map=c,specificationFilter_106"
       },
       {
         "seeToo": "Pochete",
-        "imgSrc": "/arquivos/Pochete1.jpg",
+        "imgSrc": "/arquivos/Pochete1.jpg?v=1",
         "url": "/acessorios/Pochete?map=c,c"
-      },
-      {
-        "seeToo": "Acessórios",
-        "imgSrc": "/arquivos/Acessorios.jpg",
-        "url": "/Acessorios?map=c"
-      },
-      {
-        "seeToo": "Mochila",
-        "imgSrc": "/arquivos/Mochila.jpg",
-        "url": "/mochila?map=c"
       },
     ]
   }

@@ -22,7 +22,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/casual">Casual</a>
+              <a class="submenu__itemLink" href="mochilas/sestini-casual">Casual</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
               </div>
@@ -70,7 +70,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Prime?map=specificationFilter_110">Prime</a>
+              <a class="submenu__itemLink" href="/Prime">Prime</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Prime.jpg" width="250px" height="588px" alt="Coleção Prime" />
               </div>
@@ -474,8 +474,8 @@ export default function () {
                   href="/acessorios/Executiva?map=c,specificationFilter_106" title="Filtrar por: Acessórios">Acessórios</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" href="/acessorios/Fichario?map=c,c"
-                  title="Filtrar por: Fichário">Fichário</a>
+                <a class="submenu__itemLink--withIcon submenu__itemLink--mochilaSaquinho"
+                  href="/saquinho" title="Filtrar por: Mochila Saquinho">Mochila Saquinho</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink--withIcon submenu__itemLink--pencil-case-purse" href="/Estojo?map=c"

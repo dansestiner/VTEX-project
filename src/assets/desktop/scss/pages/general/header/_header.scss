@@ -1043,10 +1043,16 @@
   }
 }
 
+.x-submenu__department-title-link {
+  font-family: Unbounded, sans-serif;
+  font-weight: 900;
+  color: #000;
+}
+
 .submenu__item__heading {
   font-family: Unbounded, sans-serif;
   font-size: 14px;
-  font-weight: 900;
+  font-weight: 600;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
@@ -1833,7 +1839,16 @@
       border-radius: 14px;
       border: 1px solid #b4b4b4;
       background-size: contain;
-    }
+    }    
+  }
+
+  &--mochilaSaquinho {
+    &::before {
+      background-image: url(/arquivos/mochila-saquinho.png);
+      border-radius: 14px;
+      border: 1px solid #b4b4b4;
+      background-size: contain;
+    }    
   }
 
 

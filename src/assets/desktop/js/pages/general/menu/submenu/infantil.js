@@ -34,7 +34,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochilas/Camuflado?map=c,specificationFilter_110">Camuflado</a>
+              <a class="submenu__itemLink" href="/colecao?fq=H:534">Camuflado</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/camuflado.png" width="250px" height="588px" alt="Coleção Camuflado" />
               </div>
@@ -148,11 +148,11 @@ export default function () {
                 </div>
             </li>
             <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/neon">Neon</a>
-                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                  <img src="/arquivos/neon.png" width="250px" height="588px" alt="Coleção Neon" />
-                </div>
-              </li>
+              <a class="submenu__itemLink" href="/Neon?map=c,specificationFilter_110">Neon</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/neon.png" width="250px" height="588px" alt="Coleção Neon" />
+              </div>
+            </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/panda">Panda</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
@@ -184,7 +184,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/rock">Rock</a>
+              <a class="submenu__itemLink" href="/x-rock">Rock</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/colecao-rock.png" width="250px" height="588px" alt="Coleção Rock" />
               </div>
@@ -229,13 +229,6 @@ export default function () {
               <a class="submenu__itemLink" href="/Tini?map=specificationFilter_110">Tini</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Tini.jpg" width="250px" height="588px" alt="Coleção Tini" />
-              </div>
-            </li>
-            
-            <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/tubarão">Tubarão</a>
-              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
-                <img src="/arquivos/Tubarão.jpg" width="250px" height="588px" alt="Coleção Tubarão" />
               </div>
             </li>
             <li class="submenu__list__item">
@@ -301,12 +294,12 @@ export default function () {
               <ul class="submenu__list submenu__list--row">
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--with-wheels"
-                    href="/mochila/2%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+                    href="/mochila/2%20Rodas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
                     title="Filtrar por: Com rodinhas">Com Rodinhas</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--no-wheels"
-                    href="/mochila/Sem%20Rodinhas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
+                    href="/mochila/Sem%20Rodas/Infantil?map=c,specificationFilter_57,specificationFilter_107"
                     title="Filtrar por: Sem rodinhas">Sem Rodas</a>
                 </li>                
                 <li class="submenu__list__item">
@@ -382,10 +375,6 @@ export default function () {
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">
-                <li class="submenu__list__item">
-                  <a class="submenu__itemLink"
-                    href="/Lancheira/de-0,01-a-50/Infantil?map=c,priceFrom,specificationFilter_107">Até R$50,00</a>
-                </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/Lancheira/de-50,01-a-90/Infantil?map=c,priceFrom,specificationFilter_107">De R$50,01 até
@@ -487,8 +476,8 @@ export default function () {
                 title="Filtrar por: Mala">Mala</a>
             </li>
             <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--fichario" href="/acessorios/Fichario?map=c,c"
-                title="Filtrar por: Fichário">Fichário</a>
+              <a class="submenu__itemLink--withIcon submenu__itemLink--mochilaSaquinho"
+                  href="/saquinho" title="Filtrar por: Mochila Saquinho">Mochila Saquinho</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--acessories" href="/Acessorios?map=c"

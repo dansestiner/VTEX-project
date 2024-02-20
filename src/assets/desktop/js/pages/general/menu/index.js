@@ -26,7 +26,7 @@ export function renderMenu() {
         </li>
 
         <li class="menu__list__item">
-          <a class="menu__list__item__link" href="/bolsas?map=c">Bolsas</a>
+          <a class="menu__list__item__link" href="/bolsas">Bolsas</a>
           ${Submenu__Bolsas()}
         </li>
         <li class="menu__list__item">

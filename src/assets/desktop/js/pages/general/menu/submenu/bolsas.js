@@ -94,7 +94,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/429?map=productClusterIds#1">Praia</a>
+              <a class="submenu__itemLink" href="/bolsa/Praia?map=c,specificationFilter_110">Praia</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Praia.jpg" width="250px" height="588px" alt="Categoria Praia" />
               </div>
