@@ -300,6 +300,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/sacola%20royale">Sacola Royale</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Sacola_Royale-menu.png" width="250px" height="588px" alt="Coleção Sacole Royale" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Soft?map=c,specificationFilter_110">Soft</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/mala-soft.png" width="250px" height="588px" alt="Coleção Soft" />
@@ -329,7 +335,6 @@ export default function () {
               <img src="/arquivos/Fly.jpg" width="250px" height="588px" alt="Coleção TO Fly" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Go?map=c,specificationFilter_110">TO Go</a>
             <div class="submenu__imageWrapper">
