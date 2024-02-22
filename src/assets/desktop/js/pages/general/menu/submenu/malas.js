@@ -286,7 +286,6 @@ export default function () {
               <img src="/arquivos/mala_PPplus.png" width="250px" height="588px" alt="Coleção PP-Plus" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/PP%20Start?map=c,specificationFilter_110">PP-Start</a>
             <div class="submenu__imageWrapper">

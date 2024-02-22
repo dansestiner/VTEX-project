@@ -46,15 +46,27 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/kit/Atlanta?map=c,specificationFilter_110">Atlanta</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Atlanta.jpg" width="250px" height="588px" alt="Coleção Atlanta" />
-              </div>
+            <a class="submenu__itemLink" href="/kit/Atlanta?map=c,specificationFilter_110">Atlanta</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Atlanta.jpg" width="250px" height="588px" alt="Coleção Atlanta" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Camuflado?map=c,specificationFilter_110">Camuflado</a>
+            <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+              <img src="/arquivos/Kits_Y_Camuflado 1.png" width="250px" height="588px" alt="Coleção Camuflado" />
+            </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Capricho">Capricho</a>
             <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Kits_Capricho.jpg" width="250px" height="588px" alt="Coleção Capricho" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Coral">Coral</a>
+            <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+              <img src="/arquivos/Kit_Coral1.png" width="250px" height="588px" alt="Coleção Sestini Coral" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -94,6 +106,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="kit/Mermaid?map=c,specificationFilter_110">Mermaid</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kits_Mermaid 1.png" width="250px" height="588px" alt="Coleção Mermaid" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/kit/Minecraft?map=c,specificationFilter_110">Minecraft</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Kits_Minecraft.jpg" width="250px" height="588px" alt="Coleção Minecraft" />
@@ -115,6 +133,12 @@ export default function () {
             <a class="submenu__itemLink" href="/kit/NBA?map=c,specificationFilter_110">NBA</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Kits_NBA.jpg" width="250px" height="588px" alt="Coleção NBA" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Neon?map=c,specificationFilter_110">Neon</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kits_Y_Neon 1.png" width="250px" height="588px" alt="Coleção Neon" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -146,6 +170,24 @@ export default function () {
             <a class="submenu__itemLink" href="/kit/Paris%20Saint-German?map=c,specificationFilter_110">PSG</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Kits_PSG.png" width="250px" height="588px" alt="Coleção PSG" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Rock?map=c,specificationFilter_110">Rock</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kits_Rock 1.png" width="250px" height="588px" alt="Coleção Rock" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Skate?map=c,specificationFilter_110">Skate</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kit_Skate 2.png" width="250px" height="588px" alt="Coleção Skate" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/kit/Start?map=c,specificationFilter_110">Start</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Kits_Start 1.png" width="250px" height="588px" alt="Coleção Start" />
             </div>
           </li>
           <li class="submenu__list__item">
