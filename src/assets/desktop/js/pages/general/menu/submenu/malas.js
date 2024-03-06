@@ -299,6 +299,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Royale?map=c,specificationFilter_110">Royale</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Royale_mala.png" width="250px" height="588px" alt="Coleção Royale" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/sacola%20royale">Sacola Royale</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Sacola_Royale-menu.png" width="250px" height="588px" alt="Coleção Sacole Royale" />
@@ -316,12 +322,7 @@ export default function () {
               <img src="/arquivos/titanium.png" width="250px" height="588px" alt="Coleção Riviera" />
             </div>
           </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Royale?map=c,specificationFilter_110">Royale</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Royale_mala.png" width="250px" height="588px" alt="Coleção Royale" />
-            </div>
-          </li>
+          
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Cross?map=c,specificationFilter_110">TO Cross</a>
             <div class="submenu__imageWrapper">
@@ -347,25 +348,36 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Track?map=c,specificationFilter_110">Track</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Track-mala-menu.png" width="250px" height="588px" alt="Coleção Track" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Travel?map=c,specificationFilter_110">TO Travel</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/TO_Travel.jpg" width="250px" height="588px" alt="Coleção TO Travel" />
             </div>
           </li>
-
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Trunk?map=c,specificationFilter_110">Trunk</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/Trunk.png" width="250px" height="588px" alt="Coleção Trunk" />
+              <img src="/arquivos/trunk.png" width="250px" height="588px" alt="Coleção Trunk" />
             </div>
           </li>
-
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Turquia?map=c,specificationFilter_110">Turquia</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Turquia-mala-menu.png" width="250px" height="588px" alt="Coleção Turquia" />
+            </div>
+          </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Ultralight">Ultralight</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ultralight.jpg" width="250px" height="588px" alt="Ultralight-5" />
             </div>
           </li>
+          
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/V8?map=c,specificationFilter_110">V8</a>
             <div class="submenu__imageWrapper">
@@ -376,12 +388,6 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Vega?map=c,specificationFilter_110">Vega</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Vega.jpg" width="250px" height="588px" alt="Coleção Vega" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Veneza?map=c,specificationFilter_110">Veneza</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Veneza.jpg" width="250px" height="588px" alt="Coleção Veneza" />
             </div>
           </li>
           <li class="submenu__list__item">
