@@ -249,6 +249,14 @@ export default function () {
                 <img src="/arquivos/Unicornio.jpg" width="250px" height="588px" alt="Coleção Unicórnio" />
               </div>
             </li>
+
+            <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mala/escolar?map=c,c">Vega</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/Vega_infantil.jpg" width="250px" height="588px" alt="Coleção Vega" />
+              </div>
+            </li>
+
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
