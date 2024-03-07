@@ -1,5 +1,6 @@
 .x-shelf__item {
     min-height: 325px !important;
+    border: 1px solid #F0F0F0 !important;
     &.is--offer {
         display: flex;
         flex-direction: column;
@@ -14,8 +15,9 @@
         }
         .x-shelf__title {
             width: 100%;
+            font-size: 14px;
             text-align: center;
-            font-weight: 600;
+            font-weight: 500;
             font-family: $font-primary;
         }
         .x-shelf__price {
