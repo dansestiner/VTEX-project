@@ -853,11 +853,11 @@
           hide = self.options.classLoadLess;
         }
 
-        if(type == 'next'){
+        /*if(type == 'next'){
           $('html, body').animate({
             scrollTop: $(shelfElements[shelfLength - 1]).offset().top + 200
           }, 1000);
-        }
+        }*/
 
         const pageByType = self._getPageByType(type);
 

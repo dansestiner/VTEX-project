@@ -107,11 +107,11 @@ export default {
                                 l == 'Belo Horizonte' || l == 'Belém' || l == 'João Pessoa' || l == 'Curitiba' || l == 'Recife' ||
                                 l == 'Teresina' || l == 'Rio de Janeiro' || l == 'Natal' || l == 'Porto Alegre' || l == 'Porto Velho' ||
                                 l == 'Boa Vista' || l == 'Florianópolis' || l == 'São Paulo' || l == 'Aracaju' || l == 'Palmas') {
-                                var limit = 199.99
+                                var limit = 399
                             } else if (uf == 'PR' || uf == 'RS' || uf == 'SC' || uf == 'ES' || uf == 'MG' || uf == 'RJ' || uf == 'SP') {
-                                if (limit != 199.99) var limit = 249.00
+                                if (limit != 399) var limit = 449
                             } else {
-                                var limit = 369.00
+                                var limit = 699
                             }
 
                             var width = (price * 100) / limit

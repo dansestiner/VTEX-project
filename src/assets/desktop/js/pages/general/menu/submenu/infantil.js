@@ -76,7 +76,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/game%20over">Game Over</a>
+              <a class="submenu__itemLink" href="/game">Game Over</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Game-Over.jpg" width="250px" height="588px" alt="Coleção Game Over" />
               </div>
@@ -251,11 +251,11 @@ export default function () {
             </li>
 
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/escolar?map=c,c">Vega</a>
+              <a class="submenu__itemLink" href="/vega-bordo">Vega</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Vega_infantil.jpg" width="250px" height="588px" alt="Coleção Vega" />
               </div>
-            </li>
+            </li> 
 
             <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/y%20pink">Y Pink</a>
@@ -312,7 +312,7 @@ export default function () {
                 </li>                
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--malinha"
-                    href="/mala/escolar?map=c,c" title="Filtrar por: Malinha">Malinha</a>
+                    href="/malinha-escolar" title="Filtrar por: Malinha">Malinha</a>
                 </li>
               </ul>
             </div>

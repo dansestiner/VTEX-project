@@ -137,7 +137,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/sacola/Game%20Over">Game Over</a>
+            <a class="submenu__itemLink" href="/game">Game Over</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Sacola_GameOver.jpg" width="250px" height="588px" alt="Coleção Game Over" />
             </div>

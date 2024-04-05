@@ -28,12 +28,12 @@
                     font-size: 0;
                     text-indent: 9999px;
                     cursor: pointer;
-                    margin: 2px;
+                    margin: 10px;
                     background-color: #fff;
                     width: 10px;
                     height: 10px;
                     border: 1px solid $color-red;
-                    transform: skewX(10deg) skewY(0);
+                    /*transform: skewX(10deg) skewY(0);*/
                     &.slick-active {
                         background: $color-red;
                     }

@@ -203,7 +203,7 @@ export default function () {
                   href="/Pasta?map=c" title="Filtrar por: Pastas">Pastas</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink--withIcon submenu__itemLink--little-bags" href="/mala/escolar?map=c,c"
+                <a class="submenu__itemLink--withIcon submenu__itemLink--little-bags" href="/malinha-escolar"
                   title="Filtrar por: Malinha">Malinha</a>
               </li>
               <li class="submenu__list__item">
