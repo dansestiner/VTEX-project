@@ -100,6 +100,12 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Deluxe?map=c,specificationFilter_110">Deluxe</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Deluxe.png" width="250px" height="588px" alt="Coleção Deluxe" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Croco?map=c,specificationFilter_110">Croco</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Croco.jpg" width="250px" height="588px" alt="Coleção Croco" />
@@ -290,6 +296,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/PP%20Start?map=c,specificationFilter_110">PP-Start</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/PP-Start.jpg" width="250px" height="588px" alt="Coleção PP-Start" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Racer?map=c,specificationFilter_110">Racer</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Racer.png" width="250px" height="588px" alt="Coleção Racer" />
             </div>
           </li>
           <li class="submenu__list__item">
