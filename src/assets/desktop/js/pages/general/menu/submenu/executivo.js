@@ -181,7 +181,7 @@ export default function () {
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--withIcon submenu__itemLink--gender submenu__itemLink--backpack-no-wheels"
-                    href="/mochila/Sem%20Rodinhas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
+                    href="/mochila/Sem%20Rodas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
                     title="Filtrar por: Sem rodinhas">Sem Rodas</a>
                 </li>                
               </ul>
