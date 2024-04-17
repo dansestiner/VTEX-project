@@ -46,7 +46,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Coral">Coral</a>
+              <a class="submenu__itemLink" href="/colecao-coral">Coral</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/coral.png" width="250px" height="588px" alt="Coleção Coral" />
                 </div>
