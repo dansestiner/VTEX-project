@@ -233,7 +233,7 @@ export default function () {
                 <a class="submenu__itemLink" href="/bolsa/Poliéster?map=c,specificationFilter_72" title="Filtrar por: Poliéster">Poliéster</a>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/P.U?map=c,specificationFilter_72" title="Filtra por: Poliuretano (PU)">PU</a>
+                <a class="submenu__itemLink" href="/bolsa/PU?map=c,specificationFilter_72" title="Filtra por: Poliuretano (PU)">PU</a>
               </li>              
             </ul>
           </div>

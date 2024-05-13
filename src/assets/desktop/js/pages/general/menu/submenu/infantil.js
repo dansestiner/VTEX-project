@@ -100,7 +100,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Kids?map=specificationFilter_110">Kids</a>
+              <a class="submenu__itemLink" href="/sestini-kids">Kids</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Sestini-Kids.png" width="250px" height="588px" alt="Coleção Kids" />
               </div>

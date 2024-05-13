@@ -107,7 +107,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/Paul%20Frank?map=specificationFilter_110">Paul Frank</a>
+              <a class="submenu__itemLink" href="/paul-frank">Paul Frank</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/paul-frank.png" width="250px" height="588px" alt="Coleção Paul Frank" />
               </div>

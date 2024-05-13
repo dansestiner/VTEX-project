@@ -100,10 +100,10 @@ export default function () {
               </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Croco?map=c,specificationFilter_110">Croco</a>
+            <a class="submenu__itemLink" href="/sestini-croco">Croco</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Croco.jpg" width="250px" height="588px" alt="Coleção Croco" />
-            </div>
+            </div>  
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Deluxe?map=c,specificationFilter_110">Deluxe</a>
@@ -143,7 +143,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/game">Game Over</a>
+            <a class="submenu__itemLink" href="https://www.sestini.com.br/sacola-grande-sestini-x-game-over-colorido/p">Game Over</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Sacola_GameOver.jpg" width="250px" height="588px" alt="Coleção Game Over" />
             </div>
@@ -185,15 +185,9 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Kids?map=c,specificationFilter_110">Kids</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
-              </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/sacola/Kids?map=c,specificationFilter_110">Kids</a>
+            <a class="submenu__itemLink" href="/Kids">Kids</a>
             <div class="submenu__imageWrapper">
-              <img src="/arquivos/Sacola_Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
+              <img src="/arquivos/Kids.jpg" width="250px" height="588px" alt="Coleção Kids" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -311,15 +305,9 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Royale?map=c,specificationFilter_110">Royale</a>
+            <a class="submenu__itemLink" href="/royale">Royale</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Royale_mala.png" width="250px" height="588px" alt="Coleção Royale" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/sacola%20royale">Sacola Royale</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Sacola_Royale-menu.png" width="250px" height="588px" alt="Coleção Sacole Royale" />
             </div>
           </li>
           <li class="submenu__list__item">
@@ -384,7 +372,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Ultralight">Ultralight</a>
+            <a class="submenu__itemLink" href="/sestini-ultralight">Ultralight</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Ultralight.jpg" width="250px" height="588px" alt="Ultralight-5" />
             </div>
@@ -530,7 +518,7 @@ export default function () {
             <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">CADEADO</div>
             <ul class="submenu__list">
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mala/TSA%20Fixo?map=c,specificationFilter_70">Com Cadeado TSA Fixo</a>
+                <a class="submenu__itemLink" href="/mala/Fixo%20com%20TSA?map=c,specificationFilter_70">Com Cadeado TSA Fixo</a>
               </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mala/Fixo?map=c,specificationFilter_70">Com Cadeado Fixo</a>
