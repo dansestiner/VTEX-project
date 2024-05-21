@@ -193,7 +193,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Happy?map=specificationFilter_110">Happy</a>
+                <a class="submenu__itemLink" href="/mochila/Happy?map=c,specificationFilter_110">Happy</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
                 </div>
@@ -270,6 +270,12 @@ export default function () {
                   <img src="/arquivos/Mermaid.jpg" width="250px" height="588px" alt="Coleção Mermaid" />
                 </div>
               </li>
+              <!--<li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Minions?map=c,specificationFilter_110">Minions</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/mochila_hover_monions.png" width="250px" height="588px" alt="Coleção Minions" />
+                </div>
+              </li>-->
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/minecraft#1">Minecraft</a>
                 <div class="submenu__imageWrapper">
@@ -283,7 +289,7 @@ export default function () {
                 </div>
               </li>-->
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Monograma?map=specificationFilter_110">Monograma</a>
+                <a class="submenu__itemLink" href="/mochila/Monograma?map=c,specificationFilter_110">Monograma</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Mochila_Monograma.png" width="250px" height="588px" alt="Coleção Monograma" />
                 </div>
@@ -398,7 +404,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/Scarf?map=specificationFilter_110">Scarf</a>
+                <a class="submenu__itemLink" href="/mochila/Scarf?map=c,specificationFilter_110">Scarf</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Scarf.jpg" width="250px" height="588px" alt="Coleção Scarf" />
                 </div>
@@ -463,8 +469,16 @@ export default function () {
                   <img src="/arquivos/Techno.jpg" width="250px" height="588px" alt="Coleção Techno" />
                 </div>
               </li>-->
+
+              <!--<li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Trolls?map=c,specificationFilter_110">Transformers</a>
+                <div class="submenu__imageWrapper">
+                  <img src="/arquivos/transformers_mochila_hover.png" width="250px" height="588px" alt="Coleção Transformers" />
+                </div>
+              </li>-->
+
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/trolls">Trolls</a>
+                <a class="submenu__itemLink" href="/mochila/Trolls?map=c,specificationFilter_110">Trolls</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/trolls.png" width="250px" height="588px" alt="Coleção Trolls" />
                 </div>
@@ -520,6 +534,9 @@ export default function () {
             <div class="submenu__item__heading submenu__item__heading--material submenu__item__heading--lightGray">Por 
               Material</div>
               <ul class="submenu__list">
+                <li class="submenu__list__item">
+                  <a class="submenu__itemLink" href="/mochila/Couro?map=c,specificationFilter_72">Couro</a>
+                </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink" href="/mochila-ecologica">Ecológico</a>
                 </li>

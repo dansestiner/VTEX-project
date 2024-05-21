@@ -22,7 +22,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/arco-iris">Arco-íris</a>
+              <a class="submenu__itemLink" href="/Arco%20íris?map=c,specificationFilter_110">Arco-íris</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/arco-iris-collec2.png" width="250px" height="588px" alt="Coleção Arco-íris" />
               </div>
