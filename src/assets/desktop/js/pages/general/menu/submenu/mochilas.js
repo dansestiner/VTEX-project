@@ -143,7 +143,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/bolsa/Mochila?map=c,c#1">Fellipe Krein</a>
+                <a class="submenu__itemLink" href="/mochila/Fellipe%20Krein?map=c,specificationFilter_110">Fellipe Krein</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/bolsa-mochila.jpg" width="250px" height="588px" alt="Coleção Fellipe Krein" />
                 </div>
@@ -270,12 +270,12 @@ export default function () {
                   <img src="/arquivos/Mermaid.jpg" width="250px" height="588px" alt="Coleção Mermaid" />
                 </div>
               </li>
-              <!--<li class="submenu__list__item">
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Minions?map=c,specificationFilter_110">Minions</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/mochila_hover_monions.png" width="250px" height="588px" alt="Coleção Minions" />
+                  <img src="/arquivos/minions-hover-meu.png" width="250px" height="588px" alt="Coleção Minions" />
                 </div>
-              </li>-->
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/minecraft#1">Minecraft</a>
                 <div class="submenu__imageWrapper">
@@ -470,12 +470,12 @@ export default function () {
                 </div>
               </li>-->
 
-              <!--<li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Trolls?map=c,specificationFilter_110">Transformers</a>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Transformers?map=c,specificationFilter_110">Transformers</a>
                 <div class="submenu__imageWrapper">
-                  <img src="/arquivos/transformers_mochila_hover.png" width="250px" height="588px" alt="Coleção Transformers" />
+                  <img src="/arquivos/Transformers-hover-menu.png" width="250px" height="588px" alt="Coleção Transformers" />
                 </div>
-              </li>-->
+              </li>
 
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Trolls?map=c,specificationFilter_110">Trolls</a>
