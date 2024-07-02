@@ -76,6 +76,12 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Classy?map=c,specificationFilter_110">Classy</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Classy.jpg" width="250px" height="588px" alt="Coleção Classy" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Colors?map=c,specificationFilter_110">Colors</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Colors1.jpg" width="250px" height="588px" alt="Coleção Colors" />
@@ -231,6 +237,12 @@ export default function () {
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/NBA.jpg" width="250px" height="588px" alt="Coleção NBA" />
               </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Neo?map=c,specificationFilter_110">NEO</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Neo.jpg" width="250px" height="588px" alt="Coleção NEO" />
+            </div>
           </li>
           <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala/Orion?map=c,specificationFilter_110">Órion</a>
@@ -394,6 +406,12 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Voyage?map=c,specificationFilter_110">Voyage</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Voyage.jpg" width="250px" height="588px" alt="Coleção Voyage" />
+            </div>
+          </li>
+          <li class="submenu__list__item">
+            <a class="submenu__itemLink" href="/mala/Waves?map=c,specificationFilter_110">Waves</a>
+            <div class="submenu__imageWrapper">
+              <img src="/arquivos/Waves.jpg" width="250px" height="588px" alt="Coleção Waves" />
             </div>
           </li>
           <li class="submenu__list__item">

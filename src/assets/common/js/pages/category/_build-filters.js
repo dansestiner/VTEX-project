@@ -62,9 +62,9 @@ const Methods = {
     }
 
     const $container = $(
-      '<div class="x-category__filters-dinamics-item is--categories-link js--categories-link js--category-accordion">',
+      '<div class="x-category__filters-dinamics-item is--categories-link js--categories-link js--category-accordion is--opened">',
     );
-    const $subContainer = $('<div class="x-category__filters-wrapper js--filter-options">');
+    const $subContainer = $('<div class="x-category__filters-wrapper js--filter-options is--opened">');
 
     $menus.map((index, item) => {
       if($(item).find('a').length === 0){
@@ -126,7 +126,7 @@ const Methods = {
 
   insertLabel() {
     $('.js--categories-link').prepend(
-      '<h2 class="x-category__filters-label js--category-filter-name">Categorias</h2>',
+      '<h2 class="x-category__filters-label js--category-filter-name is--opened">Categorias</h2>',
     );
   },
 

@@ -226,6 +226,9 @@ export default function () {
           <div class="submenu__itemWrapper por-material">
             <div class="submenu__item__heading submenu__item__heading--lightGray">Por Material</div>
             <ul class="submenu__list">
+            <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/bolsa/Couro?map=c,specificationFilter_72" title="Filtra por: Couro">Couro</a>
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/bolsa/Nylon?map=c,specificationFilter_72" title="Filtra por: Náilon">Náilon</a>
               </li>

@@ -427,12 +427,12 @@ export default function () {
                   <img src="/arquivos/Sereia.jpg" width="250px" height="588px" alt="Coleção Sereia" />
                 </div>
               </li>
-              <!--<li class="submenu__list__item">
+              <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Smart?map=specificationFilter_110">Smart</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Smart.jpg" width="250px" height="588px" alt="Coleção Smart" />
                 </div>
-              </li>-->
+              </li>
               <li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/ST3000?map=c,specificationFilter_110">ST3000</a>
                 <div class="submenu__imageWrapper">
@@ -440,7 +440,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Star">Star</a>
+                <a class="submenu__itemLink" href="/mochila/Star?map=c,specificationFilter_110">Star</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Star.jpg" width="250px" height="588px" alt="Coleção Star" />
                 </div>

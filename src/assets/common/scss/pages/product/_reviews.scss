@@ -145,7 +145,7 @@
                 justify-content: space-between !important;
                 .ts-input {
                     font-family: $font-primary !important;
-                    max-width: 85%;
+                    max-width: 100%;
                     @include mq("sm", max) {
                         max-width: 100%;
                     }
