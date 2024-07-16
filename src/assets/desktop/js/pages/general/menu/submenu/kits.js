@@ -185,7 +185,7 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/kit/Start?map=c,specificationFilter_110">Start</a>
+            <a class="submenu__itemLink" href="/kit/START?map=c,specificationFilter_110">Start</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Kits_Start 1.png" width="250px" height="588px" alt="Coleção Start" />
             </div>

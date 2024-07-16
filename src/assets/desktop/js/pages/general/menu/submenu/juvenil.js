@@ -238,10 +238,10 @@ export default function () {
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">
-                <li class="submenu__list__item">
+                <!--<li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/mochila/de-0,01-a-50,01/Juvenil?map=c,priceFrom,specificationFilter_107">Até R$50,00</a>
-                </li>
+                </li>-->
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/mochila/de-50,01-a-80,01/Juvenil?map=c,priceFrom,specificationFilter_107">De R$50,01 até
@@ -331,7 +331,7 @@ export default function () {
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--orange"
-                    href="/mala/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
+                    href="/lancheira/Laranja?map=c,specificationFilter_42" title="Filtrar por: Cor laranja">Laranja</a>
                 </li>
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink--color submenu__itemLink--pink"
@@ -352,10 +352,10 @@ export default function () {
             <div class="submenu__itemWrapper">
               <div class="submenu__item__heading">Por faixa de preço</div>
               <ul class="submenu__list">
-                <li class="submenu__list__item">
+                <!--<li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/Lancheira/de-0,01-a-50/Juvenil?map=c,priceFrom,specificationFilter_107">Até R$50,00</a>
-                </li>
+                </li>-->
                 <li class="submenu__list__item">
                   <a class="submenu__itemLink"
                     href="/Lancheira/de-50,01-a-90/Juvenil?map=c,priceFrom,specificationFilter_107">De R$50,01 até
@@ -511,7 +511,7 @@ export default function () {
           <ul class="submenu__list submenu__list--row">
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--beach"
-                href="/429?map=productClusterIds#1" title="Filtrar por: Praia">Praia</a>
+                href="/praia" title="Filtrar por: Praia">Praia</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--satchel"

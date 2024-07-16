@@ -428,7 +428,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Smart?map=specificationFilter_110">Smart</a>
+                <a class="submenu__itemLink" href="/mochila/Smart?map=c,specificationFilter_110">Smart</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Smart.jpg" width="250px" height="588px" alt="Coleção Smart" />
                 </div>
