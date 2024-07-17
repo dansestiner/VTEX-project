@@ -198,6 +198,12 @@ export default function () {
                   <img src="/arquivos/Happy.jpg" width="250px" height="588px" alt="Coleção Happy" />
                 </div>
               </li>
+              <li class="submenu__list__item">
+                <a class="submenu__itemLink" href="/mochila/Internacional?map=c,specificationFilter_110">Internacional</a>
+                <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                  <img src="/arquivos/internacional-hover-mochilas-infantil.png" width="250px" height="588px" alt="Coleção Internacional" />
+                </div>
+              </li>
               <!--<li class="submenu__list__item">
                 <a class="submenu__itemLink" href="/mochila/Harvest?map=specificationFilter_110">Harvest</a>
                 <div class="submenu__imageWrapper">
@@ -217,7 +223,7 @@ export default function () {
                 </div>
               </li>-->
               <!--<li class="submenu__list__item">
-                <a class="submenu__itemLink" href="/mochila/Kids?map=specificationFilter_110">kids</a>
+                <a class="submenu__itemLink" href="/mochila/Kids?map=specificationFilter_110">Kids</a>
                 <div class="submenu__imageWrapper">
                   <img src="/arquivos/Sestini-Kids.png" width="250px" height="588px" alt="Coleção Kids" />
                 </div>

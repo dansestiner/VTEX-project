@@ -71,6 +71,12 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
+              <a class="submenu__itemLink" href="/mochila/Internacional?map=c,specificationFilter_110">Internacional</a>
+              <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
+                <img src="/arquivos/internacional-hover-mochilas-infantil.png" width="250px" height="588px" alt="Coleção Internacional" />
+              </div>
+            </li>
+            <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/Lunch?map=specificationFilter_110">Lunch</a>
               <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                 <img src="/arquivos/Lunch.jpg" width="250px" height="588px" alt="Coleção Lunch" />
