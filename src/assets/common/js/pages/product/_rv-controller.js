@@ -157,7 +157,14 @@ export default {
                             $(`.x-product__shipping-wrapper`).after(template)
 
                             width == 100 && $('.x-product__free-shipping-bar').css('width', '94%')
+
+                            $('.x-product__shipping-type').each(function() {
+                                var text = $(this).text();
+                                text = text.replacae('Frete', '');
+                                $(this).text(text); 
+                            });
                         })
+
                 } else {
                     model.product.shippingCalculatedError = true;
                     $('.x-product__free-shipping').remove()

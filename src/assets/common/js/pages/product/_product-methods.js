@@ -74,7 +74,7 @@ const Methods = {
     const message =
       window.location.href.split("?")[0] +
       "\r\n\r\n" +
-      "Sestini - Com você pro que der e vier!";
+      "Sestini - Você vai, a gente cuida!";
     const template = `
             <a target='_blank' id='whatsapp-share-link' href='https://wa.me/?text=${window.encodeURIComponent(
               message

@@ -525,7 +525,7 @@ export default function () {
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--bags"
-                href="/mala/Juvenil?map=c,specificationFilter_107" title="Filtrar por: Mala">Mala</a>
+                href="https://www.sestini.com.br/mala?map=c" title="Filtrar por: Mala">Mala</a>
             </li>
             <li class="submenu__list__item">
               <a class="submenu__itemLink--withIcon submenu__itemLink--money-belt"
