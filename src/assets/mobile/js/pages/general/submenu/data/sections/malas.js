@@ -342,17 +342,17 @@ export const malas__content = {
       {
         "mobility": "2 Rodas",
         "imgSrc": "/arquivos/2-rodas.jpg?v=1",
-        "url": "/mala/2%20Rodinhas?map=c,specificationFilter_57"
+        "url": "/mala/2%20Rodas?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas",
         "imgSrc": "/arquivos/4-rodas.jpg?=v=1",
-        "url": "/mala/4%20Rodinhas%20360°?map=c,specificationFilter_57"
+        "url": "/mala/4%20Rodas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "4 Rodas duplas",
         "imgSrc": "/arquivos/8-rodas.jpg?v=1",
-        "url": "/mala/8%20Rodinhas%20360°?map=c,specificationFilter_57"
+        "url": "/mala/4%20Rodas%20Duplas%20360°?map=c,specificationFilter_57"
       },
       {
         "mobility": "Rodas retráteis",
@@ -450,12 +450,12 @@ export const malas__content = {
       {
         "padlock": "TSA",
         "imgSrc": "/arquivos/logo-TSA.jpg",
-        "url": "/mala/TSA%20Fixo?map=c,specificationFilter_70"
+        "url": "/mala/Fixo%20com%20TSA?map=c,specificationFilter_70"
       },
       {
         "padlock": "FIXO",
         "imgSrc": "/arquivos/Fixo.jpg",
-        "url": "/mala/Fixo?map=c,specificationFilter_70"
+        "url": "/mala/Fixo%20com%20TSA?map=c,specificationFilter_70"
       }
     ]
   },

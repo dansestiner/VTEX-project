@@ -9,7 +9,7 @@ const init = () => {
 
   $(document).ready(function() {
     $('body').addClass('loadBestShelf');
-    function bestResolutionImage(){    
+    function bestResolutionImage(){
         $('.x-shelf__item .x-shelf__placeloader').each(function(){
           let imageLinkFront = $(this).find('.x-shelf__img-front').attr('src').replace('157-189', '500-500');
           $(this).find('.x-shelf__img-front').attr('src', imageLinkFront);
@@ -18,7 +18,7 @@ const init = () => {
           if( $(window).width() > 1025 ){
               let imageLinkBack = $(this).find('.x-shelf__img-back').attr('src').replace('157-189', '500-500');
               $(this).find('.x-shelf__img-back').attr('src', imageLinkBack);
-          }        
+          }
         });
     }
     $('.cf-pagination').on('click', function(){

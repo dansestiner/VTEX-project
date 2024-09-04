@@ -125,6 +125,11 @@ const Methods = {
             product["landingPage"])
         : "";
 
+        product["textoSEO"] != undefined
+        ? (ProductRvData.textoSEO =
+            product["textoSEO"])
+        : "";
+
         product["Tamanho do Notebook (pol)"] != undefined
           ? (ProductRvData.notebookSize =
               product["Tamanho do Notebook (pol)"] + " polegadas")

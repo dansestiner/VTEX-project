@@ -225,14 +225,13 @@ export const acessorios__content = {
       {
         "seeToo": "Pastas",
         "imgSrc": "/arquivos/Pastas.png?v=1",
-        "url": "/arquivos/Pastas.png?v=1"
+        "url": "/Pasta?map=c"
       },
       {
         "seeToo": "Mochila com Rodas",
         "imgSrc": "/arquivos/icon-com-rodinhas.jpg?v=1",
-        "url": "/mochila/2%20Rodinhas?map=c,specificationFilter_57"
+        "url": "/mochila/2%20Rodas?map=c,specificationFilter_57"
       },
-      
     ]
   }
 }

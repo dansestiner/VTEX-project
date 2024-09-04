@@ -375,7 +375,7 @@ export const executivo__content = {
       {
         "perColor__necessaire": "Cinza",
         "hexCode": "#808080;",
-        "url": "/necessaire/Cinza,Executiva?map=c,specificationFilter_42,,specificationFilter_106"
+        "url": "/mochila/Cinza/Executiva?map=c,specificationFilter_42,specificationFilter_106"
       },
     ]
   },
@@ -388,7 +388,7 @@ export const executivo__content = {
       {
         "gender__necessaire": "Para Todos",
         "imgSrc": "/arquivos/Para-todos-menu-executivo.jpg",
-        "url": "/necessaire/Executiva?map=c,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Executiva?map=c,c,specificationFilter_106"
       },
       {
         "gender__necessaire": "Para Ela",
@@ -398,7 +398,7 @@ export const executivo__content = {
       {
         "gender__necessaire": "Para Ele",
         "imgSrc": "/arquivos/Para-ele-menu-executivo.jpg",
-        "url": "/necessaire/Masculino/Executiva?map=c,specificationFilter_67,specificationFilter_106"
+        "url": "/Acessorios/necessaire/Masculino/Executiva?map=c,c,specificationFilter_67,specificationFilter_106"
       }
     ]
   },
@@ -492,7 +492,7 @@ export const executivo__content = {
       {
         "seeToo": "Porta Dólar",
         "imgSrc": "/arquivos/porta-dolar-see-too.jpg",
-        "url": "r/acessorios/Porta%20Dolar?map=c,c#1"
+        "url": "/acessorios/Porta%20Dolar?map=c,c#1"
       },
       {
         "categories": "Praia",

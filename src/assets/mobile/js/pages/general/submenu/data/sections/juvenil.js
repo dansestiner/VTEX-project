@@ -166,12 +166,12 @@ export const juvenil__content = {
       {
         "perType__mochila": "Com Rodinhas",
         "imgSrc": "/arquivos/icon-com-rodinhas.jpg?v=1",
-        "url": "/mochila/2%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+        "url": "/mochila/Sim/Executiva?map=c,specificationFilter_122,specificationFilter_106"
       },
       {
         "perType__mochila": "Sem Rodinhas",
         "imgSrc": "/arquivos/Mochila.jpg?v=3",
-        "url": "/mochila/Sem%20Rodinhas/Juvenil?map=c,specificationFilter_57,specificationFilter_107"
+        "url": "/mochila/Sem%20Rodas/Executiva?map=c,specificationFilter_57,specificationFilter_106"
       },
     ]
   },

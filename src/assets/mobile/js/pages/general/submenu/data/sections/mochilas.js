@@ -436,45 +436,50 @@ export const mochilas__content = {
     "title": "Por Material",
     "content": [
       {
-        "material": "Náilon",
-        "imgSrc": "/arquivos/Nailon.jpg",
-        "url": "/mochila/Nylon?map=c,specificationFilter_72"
-      },
-      /*{
-        "material": "Poliuretano (PU)",
-        "imgSrc": "/arquivos/P.U.jpg",
-        "url": "/mochila/P.U?map=c,specificationFilter_72"
-      },*/
-      {
-        "material": "Poliéster",
-        "imgSrc": "/arquivos/Poliester.jpg",
-        "url": "/mochila/Poliéster?map=c,specificationFilter_72"
-      },
-      /*{
         "material": "Couro",
-        "imgSrc": "/arquivos/Couro.jpg",
+        //"imgSrc": "/arquivos/Couro.jpg",
         "url": ""
-      },*/
+      },
       {
-        "material": "Algodão",
-        "imgSrc": "/arquivos/Algodao.jpg",
-        "url": "/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72"
+        "material": "Ecológico",
+        //"imgSrc": "/arquivos/Couro.jpg",
+        "url": "/mochila-ecologica"
       },
       {
         "material": "Neoprene",
-        "imgSrc": "/arquivos/Neoprene.jpg",
-        "url": "/mochila/NEOPRENE?map=c,specificationFilter_72"
+        //"imgSrc": "/arquivos/Neoprene.jpg",
+        "url": "/mochila/Neoprene?map=c,specificationFilter_72"
       },
+      {
+        "material": "Poliéster",
+        //"imgSrc": "/arquivos/Poliester.jpg",
+        "url": "/mochila/Poliéster?map=c,specificationFilter_72"
+      },
+      {
+        "material": "Náilon",
+        //"imgSrc": "/arquivos/Nailon.jpg",
+        "url": "/mochila/Nylon?map=c,specificationFilter_72"
+      },
+      {
+        "material": "Poliuretano (PU)",
+        //"imgSrc": "/arquivos/P.U.jpg",
+        "url": "/mochila/PU?map=c,specificationFilter_72"
+      },
+      /*{
+        "material": "Algodão",
+        "imgSrc": "/arquivos/Algodao.jpg",
+        "url": "/mochila/Algodão%20/%20Canvas?map=c,specificationFilter_72"
+      },*/
       {
         "material": "PVC",
-        "imgSrc": "/arquivos/pvc.jpg",
+        //"imgSrc": "/arquivos/pvc.jpg",
         "url": "/mochila/PVC?map=c,specificationFilter_72"
       },
-      {
+      /*{
         "collections": "Work",
-        "imgSrc": "/arquivos/Work.png",
+        //"imgSrc": "/arquivos/Work.png",
         "url": "/work"
-      },
+      },*/
     ]
   },
 
@@ -484,17 +489,17 @@ export const mochilas__content = {
       {
         "type": "Com Rodinhas",
         "imgSrc": "/arquivos/com-rodinha_v2.jpg",
-        "url": "/mochila/Sim?map=c,specificationFilter_122"
+        "url": "/mochila/2%20Rodas?map=c,specificationFilter_57"
       },
       {
         "type": "Sem Rodas",
         "imgSrc": "/arquivos/sem-rodinha.jpg?v=1",
-        "url": "/mochila/Sem%20Rodas?map=c,specificationFilter_57"
+        "url": "/mochila/Sem%20Rodas?map=c,specificationFilter_57,specificationFilter_107"
       },
       {
         "type": "Para notebook",
         "imgSrc": "/arquivos/Mala-Tecido_v2.jpg",
-        "url": "/mochila/Note/mochila/Compartimento%20para%20Notebook?map=c,specificationFilter_56#1book?map=c,specificationFilter_56"
+        "url": "/mochila/Compartimento%20para%20Notebook?map=c,specificationFilter_56"
       }
     ]
   },
@@ -506,17 +511,16 @@ export const mochilas__content = {
       {
         "type": "Com",
         "imgSrc": "/arquivos/icon-com-expansivel.jpg?v=1",
-        "url": "/mochila/Sim?map=c,specificationFilter_113"
+        "url": "/mochila/Com%20Expansível?map=c,specificationFilter_113"
       },
       {
         "type": "Sem",
         "imgSrc": "/arquivos/icon-sem-expansivel.jpg?v=1",
-        "url": "/mochila/Não?map=c,specificationFilter_113"
+        "url": "/mochila/Sem%20Expansível?map=c,specificationFilter_113"
       }
     ]
   },
-
-
+  
   perColor: {
     "title": "Por tom de cor",
     "content": [

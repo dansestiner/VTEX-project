@@ -830,7 +830,7 @@
      */
     bind() {
       const self = this;
-
+      
       self.bindLoadMoreAndLess();
       self.bindOrder();
       self.bindFilters();
