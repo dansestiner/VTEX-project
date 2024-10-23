@@ -61,7 +61,7 @@ const Methods = {
     });
   },
 
-  setDiscountFlag() {
+  /*setDiscountFlag() {
     $(".shelf-product-flag__discount").each((item, elem) => {
       const oldPrice =
         $(elem)
@@ -95,6 +95,30 @@ const Methods = {
         $(elem).html(`<span>${parseInt(discountPercentage)}% OFF</span>`);
       } else {
         $(elem).remove();
+      }
+    });
+  },*/
+
+
+  setDiscountFlag() {
+    $(".shelf-product-flag__discount").each((index, elem) => {
+      const oldPriceElem = $(elem).parent().find(".x-shelf__content").find(".x-shelf__old-price");
+      const bestPriceElem = $(elem).parent().find(".x-shelf__content").find(".x-shelf__best-price");
+  
+      const oldPrice = oldPriceElem.length 
+        ? parseFloat(oldPriceElem.html().replace("R$", "").replace(".", "").replace(",", "."))
+        : 0;
+  
+      const bestPrice = bestPriceElem.length 
+        ? parseFloat(bestPriceElem.html().replace("R$", "").replace(".", "").replace(",", "."))
+        : 0;
+  
+      // Verificar se ambos os preços são válidos e o desconto é aplicável
+      if (oldPrice > 0 && bestPrice > 0 && bestPrice < oldPrice) {
+        const discountPercentage = 100 - (bestPrice * 100) / oldPrice;
+        $(elem).html(`<span>${parseInt(discountPercentage)}% OFF</span>`);
+      } else {
+        $(elem).remove();  // Remove o selo se não houver desconto
       }
     });
   },

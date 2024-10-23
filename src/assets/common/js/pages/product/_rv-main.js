@@ -79,7 +79,7 @@ const Methods = {
         ProductRvData.mainImgs = product.items[0].images;
         ProductRvData.navImgs = product.items[0].images;
         ProductRvData.imageDescription = product.items[0].images[0].imageUrl;
-        ProductRvData.productId = product.productId;
+        ProductRvData.productId = product.productId;  
         ProductRvData.ean = product.items[0].ean;
         ProductRvData.shortDesc = product.items[0].complementName;
         ProductRvData.size = product.Tamanho;
@@ -98,6 +98,11 @@ const Methods = {
         //novos campos
         ProductRvData.expansivel = product.Expansível;
         ProductRvData.mobilidade = product.Mobilidade;
+
+        product["textoSEO"] != undefined
+        ? (ProductRvData.seo =
+            product["textoSEO"])
+        : "";
 
         product["Garantia Produtos"] != undefined
         ? (ProductRvData.garantiaProdutos =
@@ -123,11 +128,6 @@ const Methods = {
         product["landingPage"] != undefined
         ? (ProductRvData.LandingPage =
             product["landingPage"])
-        : "";
-
-        product["textoSEO"] != undefined
-        ? (ProductRvData.textoSEO =
-            product["textoSEO"])
         : "";
 
         product["Tamanho do Notebook (pol)"] != undefined

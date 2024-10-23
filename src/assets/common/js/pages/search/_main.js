@@ -23,6 +23,7 @@ const Methods = {
 
   setDiscountFlag() {
     $('.shelf-product-flag__discount').each((item, elem) => {
+    $('.x-shelf__old-price').each((item, elem) => {
       const oldPrice = $(elem).parent().find('.x-shelf__content').find('.x-shelf__old-price').html() != undefined ? $(elem).parent().find('.x-shelf__content').find('.x-shelf__old-price').html().replace('R$', '') : 0
       const bestPrice = $(elem).parent().find('.x-shelf__content').find('.x-shelf__best-price').html() != undefined ? $(elem).parent().find('.x-shelf__content').find('.x-shelf__best-price').html().replace('R$', '') : 0
       if (parseFloat(bestPrice) < parseFloat(oldPrice)) {

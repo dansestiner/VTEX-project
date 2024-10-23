@@ -160,7 +160,7 @@ export default {
 
                             $('.x-product__shipping-type').each(function() {
                                 var text = $(this).text();
-                                text = text.replacae('Frete', '');
+                                text = text.replace('Frete', '');
                                 $(this).text(text); 
                             });
                         })

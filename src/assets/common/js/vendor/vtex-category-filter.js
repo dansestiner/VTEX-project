@@ -1078,7 +1078,7 @@
         cookieName: '_vcf_search_query',
         defaultParams: {
           query: {
-            O: 'OrderByReleaseDateDESC',
+            O: 'OrderByTopSaleDESC',
           },
         },
         attempts: 2,

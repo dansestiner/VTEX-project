@@ -40,9 +40,9 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/bolsa/Hobo?map=c,c">Hobo</a>
+              <a class="submenu__itemLink" href="/bolsa/Boho?map=c,c">Boho</a>
               <div class="submenu__imageWrapper">
-                <img src="/arquivos/hobo.jpg" width="250px" height="588px" alt="Categoria Hobo" />
+                <img src="/arquivos/hobo.jpg" width="250px" height="588px" alt="Categoria Boho" />
               </div>
             </li>
             <li class="submenu__list__item">

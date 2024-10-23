@@ -6,6 +6,9 @@ const Methods = {
     Methods.setblackFlag();
     Methods.setredNovember();
     Methods.setLimitedEdition();
+
+    //Methods.setPromoFK();
+
     Methods.addWhatsappIcon();
     Methods.bindHoverTooltip();
     Methods.bindAddCartFbEvent();
@@ -97,6 +100,22 @@ const Methods = {
     }
   },
 
+
+  /*setPromoFK(){
+    Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {
+      if (product["promofk"] && product["promofk"][0] === "Sim") {
+        window.innerWidth >= 768
+          ? $(".x-product__img-right").append(`<div class="flag-limitedEdition">
+            <span style="position: absolute;top: 10px;right: 10px;font-family: 'Unbounded';background-color: #FFB252;font-size: 13px;"> 48h de Fellipe Krein</span>
+          </div>`)
+          : $(".x-product__img-content")
+              .append(`<div class="flag-limitedEdition-mobile">
+                <span style="position: absolute;top: 10px;right: 10px;font-family: 'Unbounded';background-color: #FFB252;font-size: 12px;"> 48h de Fellipe Krein</span>
+          </div>`);
+      }
+    });
+  },*/
+
   setblackFlag() {
     Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {
       if (product["Black Friday"] && product["Black Friday"][0] === "Sim") {
@@ -113,7 +132,7 @@ const Methods = {
             background-color: #000;
             color: #fff"
           >
-            <span>Black Friday</span>
+            <span>Red November</span>
           </div>`)
           : $(".x-product__img-content")
               .append(`<div class="flag-blackfriday-mobile"
@@ -125,10 +144,10 @@ const Methods = {
             letter-spacing: 2px;
             top: 50px;
             right: -4px;
-            background-color: #000;
+            background-color: #000; 
             color: #fff"
           >
-            <span>Black Friday</span>
+            <span>Red November</span>
           </div>`);
       }
     });

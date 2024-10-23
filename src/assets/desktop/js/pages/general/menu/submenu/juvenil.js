@@ -107,7 +107,7 @@ export default function () {
               </div>
             </li>
             <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mochila/Palmeiras?map=c,specificationFilter_110">Palmeiras</a>
+              <a class="submenu__itemLink" href="/Palmeiras">Palmeiras</a>
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/mochila_Palmeiras.jpg" width="250px" height="588px" alt="Coleção Palmeiras" />
               </div>
