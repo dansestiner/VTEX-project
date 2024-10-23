@@ -116,7 +116,7 @@ const Methods = {
       // Verificar se ambos os preços são válidos e o desconto é aplicável
       if (oldPrice > 0 && bestPrice > 0 && bestPrice < oldPrice) {
         const discountPercentage = 100 - (bestPrice * 100) / oldPrice;
-        $(elem).html(`<span>${parseInt(discountPercentage)}% OFF</span>`);
+        $(elem).html(`<span>${parseInt(discountPercentage)}% OFF</span>`); 
       } else {
         $(elem).remove();  // Remove o selo se não houver desconto
       }
