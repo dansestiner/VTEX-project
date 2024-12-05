@@ -100,12 +100,6 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-              <a class="submenu__itemLink" href="/mala/Croácia?map=c,specificationFilter_110">Croácia</a>
-              <div class="submenu__imageWrapper">
-                <img src="/arquivos/Croacia.jpg" width="250px" height="588px" alt="Coleção Cosmo" />
-              </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/sestini-croco">Croco</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Croco.jpg" width="250px" height="588px" alt="Coleção Croco" />
@@ -179,12 +173,6 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Ibiza?map=c,specificationFilter_110">Ibiza</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Ibiza.jpg" width="250px" height="588px" alt="Coleção Ibiza" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/mala-de-viagem-bordo-com-rodas-360-pc-internacional-colorado/p">Internacional</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Mala_Internacional.jpg" width="250px" height="588px" alt="Coleção Intenacional" />
@@ -201,12 +189,6 @@ export default function () {
               <div class="submenu__imageWrapper">
                 <img src="/arquivos/Lisboa.jpg" width="250px" height="588px" alt="Coleção Lisboa" />
               </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Milão?map=c,specificationFilter_110">Milão</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Milao.jpg" width="250px" height="588px" alt="Coleção Milao" />
-            </div>
           </li>
           <li class="submenu__list__item">
               <a class="submenu__itemLink" href="/mala/Minecraft?map=c,specificationFilter_110">Minecraft</a>
@@ -311,12 +293,6 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Riviera?map=c,specificationFilter_110">Riviera</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Riviera.jpg" width="250px" height="588px" alt="Coleção Riviera" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/royale">Royale</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Royale_mala.png" width="250px" height="588px" alt="Coleção Royale" />
@@ -400,12 +376,6 @@ export default function () {
             <a class="submenu__itemLink" href="/mala/Vega?map=c,specificationFilter_110">Vega</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Vega.jpg" width="250px" height="588px" alt="Coleção Vega" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/mala/Voyage?map=c,specificationFilter_110">Voyage</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Voyage.jpg" width="250px" height="588px" alt="Coleção Voyage" />
             </div>
           </li>
           <li class="submenu__list__item">

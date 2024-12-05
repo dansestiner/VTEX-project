@@ -4,6 +4,7 @@ const Methods = {
     Methods.setDiscountFlag();
     Methods.setBordoFlag();
     Methods.setblackFlag();
+    Methods.setPromoLeveMais();
     Methods.setredNovember();
     Methods.setLimitedEdition();
 
@@ -115,6 +116,24 @@ const Methods = {
       }
     });
   },*/
+
+  setPromoLeveMais() {
+    Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {
+      if (product["promocaolevemais"] && product["promocaolevemais"][0] === "Sim") {
+        window.innerWidth >= 768
+          ? $(".container_promomaisumleve").append(`<div class="promomaisumreal">
+            <a href="/por-mais-1-real-leve-um-kit-capa-de-rodas">
+              <span>Clique e escolha seu kit capa de rodas por + 1 real</span>
+            </a>
+          </div>`)
+          : $(".container_promomaisumleve").append(`<div class="promomaisumreal">
+            <a href="/por-mais-1-real-leve-um-kit-capa-de-rodas">
+              <span>Clique e escolha seu kit capa de rodas por + 1 real</span>
+            </a>
+          </div>`);
+      }
+    });
+  },
 
   setblackFlag() {
     Sestini.vtexCatalog.searchProduct(skuJson.productId).then((product) => {

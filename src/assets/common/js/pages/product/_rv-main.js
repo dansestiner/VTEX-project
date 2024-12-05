@@ -178,7 +178,8 @@ const Methods = {
         availableQty > 15
           ? $("#stock-value").remove()
           : $("#stock-value").html(
-              `Compre agora! Restam apenas <span style='color: #ff0000'>${availableQty} unidades</span>`
+              //`Compre agora! Restam apenas <span style='color: #ff0000'>${availableQty} unidades</span>`
+              `Compre agora! Restam poucas unidades`
             );
 
         ProductRvData.ocasion = product.Ocasião;

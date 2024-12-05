@@ -280,6 +280,7 @@ export default {
             });
     },
 
+    /* antiga função */
     addToCartBuyTogether(e, model) {
         const { product } = model;
         document.body.classList.add('has--loader');
@@ -306,4 +307,13 @@ export default {
                 return true;
             });
     },
+
+    // Função auxiliar para exibir o minicart
+    showMiniCart() {
+        Sestini.minicart
+            .vtexMinicart('fillCart')
+            .add(Sestini.overlay)
+            .addClass('is--active');
+    }
+    
 };

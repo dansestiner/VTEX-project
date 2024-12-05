@@ -521,9 +521,9 @@
     display: flex !important;
     color: transparent !important;
     position: absolute;
-    top: 10px;
+    top: 42px;
     left: 10px;
-    z-index: 5;
+    z-index: 5; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -533,6 +533,7 @@
     @include mq(sm,
     max) {
         left: 3px;
+        top: 47px;
         height: 30px;
         width: 30px;
     }

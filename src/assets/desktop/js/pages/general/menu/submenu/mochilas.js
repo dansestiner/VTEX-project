@@ -89,7 +89,7 @@ export default function () {
                 </div>
               </li>
               <li class="submenu__list__item">
-                <a class="submenu__itemLink" href="mochilas/sestini-casual">Casual</a>
+                <a class="submenu__itemLink" href="/mochila/sestini-casual">Casual</a>
                 <div class="submenu__imageWrapper submenu__imageWrapper--bigger">
                   <img src="/arquivos/New_casual.png?v=2" width="250px" height="588px" alt="Coleção Casual" />
                 </div>

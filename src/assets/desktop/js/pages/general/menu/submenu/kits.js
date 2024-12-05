@@ -239,12 +239,6 @@ export default function () {
             </div>
           </li>
           <li class="submenu__list__item">
-            <a class="submenu__itemLink" href="/kit/Voyage?map=c,specificationFilter_110">Voyage</a>
-            <div class="submenu__imageWrapper">
-              <img src="/arquivos/Voyage.jpg" width="250px" height="588px" alt="Coleção Voyage" />
-            </div>
-          </li>
-          <li class="submenu__list__item">
             <a class="submenu__itemLink" href="/kit/Zafira?map=c,specificationFilter_110">Zafira</a>
             <div class="submenu__imageWrapper">
               <img src="/arquivos/Zafira.jpg" width="250px" height="588px" alt="Coleção Zafira" />
